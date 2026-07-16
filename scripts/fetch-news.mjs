@@ -71,6 +71,11 @@ const GENERAL_NPB_KEYWORDS = [
 // NPB(プロ野球)を対象とするサイトなので、同じ「野球」でも対象外のものは
 // 球団名にヒットしていても記事ごと除外する（例:「横浜」高校野球の記事が
 // DeNAベイスターズ関連と誤判定されるのを防ぐ）。
+//
+// 「超高校級」「球児」は「高校野球」という文字列そのものは含まないが、
+// プロ野球選手にはまず使われない高校野球特有の言い回しなので、単独の
+// キーワードとして追加している(例:「横浜の超高校級2投手から3安打」の
+// ような、実況・結果記事の見出しは「高校野球」を含まないことが多い)。
 const OUT_OF_SCOPE_KEYWORDS = [
   "高校野球",
   "甲子園",
@@ -79,6 +84,8 @@ const OUT_OF_SCOPE_KEYWORDS = [
   "社会人野球",
   "リトルシニア",
   "少年野球",
+  "超高校級",
+  "球児",
 ];
 
 // 球団の略称は「巨人」「楽天」「ソフトバンク」「ロッテ」「西武」のように、
@@ -291,6 +298,40 @@ const AD_MARKERS = [
 function isAdContent(title) {
   const upper = title.toUpperCase();
   return AD_MARKERS.some((marker) => upper.includes(marker.toUpperCase()));
+}
+
+// 「元プロ野球選手が実業家に転身した」的な経歴紹介・インタビュー記事は、
+// 記事本文に強いキーワード(「読売ジャイアンツ」等)が出典表記として
+// 出てくることが多く、現役選手のNPBニュースと誤って球団タグ付けされて
+// しまう。ただし「引退」「転身」単体は、実際には「先発から中継ぎに転身」
+// のような現役選手の現役続行ニュースでも普通に使われる語彙なので、単独の
+// キーワードとして除外リストに入れるのはリスクが高い(=他記事を巻き込む)。
+//
+// そのため、ここだけは「元選手であることを示す語彙」と「経営者になった
+// ことを示す語彙」の両方が同時に含まれている場合のみ除外する、という
+// AND条件にしている。ビジネス系の実業家インタビュー記事はこの組み合わせが
+// ほぼ確実に揃う一方、実際の試合展開・移籍ニュースの記事にこの組み合わせが
+// 偶然揃うことはまず無いため、他の除外リストより誤爆リスクを抑えられる。
+const FORMER_PLAYER_SIGNALS = [
+  "元プロ",
+  "プロ野球から転身",
+  "プロ野球選手から転身",
+  "現役引退後",
+  "引退後は",
+];
+
+const EXECUTIVE_CAREER_SIGNALS = [
+  "代表取締役",
+  "経営者",
+  "社長に",
+  "起業",
+  "会社を設立",
+];
+
+function isRetiredPlayerBusinessProfile(haystack) {
+  const hasFormerPlayerSignal = FORMER_PLAYER_SIGNALS.some((kw) => haystack.includes(kw));
+  if (!hasFormerPlayerSignal) return false;
+  return EXECUTIVE_CAREER_SIGNALS.some((kw) => haystack.includes(kw));
 }
 
 const parser = new Parser({
@@ -537,6 +578,10 @@ async function fetchFeed(feed) {
       // 「広告ゼロ」が差別化点なので、PR・タイアップ記事は取得元フィードに
       // 含まれていても掲載しない
       if (isAdContent(title)) continue;
+
+      // 元選手の実業家転身インタビュー等、試合・チームの動向とは無関係な
+      // 経歴紹介記事は除外する(isRetiredPlayerBusinessProfile参照)
+      if (isRetiredPlayerBusinessProfile(haystack)) continue;
 
       const teamHits = matchTeamsForItem(titleForMatching, summary, feed.scoped);
       const generalHit = matchesGeneralNpb(haystack);
@@ -793,6 +838,7 @@ async function main() {
       if (isEntertainmentNoise(haystack)) return false;
       if (isMlbContent(haystack)) return false;
       if (isAdContent(item.title)) return false;
+      if (isRetiredPlayerBusinessProfile(haystack)) return false;
       return true;
     })
     .map((item) => {
