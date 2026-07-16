@@ -26,7 +26,7 @@ const navLinks = [
         class="font-display text-[19px] font-black tracking-tight"
         style="color:var(--text); letter-spacing:-0.02em;"
       >
-        NPB <span style="color:var(--accent);">Curation</span>
+        <span style="color:var(--accent);">Curation</span> NPB
       </span>
     </a>
 
@@ -80,31 +80,46 @@ const navLinks = [
     </div>
   </div>
 
-  <!-- 球団クイックナビ(横スクロール、ドット+略称) -->
-  <div class="overflow-x-auto" style="border-top:1px solid var(--rule);">
-    <div class="container-page flex items-center gap-1 py-2 text-[11px] font-bold whitespace-nowrap">
-      <span style="color:var(--text-faint);" class="mr-0.5">セ</span>
-      {centralTeams.map((team) => (
-        <a
-          href={withBase(`/team/${team.id}/`)}
-          class="flex items-center gap-1.5 rounded-md px-2 py-1 no-underline"
-          style="color:var(--text-muted);"
-        >
-          <span class="inline-block h-2 w-2 rounded-full" style={`background-color:${team.color};${needsContrastRing(team.color) ? " box-shadow:0 0 0 1px var(--text-faint);" : ""}`}></span>
-          {team.short}
-        </a>
-      ))}
-      <span style="color:var(--text-faint);" class="mx-1.5">パ</span>
-      {pacificTeams.map((team) => (
-        <a
-          href={withBase(`/team/${team.id}/`)}
-          class="flex items-center gap-1.5 rounded-md px-2 py-1 no-underline"
-          style="color:var(--text-muted);"
-        >
-          <span class="inline-block h-2 w-2 rounded-full" style={`background-color:${team.color};${needsContrastRing(team.color) ? " box-shadow:0 0 0 1px var(--text-faint);" : ""}`}></span>
-          {team.short}
-        </a>
-      ))}
+  <!-- 球団クイックナビ(セ・パ各リーグを1行ずつ、狭い画面では2行表示。
+       sm以上ではセ・パを同じ行に並べて従来通り1行表示に戻す) -->
+  <div style="border-top:1px solid var(--rule);">
+    <div class="container-page flex flex-col sm:flex-row sm:items-center py-1.5 sm:py-0">
+      <div class="relative">
+        <div id="team-quicknav-central" class="team-quicknav overflow-x-auto">
+          <div class="flex items-center gap-1 py-0.5 sm:py-2 text-[11px] font-bold whitespace-nowrap">
+            <span style="color:var(--text-faint);" class="mr-0.5">セ</span>
+            {centralTeams.map((team) => (
+              <a
+                href={withBase(`/team/${team.id}/`)}
+                class="flex items-center gap-1.5 rounded-md px-2 py-1 no-underline"
+                style="color:var(--text-muted);"
+              >
+                <span class="inline-block h-2 w-2 rounded-full" style={`background-color:${team.color};${needsContrastRing(team.color) ? " box-shadow:0 0 0 1px var(--text-faint);" : ""}`}></span>
+                {team.short}
+              </a>
+            ))}
+          </div>
+        </div>
+        <div class="team-quicknav-fade-right pointer-events-none absolute top-0 bottom-0 right-0 opacity-0" style="width:24px; background:linear-gradient(to left, var(--header-bg), transparent); transition:opacity 0.15s;"></div>
+      </div>
+      <div class="relative">
+        <div id="team-quicknav-pacific" class="team-quicknav overflow-x-auto">
+          <div class="flex items-center gap-1 py-0.5 sm:py-2 text-[11px] font-bold whitespace-nowrap">
+            <span style="color:var(--text-faint);" class="mr-0.5 sm:ml-1.5">パ</span>
+            {pacificTeams.map((team) => (
+              <a
+                href={withBase(`/team/${team.id}/`)}
+                class="flex items-center gap-1.5 rounded-md px-2 py-1 no-underline"
+                style="color:var(--text-muted);"
+              >
+                <span class="inline-block h-2 w-2 rounded-full" style={`background-color:${team.color};${needsContrastRing(team.color) ? " box-shadow:0 0 0 1px var(--text-faint);" : ""}`}></span>
+                {team.short}
+              </a>
+            ))}
+          </div>
+        </div>
+        <div class="team-quicknav-fade-right pointer-events-none absolute top-0 bottom-0 right-0 opacity-0" style="width:24px; background:linear-gradient(to left, var(--header-bg), transparent); transition:opacity 0.15s;"></div>
+      </div>
     </div>
   </div>
 
@@ -145,6 +160,24 @@ const navLinks = [
   document.getElementById("menu-toggle")?.addEventListener("click", () => {
     document.getElementById("mobile-menu")?.classList.toggle("hidden");
   });
+
+  // 球団クイックナビ(セ・パ各行)が横スクロール可能なことを示すフェード表示の
+  // 切り替え。各行末まで到達したらその行の右フェードを隠す。
+  (function () {
+    document.querySelectorAll(".team-quicknav").forEach(function (nav) {
+      var fade = nav.parentElement && nav.parentElement.querySelector(".team-quicknav-fade-right");
+      if (!fade) return;
+
+      function update() {
+        var maxScroll = nav.scrollWidth - nav.clientWidth;
+        fade.style.opacity = maxScroll > 4 && nav.scrollLeft < maxScroll - 4 ? "1" : "0";
+      }
+
+      nav.addEventListener("scroll", update, { passive: true });
+      window.addEventListener("resize", update);
+      update();
+    });
+  })();
 
   // マイ球団(お気に入り球団)の選択をlocalStorageに保存する。
   // トップページ側はこの値を読んで「マイ球団の最新ニュース」を表示する。

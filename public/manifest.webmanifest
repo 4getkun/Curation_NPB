@@ -1,6 +1,6 @@
 {
-  "name": "NPB Curation - 広告ゼロのNPBニュースまとめ",
-  "short_name": "NPB Curation",
+  "name": "Curation NPB - 広告ゼロのNPBニュースまとめ",
+  "short_name": "Curation NPB",
   "description": "広告ゼロで読める、NPB(日本プロ野球)12球団の最新ニュース・まとめキュレーションサイト",
   "start_url": "/Curation_NPB/",
   "scope": "/Curation_NPB/",

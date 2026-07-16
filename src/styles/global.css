@@ -117,3 +117,12 @@
     overflow: hidden;
   }
 }
+
+/* 球団クイックナビ(.team-quicknav)の横スクロール帯は、スクロールバー自体が
+   見た目のノイズになるため非表示にする(スクロール可否は右端のフェードで示す)。 */
+.team-quicknav {
+  scrollbar-width: none;
+}
+.team-quicknav::-webkit-scrollbar {
+  display: none;
+}

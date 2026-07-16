@@ -112,6 +112,61 @@ function isEntertainmentNoise(haystack) {
   return ENTERTAINMENT_NOISE_KEYWORDS.some((kw) => haystack.includes(kw));
 }
 
+// このサイトはNPB(日本プロ野球)専門なので、MLB(メジャーリーグ)の記事は
+// 対象外として除外する(MLB専門の姉妹サイト「Curation MLB」を別途運営)。
+// 総合スポーツ系フィード(BASEBALL KING等)はMLBニュースも配信しており、
+// 「オールスターゲーム」のような一般野球キーワードにヒットして紛れ込む
+// ことがあるため、MLB球団名・MLB特有の用語を検知したら無条件で除外する。
+//
+// 「ジャイアンツ」(巨人と衝突)「タイガース」(阪神と衝突)は、球団名を
+// 都市名付きの表記にすることでNPB球団との誤爆を避けている。
+const MLB_KEYWORDS = [
+  "メジャーリーグ",
+  "米大リーグ",
+  "大リーグ",
+  "MLB",
+  "ナ・リーグ",
+  "ア・リーグ",
+  "ワールドシリーズ",
+  // MLB30球団(NPBの愛称と衝突しないもののみ、都市名なしの愛称で列挙)
+  "ヤンキース",
+  "レッドソックス",
+  "ブルージェイズ",
+  "レイズ",
+  "オリオールズ",
+  "ガーディアンズ",
+  "ホワイトソックス",
+  "ロイヤルズ",
+  "ツインズ",
+  "アストロズ",
+  "エンゼルス",
+  "アスレチックス",
+  "マリナーズ",
+  "レンジャーズ",
+  "ブレーブス",
+  "マーリンズ",
+  "メッツ",
+  "フィリーズ",
+  "ナショナルズ",
+  "カブス",
+  "レッズ",
+  "ブリュワーズ",
+  "パイレーツ",
+  "カージナルス",
+  "ダイヤモンドバックス",
+  "ロッキーズ",
+  "ドジャース",
+  "パドレス",
+  // NPB球団の愛称と衝突する2球団は都市名付きで判定
+  "デトロイト・タイガース",
+  "サンフランシスコ・ジャイアンツ",
+  "SFジャイアンツ",
+];
+
+function isMlbContent(haystack) {
+  return MLB_KEYWORDS.some((kw) => haystack.includes(kw));
+}
+
 // stage2(タイトルのみ・野球文脈チェックなしの緩和判定)で、shortKeywords
 // (曖昧な略称)を無条件でヒット扱いにしてしまうと、「横浜スタートで
 // アジア6都市」のような地名としての「横浜」まで拾ってしまう。GENERAL_NPB_
@@ -220,12 +275,53 @@ function findAllSpans(scanText, keywords) {
   return spans;
 }
 
+// 「阪神―中日」「阪神-中日」「阪神vs中日」のような対戦カード表記で使われる
+// 区切り文字。長音記号(ー)も見出しでは簡易的なダッシュとして使われることが
+// 多いため含めている。
+const MATCHUP_SEPARATORS = ["―", "—", "–", "－", "ー", "-", "対", "vs", "VS", "ｖｓ"];
+
+// 全球団の正式名称・略称をまとめたもの(対戦カード表記の判定で、区切り文字の
+// 反対側が「別の球団名」かどうかを調べるために使う)。TEAMSはこのファイルの
+// 先頭で読み込み済みのモジュールスコープ変数。
+const ALL_TEAM_KEYWORDS = TEAMS.flatMap((t) => [...t.strongKeywords, ...t.shortKeywords]);
+
+/**
+ * scanText中のidx位置にある(長さkwLengthの)球団名言及が、「TeamA・区切り文字・
+ * TeamB」形式の対戦カード表記(例:「阪神―中日」「阪神vs中日」)の一部として
+ * 登場しているかどうかを判定する。
+ *
+ * 試合結果・試合前情報系の記事では、見出しの冒頭やリード文に必ず
+ * 「◇セ・リーグ 阪神―中日（日付、球場）」のような対戦カード表記が入る。
+ * これは「◯◯戦」と同じく対戦相手としての言及であり、この表記の中にしか
+ * 出てこない球団は記事の主役ではない(=対戦相手として本拠地球場になって
+ * いるだけ、等)とみなして除外する。
+ */
+function isMatchupCardMention(scanText, idx, kwLength) {
+  for (const sep of MATCHUP_SEPARATORS) {
+    const beforeSepStart = idx - sep.length;
+    if (beforeSepStart >= 0 && scanText.slice(beforeSepStart, idx) === sep) {
+      const beforeText = scanText.slice(0, beforeSepStart);
+      if (ALL_TEAM_KEYWORDS.some((kw) => beforeText.endsWith(kw))) return true;
+    }
+
+    const afterSepStart = idx + kwLength;
+    if (scanText.slice(afterSepStart, afterSepStart + sep.length) === sep) {
+      const afterText = scanText.slice(afterSepStart + sep.length);
+      if (ALL_TEAM_KEYWORDS.some((kw) => afterText.startsWith(kw))) return true;
+    }
+  }
+  return false;
+}
+
 /**
  * キーワード群それぞれについて、テキスト中の「主役としての言及」の位置を返す。
- * 除外する言及が2種類ある。
+ * 除外する言及が3種類ある。
  *  1.「◯◯戦」(=◯◯を相手にした試合、という意味の言い回し)としてしか
  *    出てこないキーワードは、記事の主役ではなく対戦相手を指しているとみなす。
- *  2. excludeSpansの範囲内に入っている言及(例:「千葉ロッテマリーンズ」という
+ *  2.「阪神―中日」のような対戦カード表記としてしか出てこないキーワードも、
+ *    1と同様に対戦相手(または単なる本拠地表記)としての言及とみなす
+ *    (isMatchupCardMention参照)。
+ *  3. excludeSpansの範囲内に入っている言及(例:「千葉ロッテマリーンズ」という
  *    長い一致の内部にたまたま含まれる「ロッテ」)は、実体としては1つの言及を
  *    重複カウントしているだけなので除外する。
  * それ以外の言及が一つでもあれば、その最初の位置を返す。
@@ -243,7 +339,8 @@ function findSubjectIndex(scanText, keywords, excludeSpans = []) {
       if (withinExcluded) continue;
 
       const isOpponentMention = scanText.slice(idx + kw.length, idx + kw.length + 1) === "戦";
-      if (!isOpponentMention && (subjectIndex === -1 || idx < subjectIndex)) {
+      const isMatchupMention = isMatchupCardMention(scanText, idx, kw.length);
+      if (!isOpponentMention && !isMatchupMention && (subjectIndex === -1 || idx < subjectIndex)) {
         subjectIndex = idx;
       }
     }
@@ -383,6 +480,11 @@ async function fetchFeed(feed) {
       // 始球式のアイドル来場・ファンミーティング等、球団名にヒットしても
       // 実質的には野球と無関係な芸能・エンタメ記事は除外する
       if (isEntertainmentNoise(haystack)) continue;
+
+      // MLB(メジャーリーグ)の記事はこのサイトの対象外なので除外する
+      // (総合スポーツフィードが「オールスターゲーム」等の一般野球キーワード
+      // 経由で拾ってしまうことがあるため、球団名一致の有無に関わらず除外)
+      if (isMlbContent(haystack)) continue;
 
       // 「広告ゼロ」が差別化点なので、PR・タイアップ記事は取得元フィードに
       // 含まれていても掲載しない
@@ -624,18 +726,30 @@ async function main() {
 
   const existingItemsRaw = await loadExistingItems();
 
-  // 除外ルール(AD_MARKERS・OUT_OF_SCOPE_KEYWORDS・ENTERTAINMENT_NOISE_KEYWORDS)は
-  // 運用中に追加・調整されることがある。ルール変更後もRSSの取得範囲から外れて
-  // しまった古い記事は再取得されず、最大30日間アーカイブに残り続けてしまうため、
-  // 既存アーカイブに対しても同じ除外ルールを毎回かけ直し、該当する記事は
-  // その場で取り除く。
-  const existingItems = existingItemsRaw.filter((item) => {
-    const haystack = `${item.title} ${item.summary}`;
-    if (OUT_OF_SCOPE_KEYWORDS.some((kw) => haystack.includes(kw))) return false;
-    if (isEntertainmentNoise(haystack)) return false;
-    if (isAdContent(item.title)) return false;
-    return true;
-  });
+  // 除外ルール(AD_MARKERS・OUT_OF_SCOPE_KEYWORDS・ENTERTAINMENT_NOISE_KEYWORDS・
+  // MLB_KEYWORDS)は運用中に追加・調整されることがある。ルール変更後もRSSの
+  // 取得範囲から外れてしまった古い記事は再取得されず、最大30日間アーカイブに
+  // 残り続けてしまうため、既存アーカイブに対しても同じ除外ルールを毎回かけ直し、
+  // 該当する記事はその場で取り除く。
+  //
+  // また、球団分類ロジック(matchTeamsForItem)自体が改善された場合
+  // (例:「阪神―中日」のような対戦カード表記を対戦相手として除外するルールの
+  // 追加)も、既存アーカイブの記事を毎回再分類することで、過去に誤って
+  // 対戦相手の球団タグが付いた記事を遡って修正できるようにしている。
+  const existingItems = existingItemsRaw
+    .filter((item) => {
+      const haystack = `${item.title} ${item.summary}`;
+      if (OUT_OF_SCOPE_KEYWORDS.some((kw) => haystack.includes(kw))) return false;
+      if (isEntertainmentNoise(haystack)) return false;
+      if (isMlbContent(haystack)) return false;
+      if (isAdContent(item.title)) return false;
+      return true;
+    })
+    .map((item) => {
+      const feedScoped = FEEDS.find((f) => f.id === item.sourceId)?.scoped ?? false;
+      const teams = matchTeamsForItem(item.title, item.summary, feedScoped);
+      return { ...item, teams };
+    });
   const removedByRuleUpdate = existingItemsRaw.length - existingItems.length;
   console.log(
     `  既存アーカイブ: ${existingItemsRaw.length}件` +

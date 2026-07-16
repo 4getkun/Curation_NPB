@@ -40,11 +40,11 @@ export const GET: APIRoute = ({ site }) => {
   const xml = `<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>NPB Curation</title>
+    <title>Curation NPB</title>
     <link>${siteUrl}/</link>
     <description>広告ゼロで読める、NPB(日本プロ野球)12球団の最新ニュース・まとめキュレーションサイト</description>
     <language>ja</language>
-    <generator>NPB Curation</generator>
+    <generator>Curation NPB</generator>
     <atom:link href="${siteUrl}/feed.xml" rel="self" type="application/rss+xml" />${itemsXml}
   </channel>
 </rss>

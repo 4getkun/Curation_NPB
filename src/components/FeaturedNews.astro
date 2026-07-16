@@ -1,9 +1,11 @@
 ---
+import { Image } from "astro:assets";
 import type { NewsItem } from "../lib/news";
 import { formatRelativeShort } from "../lib/news";
 import { getTeam, needsContrastRing } from "../lib/teams";
 import { getTopic } from "../lib/topics";
 import { withBase } from "../lib/url";
+import featuredPlaceholder from "../assets/featured-placeholder.jpg";
 
 interface Props {
   item: NewsItem;
@@ -20,13 +22,16 @@ const extraSourceCount = (item.sources?.length ?? 1) - 1;
 
 <div>
   <a href={item.link} target="_blank" rel="noopener noreferrer nofollow" class="block no-underline" style="color:inherit;">
-    <div class="photo-placeholder flex items-center justify-center mb-4" style="aspect-ratio:16/9;">
-      <span
-        class="font-mono"
-        style="font-size:11px; color:var(--text-faint); background-color:var(--page-bg); padding:4px 10px;"
-      >
-        試合写真 差し替え
-      </span>
+    <div class="overflow-hidden mb-4" style="aspect-ratio:16/9; border:1px solid var(--border);">
+      <Image
+        src={featuredPlaceholder}
+        alt=""
+        width={1280}
+        height={720}
+        class="w-full h-full"
+        style="object-fit:cover;"
+        loading="eager"
+      />
     </div>
     <div class="flex items-center gap-2 mb-2.5">
       <span class="inline-block h-2 w-2 rounded-full" style={`background-color:${dotColor};${dotRing}`}></span>
