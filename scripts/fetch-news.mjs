@@ -64,6 +64,23 @@ const OUT_OF_SCOPE_KEYWORDS = [
   "少年野球",
 ];
 
+// 「広告ゼロ」を掲げているサイトなので、タイアップ・PR記事(スポンサード
+// コンテンツ)は取得元フィードに含まれていても除外する。
+const AD_MARKERS = [
+  "【PR】",
+  "[PR]",
+  "(PR)",
+  "（PR）",
+  "ＰＲ】",
+  "PR)",
+  "PR】",
+];
+
+function isAdContent(title) {
+  const upper = title.toUpperCase();
+  return AD_MARKERS.some((marker) => upper.includes(marker.toUpperCase()));
+}
+
 const parser = new Parser({
   timeout: FETCH_TIMEOUT_MS,
   headers: {
@@ -228,6 +245,10 @@ async function fetchFeed(feed) {
 
       // 高校野球など対象外カテゴリの記事は、球団名を含んでいても除外する
       if (OUT_OF_SCOPE_KEYWORDS.some((kw) => haystack.includes(kw))) continue;
+
+      // 「広告ゼロ」が差別化点なので、PR・タイアップ記事は取得元フィードに
+      // 含まれていても掲載しない
+      if (isAdContent(title)) continue;
 
       const teamHits = matchTeamsForItem(title, summary, feed.scoped);
       const generalHit = matchesGeneralNpb(haystack);
