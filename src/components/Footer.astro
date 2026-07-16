@@ -20,14 +20,19 @@ const currentYear = new Date().getFullYear();
         <a class="no-underline" style="color:inherit;" href={withBase("/")}>トップ</a>
         <a class="no-underline" style="color:inherit;" href={withBase("/news/")}>ニュース一覧</a>
         <a class="no-underline" style="color:inherit;" href={withBase("/team/")}>球団別</a>
+        <a class="no-underline" style="color:inherit;" href={withBase("/topic/")}>話題から探す</a>
+        <a class="no-underline" style="color:inherit;" href={withBase("/search/")}>サイト内検索</a>
         <a class="no-underline" style="color:inherit;" href={withBase("/about/")}>このサイトについて</a>
       </div>
     </div>
     <div>
       <p class="font-bold mb-2.5" style="color:var(--text);">ご利用にあたって</p>
-      <p class="leading-relaxed" style="color:var(--text-muted);">
+      <p class="leading-relaxed" style="color:var(--text-muted); margin-bottom:10px;">
         掲載しているニュースの見出し・要約は各配信元サイトへのリンクです。本文の全文転載は行っていません。
       </p>
+      <a class="no-underline font-bold link-underline" style="color:var(--accent);" href={withBase("/feed.xml")}>
+        RSSで購読する →
+      </a>
     </div>
   </div>
   <div style="border-top:1px solid var(--rule);">

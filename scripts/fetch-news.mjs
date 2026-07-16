@@ -27,11 +27,28 @@ const TEAMS = JSON.parse(
 const FEEDS = JSON.parse(
   await readFile(path.join(ROOT, "src/data/feeds.json"), "utf-8"),
 );
+const TOPICS = JSON.parse(
+  await readFile(path.join(ROOT, "src/data/topics.json"), "utf-8"),
+);
 
 const OUTPUT_PATH = path.join(ROOT, "src/data/news.json");
-const MAX_ITEMS = 400;
+// RSSは「今取れる最新N件」しか返さない(=フィード側に過去ログは残っていない)。
+// そのため実行のたびに取得結果を過去のnews.jsonへ積み増し(マージ)し、
+// 直近RETENTION_DAYS日分をローリングウィンドウとして保持する。
+// GitHub Actionsが30分おきにこのスクリプト→コミットを繰り返すことで、
+// 運用開始からおよそ1ヶ月かけて手元のアーカイブが積み上がっていく。
+const RETENTION_DAYS = 30;
+const MAX_ITEMS = 4000; // 保険用の上限(想定件数を大きく超えないよう安全弁として設定)
 const MAX_PER_FEED = 60;
 const FETCH_TIMEOUT_MS = 15000;
+
+// 「同一ニュースの重複統合」機能のしきい値。複数メディアが同じ出来事を
+// 報じた記事を1件にまとめて表示するための判定パラメータ。
+// 精度(=誤って別の出来事をまとめてしまわないこと)を優先し、かなり保守的な
+// 値にしている。球団タグが1つも重ならない記事同士や、日付不明な記事同士は
+// そもそも統合対象にしない。
+const DEDUPE_TITLE_SIMILARITY = 0.6; // タイトルの2文字Jaccard類似度のしきい値
+const DEDUPE_WINDOW_MS = 4 * 60 * 60 * 1000; // 公開時刻の差がこの範囲内のみ統合対象
 
 // 記事がNPB関連かどうかの判定に使う一般キーワード
 // (球団名にマッチしなくても、これらを含めばNPB全般ニュースとして採用)
@@ -63,6 +80,105 @@ const OUT_OF_SCOPE_KEYWORDS = [
   "リトルシニア",
   "少年野球",
 ];
+
+// 球団の略称は「巨人」「楽天」「ソフトバンク」「ロッテ」「西武」のように、
+// 企業名・地名・一般名詞としても使われる曖昧な単語が多い。始球式やイベント
+// 来場などをきっかけに、野球そのものとはほぼ無関係な芸能・エンタメ系の記事
+// (アイドルのファンミーティング等)が球団名にヒットして紛れ込むことがある
+// ため、そうした記事は野球関連キーワードの有無に関わらず除外する。
+const ENTERTAINMENT_NOISE_KEYWORDS = [
+  "始球式",
+  "ファンミーティング",
+  "舞台挨拶",
+  "来日公演",
+  "主演",
+  "ドラマ化",
+  "映画化",
+  "K-POP",
+  "Kポップ",
+  "韓流",
+  "アイドル",
+  "AKB48",
+  "乃木坂46",
+  "欅坂46",
+  "日向坂46",
+  "櫻坂46",
+  "NMB48",
+  "HKT48",
+  "SKE48",
+];
+
+function isEntertainmentNoise(haystack) {
+  return ENTERTAINMENT_NOISE_KEYWORDS.some((kw) => haystack.includes(kw));
+}
+
+// stage2(タイトルのみ・野球文脈チェックなしの緩和判定)で、shortKeywords
+// (曖昧な略称)を無条件でヒット扱いにしてしまうと、「横浜スタートで
+// アジア6都市」のような地名としての「横浜」まで拾ってしまう。GENERAL_NPB_
+// KEYWORDSほど大掛かりでなくても、見出しに実際の試合展開・選手動向を示す
+// 語彙が含まれていれば、それを「緩和条件下での野球文脈」とみなす。
+const BASEBALL_ACTION_KEYWORDS = [
+  "先発",
+  "登板",
+  "救援",
+  "中継ぎ",
+  "抑え",
+  "代打",
+  "代走",
+  "スタメン",
+  "先発出場",
+  "本塁打",
+  "満塁弾",
+  "二塁打",
+  "三塁打",
+  "安打",
+  "猛打賞",
+  "打点",
+  "打率",
+  "盗塁",
+  "四球",
+  "死球",
+  "三振",
+  "勝利投手",
+  "敗戦投手",
+  "セーブ",
+  "ホールド",
+  "防御率",
+  "完投",
+  "完封",
+  "被弾",
+  "監督",
+  "コーチ",
+  "采配",
+  "移籍",
+  "トレード",
+  "契約更改",
+  "年俸",
+  "ドラフト",
+  "戦力外",
+  "自由契約",
+  "FA宣言",
+  "優勝",
+  "連覇",
+  "首位",
+  "貯金",
+  "借金",
+  "マジック",
+  "登録抹消",
+  "一軍昇格",
+  "二軍降格",
+  "故障",
+  "離脱",
+  "手術",
+  "号アーチ",
+  "号本塁打",
+  "逆転",
+  "サヨナラ",
+];
+
+function matchesBaseballAction(text) {
+  return BASEBALL_ACTION_KEYWORDS.some((kw) => text.includes(kw));
+}
 
 // 「広告ゼロ」を掲げているサイトなので、タイアップ・PR記事(スポンサード
 // コンテンツ)は取得元フィードに含まれていても除外する。
@@ -184,8 +300,10 @@ function collectTeamHits(scanText, bracketText, hasBaseballContext) {
  *
  * 1. タイトルだけで判定(通常ルール: 曖昧な略称は野球文脈が必要)
  * 2. 1で何もヒットしない場合、タイトルだけで再判定(略称の野球文脈チェックを
- *    外す)。タイトルは本文と違って簡潔なので、多少緩めても「巨人の4番…」の
- *    ような自然な見出しを拾える
+ *    「プロ野球等の一般キーワード」から「先発・本塁打・移籍等の実際の試合
+ *    展開/選手動向を示す語彙」に緩める)。タイトルは本文と違って簡潔なので、
+ *    多少緩めても「巨人の4番…5号アーチ」のような自然な見出しを拾える一方、
+ *    「横浜スタートでアジア6都市」のような地名としての言及までは拾わない
  * 3. 2でもヒットしない場合(見出しに球団名が一切ない)だけ、本文も含めて
  *    通常ルールで判定する
  */
@@ -196,7 +314,7 @@ function matchTeamsForItem(title, summary, feedScoped) {
   const titleHits = collectTeamHits(title, bracketText, feedScoped || matchesGeneralNpb(title));
   if (titleHits.length > 0) return titleHits;
 
-  const titleHitsRelaxed = collectTeamHits(title, bracketText, true);
+  const titleHitsRelaxed = collectTeamHits(title, bracketText, matchesBaseballAction(title));
   if (titleHitsRelaxed.length > 0) return titleHitsRelaxed;
 
   const combined = `${title} ${summary}`;
@@ -206,6 +324,22 @@ function matchTeamsForItem(title, summary, feedScoped) {
 
 function matchesGeneralNpb(text) {
   return GENERAL_NPB_KEYWORDS.some((kw) => text.includes(kw));
+}
+
+/**
+ * 記事のタイトル+要約から、話題タグ(移籍・故障・契約更改など)を判定する。
+ * 球団判定のような「主役/対戦相手」の区別は不要な単純なキーワード一致で良い
+ * (話題の判定に「対戦相手」という概念がないため)。1記事に複数の話題タグが
+ * つくこともある(例:「故障離脱していた選手がFA宣言」)。
+ */
+function classifyTopics(haystack) {
+  const hits = [];
+  for (const topic of TOPICS) {
+    if (topic.keywords.some((kw) => haystack.includes(kw))) {
+      hits.push(topic.id);
+    }
+  }
+  return hits;
 }
 
 function stripHtml(input) {
@@ -246,12 +380,17 @@ async function fetchFeed(feed) {
       // 高校野球など対象外カテゴリの記事は、球団名を含んでいても除外する
       if (OUT_OF_SCOPE_KEYWORDS.some((kw) => haystack.includes(kw))) continue;
 
+      // 始球式のアイドル来場・ファンミーティング等、球団名にヒットしても
+      // 実質的には野球と無関係な芸能・エンタメ記事は除外する
+      if (isEntertainmentNoise(haystack)) continue;
+
       // 「広告ゼロ」が差別化点なので、PR・タイアップ記事は取得元フィードに
       // 含まれていても掲載しない
       if (isAdContent(title)) continue;
 
       const teamHits = matchTeamsForItem(title, summary, feed.scoped);
       const generalHit = matchesGeneralNpb(haystack);
+      const topicHits = classifyTopics(haystack);
 
       // scoped=true のフィード(専門メディアのNPBカテゴリ)は無条件で採用。
       // scoped=false (総合スポーツフィード)は「球団ヒットあり」「一般NPB
@@ -272,6 +411,8 @@ async function fetchFeed(feed) {
         source: feed.name,
         sourceId: feed.id,
         teams: teamHits,
+        topics: topicHits,
+        sources: [{ name: feed.name, sourceId: feed.id, link }],
       });
     }
 
@@ -283,6 +424,197 @@ async function fetchFeed(feed) {
   }
 }
 
+/** 既存の src/data/news.json を読み込む。無い/壊れている場合は空配列扱い */
+async function loadExistingItems() {
+  try {
+    const raw = await readFile(OUTPUT_PATH, "utf-8");
+    const parsed = JSON.parse(raw);
+    return Array.isArray(parsed.items) ? parsed.items : [];
+  } catch {
+    return [];
+  }
+}
+
+function linkKey(link) {
+  return link.split("?")[0];
+}
+
+// ---- 同一ニュースの重複統合(マルチソース化) ----------------------------
+//
+// 複数の野球専門メディアが同じ出来事(移籍発表・故障離脱など)を報じた場合、
+// タイトルはメディアごとに言い回しが異なるためlinkKeyでは重複と判定できない。
+// ここでは「タイトルの2文字(バイグラム)Jaccard類似度」「公開時刻の近さ」
+// 「球団タグの重なり」の3条件がすべて揃った記事だけを同一ニュースとみなし、
+// 1件にまとめて複数の出典リンク(sources)を持たせる。
+// 条件を厳しめにしているのは、無関係な2つのニュースを誤って1件に統合して
+// しまう方が、統合し損ねるより悪いため(見せかけの1件に情報が隠れてしまう)。
+
+function normalizeTitleForCompare(title) {
+  return title
+    // 見出し冒頭の【西武】のような球団プレフィックスは類似度判定のノイズになるため除去
+    .replace(/^[【\[][^】\]]*[】\]]/, "")
+    // 全角英数記号を半角へ寄せる
+    .replace(/[！-～]/g, (ch) => String.fromCharCode(ch.charCodeAt(0) - 0xfee0))
+    .replace(/[\s　]/g, "")
+    .toLowerCase();
+}
+
+function titleBigrams(text) {
+  const set = new Set();
+  if (text.length < 2) {
+    if (text.length === 1) set.add(text);
+    return set;
+  }
+  for (let i = 0; i < text.length - 1; i++) {
+    set.add(text.slice(i, i + 2));
+  }
+  return set;
+}
+
+function jaccardSimilarity(setA, setB) {
+  if (setA.size === 0 || setB.size === 0) return 0;
+  let intersection = 0;
+  for (const gram of setA) {
+    if (setB.has(gram)) intersection++;
+  }
+  const union = setA.size + setB.size - intersection;
+  return union === 0 ? 0 : intersection / union;
+}
+
+function itemSources(item) {
+  if (Array.isArray(item.sources) && item.sources.length > 0) return item.sources;
+  return [{ name: item.source, sourceId: item.sourceId, link: item.link }];
+}
+
+/** Union-Find(素集合データ構造)。同一ニュース判定されたインデックス同士を連結する */
+function createUnionFind(size) {
+  const parent = Array.from({ length: size }, (_, i) => i);
+  function find(x) {
+    while (parent[x] !== x) {
+      parent[x] = parent[parent[x]];
+      x = parent[x];
+    }
+    return x;
+  }
+  function union(a, b) {
+    const ra = find(a);
+    const rb = find(b);
+    if (ra !== rb) parent[ra] = rb;
+  }
+  return { find, union };
+}
+
+function mergeDuplicateGroup(groupItems) {
+  if (groupItems.length === 1) {
+    const only = groupItems[0];
+    return { ...only, sources: itemSources(only) };
+  }
+
+  // 一番要約が長い(=情報量が多い)記事を代表記事として採用する
+  const primary = groupItems.reduce((best, current) =>
+    (current.summary?.length ?? 0) > (best.summary?.length ?? 0) ? current : best,
+  );
+
+  // 表示用の公開時刻は「一番早く報じられた時刻」を採用する
+  const dated = groupItems.filter(
+    (it) => it.pubDate && !Number.isNaN(new Date(it.pubDate).getTime()),
+  );
+  const earliestPubDate =
+    dated.length > 0
+      ? dated.reduce((a, b) => (new Date(a.pubDate) < new Date(b.pubDate) ? a : b)).pubDate
+      : (groupItems[0].pubDate ?? null);
+
+  const seenSourceKey = new Set();
+  const mergedSources = [];
+  for (const it of groupItems) {
+    for (const src of itemSources(it)) {
+      const key = `${src.sourceId}|${src.link}`;
+      if (seenSourceKey.has(key)) continue;
+      seenSourceKey.add(key);
+      mergedSources.push(src);
+    }
+  }
+  // 代表記事の出典を先頭に並べ替える
+  mergedSources.sort((a, b) => {
+    const aIsPrimary = a.sourceId === primary.sourceId && a.link === primary.link;
+    const bIsPrimary = b.sourceId === primary.sourceId && b.link === primary.link;
+    return aIsPrimary === bIsPrimary ? 0 : aIsPrimary ? -1 : 1;
+  });
+
+  const primaryTeams = primary.teams ?? [];
+  const otherTeams = groupItems.flatMap((it) => it.teams ?? []).filter((t) => !primaryTeams.includes(t));
+  const teams = [...primaryTeams, ...new Set(otherTeams)];
+  const topics = [...new Set(groupItems.flatMap((it) => it.topics ?? []))];
+
+  return {
+    title: primary.title,
+    summary: primary.summary,
+    link: primary.link,
+    pubDate: earliestPubDate,
+    source: primary.source,
+    sourceId: primary.sourceId,
+    teams,
+    topics,
+    sources: mergedSources,
+  };
+}
+
+function dedupeSameEventItems(items) {
+  // 日付不明の記事は判定材料が不足するため統合対象から外す(そのまま残す)
+  const comparable = [];
+  const untouched = [];
+  items.forEach((item, i) => {
+    if (item.pubDate && !Number.isNaN(new Date(item.pubDate).getTime()) && (item.teams?.length ?? 0) > 0) {
+      comparable.push(i);
+    } else {
+      untouched.push(item);
+    }
+  });
+
+  const uf = createUnionFind(items.length);
+  const normalized = items.map((it) => normalizeTitleForCompare(it.title));
+  const bigramCache = normalized.map((t) => titleBigrams(t));
+
+  // 同じ日(JST)ごとにバケット化して比較回数を抑える
+  const dayBuckets = new Map();
+  for (const i of comparable) {
+    const dayKey = new Date(items[i].pubDate).toISOString().slice(0, 10);
+    if (!dayBuckets.has(dayKey)) dayBuckets.set(dayKey, []);
+    dayBuckets.get(dayKey).push(i);
+  }
+
+  for (const bucket of dayBuckets.values()) {
+    for (let a = 0; a < bucket.length; a++) {
+      for (let b = a + 1; b < bucket.length; b++) {
+        const i = bucket[a];
+        const j = bucket[b];
+        const timeDiff = Math.abs(
+          new Date(items[i].pubDate).getTime() - new Date(items[j].pubDate).getTime(),
+        );
+        if (timeDiff > DEDUPE_WINDOW_MS) continue;
+
+        const teamsOverlap = items[i].teams.some((t) => items[j].teams.includes(t));
+        if (!teamsOverlap) continue;
+
+        const similarity = jaccardSimilarity(bigramCache[i], bigramCache[j]);
+        if (similarity >= DEDUPE_TITLE_SIMILARITY) {
+          uf.union(i, j);
+        }
+      }
+    }
+  }
+
+  const groups = new Map();
+  for (const i of comparable) {
+    const root = uf.find(i);
+    if (!groups.has(root)) groups.set(root, []);
+    groups.get(root).push(items[i]);
+  }
+
+  const mergedResults = [...groups.values()].map(mergeDuplicateGroup);
+  return [...mergedResults, ...untouched];
+}
+
 async function main() {
   console.log(`NPBニュース収集を開始します (${FEEDS.length}フィード)`);
 
@@ -290,15 +622,49 @@ async function main() {
     await Promise.all(FEEDS.map((feed) => fetchFeed(feed)))
   ).flat();
 
-  // リンクで重複排除（同じ記事が複数フィードに出ることがある）
-  const seen = new Set();
-  const deduped = [];
-  for (const item of allResults) {
-    const key = item.link.split("?")[0];
-    if (seen.has(key)) continue;
-    seen.add(key);
-    deduped.push(item);
+  const existingItemsRaw = await loadExistingItems();
+
+  // 除外ルール(AD_MARKERS・OUT_OF_SCOPE_KEYWORDS・ENTERTAINMENT_NOISE_KEYWORDS)は
+  // 運用中に追加・調整されることがある。ルール変更後もRSSの取得範囲から外れて
+  // しまった古い記事は再取得されず、最大30日間アーカイブに残り続けてしまうため、
+  // 既存アーカイブに対しても同じ除外ルールを毎回かけ直し、該当する記事は
+  // その場で取り除く。
+  const existingItems = existingItemsRaw.filter((item) => {
+    const haystack = `${item.title} ${item.summary}`;
+    if (OUT_OF_SCOPE_KEYWORDS.some((kw) => haystack.includes(kw))) return false;
+    if (isEntertainmentNoise(haystack)) return false;
+    if (isAdContent(item.title)) return false;
+    return true;
+  });
+  const removedByRuleUpdate = existingItemsRaw.length - existingItems.length;
+  console.log(
+    `  既存アーカイブ: ${existingItemsRaw.length}件` +
+      (removedByRuleUpdate > 0 ? ` (除外ルール更新により${removedByRuleUpdate}件を除去)` : ""),
+  );
+
+  // 新規取得分を優先しつつ、既存アーカイブとリンクで重複排除してマージする。
+  // (同じ記事を新しい取得結果で上書きすることで、分類ロジック改善時に
+  //  まだRSSの取得範囲内にある記事は再分類の恩恵を受けられる)
+  const merged = new Map();
+  for (const item of existingItems) {
+    merged.set(linkKey(item.link), item);
   }
+  for (const item of allResults) {
+    merged.set(linkKey(item.link), item);
+  }
+
+  // 直近RETENTION_DAYS日分だけを残すローリングウィンドウ。日付不明の記事は
+  // (稀なケースなので)念のため残しておき、MAX_ITEMSの上限で吸収する。
+  const cutoff = Date.now() - RETENTION_DAYS * 24 * 60 * 60 * 1000;
+  const withinRetention = [...merged.values()].filter((item) => {
+    if (!item.pubDate) return true;
+    const t = new Date(item.pubDate).getTime();
+    return Number.isNaN(t) || t >= cutoff;
+  });
+
+  // 複数メディアが同じ出来事を報じている記事を1件に統合する(マルチソース化)
+  const deduped = dedupeSameEventItems(withinRetention);
+  const mergedAwayCount = withinRetention.length - deduped.length;
 
   // 日付降順ソート（日付不明は末尾へ）
   deduped.sort((a, b) => {
@@ -308,6 +674,8 @@ async function main() {
   });
 
   const trimmed = deduped.slice(0, MAX_ITEMS);
+  const prunedByAge = merged.size - withinRetention.length;
+  const prunedByCap = deduped.length - trimmed.length;
 
   const output = {
     generatedAt: new Date().toISOString(),
@@ -316,7 +684,12 @@ async function main() {
   };
 
   await writeFile(OUTPUT_PATH, JSON.stringify(output, null, 2) + "\n", "utf-8");
-  console.log(`完了: ${trimmed.length}件を src/data/news.json に書き出しました`);
+  console.log(
+    `完了: ${trimmed.length}件を src/data/news.json に書き出しました` +
+      `(今回の新規取得 ${allResults.length}件 / ${RETENTION_DAYS}日超で除外 ${prunedByAge}件` +
+      `${mergedAwayCount > 0 ? ` / 同一ニュース統合で ${mergedAwayCount}件を集約` : ""}` +
+      `${prunedByCap > 0 ? ` / 上限超過で除外 ${prunedByCap}件` : ""})`,
+  );
 }
 
 main()

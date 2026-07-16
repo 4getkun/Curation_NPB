@@ -1,5 +1,11 @@
 import newsData from "../data/news.json";
 
+export interface NewsSource {
+  name: string;
+  sourceId: string;
+  link: string;
+}
+
 export interface NewsItem {
   title: string;
   summary: string;
@@ -8,6 +14,10 @@ export interface NewsItem {
   source: string;
   sourceId: string;
   teams: string[];
+  topics: string[];
+  /** 同一ニュースを報じている全出典。通常は1件だが、複数メディアが同じ
+   *  出来事を報じている場合は統合されて2件以上になる(重複統合機能)。 */
+  sources: NewsSource[];
 }
 
 export interface NewsData {
@@ -23,6 +33,10 @@ export const newsGeneratedAt: string = data.generatedAt;
 
 export function newsForTeam(teamId: string): NewsItem[] {
   return allNews.filter((item) => item.teams.includes(teamId));
+}
+
+export function newsForTopic(topicId: string): NewsItem[] {
+  return allNews.filter((item) => item.topics?.includes(topicId));
 }
 
 export function formatRelativeOrDate(pubDate: string | null): string {

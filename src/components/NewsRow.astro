@@ -2,6 +2,8 @@
 import type { NewsItem } from "../lib/news";
 import { formatRelativeShort } from "../lib/news";
 import { getTeam, needsContrastRing } from "../lib/teams";
+import { getTopic } from "../lib/topics";
+import { withBase } from "../lib/url";
 
 interface Props {
   item: NewsItem;
@@ -31,28 +33,64 @@ const metaParts = [
 ].filter(Boolean);
 
 const isCompact = variant === "compact";
+// 同じ出来事を複数メディアが報じている場合、代表記事以外の出典
+const extraSources = isCompact ? [] : (item.sources ?? []).slice(1);
+const itemTopics = isCompact
+  ? []
+  : (item.topics ?? []).map((id) => getTopic(id)).filter((t): t is NonNullable<typeof t> => Boolean(t));
 ---
 
-<a
-  href={item.link}
-  target="_blank"
-  rel="noopener noreferrer nofollow"
-  class="flex items-start no-underline"
-  style={`gap:${isCompact ? "14px" : "18px"}; padding:${isCompact ? "16px" : "20px"} 0; border-bottom:1px solid var(--border); color:inherit;`}
+<div
+  class="flex items-start"
+  style={`gap:${isCompact ? "14px" : "18px"}; padding:${isCompact ? "16px" : "20px"} 0; border-bottom:1px solid var(--border);`}
 >
   <span
     class="inline-block shrink-0 rounded-full"
     style={`width:${isCompact ? "8px" : "9px"}; height:${isCompact ? "8px" : "9px"}; background-color:${dotColor}; margin-top:${isCompact ? "7px" : "8px"};${dotRing}`}
   ></span>
   <div class="flex-1 min-w-0">
-    {isCompact ? (
-      <h4 class="font-bold leading-snug m-0 mb-1.5" style="font-size:15px; color:var(--text);">{item.title}</h4>
-    ) : (
-      <h3 class="font-bold leading-snug m-0 mb-2" style="font-size:16px; color:var(--text);">{item.title}</h3>
+    <a href={item.link} target="_blank" rel="noopener noreferrer nofollow" class="block no-underline" style="color:inherit;">
+      {isCompact ? (
+        <h4 class="font-bold leading-snug m-0 mb-1.5" style="font-size:15px; color:var(--text);">{item.title}</h4>
+      ) : (
+        <h3 class="font-bold leading-snug m-0 mb-2" style="font-size:16px; color:var(--text);">{item.title}</h3>
+      )}
+      {!isCompact && item.summary && (
+        <p class="m-0 mb-1.5" style="font-size:13px; color:var(--text-muted);">{item.summary}</p>
+      )}
+    </a>
+    <p class="m-0" style="font-size:12px; color:var(--text-faint);">
+      {metaParts.join(" · ")}
+      {extraSources.length > 0 && (
+        <span>
+          {" "}·  ほか{extraSources.length}社:
+          {extraSources.map((s) => (
+            <>
+              {" "}
+              <a
+                href={s.link}
+                target="_blank"
+                rel="noopener noreferrer nofollow"
+                class="link-underline"
+                style="color:var(--text-faint);"
+              >{s.name}</a>
+            </>
+          ))}
+        </span>
+      )}
+    </p>
+    {itemTopics.length > 0 && (
+      <div class="flex flex-wrap" style="gap:6px; margin-top:8px;">
+        {itemTopics.map((topic) => (
+          <a
+            href={withBase(`/topic/${topic.id}/`)}
+            class="no-underline rounded-full"
+            style="font-size:10px; padding:2px 9px; background-color:var(--card-bg); border:1px solid var(--border); color:var(--text-muted);"
+          >
+            #{topic.label}
+          </a>
+        ))}
+      </div>
     )}
-    {!isCompact && item.summary && (
-      <p class="m-0 mb-1.5" style="font-size:13px; color:var(--text-muted);">{item.summary}</p>
-    )}
-    <p class="m-0" style="font-size:12px; color:var(--text-faint);">{metaParts.join(" · ")}</p>
   </div>
-</a>
+</div>

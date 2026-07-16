@@ -10,6 +10,8 @@ const navLinks = [
   { href: withBase("/"), label: "トップ", match: (p: string) => p === "/" || p === "" },
   { href: withBase("/news/"), label: "ニュース一覧", match: (p: string) => p.startsWith("/news") },
   { href: withBase("/team/"), label: "球団別", match: (p: string) => p.startsWith("/team") },
+  { href: withBase("/topic/"), label: "話題から探す", match: (p: string) => p.startsWith("/topic") },
+  { href: withBase("/search/"), label: "検索", match: (p: string) => p.startsWith("/search") },
   { href: withBase("/about/"), label: "このサイトについて", match: (p: string) => p.startsWith("/about") },
 ];
 ---
@@ -42,11 +44,20 @@ const navLinks = [
 
     <div class="flex items-center gap-2.5">
       <span
-        class="hidden sm:inline-flex items-center rounded-full px-3 py-1.5 text-[11px] font-bold whitespace-nowrap"
+        class="hidden lg:inline-flex items-center rounded-full px-3 py-1.5 text-[11px] font-bold whitespace-nowrap"
         style="color:var(--green); background-color:var(--green-bg);"
       >
         広告ゼロ運営
       </span>
+      <select
+        class="my-team-select hidden sm:block rounded-full border font-bold"
+        aria-label="マイ球団を選択"
+        style="font-size:11px; padding:6px 10px; border-color:var(--border); color:var(--text-muted); background-color:transparent; max-width:110px;"
+      >
+        <option value="">★ マイ球団</option>
+        {centralTeams.map((team) => <option value={team.id}>{team.short}</option>)}
+        {pacificTeams.map((team) => <option value={team.id}>{team.short}</option>)}
+      </select>
       <button
         id="theme-toggle"
         type="button"
@@ -109,6 +120,18 @@ const navLinks = [
           {link.label}
         </a>
       ))}
+      <label class="py-3 flex items-center gap-2.5" style="color:var(--text-muted);">
+        <span>★ マイ球団</span>
+        <select
+          class="my-team-select flex-1 rounded-md border font-bold"
+          aria-label="マイ球団を選択(モバイル)"
+          style="font-size:13px; padding:6px 10px; border-color:var(--border); color:var(--text); background-color:transparent;"
+        >
+          <option value="">未設定</option>
+          {centralTeams.map((team) => <option value={team.id}>{team.short}</option>)}
+          {pacificTeams.map((team) => <option value={team.id}>{team.short}</option>)}
+        </select>
+      </label>
     </nav>
   </div>
 </header>
@@ -122,4 +145,32 @@ const navLinks = [
   document.getElementById("menu-toggle")?.addEventListener("click", () => {
     document.getElementById("mobile-menu")?.classList.toggle("hidden");
   });
+
+  // マイ球団(お気に入り球団)の選択をlocalStorageに保存する。
+  // トップページ側はこの値を読んで「マイ球団の最新ニュース」を表示する。
+  (function () {
+    var STORAGE_KEY = "npb-curation-my-team";
+    var selects = document.querySelectorAll(".my-team-select");
+    var saved = "";
+    try {
+      saved = localStorage.getItem(STORAGE_KEY) || "";
+    } catch (e) {}
+    selects.forEach(function (sel) {
+      sel.value = saved;
+      sel.addEventListener("change", function () {
+        try {
+          if (sel.value) {
+            localStorage.setItem(STORAGE_KEY, sel.value);
+          } else {
+            localStorage.removeItem(STORAGE_KEY);
+          }
+        } catch (e) {}
+        // 他のセレクト(デスクトップ/モバイル)にも同じ値を反映してからリロード
+        selects.forEach(function (other) {
+          other.value = sel.value;
+        });
+        location.reload();
+      });
+    });
+  })();
 </script>

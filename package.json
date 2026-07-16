@@ -4,6 +4,9 @@
   "version": "0.1.0",
   "private": true,
   "description": "NPB(日本プロ野球)のニュース・まとめ記事を広告なしでキュレーションする静的サイト",
+  "engines": {
+    "node": ">=22.12.0"
+  },
   "scripts": {
     "dev": "astro dev",
     "start": "astro dev",
