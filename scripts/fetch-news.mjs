@@ -112,6 +112,47 @@ function isEntertainmentNoise(haystack) {
   return ENTERTAINMENT_NOISE_KEYWORDS.some((kw) => haystack.includes(kw));
 }
 
+// このサイトはNPB(プロ野球)専門なので、総合スポーツフィード経由で紛れ込む
+// 他競技の記事(ゴルフ・サッカー・相撲等)は、球団名にヒットしていても除外
+// する。「中日」のように、球団の略称が新聞・メディア名(中日スポーツ)とも
+// 一致する場合、Yahoo!ニュース配信の見出し末尾に必ず付く「(中日スポーツ)」
+// のような出典表記だけを根拠に、無関係な他競技記事へ球団タグが付いてしまう
+// ことがある(matchTeamsForItem呼び出し側でこの出典表記を除去してはいるが、
+// 二重の安全策としてここでも競技名そのもので除外する)。
+const OTHER_SPORTS_KEYWORDS = [
+  "女子ゴルフ",
+  "男子ゴルフ",
+  "ゴルフ",
+  "サッカー",
+  "Jリーグ",
+  "テニス",
+  "バレーボール",
+  "バスケットボール",
+  "Bリーグ",
+  "ラグビー",
+  "卓球",
+  "大相撲",
+  "競馬",
+  "ボクシング",
+  "フィギュアスケート",
+  "eスポーツ",
+];
+
+function isOtherSportsContent(haystack) {
+  return OTHER_SPORTS_KEYWORDS.some((kw) => haystack.includes(kw));
+}
+
+// Yahoo!ニュース経由のRSSは、見出し末尾に配信元メディア名を
+// 「(◯◯スポーツ)」のように括弧書きで必ず付与してくる。この出典表記は
+// 表示上は有用だが、分類用のテキストにそのまま含めると、メディア名が
+// たまたま球団の略称と一致するケース(例:「中日スポーツ」と中日ドラゴンズ
+// の略称「中日」)で、記事内容とは無関係に球団タグが付いてしまう。
+// 分類・除外判定用のテキストからはこの末尾の括弧書きを取り除く
+// (保存・表示用のtitleそのものは変更しない)。
+function stripTrailingSourceSuffix(title) {
+  return title.replace(/[（(][^（）()]*[）)]\s*$/, "").trim();
+}
+
 // このサイトはNPB(日本プロ野球)専門なので、MLB(メジャーリーグ)の記事は
 // 対象外として除外する(MLB専門の姉妹サイト「Curation MLB」を別途運営)。
 // 総合スポーツ系フィード(BASEBALL KING等)はMLBニュースも配信しており、
@@ -472,10 +513,17 @@ async function fetchFeed(feed) {
       const link = item.link ?? "";
       if (!title || !link) continue;
 
-      const haystack = `${title} ${summary}`;
+      // 分類・除外判定は「(中日スポーツ)」等の出典表記を取り除いたテキストで
+      // 行う(表示用のtitle自体はそのまま保持する)。理由はstripTrailingSourceSuffix
+      // のコメント参照。
+      const titleForMatching = stripTrailingSourceSuffix(title);
+      const haystack = `${titleForMatching} ${summary}`;
 
       // 高校野球など対象外カテゴリの記事は、球団名を含んでいても除外する
       if (OUT_OF_SCOPE_KEYWORDS.some((kw) => haystack.includes(kw))) continue;
+
+      // ゴルフ・サッカー等、野球ではない他競技の記事は除外する
+      if (isOtherSportsContent(haystack)) continue;
 
       // 始球式のアイドル来場・ファンミーティング等、球団名にヒットしても
       // 実質的には野球と無関係な芸能・エンタメ記事は除外する
@@ -490,7 +538,7 @@ async function fetchFeed(feed) {
       // 含まれていても掲載しない
       if (isAdContent(title)) continue;
 
-      const teamHits = matchTeamsForItem(title, summary, feed.scoped);
+      const teamHits = matchTeamsForItem(titleForMatching, summary, feed.scoped);
       const generalHit = matchesGeneralNpb(haystack);
       const topicHits = classifyTopics(haystack);
 
@@ -738,8 +786,10 @@ async function main() {
   // 対戦相手の球団タグが付いた記事を遡って修正できるようにしている。
   const existingItems = existingItemsRaw
     .filter((item) => {
-      const haystack = `${item.title} ${item.summary}`;
+      const titleForMatching = stripTrailingSourceSuffix(item.title);
+      const haystack = `${titleForMatching} ${item.summary}`;
       if (OUT_OF_SCOPE_KEYWORDS.some((kw) => haystack.includes(kw))) return false;
+      if (isOtherSportsContent(haystack)) return false;
       if (isEntertainmentNoise(haystack)) return false;
       if (isMlbContent(haystack)) return false;
       if (isAdContent(item.title)) return false;
@@ -747,7 +797,8 @@ async function main() {
     })
     .map((item) => {
       const feedScoped = FEEDS.find((f) => f.id === item.sourceId)?.scoped ?? false;
-      const teams = matchTeamsForItem(item.title, item.summary, feedScoped);
+      const titleForMatching = stripTrailingSourceSuffix(item.title);
+      const teams = matchTeamsForItem(titleForMatching, item.summary, feedScoped);
       return { ...item, teams };
     });
   const removedByRuleUpdate = existingItemsRaw.length - existingItems.length;
