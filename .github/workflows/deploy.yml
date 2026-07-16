@@ -14,6 +14,16 @@ name: Build and deploy to GitHub Pages
 # github-pages → Deployment branches and tags で master からのデプロイを
 # 許可しておく必要がある(未設定だと "environment protection rules" エラーで
 # デプロイが拒否される)。
+#
+# 重要: schedule(cronの定期実行)イベントは特定のpushに紐づかないため、
+# actions/checkoutはrefを明示しない限り「リポジトリの既定ブランチ
+# (Settings → General → Default branch)」をチェックアウトする。この既定
+# ブランチ設定がGitHub側でmainのまま(=このワークフロー側の想定と食い違って
+# いる)だと、30分おきの自動実行のたびにmainをチェックアウトし、news.jsonの
+# 更新もmainへpushしてしまい、そのmain上のビルドはgithub-pages環境の
+# デプロイ許可ブランチ(master)に一致せず毎回「Failed to deploy」になる
+# ——という事故が実際に起きたため、ここではrefとpush先をmasterに固定し、
+# リポジトリの既定ブランチ設定が何であっても正しく動くようにしている。
 on:
   push:
     branches: [master]
@@ -36,6 +46,8 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          ref: master
 
       - name: Setup Node.js
         uses: actions/setup-node@v4
@@ -59,7 +71,7 @@ jobs:
             git config user.email "actions@users.noreply.github.com"
             git add src/data/news.json
             git commit -m "chore: update news feed"
-            git push
+            git push origin HEAD:master
           fi
 
       - name: Setup Pages
