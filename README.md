@@ -74,11 +74,12 @@ src/
     feeds.json    ニュース取得元のRSSフィード一覧
     news.json     自動生成されるニュースデータ(fetch-newsで更新)
   lib/         データ読み込み・整形用のユーティリティ
-  components/     Header, Footer, NewsCard, TeamBadge など
+  components/     Header, Footer, NewsRow, FeaturedNews, TeamLinkRow, TeamChipLink など
   layouts/       共通レイアウト(Base.astro)
   pages/
     index.astro         トップページ
     news/index.astro     ニュース一覧(球団フィルター付き)
+    team/index.astro      球団別ニュースのランディングページ
     team/[team].astro     球団別ページ(12球団分を自動生成)
     about/index.astro     このサイトについて
 scripts/
@@ -97,9 +98,13 @@ scripts/
 
 ## デザインについて
 
-初期状態はシンプルな実装を優先しています。今後 [Claude Code](https://www.anthropic.com/claude-code) 等でデザインを調整する場合は、
-`src/styles/global.css`(配色・テーマ変数)と `src/components/` 配下のコンポーネントを中心に編集してください。
-Tailwind CSS v4 を採用しているため、`@theme` ブロックの変数を変更するだけでもサイト全体の配色を一括調整できます。
+Claude Designで作成したモックアップ(エディトリアル/マガジン調、クリーム地+アクセントオレンジ)をベースに実装しています。
+配色はすべて `src/styles/global.css` の `:root` / `.dark` に定義したCSS変数(`--page-bg` `--text` `--accent` など)にまとまっているため、
+この変数を書き換えるだけでライト/ダーク両方の配色を一括調整できます。コンポーネント側は `var(--xxx)` を参照しているだけなので、
+`dark:` バリアントを個別に書き足す必要はありません。
+
+さらにデザインを調整する場合は、`src/styles/global.css` のテーマ変数と `src/components/` 配下(特に `NewsRow.astro` `FeaturedNews.astro`
+`TeamLinkRow.astro` `TeamChipLink.astro`)を中心に編集してください。
 
 ## 免責事項
 
