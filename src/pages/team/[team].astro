@@ -38,7 +38,7 @@ const ring = needsContrastRing(team.color);
 
   <section class="container-page" style="padding:20px 24px 64px;">
     {items.length > 0 ? (
-      items.map((item) => <NewsRow item={item} variant="full" showTeamLabel={false} />)
+      items.map((item) => <NewsRow item={item} variant="full" showTeamLabel={false} forceTeamId={team.id} />)
     ) : (
       <p style="font-size:14px; color:var(--text-muted); padding:24px 0;">
         現在、{team.short}に関するニュースがまだ取得されていません。次回の自動更新をお待ちください。

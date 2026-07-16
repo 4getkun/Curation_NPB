@@ -9,11 +9,17 @@ interface Props {
   variant?: "full" | "compact";
   /** false の場合、メタ行から球団名を省く(球団ページなど、既に球団が自明なとき) */
   showTeamLabel?: boolean;
+  /**
+   * 指定すると、記事側の判定結果(teams[0])に関わらずこの球団のドット色で
+   * 表示する。球団ページで「今見ている球団と違う色のドットが出て、別球団の
+   * 記事に見える」のを防ぐために使う。
+   */
+  forceTeamId?: string;
 }
 
-const { item, variant = "full", showTeamLabel = true } = Astro.props;
+const { item, variant = "full", showTeamLabel = true, forceTeamId } = Astro.props;
 
-const primary = item.teams[0] ? getTeam(item.teams[0]) : undefined;
+const primary = getTeam(forceTeamId ?? item.teams[0] ?? "");
 const dotColor = primary?.color ?? "var(--text-faint)";
 const teamShort = primary?.short ?? "総合";
 const dotRing = primary && needsContrastRing(primary.color) ? " box-shadow:0 0 0 1px var(--text-faint);" : "";

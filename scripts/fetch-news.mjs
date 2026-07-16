@@ -72,38 +72,119 @@ const parser = new Parser({
   },
 });
 
+/** keywords それぞれがテキスト中に出現する [開始位置, 終了位置) を全て返す */
+function findAllSpans(scanText, keywords) {
+  const spans = [];
+  for (const kw of keywords) {
+    let searchFrom = 0;
+    while (searchFrom <= scanText.length) {
+      const idx = scanText.indexOf(kw, searchFrom);
+      if (idx === -1) break;
+      spans.push([idx, idx + kw.length]);
+      searchFrom = idx + kw.length;
+    }
+  }
+  return spans;
+}
+
 /**
- * タイトル+説明文から該当する球団を判定する。
+ * キーワード群それぞれについて、テキスト中の「主役としての言及」の位置を返す。
+ * 除外する言及が2種類ある。
+ *  1.「◯◯戦」(=◯◯を相手にした試合、という意味の言い回し)としてしか
+ *    出てこないキーワードは、記事の主役ではなく対戦相手を指しているとみなす。
+ *  2. excludeSpansの範囲内に入っている言及(例:「千葉ロッテマリーンズ」という
+ *    長い一致の内部にたまたま含まれる「ロッテ」)は、実体としては1つの言及を
+ *    重複カウントしているだけなので除外する。
+ * それ以外の言及が一つでもあれば、その最初の位置を返す。
+ */
+function findSubjectIndex(scanText, keywords, excludeSpans = []) {
+  let subjectIndex = -1;
+  for (const kw of keywords) {
+    let searchFrom = 0;
+    while (searchFrom <= scanText.length) {
+      const idx = scanText.indexOf(kw, searchFrom);
+      if (idx === -1) break;
+      searchFrom = idx + kw.length;
+
+      const withinExcluded = excludeSpans.some(([start, end]) => idx >= start && idx < end);
+      if (withinExcluded) continue;
+
+      const isOpponentMention = scanText.slice(idx + kw.length, idx + kw.length + 1) === "戦";
+      if (!isOpponentMention && (subjectIndex === -1 || idx < subjectIndex)) {
+        subjectIndex = idx;
+      }
+    }
+  }
+  return subjectIndex;
+}
+
+/**
+ * 指定したテキストの中から該当する球団を、文中での出現位置が早い順に返す。
  * strongKeywords（正式名称・愛称。他分野と混同しにくい）は単独でヒット扱い。
  * shortKeywords（「巨人」「中日」「楽天」など、企業名・地名としても使われる
  * 曖昧な略称）は、bracketHit（見出し冒頭の【○○】表記）か野球文脈の裏付けが
  * ある場合のみヒット扱いにする。
+ * どちらのキーワード種別でも、「◯◯戦」形の対戦相手としての言及しかない
+ * 場合はヒットさせない(findSubjectIndex参照)。また、shortKeywordsの一致が
+ * strongKeywordsの一致の内部に埋もれている場合(「千葉ロッテマリーンズ」の
+ * 中の「ロッテ」等)も、二重カウントを避けるため除外する。
  */
-function matchTeamsDetailed(title, haystack) {
-  const bracketMatch = title.match(/^[【\[]([^】\]]+)[】\]]/);
-  const bracketText = bracketMatch ? bracketMatch[1] : "";
-  const hasBaseballContext =
-    haystack.includes("プロ野球") || matchesGeneralNpb(haystack);
-
-  const strong = [];
-  const weak = [];
+function collectTeamHits(scanText, bracketText, hasBaseballContext) {
+  const hits = [];
 
   for (const team of TEAMS) {
-    const strongHit = team.strongKeywords.some((kw) => haystack.includes(kw));
-    if (strongHit) {
-      strong.push(team.id);
+    const strongSpans = findAllSpans(scanText, team.strongKeywords);
+    const strongIndex = findSubjectIndex(scanText, team.strongKeywords);
+    if (strongIndex !== -1) {
+      hits.push({ id: team.id, index: strongIndex });
       continue;
     }
-    const shortHit = team.shortKeywords.some((kw) => haystack.includes(kw));
-    if (!shortHit) continue;
+
+    const shortKw = team.shortKeywords.find((kw) => scanText.includes(kw));
+    if (!shortKw) continue;
 
     const bracketHit = team.shortKeywords.some((kw) => bracketText.includes(kw));
     if (bracketHit || hasBaseballContext) {
-      weak.push(team.id);
+      const shortIndex = findSubjectIndex(scanText, team.shortKeywords, strongSpans);
+      if (shortIndex !== -1) {
+        hits.push({ id: team.id, index: shortIndex });
+      }
     }
   }
 
-  return { strong, weak, all: [...new Set([...strong, ...weak])] };
+  hits.sort((a, b) => a.index - b.index);
+  return hits.map((h) => h.id);
+}
+
+/**
+ * 球団判定のメイン処理。3段階のフォールバックで判定する。
+ *
+ * 試合結果系の記事は、本文(summary)側に必ず対戦相手の球団名が出てくる
+ * (例:「阪神タイガース戦に先発出場」)。タイトル+本文をまとめて1つの
+ * テキストとして判定すると、記事の主役ではない「対戦相手」まで一緒に
+ * 球団タグとして付いてしまい、その球団のページに無関係な記事が
+ * 紛れ込む原因になっていた。
+ *
+ * 1. タイトルだけで判定(通常ルール: 曖昧な略称は野球文脈が必要)
+ * 2. 1で何もヒットしない場合、タイトルだけで再判定(略称の野球文脈チェックを
+ *    外す)。タイトルは本文と違って簡潔なので、多少緩めても「巨人の4番…」の
+ *    ような自然な見出しを拾える
+ * 3. 2でもヒットしない場合(見出しに球団名が一切ない)だけ、本文も含めて
+ *    通常ルールで判定する
+ */
+function matchTeamsForItem(title, summary, feedScoped) {
+  const bracketMatch = title.match(/^[【\[]([^】\]]+)[】\]]/);
+  const bracketText = bracketMatch ? bracketMatch[1] : "";
+
+  const titleHits = collectTeamHits(title, bracketText, feedScoped || matchesGeneralNpb(title));
+  if (titleHits.length > 0) return titleHits;
+
+  const titleHitsRelaxed = collectTeamHits(title, bracketText, true);
+  if (titleHitsRelaxed.length > 0) return titleHitsRelaxed;
+
+  const combined = `${title} ${summary}`;
+  const hasBaseballContext = feedScoped || matchesGeneralNpb(combined);
+  return collectTeamHits(combined, bracketText, hasBaseballContext);
 }
 
 function matchesGeneralNpb(text) {
@@ -148,15 +229,15 @@ async function fetchFeed(feed) {
       // 高校野球など対象外カテゴリの記事は、球団名を含んでいても除外する
       if (OUT_OF_SCOPE_KEYWORDS.some((kw) => haystack.includes(kw))) continue;
 
-      const { strong, weak, all: teamHits } = matchTeamsDetailed(title, haystack);
+      const teamHits = matchTeamsForItem(title, summary, feed.scoped);
       const generalHit = matchesGeneralNpb(haystack);
 
       // scoped=true のフィード(専門メディアのNPBカテゴリ)は無条件で採用。
-      // scoped=false (総合スポーツフィード)は「強キーワード一致」「弱キーワード
-      // ＋野球文脈」「一般NPBキーワード」のいずれかがある記事だけを採用し、
-      // 他競技・他分野の記事(例:「楽天」→通販、「中日」→新聞社 等)を除外する。
+      // scoped=false (総合スポーツフィード)は「球団ヒットあり」「一般NPB
+      // キーワードあり」のいずれかがある記事だけを採用し、他競技・他分野の
+      // 記事(例:「楽天」→通販、「中日」→新聞社 等)を除外する。
       if (!feed.scoped) {
-        const isRelevant = strong.length > 0 || weak.length > 0 || generalHit;
+        const isRelevant = teamHits.length > 0 || generalHit;
         if (!isRelevant) continue;
       }
 
