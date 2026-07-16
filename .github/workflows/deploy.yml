@@ -1,16 +1,22 @@
 name: Build and deploy to GitHub Pages
 
 # 実行タイミング:
-#  - main への push(コード変更時)
+#  - master への push(コード変更時)
 #  - 30分ごとのスケジュール実行(ニュースの自動更新のため)
 #  - 手動実行(workflow_dispatch)
 #
 # 補足: news.json の自動コミットもこのワークフロー内で行う。GITHUB_TOKEN による
 # pushはGitHub側の仕様で別ワークフローの再トリガーを起こさないため、
 # 「更新→ビルド→デプロイ」を1本のワークフローにまとめて完結させている。
+#
+# 注意: このリポジトリのデフォルトブランチはmasterのため、mainではなくmaster
+# を対象にしている。あわせてリポジトリの Settings → Environments →
+# github-pages → Deployment branches and tags で master からのデプロイを
+# 許可しておく必要がある(未設定だと "environment protection rules" エラーで
+# デプロイが拒否される)。
 on:
   push:
-    branches: [main]
+    branches: [master]
   schedule:
     - cron: "*/30 * * * *"
   workflow_dispatch: {}
