@@ -1,7 +1,302 @@
 {
-  "generatedAt": "2026-07-16T20:51:39.344Z",
-  "count": 177,
+  "generatedAt": "2026-07-16T21:42:00.929Z",
+  "count": 191,
   "items": [
+    {
+      "title": "レイエスが大激走も本塁アウト！ ソフトバンクの“昨季GG二塁手”が判定覆す衝撃返球(ベースボールチャンネル)",
+      "summary": "福岡ソフトバンクホークスの牧原大成は16日、エスコンフィールドHOKKAIDOで行われた北海道日本ハムファイターズ戦に「3番・二塁」で先発出場。4回、中継プレーからの好返球で走者を本塁タッチアウトに",
+      "link": "https://news.yahoo.co.jp/articles/92b59f39c1b2f2765f08af7460842967e0b4727b?source=rss",
+      "pubDate": "2026-07-16T21:40:32.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "hawks"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/92b59f39c1b2f2765f08af7460842967e0b4727b?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【舞洲Heroes】オリックス・東山玲士、TJ手術から1年2か月、実績を残し支配下へアピール。「野球ができるのが一番の幸せ」",
+      "summary": "オリックスの2年目右腕、東山玲士投手がトミー・ジョン（TJ）手術からの復活を果たし、支配下再登録に向けてアピールを続けている。 「楽しいですね、やっぱり。野球ができるのが一番の幸せですね」。2軍戦で4度目の登板を終え […]",
+      "link": "https://baseballking.jp/ns/701656/",
+      "pubDate": "2026-07-16T21:40:00.000Z",
+      "source": "BASEBALL KING",
+      "sourceId": "baseballking",
+      "teams": [
+        "buffaloes"
+      ],
+      "topics": [
+        "injury"
+      ],
+      "sources": [
+        {
+          "name": "BASEBALL KING",
+          "sourceId": "baseballking",
+          "link": "https://baseballking.jp/ns/701656/"
+        },
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/1d3cfc417516c4bc13b5bc49044b8072acee7c3b?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "ヤクルト・増居、先発の役割果たす 齊藤明雄氏「6回、7回まで行けるピッチングをした」",
+      "summary": "16日にフジテレビONEで放送された『プロ野球ニュース2026』に出演した齊藤明雄氏が、同日の巨人戦に先発したヤクルト・増居翔太について言及した。 プロ初勝利を挙げた4月19日の巨人戦以来の一軍先発となった増居は、4 […]",
+      "link": "https://baseballking.jp/ns/701646/",
+      "pubDate": "2026-07-16T21:40:00.000Z",
+      "source": "BASEBALL KING",
+      "sourceId": "baseballking",
+      "teams": [
+        "swallows"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "BASEBALL KING",
+          "sourceId": "baseballking",
+          "link": "https://baseballking.jp/ns/701646/"
+        },
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/92c04b8545d35ad27bf9a3c62f222ede6207007f?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "巨人・ウィットリー、過去に被弾の助っ人を警戒「一振りで試合を変える」４勝目へ１７日・中日戦に先発(スポーツ報知)",
+      "summary": "巨人のＦ・ウィットリー投手（２８）が、４勝目をかけて１７日の中日戦（東京Ｄ）に先発する。同戦の先発は今季早くも５度目で、３戦連続のマッチアップとなる左腕・大野とはここまで１勝１敗。「何回も自分の球を",
+      "link": "https://news.yahoo.co.jp/articles/19e183ebd0941f8ed92525f9c92351207806c458?source=rss",
+      "pubDate": "2026-07-16T21:30:06.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "giants"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/19e183ebd0941f8ed92525f9c92351207806c458?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【きょうのプロ野球】7月17日の対戦カード・試合開始時間・予告先発投手は？(ベースボールチャンネル)",
+      "summary": "プロ野球は17日、対戦カード・開催球場・試合開始時間・予告先発投手を以下のとおりで行う。 ■セ・リーグ 巨人 ー 中日（東京ドーム・18時） 予告先発：F．ウィットリー（巨人）、大野雄大（中日）",
+      "link": "https://news.yahoo.co.jp/articles/04648786e4851788426e3cf7f6745d30bbaf43d3?source=rss",
+      "pubDate": "2026-07-16T21:30:02.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "giants",
+        "dragons"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/04648786e4851788426e3cf7f6745d30bbaf43d3?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "阪神・濱田太貴、移籍後初本塁打！笘篠氏「チームの勝利に貢献できる仕事ができた時が一番嬉しかった」",
+      "summary": "16日にフジテレビONEで放送された『プロ野球ニュース2026』に出演した笘篠賢治氏が、阪神・濱田太貴について言及した。 濱田は同日の中日戦、2－1の8回無死走者なしの場面に代打で登場すると、牧野憲伸からレフトホーム […]",
+      "link": "https://baseballking.jp/ns/701638/",
+      "pubDate": "2026-07-16T21:30:00.000Z",
+      "source": "BASEBALL KING",
+      "sourceId": "baseballking",
+      "teams": [
+        "tigers"
+      ],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "BASEBALL KING",
+          "sourceId": "baseballking",
+          "link": "https://baseballking.jp/ns/701638/"
+        },
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/075be1848bf9c7d984a6076d06594a0625d7f611?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "中日・柳、6回まで阪神打線をノーヒットピッチングも…齊藤明雄氏「もったいない1球」",
+      "summary": "16日にフジテレビONEで放送された『プロ野球ニュース2026』に出演した齊藤明雄氏が、同日の阪神戦に先発した中日・柳裕也について言及した。 柳は6回まで阪神打線をノーヒットに抑えるピッチング。ノーヒットノーランも見 […]",
+      "link": "https://baseballking.jp/ns/701636/",
+      "pubDate": "2026-07-16T21:20:00.000Z",
+      "source": "BASEBALL KING",
+      "sourceId": "baseballking",
+      "teams": [
+        "dragons",
+        "tigers"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "BASEBALL KING",
+          "sourceId": "baseballking",
+          "link": "https://baseballking.jp/ns/701636/"
+        },
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/05c14ccd672572b2c175e693798ab38c37dfe9f6?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "プロ野球、夏のトレード予想 「くすぶっている逸材」は誰だ!? 移籍期限まであとわずか。各球団の補強ポイントを徹底分析！ (週プレNEWS)",
+      "summary": "7月末のトレード期限まで3週間を切った。打撃力不足に頭を抱える球団、先発の頭数が足りない球団など、セ・パ各球団の補強ポイントに合致する即戦力を一挙紹介！ ※成績はすべて7月6日現在 ＊ ＊ ＊",
+      "link": "https://news.yahoo.co.jp/articles/2378487f3a03be48f74da86d8cdd719fe40bfb06?source=rss",
+      "pubDate": "2026-07-16T21:18:10.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/2378487f3a03be48f74da86d8cdd719fe40bfb06?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【中日】昨年と一転…今年は虎に大苦戦 井上監督は大山悠輔の〝好判断〟に脱帽「機転を利かせたいい守備」(東スポWEB)",
+      "summary": "虎の4番にまたしてもやられた。中日は16日の阪神戦（バンテリン）に1―3で敗れ、借金「18」。6回までノーヒットピッチングだった先発・柳裕也投手（31）が1点リードの7回、佐藤に逆転2ランをバックス",
+      "link": "https://news.yahoo.co.jp/articles/30eb1b36981afa8fdc335244ea0178f8728ddfa4?source=rss",
+      "pubDate": "2026-07-16T21:15:32.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "dragons"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/30eb1b36981afa8fdc335244ea0178f8728ddfa4?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【ヤクルト】池山監督 ついに貯金「０」も…若燕育成にブレなし「接戦で選手たちは成長する」(東スポWEB)",
+      "summary": "セ3位・ヤクルトは16日の2位・巨人戦（神宮）に1―3で惜敗。最大「11」あった貯金もついに底をつき、両チームのゲーム差も3・5まで広がった。 先発はおよそ3か月ぶりに一軍のマウンドに立った増居",
+      "link": "https://news.yahoo.co.jp/articles/afcd132dd773ede3e148921154ebe643f496cc07?source=rss",
+      "pubDate": "2026-07-16T21:15:32.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "swallows"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/afcd132dd773ede3e148921154ebe643f496cc07?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【ソフトバンク】上茶谷大河 復活支えた〝情報収集気質〟 同僚も感服「学ばせてもらっている」(東スポWEB)",
+      "summary": "ソフトバンクは16日の日本ハム戦（エスコン）に6―2で逆転勝ちを収めた。約3年ぶりの先発マウンドとなった上茶谷大河投手（29）が6回2失点の熱投で、1406日ぶりとなる先発勝利を挙げた。 首脳陣",
+      "link": "https://news.yahoo.co.jp/articles/697d2e3e23a8b56b1f55ec2a8ec7b572742faf08?source=rss",
+      "pubDate": "2026-07-16T21:15:32.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "hawks"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/697d2e3e23a8b56b1f55ec2a8ec7b572742faf08?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【日本ハム】チームは依然、劣勢も…新庄監督 宿敵討伐と逆転Ｖに〝怪気炎〟のワケ(東スポWEB)",
+      "summary": "手応えを感じているからこその発言か。日本ハムの新庄剛志監督（54）が宿敵討伐と逆転Vに向け不気味な怪気炎を上げている。 チームは16日のソフトバンク戦（エスコン）に2―6で敗戦。これで首位を走る",
+      "link": "https://news.yahoo.co.jp/articles/c7dd32d77428e0eb6a92b90ef8b49c7ab64d4af4?source=rss",
+      "pubDate": "2026-07-16T21:15:32.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "fighters"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/c7dd32d77428e0eb6a92b90ef8b49c7ab64d4af4?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "ヤクルト・丸山、巨人・笹原に決勝被弾…齊藤明雄氏「フォークだからいいだろうという感じで投げたように見えますね」",
+      "summary": "16日にフジテレビONEで放送された『プロ野球ニュース2026』に出演した齊藤明雄氏が、同日の巨人戦で決勝被弾を浴びたヤクルト・丸山翔大について言及した。 丸山は1－1の7回に登板し、先頭のダルベックにライト前に運ば […]",
+      "link": "https://baseballking.jp/ns/701641/",
+      "pubDate": "2026-07-16T21:10:00.000Z",
+      "source": "BASEBALL KING",
+      "sourceId": "baseballking",
+      "teams": [
+        "swallows",
+        "giants"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "BASEBALL KING",
+          "sourceId": "baseballking",
+          "link": "https://baseballking.jp/ns/701641/"
+        }
+      ]
+    },
+    {
+      "title": "【DeNA】故障で２軍調整中の京田陽太が、18日のファーム・リーグの日本ハム戦で実戦復帰へ(日刊スポーツ)",
+      "summary": "下半身のコンディション不良で2軍調整中のDeNA京田陽太内野手（32）が、順調なら18日のファーム・リーグの日本ハム戦で実戦復帰する可能性が浮上した。 6月13日のロッテ戦の走塁中に負傷し、同1",
+      "link": "https://news.yahoo.co.jp/articles/b77489c814b2285e6dfef6717c859e4c0297e2fd?source=rss",
+      "pubDate": "2026-07-16T21:00:00.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "baystars"
+      ],
+      "topics": [
+        "injury"
+      ],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/b77489c814b2285e6dfef6717c859e4c0297e2fd?source=rss"
+        }
+      ]
+    },
     {
       "title": "【巨人記録室】笹原操希、２本目の決勝弾は球団育成出身最多(スポーツ報知)",
       "summary": "◆ＪＥＲＡセ・リーグ ヤクルト１―３巨人（１６日・神宮） 巨人が笹原操希（みさき）外野手（２２）の一振りで２連勝し、ヤクルト戦で今季初のカード勝ち越しを決めた。同点の７回、右翼ポール際に決勝２ラン",
@@ -83,8 +378,8 @@
       "summary": "中日森博人投手（28）と宮内春輝投手（30）が16日、支配下登録されることが決まり、バンテリンドームで会見した。背番号は森博が「62」、宮内は「53」に決定。 同席した井上監督は、「（森は）ファ",
       "link": "https://news.yahoo.co.jp/articles/9002ec5e1c6564d0d77fbf9350f81a1c956b5e9f?source=rss",
       "pubDate": "2026-07-16T20:30:02.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
       "teams": [
         "dragons"
       ],
@@ -93,8 +388,8 @@
       ],
       "sources": [
         {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/9002ec5e1c6564d0d77fbf9350f81a1c956b5e9f?source=rss"
         }
       ]
@@ -123,16 +418,16 @@
       "summary": "DeNAは伊勢大夢投手（28）、蝦名達夫外野手（28）が文部科学省・水産庁後援の全国食育プロジェクト「第6回 えび丸ごと夢の料理コンテスト2026」の審査員に就任したことを発表した。",
       "link": "https://news.yahoo.co.jp/articles/7775953c1de912fb98f80927cbcb6402d9f9aa14?source=rss",
       "pubDate": "2026-07-16T20:30:01.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
       "teams": [
         "baystars"
       ],
       "topics": [],
       "sources": [
         {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/7775953c1de912fb98f80927cbcb6402d9f9aa14?source=rss"
         }
       ]
