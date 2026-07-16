@@ -1,0 +1,38 @@
+[
+  {
+    "id": "full-count-npb",
+    "name": "Full-Count（プロ野球）",
+    "url": "https://full-count.jp/category/npb/feed/",
+    "scoped": true
+  },
+  {
+    "id": "baseballchannel-npb",
+    "name": "ベースボールチャンネル（プロ野球）",
+    "url": "https://www.baseballchannel.jp/npb/feed/",
+    "scoped": true
+  },
+  {
+    "id": "baseballking",
+    "name": "BASEBALL KING",
+    "url": "https://baseballking.jp/feed/",
+    "scoped": false
+  },
+  {
+    "id": "baseballgate",
+    "name": "BASEBALL GATE",
+    "url": "https://baseballgate.jp/feed/",
+    "scoped": false
+  },
+  {
+    "id": "yahoo-nikkansports",
+    "name": "日刊スポーツ（Yahoo!ニュース経由）",
+    "url": "https://news.yahoo.co.jp/rss/media/nksports/all.xml",
+    "scoped": false
+  },
+  {
+    "id": "yahoo-sports",
+    "name": "Yahoo!ニュース スポーツ",
+    "url": "https://news.yahoo.co.jp/rss/categories/sports.xml",
+    "scoped": false
+  }
+]

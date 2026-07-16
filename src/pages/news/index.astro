@@ -1,0 +1,101 @@
+---
+import Base from "../../layouts/Base.astro";
+import NewsCard from "../../components/NewsCard.astro";
+import { allNews, newsGeneratedAt, formatGeneratedAt } from "../../lib/news";
+import { teams } from "../../lib/teams";
+---
+
+<Base title="ニュース一覧" description="NPB12球団の最新ニュースを一覧でチェック。球団ごとの絞り込みにも対応。">
+  <section class="container-page py-10">
+    <h1 class="font-display text-2xl font-black text-ink-900 dark:text-white">ニュース一覧</h1>
+    {newsGeneratedAt && (
+      <p class="mt-1 text-xs text-slate-400">
+        最終更新: {formatGeneratedAt(newsGeneratedAt)}（自動更新） / 全{allNews.length}件
+      </p>
+    )}
+
+    <!-- 球団フィルター -->
+    <div class="mt-6 flex flex-wrap gap-2" id="team-filter">
+      <button
+        type="button"
+        data-team="all"
+        class="filter-btn is-active rounded-full border px-3 py-1.5 text-xs font-bold"
+      >
+        すべて
+      </button>
+      {teams.map((team) => (
+        <button
+          type="button"
+          data-team={team.id}
+          class="filter-btn rounded-full border px-3 py-1.5 text-xs font-bold"
+        >
+          {team.short}
+        </button>
+      ))}
+    </div>
+
+    <div id="news-grid" class="mt-8 grid gap-5 sm:grid-cols-2 lg:grid-cols-3">
+      {allNews.map((item) => (
+        <div class="news-item" data-teams={item.teams.join(",")}>
+          <NewsCard item={item} />
+        </div>
+      ))}
+    </div>
+
+    <p id="empty-message" class="hidden mt-10 text-center text-sm text-slate-500">
+      該当するニュースが見つかりませんでした。
+    </p>
+  </section>
+</Base>
+
+<style>
+  .filter-btn {
+    border-color: var(--color-slate-200, #e2e8f0);
+    color: var(--color-ink-700, #2a3752);
+    background: white;
+  }
+  .filter-btn.is-active {
+    background-color: var(--color-accent-500, #ff5722);
+    border-color: var(--color-accent-500, #ff5722);
+    color: white;
+  }
+  :global(.dark) .filter-btn {
+    background: transparent;
+    border-color: #2a3752;
+    color: #e2e8f0;
+  }
+  :global(.dark) .filter-btn.is-active {
+    background-color: var(--color-accent-500, #ff5722);
+    border-color: var(--color-accent-500, #ff5722);
+    color: white;
+  }
+</style>
+
+<script is:inline>
+  (function () {
+    const buttons = document.querySelectorAll("#team-filter .filter-btn");
+    const items = document.querySelectorAll("#news-grid .news-item");
+    const emptyMessage = document.getElementById("empty-message");
+
+    function applyFilter(teamId) {
+      let visibleCount = 0;
+      items.forEach((el) => {
+        const teams = (el.getAttribute("data-teams") || "").split(",");
+        const show = teamId === "all" || teams.includes(teamId);
+        el.style.display = show ? "" : "none";
+        if (show) visibleCount++;
+      });
+      if (emptyMessage) {
+        emptyMessage.classList.toggle("hidden", visibleCount !== 0);
+      }
+    }
+
+    buttons.forEach((btn) => {
+      btn.addEventListener("click", () => {
+        buttons.forEach((b) => b.classList.remove("is-active"));
+        btn.classList.add("is-active");
+        applyFilter(btn.getAttribute("data-team") || "all");
+      });
+    });
+  })();
+</script>

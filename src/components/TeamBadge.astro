@@ -1,0 +1,27 @@
+---
+import { getTeam } from "../lib/teams";
+import { withBase } from "../lib/url";
+
+interface Props {
+  teamId: string;
+  size?: "sm" | "md";
+  linked?: boolean;
+}
+
+const { teamId, size = "sm", linked = true } = Astro.props;
+const team = getTeam(teamId);
+if (!team) throw new Error(`Unknown team id: ${teamId}`);
+
+const LIGHT_BG = new Set(["#FFE201", "#FFD700"]);
+const textColor = LIGHT_BG.has(team.color) ? "#1b263b" : "#ffffff";
+const sizeClass = size === "md" ? "text-sm px-3 py-1" : "text-[11px] px-2 py-0.5";
+const Tag = linked ? "a" : "span";
+---
+
+<Tag
+  href={linked ? withBase(`/team/${team.id}/`) : undefined}
+  class:list={["badge", sizeClass, linked && "hover:opacity-90"]}
+  style={`background-color:${team.color}; color:${textColor}`}
+>
+  {team.short}
+</Tag>

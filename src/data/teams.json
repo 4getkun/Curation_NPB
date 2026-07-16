@@ -1,0 +1,122 @@
+[
+  {
+    "id": "giants",
+    "league": "central",
+    "name": "読売ジャイアンツ",
+    "short": "巨人",
+    "shortKeywords": ["巨人"],
+    "strongKeywords": ["読売ジャイアンツ", "ジャイアンツ"],
+    "color": "#F97709",
+    "colorDark": "#B85400"
+  },
+  {
+    "id": "tigers",
+    "league": "central",
+    "name": "阪神タイガース",
+    "short": "阪神",
+    "shortKeywords": ["阪神"],
+    "strongKeywords": ["阪神タイガース", "タイガース"],
+    "color": "#FFE201",
+    "colorDark": "#8A7A00"
+  },
+  {
+    "id": "carp",
+    "league": "central",
+    "name": "広島東洋カープ",
+    "short": "広島",
+    "shortKeywords": ["広島"],
+    "strongKeywords": ["広島東洋カープ", "カープ"],
+    "color": "#FF0012",
+    "colorDark": "#A5000C"
+  },
+  {
+    "id": "baystars",
+    "league": "central",
+    "name": "横浜DeNAベイスターズ",
+    "short": "DeNA",
+    "shortKeywords": ["横浜", "DeNA"],
+    "strongKeywords": ["横浜DeNAベイスターズ", "ベイスターズ"],
+    "color": "#0058A2",
+    "colorDark": "#003D70"
+  },
+  {
+    "id": "swallows",
+    "league": "central",
+    "name": "東京ヤクルトスワローズ",
+    "short": "ヤクルト",
+    "shortKeywords": ["ヤクルト"],
+    "strongKeywords": ["東京ヤクルトスワローズ", "スワローズ"],
+    "color": "#003595",
+    "colorDark": "#00205E"
+  },
+  {
+    "id": "dragons",
+    "league": "central",
+    "name": "中日ドラゴンズ",
+    "short": "中日",
+    "shortKeywords": ["中日"],
+    "strongKeywords": ["中日ドラゴンズ", "ドラゴンズ"],
+    "color": "#003DA5",
+    "colorDark": "#002B73"
+  },
+  {
+    "id": "hawks",
+    "league": "pacific",
+    "name": "福岡ソフトバンクホークス",
+    "short": "ソフトバンク",
+    "shortKeywords": ["ソフトバンク"],
+    "strongKeywords": ["福岡ソフトバンクホークス", "ホークス"],
+    "color": "#FFD700",
+    "colorDark": "#8A7500"
+  },
+  {
+    "id": "lions",
+    "league": "pacific",
+    "name": "埼玉西武ライオンズ",
+    "short": "西武",
+    "shortKeywords": ["西武"],
+    "strongKeywords": ["埼玉西武ライオンズ", "ライオンズ"],
+    "color": "#00429B",
+    "colorDark": "#002E6D"
+  },
+  {
+    "id": "marines",
+    "league": "pacific",
+    "name": "千葉ロッテマリーンズ",
+    "short": "ロッテ",
+    "shortKeywords": ["ロッテ"],
+    "strongKeywords": ["千葉ロッテマリーンズ", "マリーンズ"],
+    "color": "#000000",
+    "colorDark": "#000000"
+  },
+  {
+    "id": "eagles",
+    "league": "pacific",
+    "name": "東北楽天ゴールデンイーグルス",
+    "short": "楽天",
+    "shortKeywords": ["楽天"],
+    "strongKeywords": ["東北楽天ゴールデンイーグルス", "イーグルス"],
+    "color": "#870010",
+    "colorDark": "#5C000B"
+  },
+  {
+    "id": "buffaloes",
+    "league": "pacific",
+    "name": "オリックス・バファローズ",
+    "short": "オリックス",
+    "shortKeywords": ["オリックス"],
+    "strongKeywords": ["オリックス・バファローズ", "バファローズ"],
+    "color": "#001C57",
+    "colorDark": "#00123B"
+  },
+  {
+    "id": "fighters",
+    "league": "pacific",
+    "name": "北海道日本ハムファイターズ",
+    "short": "日本ハム",
+    "shortKeywords": ["日本ハム"],
+    "strongKeywords": ["北海道日本ハムファイターズ", "ファイターズ"],
+    "color": "#4D97CD",
+    "colorDark": "#2E6996"
+  }
+]

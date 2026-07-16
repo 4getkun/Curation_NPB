@@ -1,0 +1,44 @@
+---
+import Base from "../../layouts/Base.astro";
+import NewsCard from "../../components/NewsCard.astro";
+import { teams, getTeam } from "../../lib/teams";
+import { newsForTeam } from "../../lib/news";
+
+export function getStaticPaths() {
+  return teams.map((team) => ({
+    params: { team: team.id },
+    props: { team },
+  }));
+}
+
+const { team } = Astro.props;
+const items = newsForTeam(team.id);
+const leagueLabel = team.league === "central" ? "セントラル・リーグ" : "パシフィック・リーグ";
+---
+
+<Base title={`${team.name}のニュース`} description={`${team.name}(${team.short})の最新ニュースまとめ。広告なしで読めるNPBキュレーションサイト。`}>
+  <section
+    class="text-white py-12"
+    style={`background: linear-gradient(135deg, ${team.color}, ${team.colorDark})`}
+  >
+    <div class="container-page">
+      <p class="text-xs font-bold tracking-widest opacity-80">{leagueLabel}</p>
+      <h1 class="font-display mt-2 text-3xl font-black">{team.name}</h1>
+      <p class="mt-1 text-sm opacity-90">最新ニュース {items.length}件</p>
+    </div>
+  </section>
+
+  <section class="container-page py-10">
+    {items.length > 0 ? (
+      <div class="grid gap-5 sm:grid-cols-2 lg:grid-cols-3">
+        {items.map((item) => (
+          <NewsCard item={item} />
+        ))}
+      </div>
+    ) : (
+      <p class="text-sm text-slate-500">
+        現在、{team.short}に関するニュースがまだ取得されていません。次回の自動更新をお待ちください。
+      </p>
+    )}
+  </section>
+</Base>

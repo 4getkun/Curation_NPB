@@ -1,0 +1,128 @@
+---
+import Base from "../layouts/Base.astro";
+import NewsCard from "../components/NewsCard.astro";
+import TeamBadge from "../components/TeamBadge.astro";
+import { allNews, newsGeneratedAt, formatGeneratedAt } from "../lib/news";
+import { teams, centralTeams, pacificTeams } from "../lib/teams";
+import { withBase } from "../lib/url";
+
+const [featured, ...rest] = allNews;
+const latest = rest.slice(0, 11);
+---
+
+<Base title="NPB Curation" description="広告ゼロで読める、NPB(日本プロ野球)12球団の最新ニュース・まとめキュレーションサイト。">
+  <!-- Hero -->
+  <section class="relative overflow-hidden bg-ink-950 text-white">
+    <div class="absolute inset-0 opacity-20 [background:radial-gradient(circle_at_20%_20%,#ff5722,transparent_45%),radial-gradient(circle_at_80%_0%,#16a34a,transparent_40%)]"></div>
+    <div class="container-page relative py-16 sm:py-24">
+      <p class="inline-flex items-center gap-2 rounded-full bg-white/10 px-4 py-1 text-xs font-bold tracking-wide">
+        広告ゼロ・トラッキングなしのNPBキュレーション
+      </p>
+      <h1 class="font-display mt-5 max-w-2xl text-3xl font-black leading-tight text-balance sm:text-5xl">
+        12球団のニュースを、<br class="hidden sm:block" />ノイズなく一箇所で。
+      </h1>
+      <p class="mt-4 max-w-xl text-sm text-slate-300 sm:text-base">
+        セ・パ12球団の最新ニュースと話題を自動収集。バナー広告も追跡もない、読むことだけに集中できるキュレーションサイトです。
+      </p>
+      <div class="mt-8 flex flex-wrap gap-3">
+        <a href={withBase("/news/")} class="rounded-full bg-accent-500 px-6 py-3 text-sm font-bold hover:bg-accent-600 transition-colors">
+          最新ニュース一覧を見る
+        </a>
+        <a href="#teams" class="rounded-full border border-white/30 px-6 py-3 text-sm font-bold hover:bg-white/10 transition-colors">
+          球団から探す
+        </a>
+      </div>
+      {newsGeneratedAt && (
+        <p class="mt-6 text-xs text-slate-400">
+          最終更新: {formatGeneratedAt(newsGeneratedAt)}（自動更新）
+        </p>
+      )}
+    </div>
+  </section>
+
+  <!-- Featured + Latest -->
+  <section class="container-page py-12">
+    <div class="flex items-end justify-between mb-6">
+      <h2 class="font-display text-xl font-black text-ink-900 dark:text-white">最新ニュース</h2>
+      <a href={withBase("/news/")} class="text-sm font-bold text-accent-600 link-underline">すべて見る →</a>
+    </div>
+
+    {featured && (
+      <div class="mb-6">
+        <NewsCard item={featured} featured />
+      </div>
+    )}
+
+    {latest.length > 0 ? (
+      <div class="grid gap-5 sm:grid-cols-2 lg:grid-cols-3">
+        {latest.map((item) => (
+          <NewsCard item={item} />
+        ))}
+      </div>
+    ) : (
+      <p class="text-sm text-slate-500">
+        まだニュースが取得されていません。GitHub Actions の自動収集ワークフローが実行されると、ここに最新記事が並びます。
+      </p>
+    )}
+  </section>
+
+  <!-- Team grid -->
+  <section id="teams" class="bg-white dark:bg-ink-900 py-14 border-t border-slate-200/70 dark:border-ink-700">
+    <div class="container-page">
+      <h2 class="font-display text-xl font-black text-ink-900 dark:text-white mb-1">球団から探す</h2>
+      <p class="text-sm text-slate-500 dark:text-slate-400 mb-8">セ・リーグ、パ・リーグ全12球団のニュースをチームごとに確認できます。</p>
+
+      <div class="grid gap-6 lg:grid-cols-2">
+        <div>
+          <p class="mb-3 text-xs font-black tracking-widest text-slate-400">セントラル・リーグ</p>
+          <div class="grid grid-cols-2 sm:grid-cols-3 gap-3">
+            {centralTeams.map((team) => (
+              <a
+                href={withBase(`/team/${team.id}/`)}
+                class="card flex items-center gap-3 p-4"
+              >
+                <span class="h-9 w-9 shrink-0 rounded-full" style={`background-color:${team.color}`}></span>
+                <span class="font-bold text-sm text-ink-900 dark:text-white">{team.short}</span>
+              </a>
+            ))}
+          </div>
+        </div>
+        <div>
+          <p class="mb-3 text-xs font-black tracking-widest text-slate-400">パシフィック・リーグ</p>
+          <div class="grid grid-cols-2 sm:grid-cols-3 gap-3">
+            {pacificTeams.map((team) => (
+              <a
+                href={withBase(`/team/${team.id}/`)}
+                class="card flex items-center gap-3 p-4"
+              >
+                <span class="h-9 w-9 shrink-0 rounded-full" style={`background-color:${team.color}`}></span>
+                <span class="font-bold text-sm text-ink-900 dark:text-white">{team.short}</span>
+              </a>
+            ))}
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Value props -->
+  <section class="container-page py-14">
+    <div class="grid gap-6 sm:grid-cols-3">
+      <div class="card p-6">
+        <p class="text-2xl">🚫📢</p>
+        <p class="mt-3 font-bold text-ink-900 dark:text-white">広告・トラッキング一切なし</p>
+        <p class="mt-1 text-sm text-slate-500 dark:text-slate-400">バナー広告や追跡スクリプトを使わず、記事を読むことに集中できます。</p>
+      </div>
+      <div class="card p-6">
+        <p class="text-2xl">🔄</p>
+        <p class="mt-3 font-bold text-ink-900 dark:text-white">自動更新のキュレーション</p>
+        <p class="mt-1 text-sm text-slate-500 dark:text-slate-400">複数の野球専門メディアのRSSを定期的に集約し、球団別に自動振り分けしています。</p>
+      </div>
+      <div class="card p-6">
+        <p class="text-2xl">⚡</p>
+        <p class="mt-3 font-bold text-ink-900 dark:text-white">高速な静的サイト</p>
+        <p class="mt-1 text-sm text-slate-500 dark:text-slate-400">GitHub Pages上の静的サイトとして配信しているため表示が軽快です。</p>
+      </div>
+    </div>
+  </section>
+</Base>
