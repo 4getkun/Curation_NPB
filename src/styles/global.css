@@ -5,17 +5,52 @@
 @theme {
   --font-sans: "Noto Sans JP", "Hiragino Sans", "Yu Gothic", system-ui, sans-serif;
   --font-display: "Zen Kaku Gothic New", "Noto Sans JP", system-ui, sans-serif;
+}
 
-  --color-ink-950: #0b1120;
-  --color-ink-900: #0f172a;
-  --color-ink-800: #1b263b;
-  --color-ink-700: #2a3752;
+/*
+ * デザイン刷新(Claude Designの手直し案)に合わせたテーマトークン。
+ * ライト/ダークの値をCSS変数として持ち、.dark クラスの有無だけで
+ * 全ページの配色が切り替わるようにしている(コンポーネント側で
+ * dark: バリアントを重複して書かなくて済むようにするため)。
+ */
+:root {
+  --page-bg: #f7f5f1;
+  --header-bg: rgb(247 245 241 / 92%);
+  --card-bg: #ffffff;
+  --border: #e3e0d8;
+  --rule: #dedad2;
+  --text: #17171b;
+  --text-muted: #6b6a66;
+  --text-faint: #9b9a95;
+  --hero-bg: #111114;
+  --hero-text: #f7f5f1;
+  --hero-muted: #c7c5bf;
+  --accent: #d9481f;
+  --accent-text: #ffffff;
+  --green: #2f7d4f;
+  --green-bg: rgb(47 125 79 / 10%);
+  --stripe-a: #efece6;
+  --stripe-b: #e7e3da;
+}
 
-  --color-diamond-500: #16a34a;
-  --color-diamond-600: #15803d;
-
-  --color-accent-500: #ff5722;
-  --color-accent-600: #e64a19;
+.dark {
+  --page-bg: #101012;
+  --header-bg: rgb(16 16 18 / 90%);
+  --card-bg: #1a1a1d;
+  --border: #2b2b2f;
+  --rule: #2a2a2d;
+  --text: #f3f1ec;
+  --text-muted: #a5a3a0;
+  --text-faint: #75736f;
+  --hero-bg: #000000;
+  --hero-text: #f3f1ec;
+  --hero-muted: #9c9a96;
+  --accent: #e8623a;
+  --accent-text: #ffffff;
+  --green: #4a9c6d;
+  --green-bg: rgb(74 156 109 / 15%);
+  --stripe-a: #1c1c1f;
+  --stripe-b: #232326;
 }
 
 @layer base {
@@ -25,31 +60,41 @@
 
   body {
     font-family: var(--font-sans);
-    background-color: #f5f6f8;
-    color: var(--color-ink-900);
+    background-color: var(--page-bg);
+    color: var(--text);
+    transition: background-color 0.2s ease, color 0.2s ease;
   }
 
   ::selection {
-    background-color: var(--color-accent-500);
+    background-color: var(--accent);
     color: white;
   }
 }
 
 @layer components {
   .container-page {
-    @apply mx-auto w-full max-w-6xl px-4 sm:px-6 lg:px-8;
+    @apply mx-auto w-full max-w-[1180px] px-6;
   }
 
-  .card {
-    @apply bg-white rounded-2xl border border-slate-200/70 shadow-sm hover:shadow-md transition-shadow duration-200 dark:bg-ink-800 dark:border-ink-700;
-  }
-
-  .badge {
-    @apply inline-flex items-center gap-1 rounded-full px-2.5 py-1 text-xs font-bold tracking-wide text-white;
+  .hairline-cell {
+    background-color: var(--page-bg);
+    padding: 28px;
   }
 
   .link-underline {
     @apply relative inline-block after:absolute after:left-0 after:-bottom-0.5 after:h-[2px] after:w-0 after:bg-current after:transition-all after:duration-200 hover:after:w-full;
+  }
+
+  /* 画像プレースホルダー(斜めストライプ)。記事に写真を後で差し込むための目印 */
+  .photo-placeholder {
+    background-image: repeating-linear-gradient(
+      135deg,
+      var(--stripe-a),
+      var(--stripe-a) 10px,
+      var(--stripe-b) 10px,
+      var(--stripe-b) 20px
+    );
+    border: 1px solid var(--border);
   }
 }
 

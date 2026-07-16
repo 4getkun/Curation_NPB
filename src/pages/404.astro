@@ -4,17 +4,18 @@ import { withBase } from "../lib/url";
 ---
 
 <Base title="ページが見つかりません">
-  <section class="container-page py-24 text-center">
-    <p class="text-6xl">⚾</p>
-    <h1 class="font-display mt-4 text-2xl font-black text-ink-900 dark:text-white">
+  <section class="container-page text-center" style="padding:96px 24px;">
+    <p style="font-size:56px; margin:0;">⚾</p>
+    <h1 class="font-display font-black" style="font-size:24px; color:var(--text); margin-top:16px;">
       ページが見つかりませんでした
     </h1>
-    <p class="mt-2 text-sm text-slate-500 dark:text-slate-400">
+    <p style="font-size:14px; color:var(--text-muted); margin-top:8px;">
       お探しのページは移動または削除された可能性があります。
     </p>
     <a
       href={withBase("/")}
-      class="mt-8 inline-block rounded-full bg-accent-500 px-6 py-3 text-sm font-bold text-white hover:bg-accent-600 transition-colors"
+      class="inline-block no-underline font-bold"
+      style="margin-top:32px; background-color:var(--accent); color:#fff; padding:14px 28px; border-radius:2px; font-size:14px;"
     >
       トップページへ戻る
     </a>

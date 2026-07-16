@@ -4,33 +4,34 @@ import { withBase } from "../lib/url";
 const currentYear = new Date().getFullYear();
 ---
 
-<footer class="mt-16 border-t border-slate-200/70 bg-white dark:border-ink-700 dark:bg-ink-900">
-  <div class="container-page py-10 grid gap-8 sm:grid-cols-3 text-sm">
+<footer style="border-top:1px solid var(--border); background-color:var(--card-bg);">
+  <div class="container-page grid gap-9 py-12 sm:grid-cols-3 text-[13px]">
     <div>
-      <p class="font-display text-base font-black text-ink-900 dark:text-white">
-        NPB<span class="text-accent-500">Curation</span>
+      <p class="font-display text-base font-black" style="color:var(--text);">
+        NPB <span style="color:var(--accent);">Curation</span>
       </p>
-      <p class="mt-2 text-slate-500 dark:text-slate-400 leading-relaxed">
+      <p class="mt-2.5 leading-relaxed" style="color:var(--text-muted);">
         広告を一切表示しない、NPB(日本プロ野球)12球団の最新ニュース・記事キュレーションサイトです。
       </p>
     </div>
     <div>
-      <p class="font-bold text-ink-900 dark:text-white mb-2">サイト内リンク</p>
-      <ul class="space-y-1 text-slate-500 dark:text-slate-400">
-        <li><a class="hover:text-accent-600" href={withBase("/")}>トップ</a></li>
-        <li><a class="hover:text-accent-600" href={withBase("/news/")}>ニュース一覧</a></li>
-        <li><a class="hover:text-accent-600" href={withBase("/about/")}>このサイトについて</a></li>
-      </ul>
+      <p class="font-bold mb-2.5" style="color:var(--text);">サイト内リンク</p>
+      <div class="flex flex-col gap-2" style="color:var(--text-muted);">
+        <a class="no-underline" style="color:inherit;" href={withBase("/")}>トップ</a>
+        <a class="no-underline" style="color:inherit;" href={withBase("/news/")}>ニュース一覧</a>
+        <a class="no-underline" style="color:inherit;" href={withBase("/team/")}>球団別</a>
+        <a class="no-underline" style="color:inherit;" href={withBase("/about/")}>このサイトについて</a>
+      </div>
     </div>
     <div>
-      <p class="font-bold text-ink-900 dark:text-white mb-2">ご利用にあたって</p>
-      <p class="text-slate-500 dark:text-slate-400 leading-relaxed">
-        掲載しているニュースの見出し・要約は各配信元サイトの記事へのリンクです。本文の全文転載は行っておらず、詳細は各リンク先の記事をご覧ください。
+      <p class="font-bold mb-2.5" style="color:var(--text);">ご利用にあたって</p>
+      <p class="leading-relaxed" style="color:var(--text-muted);">
+        掲載しているニュースの見出し・要約は各配信元サイトへのリンクです。本文の全文転載は行っていません。
       </p>
     </div>
   </div>
-  <div class="border-t border-slate-100 dark:border-ink-800 py-4">
-    <p class="container-page text-xs text-slate-400 dark:text-slate-500">
+  <div style="border-top:1px solid var(--rule);">
+    <p class="container-page py-4 text-[11px]" style="color:var(--text-faint);">
       © {currentYear} NPB Curation. Powered by static hosting — no ads, no tracking.
     </p>
   </div>

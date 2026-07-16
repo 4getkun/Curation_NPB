@@ -6,8 +6,7 @@
     "short": "巨人",
     "shortKeywords": ["巨人"],
     "strongKeywords": ["読売ジャイアンツ", "ジャイアンツ"],
-    "color": "#F97709",
-    "colorDark": "#B85400"
+    "color": "#F97709"
   },
   {
     "id": "tigers",
@@ -16,8 +15,7 @@
     "short": "阪神",
     "shortKeywords": ["阪神"],
     "strongKeywords": ["阪神タイガース", "タイガース"],
-    "color": "#FFE201",
-    "colorDark": "#8A7A00"
+    "color": "#FFC800"
   },
   {
     "id": "carp",
@@ -26,8 +24,7 @@
     "short": "広島",
     "shortKeywords": ["広島"],
     "strongKeywords": ["広島東洋カープ", "カープ"],
-    "color": "#FF0012",
-    "colorDark": "#A5000C"
+    "color": "#FF0012"
   },
   {
     "id": "baystars",
@@ -36,8 +33,7 @@
     "short": "DeNA",
     "shortKeywords": ["横浜", "DeNA"],
     "strongKeywords": ["横浜DeNAベイスターズ", "ベイスターズ"],
-    "color": "#0058A2",
-    "colorDark": "#003D70"
+    "color": "#0058A2"
   },
   {
     "id": "swallows",
@@ -46,8 +42,7 @@
     "short": "ヤクルト",
     "shortKeywords": ["ヤクルト"],
     "strongKeywords": ["東京ヤクルトスワローズ", "スワローズ"],
-    "color": "#003595",
-    "colorDark": "#00205E"
+    "color": "#003595"
   },
   {
     "id": "dragons",
@@ -56,8 +51,7 @@
     "short": "中日",
     "shortKeywords": ["中日"],
     "strongKeywords": ["中日ドラゴンズ", "ドラゴンズ"],
-    "color": "#003DA5",
-    "colorDark": "#002B73"
+    "color": "#003DA5"
   },
   {
     "id": "hawks",
@@ -66,8 +60,7 @@
     "short": "ソフトバンク",
     "shortKeywords": ["ソフトバンク"],
     "strongKeywords": ["福岡ソフトバンクホークス", "ホークス"],
-    "color": "#FFD700",
-    "colorDark": "#8A7500"
+    "color": "#E8B900"
   },
   {
     "id": "lions",
@@ -76,8 +69,7 @@
     "short": "西武",
     "shortKeywords": ["西武"],
     "strongKeywords": ["埼玉西武ライオンズ", "ライオンズ"],
-    "color": "#00429B",
-    "colorDark": "#002E6D"
+    "color": "#00429B"
   },
   {
     "id": "marines",
@@ -86,8 +78,7 @@
     "short": "ロッテ",
     "shortKeywords": ["ロッテ"],
     "strongKeywords": ["千葉ロッテマリーンズ", "マリーンズ"],
-    "color": "#000000",
-    "colorDark": "#000000"
+    "color": "#1a1a1a"
   },
   {
     "id": "eagles",
@@ -96,8 +87,7 @@
     "short": "楽天",
     "shortKeywords": ["楽天"],
     "strongKeywords": ["東北楽天ゴールデンイーグルス", "イーグルス"],
-    "color": "#870010",
-    "colorDark": "#5C000B"
+    "color": "#870010"
   },
   {
     "id": "buffaloes",
@@ -106,8 +96,7 @@
     "short": "オリックス",
     "shortKeywords": ["オリックス"],
     "strongKeywords": ["オリックス・バファローズ", "バファローズ"],
-    "color": "#001C57",
-    "colorDark": "#00123B"
+    "color": "#001C57"
   },
   {
     "id": "fighters",
@@ -116,7 +105,6 @@
     "short": "日本ハム",
     "shortKeywords": ["日本ハム"],
     "strongKeywords": ["北海道日本ハムファイターズ", "ファイターズ"],
-    "color": "#4D97CD",
-    "colorDark": "#2E6996"
+    "color": "#4D97CD"
   }
 ]

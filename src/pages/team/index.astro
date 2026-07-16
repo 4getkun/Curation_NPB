@@ -1,0 +1,29 @@
+---
+import Base from "../../layouts/Base.astro";
+import TeamLinkRow from "../../components/TeamLinkRow.astro";
+import { centralTeams, pacificTeams } from "../../lib/teams";
+---
+
+<Base title="球団別ニュース" description="NPB12球団を選んでニュースを確認できます。">
+  <section class="container-page" style="padding:44px 24px 64px;">
+    <h1 class="font-display font-black m-0" style="font-size:28px; color:var(--text); margin-bottom:6px;">球団別ニュース</h1>
+    <p style="font-size:14px; color:var(--text-muted); margin-bottom:32px;">
+      セ・リーグ、パ・リーグ全12球団から選んで最新ニュースを確認できます。
+    </p>
+
+    <div class="grid grid-cols-1 sm:grid-cols-2 gap-10">
+      <div>
+        <p class="font-bold" style="font-size:11px; letter-spacing:0.1em; color:var(--text-faint); margin-bottom:10px;">セントラル・リーグ</p>
+        {centralTeams.map((team) => (
+          <TeamLinkRow team={team} />
+        ))}
+      </div>
+      <div>
+        <p class="font-bold" style="font-size:11px; letter-spacing:0.1em; color:var(--text-faint); margin-bottom:10px;">パシフィック・リーグ</p>
+        {pacificTeams.map((team) => (
+          <TeamLinkRow team={team} />
+        ))}
+      </div>
+    </div>
+  </section>
+</Base>

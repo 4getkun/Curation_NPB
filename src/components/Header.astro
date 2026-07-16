@@ -1,73 +1,96 @@
 ---
-import { teams, centralTeams, pacificTeams } from "../lib/teams";
+import { teams, centralTeams, pacificTeams, needsContrastRing } from "../lib/teams";
 import { withBase } from "../lib/url";
 
+const path = new URL(Astro.request.url).pathname;
+const base = import.meta.env.BASE_URL;
+const rel = path.startsWith(base) ? path.slice(base.length - 1) : path;
+
 const navLinks = [
-  { href: withBase("/"), label: "トップ" },
-  { href: withBase("/news/"), label: "ニュース一覧" },
-  { href: withBase("/about/"), label: "このサイトについて" },
+  { href: withBase("/"), label: "トップ", match: (p: string) => p === "/" || p === "" },
+  { href: withBase("/news/"), label: "ニュース一覧", match: (p: string) => p.startsWith("/news") },
+  { href: withBase("/team/"), label: "球団別", match: (p: string) => p.startsWith("/team") },
+  { href: withBase("/about/"), label: "このサイトについて", match: (p: string) => p.startsWith("/about") },
 ];
 ---
 
-<header class="sticky top-0 z-40 border-b border-slate-200/70 bg-white/90 backdrop-blur dark:border-ink-700 dark:bg-ink-950/90">
+<header
+  class="sticky top-0 z-40 border-b"
+  style="background-color:var(--header-bg); border-color:var(--border); backdrop-filter:blur(10px);"
+>
   <div class="container-page flex h-16 items-center justify-between gap-4">
-    <a href={withBase("/")} class="flex items-center gap-2 shrink-0">
-      <span class="text-2xl leading-none">⚾</span>
-      <span class="font-display text-lg font-black tracking-tight text-ink-900 dark:text-white">
-        NPB<span class="text-accent-500">Curation</span>
+    <a href={withBase("/")} class="flex items-center gap-2 shrink-0 no-underline">
+      <span
+        class="font-display text-[19px] font-black tracking-tight"
+        style="color:var(--text); letter-spacing:-0.02em;"
+      >
+        NPB <span style="color:var(--accent);">Curation</span>
       </span>
     </a>
 
-    <nav class="hidden md:flex items-center gap-6 text-sm font-bold text-ink-700 dark:text-slate-200">
+    <nav class="hidden md:flex items-center gap-7 text-[13px] font-bold">
       {navLinks.map((link) => (
-        <a href={link.href} class="link-underline hover:text-accent-600">{link.label}</a>
+        <a
+          href={link.href}
+          class="pb-1 no-underline"
+          style={`color:${link.match(rel) ? "var(--text)" : "var(--text-muted)"}; border-bottom:2px solid ${link.match(rel) ? "var(--accent)" : "transparent"};`}
+        >
+          {link.label}
+        </a>
       ))}
     </nav>
 
-    <div class="flex items-center gap-2">
-      <span class="hidden sm:inline-flex items-center rounded-full bg-diamond-500/10 px-3 py-1 text-xs font-bold text-diamond-600 dark:text-diamond-500">
+    <div class="flex items-center gap-2.5">
+      <span
+        class="hidden sm:inline-flex items-center rounded-full px-3 py-1.5 text-[11px] font-bold whitespace-nowrap"
+        style="color:var(--green); background-color:var(--green-bg);"
+      >
         広告ゼロ運営
       </span>
       <button
         id="theme-toggle"
         type="button"
         aria-label="ダークモード切替"
-        class="grid h-9 w-9 place-items-center rounded-full border border-slate-200 text-ink-700 hover:bg-slate-100 dark:border-ink-700 dark:text-slate-200 dark:hover:bg-ink-800"
+        class="grid h-[34px] w-[34px] place-items-center rounded-full border text-[15px]"
+        style="border-color:var(--border); color:var(--text); background:none;"
       >
-        <svg id="icon-sun" xmlns="http://www.w3.org/2000/svg" class="h-4 w-4 hidden dark:block" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="4"/><path d="M12 2v2M12 20v2M4.93 4.93l1.41 1.41M17.66 17.66l1.41 1.41M2 12h2M20 12h2M4.93 19.07l1.41-1.41M17.66 6.34l1.41-1.41"/></svg>
-        <svg id="icon-moon" xmlns="http://www.w3.org/2000/svg" class="h-4 w-4 dark:hidden" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/></svg>
+        <span id="theme-icon-dark" class="hidden dark:inline">☀</span>
+        <span id="theme-icon-light" class="dark:hidden">☾</span>
       </button>
       <button
         id="menu-toggle"
         type="button"
         aria-label="メニューを開く"
-        class="md:hidden grid h-9 w-9 place-items-center rounded-full border border-slate-200 dark:border-ink-700"
+        class="md:hidden grid h-[34px] w-[34px] place-items-center rounded-full border"
+        style="border-color:var(--border); color:var(--text);"
       >
         <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M4 6h16M4 12h16M4 18h16"/></svg>
       </button>
     </div>
   </div>
 
-  <!-- 球団クイックナビ(横スクロール) -->
-  <div class="border-t border-slate-100 dark:border-ink-800 overflow-x-auto">
-    <div class="container-page flex items-center gap-2 py-2 text-xs font-bold whitespace-nowrap">
-      <span class="text-slate-400 dark:text-slate-500 mr-1">セ</span>
+  <!-- 球団クイックナビ(横スクロール、ドット+略称) -->
+  <div class="overflow-x-auto" style="border-top:1px solid var(--rule);">
+    <div class="container-page flex items-center gap-1 py-2 text-[11px] font-bold whitespace-nowrap">
+      <span style="color:var(--text-faint);" class="mr-0.5">セ</span>
       {centralTeams.map((team) => (
         <a
           href={withBase(`/team/${team.id}/`)}
-          class="badge shrink-0"
-          style={`background-color:${team.color}; color:${["#FFE201","#FFD700"].includes(team.color) ? "#1b263b" : "white"}`}
+          class="flex items-center gap-1.5 rounded-md px-2 py-1 no-underline"
+          style="color:var(--text-muted);"
         >
+          <span class="inline-block h-2 w-2 rounded-full" style={`background-color:${team.color};${needsContrastRing(team.color) ? " box-shadow:0 0 0 1px var(--text-faint);" : ""}`}></span>
           {team.short}
         </a>
       ))}
-      <span class="text-slate-400 dark:text-slate-500 mx-1">パ</span>
+      <span style="color:var(--text-faint);" class="mx-1.5">パ</span>
       {pacificTeams.map((team) => (
         <a
           href={withBase(`/team/${team.id}/`)}
-          class="badge shrink-0"
-          style={`background-color:${team.color}; color:${["#FFE201","#FFD700"].includes(team.color) ? "#1b263b" : "white"}`}
+          class="flex items-center gap-1.5 rounded-md px-2 py-1 no-underline"
+          style="color:var(--text-muted);"
         >
+          <span class="inline-block h-2 w-2 rounded-full" style={`background-color:${team.color};${needsContrastRing(team.color) ? " box-shadow:0 0 0 1px var(--text-faint);" : ""}`}></span>
           {team.short}
         </a>
       ))}
@@ -75,10 +98,16 @@ const navLinks = [
   </div>
 
   <!-- モバイルメニュー -->
-  <div id="mobile-menu" class="hidden md:hidden border-t border-slate-100 dark:border-ink-800">
-    <nav class="container-page flex flex-col py-3 text-sm font-bold text-ink-700 dark:text-slate-200">
+  <div id="mobile-menu" class="hidden md:hidden" style="border-top:1px solid var(--rule);">
+    <nav class="container-page flex flex-col py-3 text-sm font-bold">
       {navLinks.map((link) => (
-        <a href={link.href} class="py-2 border-b border-slate-100 dark:border-ink-800 last:border-0">{link.label}</a>
+        <a
+          href={link.href}
+          class="py-2 no-underline"
+          style={`border-bottom:1px solid var(--rule); color:${link.match(rel) ? "var(--text)" : "var(--text-muted)"};`}
+        >
+          {link.label}
+        </a>
       ))}
     </nav>
   </div>

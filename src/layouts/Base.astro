@@ -25,7 +25,7 @@ const pageTitle = title === "NPB Curation" ? title : `${title} | NPB Curation`;
     <meta name="generator" content={Astro.generator} />
     <title>{pageTitle}</title>
     <meta name="description" content={description} />
-    <meta name="theme-color" content="#0f172a" />
+    <meta name="theme-color" content="#111114" />
 
     <meta property="og:type" content="website" />
     <meta property="og:title" content={pageTitle} />
@@ -48,10 +48,10 @@ const pageTitle = title === "NPB Curation" ? title : `${title} | NPB Curation`;
       }
     </script>
   </head>
-  <body class="min-h-screen flex flex-col bg-slate-50 dark:bg-ink-950 dark:text-slate-100 transition-colors">
+  <body class="min-h-screen flex flex-col">
     <a
       href="#main"
-      class="sr-only focus:not-sr-only focus:absolute focus:z-50 focus:m-2 focus:rounded focus:bg-white focus:px-3 focus:py-2 focus:text-ink-900"
+      class="sr-only focus:not-sr-only focus:absolute focus:z-50 focus:m-2 focus:rounded focus:bg-[var(--card-bg)] focus:px-3 focus:py-2 focus:text-[var(--text)]"
     >
       本文へスキップ
     </a>
