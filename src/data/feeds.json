@@ -34,12 +34,5 @@
     "name": "Yahoo!ニュース スポーツ",
     "url": "https://news.yahoo.co.jp/rss/categories/sports.xml",
     "scoped": false
-  },
-  {
-    "id": "npb-official-freefielder",
-    "name": "NPB公式ニュース",
-    "url": "https://freefielder.jp/npbnews/feed/rss.xml",
-    "scoped": true,
-    "viaProxy": true
   }
 ]

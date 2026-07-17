@@ -62,15 +62,23 @@ jobs:
       - name: Fetch latest NPB news
         run: npm run fetch-news
 
-      - name: Commit updated news.json if changed
+      - name: Fetch latest NPB game results
+        # データ元はWikipediaの各球団年度別ページ(CC BY-SA)。npb.jp公式サイトや
+        # 主要スポーツサイトは「二次利用・無断転載禁止」を明記しているため、
+        # 明示的に再利用が許可されているこちらを使っている(scripts/fetch-results.mjs
+        # 冒頭のコメント参照)。個別球団の取得に失敗しても前回値を維持するため、
+        # このステップ自体が全体を失敗させることは基本的にない。
+        run: npm run fetch-results
+
+      - name: Commit updated news.json / results.json if changed
         run: |
-          if git diff --quiet -- src/data/news.json; then
-            echo "No news changes."
+          if git diff --quiet -- src/data/news.json src/data/results.json; then
+            echo "No data changes."
           else
             git config user.name "npb-curation-bot"
             git config user.email "actions@users.noreply.github.com"
-            git add src/data/news.json
-            git commit -m "chore: update news feed"
+            git add src/data/news.json src/data/results.json
+            git commit -m "chore: update news feed and game results"
             git push origin HEAD:master
           fi
 

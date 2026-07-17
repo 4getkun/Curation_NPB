@@ -12,6 +12,7 @@ import { withBase } from "../lib/url";
 const [featured, ...rest] = allNews;
 const latest = rest.slice(0, 5);
 const dataUrl = withBase("/data/news-index.json");
+const resultsDataUrl = withBase("/data/results-index.json");
 const teamsForClient = teams.map((t) => ({ id: t.id, short: t.short, color: t.color }));
 ---
 
@@ -60,8 +61,7 @@ const teamsForClient = teams.map((t) => ({ id: t.id, short: t.short, color: t.co
   </section>
 
   <!-- マイ球団(お気に入り球団)の最新ニュース。localStorageに保存された球団があれば
-       クライアントサイドでこの下に描画する。未設定の場合はNPB公式ニュース
-       (npb-official-freefielder フィード)の最新5件をデフォルト表示する。 -->
+       クライアントサイドでこの下に描画し、無ければヒントだけ表示する。 -->
   <section id="my-team-section" style="border-bottom:1px solid var(--border);">
     <div class="container-page" style="padding:24px;">
       <p id="my-team-hint" style="font-size:13px; color:var(--text-muted); margin:0;">
@@ -77,16 +77,20 @@ const teamsForClient = teams.map((t) => ({ id: t.id, short: t.short, color: t.co
         <p id="my-team-empty" class="hidden" style="font-size:13px; color:var(--text-muted);">
           まだこの球団のニュースが取得されていません。次回の自動更新をお待ちください。
         </p>
-      </div>
-      <div id="default-news-result" class="hidden" style="margin-top:16px;">
-        <div class="flex items-baseline justify-between" style="margin-bottom:16px;">
-          <h2 class="font-display font-black m-0" style="font-size:20px; color:var(--text);">NPB公式ニュース</h2>
-          <a href={withBase("/news/")} class="no-underline font-bold" style="font-size:13px; color:var(--accent);">すべて見る →</a>
+
+        <!-- 直近の試合結果。データ元はWikipediaの球団年度別ページ(CC BY-SA)。
+             scripts/fetch-results.mjs が定期取得し、src/data/results.json に
+             保存したものを /data/results-index.json 経由で読み込む。 -->
+        <div style="margin-top:28px;">
+          <h3 class="font-bold" style="font-size:14px; color:var(--text); margin-bottom:10px;">直近の試合結果</h3>
+          <div id="my-team-results-list" class="flex flex-col" style="gap:4px;"></div>
+          <p id="my-team-results-empty" class="hidden" style="font-size:13px; color:var(--text-muted);">
+            直近の試合結果はまだ取得されていません。
+          </p>
+          <p class="mt-2" style="font-size:11px; color:var(--text-faint);">
+            試合結果データ: <a href="https://ja.wikipedia.org/" target="_blank" rel="noopener noreferrer" class="link-underline" style="color:inherit;">Wikipedia</a>(CC BY-SA 4.0)
+          </p>
         </div>
-        <div id="default-news-list"></div>
-        <p id="default-news-empty" class="hidden" style="font-size:13px; color:var(--text-muted);">
-          まだニュースが取得されていません。次回の自動更新をお待ちください。
-        </p>
       </div>
     </div>
   </section>
@@ -176,13 +180,9 @@ const teamsForClient = teams.map((t) => ({ id: t.id, short: t.short, color: t.co
   </section>
 </Base>
 
-<script define:vars={{ dataUrl, teamsForClient, base: import.meta.env.BASE_URL }}>
+<script define:vars={{ dataUrl, resultsDataUrl, teamsForClient, base: import.meta.env.BASE_URL }}>
   (function () {
     var STORAGE_KEY = "npb-curation-my-team";
-    // マイ球団が未設定の場合にデフォルト表示する情報源。NPBの公式発表を
-    // そのままRSS化したフィード(src/data/feeds.json参照)で、特定球団の
-    // ひいき目線が入らない一般ニュースなので、初見のユーザーにも無難。
-    var DEFAULT_SOURCE_ID = "npb-official-freefielder";
     var favoriteId = "";
     try {
       favoriteId = localStorage.getItem(STORAGE_KEY) || "";
@@ -190,13 +190,17 @@ const teamsForClient = teams.map((t) => ({ id: t.id, short: t.short, color: t.co
 
     var hint = document.getElementById("my-team-hint");
     var resultBox = document.getElementById("my-team-result");
-    var defaultBox = document.getElementById("default-news-result");
+    if (!favoriteId) return; // 未設定ならヒント表示のまま何もしない
 
-    var team = favoriteId
-      ? teamsForClient.find(function (t) {
-          return t.id === favoriteId;
-        })
-      : null;
+    var team = teamsForClient.find(function (t) {
+      return t.id === favoriteId;
+    });
+    if (!team) return;
+
+    hint.classList.add("hidden");
+    resultBox.classList.remove("hidden");
+    document.getElementById("my-team-heading").textContent = "マイ球団: " + team.short + " の最新ニュース";
+    document.getElementById("my-team-link").href = base + "team/" + team.id + "/";
 
     function escapeHtml(str) {
       return (str || "")
@@ -220,81 +224,89 @@ const teamsForClient = teams.map((t) => ({ id: t.id, short: t.short, color: t.co
       return date.toLocaleDateString("ja-JP", { month: "short", day: "numeric" });
     }
 
-    // team-modeでは球団色のドット、default-modeではアクセントカラーの
-    // ドットを付ける以外、カード自体のマークアップは共通なので1関数にまとめる。
-    function renderNewsList(listEl, items, dotColor) {
-      listEl.innerHTML = items
-        .map(function (item) {
-          return (
-            '<a href="' +
-            escapeHtml(item.link) +
-            '" target="_blank" rel="noopener noreferrer nofollow" class="flex items-start no-underline" style="gap:14px; padding:14px 0; border-bottom:1px solid var(--border); color:inherit;">' +
-            '<span class="inline-block shrink-0 rounded-full" style="width:8px; height:8px; background-color:' +
-            dotColor +
-            '; margin-top:7px;"></span>' +
-            '<div class="flex-1 min-w-0">' +
-            '<h4 class="font-bold leading-snug m-0 mb-1.5" style="font-size:15px; color:var(--text);">' +
-            escapeHtml(item.title) +
-            "</h4>" +
-            '<p class="m-0" style="font-size:12px; color:var(--text-faint);">' +
-            escapeHtml(item.source) +
-            " · " +
-            formatRelative(item.pubDate) +
-            "</p></div></a>"
-          );
-        })
-        .join("");
-    }
-
-    if (team) {
-      hint.classList.add("hidden");
-      resultBox.classList.remove("hidden");
-      document.getElementById("my-team-heading").textContent = "マイ球団: " + team.short + " の最新ニュース";
-      document.getElementById("my-team-link").href = base + "team/" + team.id + "/";
-
-      fetch(dataUrl)
-        .then(function (res) {
-          return res.json();
-        })
-        .then(function (data) {
-          var teamNews = data.filter(function (item) {
-            return item.teams && item.teams.indexOf(team.id) !== -1;
-          });
-          var list = document.getElementById("my-team-list");
-          var empty = document.getElementById("my-team-empty");
-          if (teamNews.length === 0) {
-            empty.classList.remove("hidden");
-            return;
-          }
-          renderNewsList(list, teamNews.slice(0, 5), team.color);
-        })
-        .catch(function () {
-          /* オフライン等で取得に失敗した場合は、ヒント表示のまま静かに諦める */
+    fetch(dataUrl)
+      .then(function (res) {
+        return res.json();
+      })
+      .then(function (data) {
+        var teamNews = data.filter(function (item) {
+          return item.teams && item.teams.indexOf(team.id) !== -1;
         });
-    } else {
-      // マイ球団未設定: NPB公式ニュースの最新5件をデフォルト表示する
-      // (ヒントは表示したまま、その下にこのセクションを追加する形にする)。
-      defaultBox.classList.remove("hidden");
+        var list = document.getElementById("my-team-list");
+        var empty = document.getElementById("my-team-empty");
+        if (teamNews.length === 0) {
+          empty.classList.remove("hidden");
+          return;
+        }
+        list.innerHTML = teamNews
+          .slice(0, 5)
+          .map(function (item) {
+            return (
+              '<a href="' +
+              escapeHtml(item.link) +
+              '" target="_blank" rel="noopener noreferrer nofollow" class="flex items-start no-underline" style="gap:14px; padding:14px 0; border-bottom:1px solid var(--border); color:inherit;">' +
+              '<span class="inline-block shrink-0 rounded-full" style="width:8px; height:8px; background-color:' +
+              team.color +
+              '; margin-top:7px;"></span>' +
+              '<div class="flex-1 min-w-0">' +
+              '<h4 class="font-bold leading-snug m-0 mb-1.5" style="font-size:15px; color:var(--text);">' +
+              escapeHtml(item.title) +
+              "</h4>" +
+              '<p class="m-0" style="font-size:12px; color:var(--text-faint);">' +
+              escapeHtml(item.source) +
+              " · " +
+              formatRelative(item.pubDate) +
+              "</p></div></a>"
+            );
+          })
+          .join("");
+      })
+      .catch(function () {
+        /* オフライン等で取得に失敗した場合は、ヒント表示のまま静かに諦める */
+      });
 
-      fetch(dataUrl)
-        .then(function (res) {
-          return res.json();
-        })
-        .then(function (data) {
-          var officialNews = data.filter(function (item) {
-            return item.sourceId === DEFAULT_SOURCE_ID;
-          });
-          var list = document.getElementById("default-news-list");
-          var empty = document.getElementById("default-news-empty");
-          if (officialNews.length === 0) {
-            empty.classList.remove("hidden");
-            return;
-          }
-          renderNewsList(list, officialNews.slice(0, 5), "var(--accent)");
-        })
-        .catch(function () {
-          /* オフライン等で取得に失敗した場合は静かに諦める */
-        });
-    }
+    // 直近の試合結果を独立して取得する(ニュース取得の成否とは無関係に表示したいため、
+    // 上のfetchとは別チェーンにしている)。
+    var RESULT_SYMBOL = { win: "○", loss: "●", draw: "△", unknown: "" };
+    fetch(resultsDataUrl)
+      .then(function (res) {
+        return res.json();
+      })
+      .then(function (data) {
+        var games = (data.teams && data.teams[team.id]) || [];
+        var list = document.getElementById("my-team-results-list");
+        var empty = document.getElementById("my-team-results-empty");
+        if (games.length === 0) {
+          empty.classList.remove("hidden");
+          return;
+        }
+        list.innerHTML = games
+          .slice(0, 5)
+          .map(function (game) {
+            return (
+              '<div class="flex items-center" style="gap:10px; padding:6px 0; font-size:13px;">' +
+              '<span class="shrink-0 font-bold" style="width:16px; color:var(--text);">' +
+              (RESULT_SYMBOL[game.result] || "") +
+              "</span>" +
+              '<span class="shrink-0" style="width:52px; color:var(--text-muted);">' +
+              escapeHtml(game.date) +
+              "</span>" +
+              '<span class="flex-1 min-w-0 truncate" style="color:var(--text);">' +
+              "対 " + escapeHtml(game.opponentText) +
+              "</span>" +
+              '<span class="shrink-0 font-bold tabular-nums" style="color:var(--text);">' +
+              escapeHtml(game.score) +
+              "</span>" +
+              '<span class="shrink-0 hidden sm:inline" style="width:96px; text-align:right; color:var(--text-faint);">' +
+              escapeHtml(game.venue) +
+              "</span>" +
+              "</div>"
+            );
+          })
+          .join("");
+      })
+      .catch(function () {
+        /* 取得に失敗した場合は「まだ取得されていません」表示のまま諦める */
+      });
   })();
 </script>

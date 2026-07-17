@@ -40,28 +40,14 @@ const OUTPUT_PATH = path.join(ROOT, "src/data/news.json");
 const RETENTION_DAYS = 30;
 const MAX_ITEMS = 4000; // 保険用の上限(想定件数を大きく超えないよう安全弁として設定)
 const MAX_PER_FEED = 60;
+// GitHub Actionsのランナー(データセンターのIP)からだと、フィードによっては
+// 手元の検証環境より応答が遅く、以前デフォルトの15秒では間に合わずタイム
+// アウトすることがあった。全フィードはPromise.allで並列取得しているため、
+// この値を上げても他フィードの合計取得時間には影響しない(一番遅い1本の
+// 秒数が効くだけ)ので、余裕を持たせている。
 const FETCH_TIMEOUT_MS = 30000;
 const FEED_RETRY_COUNT = 1; // タイムアウト等の一時的な失敗に備え、1回だけ再試行する
 const FEED_RETRY_DELAY_MS = 2000;
-
-// npb-official-freefielder(freefielder.jp)は、手元の検証環境からは
-// 常に瞬時に取得できる一方、GitHub Actionsのランナー(Azureのデータセンター
-// IP)からは30秒+1回のリトライでも100%タイムアウトすることを実際のログで
-// 確認した。応答が単に遅いのではなく、サイト側がクラウド/データセンター
-// 帯のIPを弾いている(あるいは意図的に応答を遅延させ続ける)可能性が高い。
-// タイムアウト値をどれだけ伸ばしても解決しない類の問題と判断し、
-// feeds.json側で "viaProxy": true が付いたフィードだけ、公開の
-// CORSプロキシ(allorigins.win)を経由して取得する(プロキシ側のIPからの
-// アクセスになるため、この種のIP帯ブロックを回避できる)。
-// 外部サービス依存が増える代償はあるが、失敗時も他フィード同様
-// catchで空配列を返すだけなので、プロキシがダウンしていてもサイト全体には
-// 影響しない。
-const PROXY_URL_TEMPLATE = "https://api.allorigins.win/raw?url=";
-
-function resolveFeedUrl(feed) {
-  if (!feed.viaProxy) return feed.url;
-  return PROXY_URL_TEMPLATE + encodeURIComponent(feed.url);
-}
 
 // 「同一ニュースの重複統合」機能のしきい値。複数メディアが同じ出来事を
 // 報じた記事を1件にまとめて表示するための判定パラメータ。
@@ -97,11 +83,19 @@ const GENERAL_NPB_KEYWORDS = [
 // プロ野球選手にはまず使われない高校野球特有の言い回しなので、単独の
 // キーワードとして追加している(例:「横浜の超高校級2投手から3安打」の
 // ような、実況・結果記事の見出しは「高校野球」を含まないことが多い)。
+// 「独立リーグ」という総称ではなく、各リーグの固有名詞(「四国アイランド
+// リーグplus」「ルートインBCリーグ」等)で報じられる記事は、既存の
+// 「独立リーグ」キーワードだけでは拾えない。特に「四国アイランドリーグ」の
+// ジュニア(育成)世代の記事は、会場に「ジャイアンツスタジアム」のような
+// NPB球団名を含む施設名が出てくることがあり、球団タグの誤判定にも
+// つながるため、リーグ名そのものを除外キーワードとして追加している。
 const OUT_OF_SCOPE_KEYWORDS = [
   "高校野球",
   "甲子園",
   "大学野球",
   "独立リーグ",
+  "アイランドリーグ",
+  "BCリーグ",
   "社会人野球",
   "リトルシニア",
   "少年野球",
@@ -147,12 +141,27 @@ function isEntertainmentNoise(haystack) {
 // のような出典表記だけを根拠に、無関係な他競技記事へ球団タグが付いてしまう
 // ことがある(matchTeamsForItem呼び出し側でこの出典表記を除去してはいるが、
 // 二重の安全策としてここでも競技名そのもので除外する)。
+// 「競馬」は競馬記事の多くに含まれるが、レース結果・調教情報だけを伝える
+// 記事では本文に「競馬」という単語そのものが出てこないことがある。
+// さらに悪いことに、競走馬の名前に球団の愛称がそのまま使われるケース
+// (例:「リトルジャイアンツ」という馬名が「ジャイアンツ」＝巨人と誤判定
+// される)があるため、「競馬」を含まない競馬記事も確実に除外できるよう、
+// JRA・競馬場関連の専門用語を追加している(いずれも野球記事では
+// まず使われない語彙を選んでいる)。
+// 同様に、Jリーグクラブの正式名称にも「広島」(カープ)・「横浜」(DeNA)の
+// ように球団のshortKeywordsと同じ地名が含まれるものがあり、「サンフレッチェ
+// 広島」「横浜F・マリノス」関連記事が見出しの「移籍」等(BASEBALL_ACTION_
+// KEYWORDS)に釣られて誤って球団タブに表示される事例が確認された。
+// クラブの固有名詞(「サッカー」「Jリーグ」という語を含まない記事でも
+// 確実に検知できるもの)を個別に追加している。
 const OTHER_SPORTS_KEYWORDS = [
   "女子ゴルフ",
   "男子ゴルフ",
   "ゴルフ",
   "サッカー",
   "Jリーグ",
+  "サンフレッチェ",
+  "マリノス",
   "テニス",
   "バレーボール",
   "バスケットボール",
@@ -161,6 +170,10 @@ const OTHER_SPORTS_KEYWORDS = [
   "卓球",
   "大相撲",
   "競馬",
+  "JRA",
+  "新馬",
+  "栗東",
+  "美浦",
   "ボクシング",
   "フィギュアスケート",
   "eスポーツ",
@@ -532,6 +545,22 @@ function isRosterTransactionRoundup(title, haystack) {
   return ROSTER_TRANSACTION_BODY_MARKERS.some((marker) => haystack.includes(marker));
 }
 
+// 「【きょうのプロ野球】◯月◯日の対戦カード・試合開始時間・予告先発投手は？」
+// のような見出しは、その日に予定されている全カード(セ・パ12球団分)を
+// まとめて報じる定型の予告記事で、本文には全球団の対戦カードが列挙される。
+// isRosterTransactionRoundupと同様、特定の1球団に紐づくニュースではない
+// (むしろ本文に登場する全球団のタブへ機械的に紛れ込んでしまう)ため、
+// 球団タグを一切付けず総合ニュース一覧のみに表示する。
+const SCHEDULE_PREVIEW_TITLE_RE = /きょうのプロ野球.*対戦カード/;
+const SCHEDULE_PREVIEW_BODY_MARKERS = [
+  "対戦カード・開催球場・試合開始時間・予告先発投手を以下のとおり",
+];
+
+function isSchedulePreviewRoundup(title, haystack) {
+  if (SCHEDULE_PREVIEW_TITLE_RE.test(title)) return true;
+  return SCHEDULE_PREVIEW_BODY_MARKERS.some((marker) => haystack.includes(marker));
+}
+
 /**
  * 球団判定のメイン処理。3段階のフォールバックで判定する。
  *
@@ -550,12 +579,15 @@ function isRosterTransactionRoundup(title, haystack) {
  * 3. 2でもヒットしない場合(見出しに球団名が一切ない)だけ、本文も含めて
  *    通常ルールで判定する
  *
- * ただし全球団分の異動をまとめて報じる登録抹消の定型記事(下記
- * isRosterTransactionRoundup参照)は、この判定に入る前に無条件で
+ * ただし全球団分の異動をまとめて報じる登録抹消の定型記事(isRosterTransactionRoundup
+ * 参照)や、全カードをまとめて報じる対戦カード予告の定型記事
+ * (isSchedulePreviewRoundup参照)は、この判定に入る前に無条件で
  * 「球団タグなし」を返す。
  */
 function matchTeamsForItem(title, summary, feedScoped) {
-  if (isRosterTransactionRoundup(title, `${title} ${summary}`)) return [];
+  const combinedForRoundupCheck = `${title} ${summary}`;
+  if (isRosterTransactionRoundup(title, combinedForRoundupCheck)) return [];
+  if (isSchedulePreviewRoundup(title, combinedForRoundupCheck)) return [];
 
   const bracketMatch = title.match(/^[【\[]([^】\]]+)[】\]]/);
   const bracketText = bracketMatch ? bracketMatch[1] : "";
@@ -620,11 +652,10 @@ function sleep(ms) {
 // 多いため(サイト側が明確にブロックしている場合は再試行しても無駄だが、
 // 再試行のコスト自体は小さいので、区別せず一律で試みる)。
 async function parseWithRetry(feed) {
-  const url = resolveFeedUrl(feed);
   let lastErr;
   for (let attempt = 0; attempt <= FEED_RETRY_COUNT; attempt++) {
     try {
-      return await parser.parseURL(url);
+      return await parser.parseURL(feed.url);
     } catch (err) {
       lastErr = err;
       if (attempt < FEED_RETRY_COUNT) {
