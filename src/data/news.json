@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-17T01:29:01.269Z",
-  "count": 135,
+  "generatedAt": "2026-07-17T01:22:34.186Z",
+  "count": 218,
   "items": [
     {
       "title": "「野球くじ」導入を検討 オーナー会議で了承 次世代育成の財源確保で (テレビ朝日系（ANN）)",
@@ -9,9 +9,7 @@
       "pubDate": "2026-07-17T01:17:45.000Z",
       "source": "Yahoo!ニュース スポーツ",
       "sourceId": "yahoo-sports",
-      "teams": [
-        "baystars"
-      ],
+      "teams": ["baystars"],
       "topics": [],
       "sources": [
         {
@@ -22,18 +20,31 @@
       ]
     },
     {
+      "title": "広島23歳FW中村草太が海外移籍へ!! 大卒1年目でA代表デビュー(ゲキサカ)",
+      "summary": "サンフレッチェ広島は17日、FW中村草太(23)が海外クラブへの移籍を前提とした手続きと準備のため離脱したことを発表した。 中村は前橋育英高から明治大へ進み、大学3年時と4年時に関東大学リーグ1",
+      "link": "https://news.yahoo.co.jp/articles/4e0ffe3c12b46cf092f42a462526ee27dc55432f?source=rss",
+      "pubDate": "2026-07-17T01:11:01.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": ["carp"],
+      "topics": ["trade"],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/4e0ffe3c12b46cf092f42a462526ee27dc55432f?source=rss"
+        }
+      ]
+    },
+    {
       "title": "DeNAの“遊撃問題”に決着!? 最有力ドラ3宮下朝陽は「ちょっと大人な感じ」 2人のコーチが描く未来予想図",
       "summary": "2度の2軍落ちを乗り越え、定位置への歩みを進めている。DeNAのドラフト3位・宮下朝陽（あさひ）内野手（東洋大）が攻守で光を放ち、ここまで32試合で打率.228、2本塁打、10打点の成績を残す。月間打率は4月が.120、5月が.143だった…",
       "link": "https://full-count.jp/2026/07/17/post1991183/",
       "pubDate": "2026-07-17T01:08:15.000Z",
       "source": "Full-Count（プロ野球）",
       "sourceId": "full-count-npb",
-      "teams": [
-        "baystars"
-      ],
-      "topics": [
-        "draft"
-      ],
+      "teams": ["baystars"],
+      "topics": ["draft"],
       "sources": [
         {
           "name": "Full-Count（プロ野球）",
@@ -49,9 +60,7 @@
       "pubDate": "2026-07-17T01:00:00.000Z",
       "source": "BASEBALL KING",
       "sourceId": "baseballking",
-      "teams": [
-        "swallows"
-      ],
+      "teams": ["swallows"],
       "topics": [],
       "sources": [
         {
@@ -74,9 +83,7 @@
       "source": "Yahoo!ニュース スポーツ",
       "sourceId": "yahoo-sports",
       "teams": [],
-      "topics": [
-        "trade"
-      ],
+      "topics": ["trade"],
       "sources": [
         {
           "name": "Yahoo!ニュース スポーツ",
@@ -92,9 +99,7 @@
       "pubDate": "2026-07-17T00:57:24.000Z",
       "source": "Yahoo!ニュース スポーツ",
       "sourceId": "yahoo-sports",
-      "teams": [
-        "giants"
-      ],
+      "teams": ["giants"],
       "topics": [],
       "sources": [
         {
@@ -112,14 +117,29 @@
       "source": "Yahoo!ニュース スポーツ",
       "sourceId": "yahoo-sports",
       "teams": [],
-      "topics": [
-        "draft"
-      ],
+      "topics": ["draft"],
       "sources": [
         {
           "name": "Yahoo!ニュース スポーツ",
           "sourceId": "yahoo-sports",
           "link": "https://news.yahoo.co.jp/articles/62fa2f4a93c6dc2f3c5a50dd844773cc3ddb8f99?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【今週の注目新馬】ウインガラハッドは半兄に共同通信杯3着馬 増井助手「いい意味で落ち着いている」／土曜小倉5R(サンケイスポーツ)",
+      "summary": "ウインガラハッドは母がJRA3勝で、半兄のリトルジャイアンツ（父トーセンラー）は共同通信杯で3着。栗東入厩後は順調に乗られ、今週は坂路で4ハロン55秒0─12秒6だったが、8日にはCWコースの併せ馬で",
+      "link": "https://news.yahoo.co.jp/articles/8df1e8ca21c8357b85b5b7bc29427e4da244e670?source=rss",
+      "pubDate": "2026-07-17T00:23:30.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": ["giants"],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/8df1e8ca21c8357b85b5b7bc29427e4da244e670?source=rss"
         }
       ]
     },
@@ -130,9 +150,7 @@
       "pubDate": "2026-07-17T00:22:28.000Z",
       "source": "Yahoo!ニュース スポーツ",
       "sourceId": "yahoo-sports",
-      "teams": [
-        "tigers"
-      ],
+      "teams": ["tigers"],
       "topics": [],
       "sources": [
         {
@@ -149,9 +167,7 @@
       "pubDate": "2026-07-17T00:00:00.000Z",
       "source": "BASEBALL KING",
       "sourceId": "baseballking",
-      "teams": [
-        "marines"
-      ],
+      "teams": ["marines"],
       "topics": [],
       "sources": [
         {
@@ -168,9 +184,7 @@
       "pubDate": "2026-07-16T23:41:48.000Z",
       "source": "日刊スポーツ（Yahoo!ニュース経由）",
       "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "marines"
-      ],
+      "teams": ["marines"],
       "topics": [],
       "sources": [
         {
@@ -187,12 +201,8 @@
       "pubDate": "2026-07-16T23:00:32.000Z",
       "source": "Yahoo!ニュース スポーツ",
       "sourceId": "yahoo-sports",
-      "teams": [
-        "carp"
-      ],
-      "topics": [
-        "roster"
-      ],
+      "teams": ["carp"],
+      "topics": ["roster"],
       "sources": [
         {
           "name": "Yahoo!ニュース スポーツ",
@@ -208,9 +218,7 @@
       "pubDate": "2026-07-16T23:00:04.000Z",
       "source": "Yahoo!ニュース スポーツ",
       "sourceId": "yahoo-sports",
-      "teams": [
-        "eagles"
-      ],
+      "teams": ["eagles"],
       "topics": [],
       "sources": [
         {
@@ -227,10 +235,7 @@
       "pubDate": "2026-07-16T22:40:00.000Z",
       "source": "BASEBALL KING",
       "sourceId": "baseballking",
-      "teams": [
-        "fighters",
-        "hawks"
-      ],
+      "teams": ["fighters", "hawks"],
       "topics": [],
       "sources": [
         {
@@ -247,9 +252,7 @@
       "pubDate": "2026-07-16T22:20:00.000Z",
       "source": "BASEBALL KING",
       "sourceId": "baseballking",
-      "teams": [
-        "eagles"
-      ],
+      "teams": ["eagles"],
       "topics": [],
       "sources": [
         {
@@ -266,12 +269,8 @@
       "pubDate": "2026-07-16T22:15:44.000Z",
       "source": "ベースボールチャンネル（プロ野球）",
       "sourceId": "baseballchannel-npb",
-      "teams": [
-        "swallows"
-      ],
-      "topics": [
-        "roster"
-      ],
+      "teams": ["swallows"],
+      "topics": ["roster"],
       "sources": [
         {
           "name": "ベースボールチャンネル（プロ野球）",
@@ -287,12 +286,8 @@
       "pubDate": "2026-07-16T22:10:00.000Z",
       "source": "BASEBALL KING",
       "sourceId": "baseballking",
-      "teams": [
-        "hawks"
-      ],
-      "topics": [
-        "trade"
-      ],
+      "teams": ["hawks"],
+      "topics": ["trade"],
       "sources": [
         {
           "name": "BASEBALL KING",
@@ -308,9 +303,7 @@
       "pubDate": "2026-07-16T22:00:01.000Z",
       "source": "日刊スポーツ（Yahoo!ニュース経由）",
       "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "baystars"
-      ],
+      "teams": ["baystars"],
       "topics": [],
       "sources": [
         {
@@ -327,9 +320,7 @@
       "pubDate": "2026-07-16T22:00:01.000Z",
       "source": "日刊スポーツ（Yahoo!ニュース経由）",
       "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "tigers"
-      ],
+      "teams": ["tigers"],
       "topics": [],
       "sources": [
         {
@@ -346,10 +337,7 @@
       "pubDate": "2026-07-16T21:50:00.000Z",
       "source": "BASEBALL KING",
       "sourceId": "baseballking",
-      "teams": [
-        "marines",
-        "lions"
-      ],
+      "teams": ["marines", "lions"],
       "topics": [],
       "sources": [
         {
@@ -366,12 +354,8 @@
       "pubDate": "2026-07-16T21:40:00.000Z",
       "source": "BASEBALL KING",
       "sourceId": "baseballking",
-      "teams": [
-        "buffaloes"
-      ],
-      "topics": [
-        "injury"
-      ],
+      "teams": ["buffaloes"],
+      "topics": ["injury"],
       "sources": [
         {
           "name": "BASEBALL KING",
@@ -387,9 +371,7 @@
       "pubDate": "2026-07-16T21:40:00.000Z",
       "source": "BASEBALL KING",
       "sourceId": "baseballking",
-      "teams": [
-        "swallows"
-      ],
+      "teams": ["swallows"],
       "topics": [],
       "sources": [
         {
@@ -406,12 +388,8 @@
       "pubDate": "2026-07-16T21:30:00.000Z",
       "source": "BASEBALL KING",
       "sourceId": "baseballking",
-      "teams": [
-        "tigers"
-      ],
-      "topics": [
-        "trade"
-      ],
+      "teams": ["tigers"],
+      "topics": ["trade"],
       "sources": [
         {
           "name": "BASEBALL KING",
@@ -427,10 +405,7 @@
       "pubDate": "2026-07-16T21:20:00.000Z",
       "source": "BASEBALL KING",
       "sourceId": "baseballking",
-      "teams": [
-        "dragons",
-        "tigers"
-      ],
+      "teams": ["dragons", "tigers"],
       "topics": [],
       "sources": [
         {
@@ -447,10 +422,7 @@
       "pubDate": "2026-07-16T21:10:00.000Z",
       "source": "BASEBALL KING",
       "sourceId": "baseballking",
-      "teams": [
-        "swallows",
-        "giants"
-      ],
+      "teams": ["swallows", "giants"],
       "topics": [],
       "sources": [
         {
@@ -467,12 +439,8 @@
       "pubDate": "2026-07-16T21:00:00.000Z",
       "source": "日刊スポーツ（Yahoo!ニュース経由）",
       "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "baystars"
-      ],
-      "topics": [
-        "injury"
-      ],
+      "teams": ["baystars"],
+      "topics": ["injury"],
       "sources": [
         {
           "name": "日刊スポーツ（Yahoo!ニュース経由）",
@@ -488,9 +456,7 @@
       "pubDate": "2026-07-16T20:45:55.000Z",
       "source": "ベースボールチャンネル（プロ野球）",
       "sourceId": "baseballchannel-npb",
-      "teams": [
-        "hawks"
-      ],
+      "teams": ["hawks"],
       "topics": [],
       "sources": [
         {
@@ -507,12 +473,8 @@
       "pubDate": "2026-07-16T20:30:02.000Z",
       "source": "日刊スポーツ（Yahoo!ニュース経由）",
       "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "dragons"
-      ],
-      "topics": [
-        "roster"
-      ],
+      "teams": ["dragons"],
+      "topics": ["roster"],
       "sources": [
         {
           "name": "日刊スポーツ（Yahoo!ニュース経由）",
@@ -528,9 +490,7 @@
       "pubDate": "2026-07-16T20:30:01.000Z",
       "source": "日刊スポーツ（Yahoo!ニュース経由）",
       "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "baystars"
-      ],
+      "teams": ["baystars"],
       "topics": [],
       "sources": [
         {
@@ -541,15 +501,251 @@
       ]
     },
     {
+      "title": "オーナー会議で「野球くじ」検討開始 DeNA南場オーナー「異論唱えるオーナーいない」(スポニチアネックス)",
+      "summary": "プロ野球のオーナー会議が16日、都内で開かれ、スポーツ振興くじの対象にプロ野球を加えることを検討した。競技人口が右肩下がりで、野球振興事業の財源確保のために振興くじを活用する意見が出た。今後、アマチ",
+      "link": "https://news.yahoo.co.jp/articles/e04f9de7df59b6ccd74b6a0abe8d1d787a5f9fc3?source=rss",
+      "pubDate": "2026-07-16T20:30:00.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": ["baystars"],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/e04f9de7df59b6ccd74b6a0abe8d1d787a5f9fc3?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "日本ハム・井川オーナー 新庄監督の去就言及せず 1年契約結んでいるが「まだ白紙といいますか…」(スポニチアネックス)",
+      "summary": "日本ハム・井川伸久オーナーは、新庄監督の去就について具体的な言及は避けた。 1年契約を結ぶ指揮官の進退について「まだ白紙といいますか、最後まで優勝を目指してほしいので。その件に関してはまだ議論し",
+      "link": "https://news.yahoo.co.jp/articles/5444fad8670aaf95be88ae5990afc033dc735e2a?source=rss",
+      "pubDate": "2026-07-16T20:30:00.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": ["fighters"],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/5444fad8670aaf95be88ae5990afc033dc735e2a?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "巨人・山口オーナー 橋上監督代行の手腕評価「想像していたよりもよくやってくれている」(スポニチアネックス)",
+      "summary": "巨人の山口寿一オーナーは橋上監督代行の手腕を評価した。阿部前監督が長女への暴行容疑で逮捕されて辞任し、5月下旬から指揮。 交流戦を10勝6敗2分けのセ・リーグ唯一の貯金で終えるなど首位を争う状況",
+      "link": "https://news.yahoo.co.jp/articles/1c2dfd9888665c2283759718fcb0e156ae1a24d2?source=rss",
+      "pubDate": "2026-07-16T20:30:00.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": ["giants"],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/1c2dfd9888665c2283759718fcb0e156ae1a24d2?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "巨人・笹原 汚名返上V弾 5回四球で出塁後にけん制死から奮起 今季18度目逆転勝ち導いた(スポニチアネックス)",
+      "summary": "◇セ・リーグ 巨人3―1ヤクルト（2026年7月16日 神宮） 巨人の笹原操希外野手（22）が16日、ヤクルト戦で決勝の2号2ランを放った。6月に支配下復帰し、今月5日の中日戦でのプロ初アーチも",
+      "link": "https://news.yahoo.co.jp/articles/a618796aa6c84d1b44a10c3c727de178c6e469fa?source=rss",
+      "pubDate": "2026-07-16T20:30:00.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": ["giants"],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/a618796aa6c84d1b44a10c3c727de178c6e469fa?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "巨人・ライデル 通算240S！名球会まであと10 9回難なく3者凡退で今季28S目(スポニチアネックス)",
+      "summary": "◇セ・リーグ 巨人3―1ヤクルト（2026年7月16日 神宮） 巨人のマルティネスが通算240セーブ目を挙げ、名球会入りの条件まであと10とした。 2点リードの9回を危なげなく3者凡退に封じ",
+      "link": "https://news.yahoo.co.jp/articles/6c95fd534b56330317fed29216c62fad21d1eb96?source=rss",
+      "pubDate": "2026-07-16T20:30:00.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": ["giants"],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/6c95fd534b56330317fed29216c62fad21d1eb96?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "ヤクルト わずか1安打1得点…最大11あった貯金が消滅 4カード連続負け越し(スポニチアネックス)",
+      "summary": "◇セ・リーグ ヤクルト1―3巨人（2026年7月16日 神宮） 打線がわずか1安打で長岡の犠飛による1点のみに終わり、投手陣を援護できず。最大11あった貯金が消滅した。 池山監督は「1勝2敗",
+      "link": "https://news.yahoo.co.jp/articles/f32a1b37439fbb625a101d06b448404da2dce0e7?source=rss",
+      "pubDate": "2026-07-16T20:30:00.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": ["swallows"],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/f32a1b37439fbb625a101d06b448404da2dce0e7?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "巨人・笹原 1軍で「いつか一緒に」 同学年ライバルの存在が復活の原動力(スポニチアネックス)",
+      "summary": "◇セ・リーグ 巨人3―1ヤクルト（2026年7月16日 神宮） 【記者フリートーク】同学年で同じ育成出身。巨人の笹原にとって絶対に負けたくないライバルが平山だ。 昨年4月に笹原が先に支配下を",
+      "link": "https://news.yahoo.co.jp/articles/4c9a22e6635511de97694b1e068b51111f0d9888?source=rss",
+      "pubDate": "2026-07-16T20:30:00.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": ["giants"],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/4c9a22e6635511de97694b1e068b51111f0d9888?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "DeNA・尾形 17日のヤクルト戦に先発「粘り強く投げることが重要」(スポニチアネックス)",
+      "summary": "DeNAの尾形が離脱した仲間の穴を埋める活躍を誓った。 17日のヤクルト戦に先発予定で「直球の質を上げることを意識して取り組んできた。粘り強く投げることが重要」と意気込む。 先発陣の柱を担っ",
+      "link": "https://news.yahoo.co.jp/articles/ac02953669a2679c86b1d0487da69677918650a5?source=rss",
+      "pubDate": "2026-07-16T20:30:00.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": ["baystars"],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/ac02953669a2679c86b1d0487da69677918650a5?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "楽天・辰己 3試合連発9号ソロ「うまく反応できました」(スポニチアネックス)",
+      "summary": "◇パ・リーグ 楽天12―8オリックス（2026年7月16日 楽天モバイル） 絶好調の楽天・辰己が、7―6の7回1死で山崎から3試合連発となる9号ソロを放った。 直球を右中間席にはじき返し「う",
+      "link": "https://news.yahoo.co.jp/articles/8ead4d10691377a28518bc9cbb23201039f91113?source=rss",
+      "pubDate": "2026-07-16T20:30:00.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": ["eagles"],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/8ead4d10691377a28518bc9cbb23201039f91113?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "西武・渡辺 8回力尽く…本拠地今季初白星お預け チームの連勝も3でストップ(スポニチアネックス)",
+      "summary": "◇パ・リーグ 西武3―4ロッテ（2026年7月16日 ベルーナD） またしても本拠地での今季初勝利はならなかった。西武先発の渡辺は8回に力尽き、7回0/3を8安打4失点で、ベルーナドームでは6戦",
+      "link": "https://news.yahoo.co.jp/articles/b019c4a04be6cfe15e94c31b948eb2f688e4c52e?source=rss",
+      "pubDate": "2026-07-16T20:30:00.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": ["lions"],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/b019c4a04be6cfe15e94c31b948eb2f688e4c52e?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "ロッテ・安田「腹をくくった」V二塁打 連敗4で止めサブロー監督も「大きかったですね」(スポニチアネックス)",
+      "summary": "◇パ・リーグ ロッテ4―3西武（2026年7月16日 ベルーナD） 2―2の8回無死満塁、「それまでの打席で結果が出てなかったので腹をくくった」というロッテの安田が左中間へ勝ち越しの2点二塁打。",
+      "link": "https://news.yahoo.co.jp/articles/20394c54aec8740b6ae31d4026faeb36fc582c68?source=rss",
+      "pubDate": "2026-07-16T20:30:00.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": ["marines"],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/20394c54aec8740b6ae31d4026faeb36fc582c68?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "楽天・浅村 会心の逆転満塁弾！通算10本目は田淵幸一らに並ぶ歴代14位(スポニチアネックス)",
+      "summary": "◇パ・リーグ 楽天12―8オリックス（2026年7月16日 楽天モバイル） 待ちわびていた歓喜。手に残る確かな感触。後輩たちからの手荒い祝福も心地よかった。楽天・浅村が、3―5の6回1死満塁で、",
+      "link": "https://news.yahoo.co.jp/articles/07d95ba9305668eb9de05306baae0e5756a34650?source=rss",
+      "pubDate": "2026-07-16T20:30:00.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": ["eagles"],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/07d95ba9305668eb9de05306baae0e5756a34650?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "巨人・マタ、長い２軍生活も体重維持のため異国の食事に挑戦 ３か月ぶり先発で６回途中１失点「最低限の仕事」(スポーツ報知)",
+      "summary": "◆ＪＥＲＡセ・リーグ ヤクルト１―３巨人（１６日・神宮） 今後に期待を持てる９５球だった。巨人のＢ・マタ投手（２７）が力投でカード勝ち越しに貢献した。「制球に苦しみながらも最低限の仕事ができてよか",
+      "link": "https://news.yahoo.co.jp/articles/66c601d08f0530a3a8a5b128fe3f9f51c5ed77ea?source=rss",
+      "pubDate": "2026-07-16T20:20:04.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": ["giants"],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/66c601d08f0530a3a8a5b128fe3f9f51c5ed77ea?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【阪神】佐藤輝明が影響を受けた〝竜のマッチョマン〟とは「僕もあれぐらい鍛えたいっすね」(東スポWEB)",
+      "summary": "〝竜のマッチョマン〟に刺激を受けた？ 阪神・佐藤輝明内野手（27）が16日の中日戦（バンテリン）で、試合をひっくり返す豪快な一発を放った。 竜先発・柳の前に6回までノーヒットノーランに封じ込められ",
+      "link": "https://news.yahoo.co.jp/articles/f1e2bf0727ddda6dc4491dd61009e814872a595a?source=rss",
+      "pubDate": "2026-07-16T20:15:29.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": ["tigers"],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/f1e2bf0727ddda6dc4491dd61009e814872a595a?source=rss"
+        }
+      ]
+    },
+    {
       "title": "【阪神】藤川監督「もうちょっと高いのものを求めたいですよね（笑い）」／一問一答(日刊スポーツ)",
       "summary": "＜中日1－3阪神＞◇16日◇バンテリンドーム 阪神が主砲の一撃で逆転勝ちを決め、3カード連続の勝ち越しに成功した。1点ビハインドで迎えた7回無死一塁から佐藤輝明内野手（27）が逆転2ランを放った。",
       "link": "https://news.yahoo.co.jp/articles/21f3bb90fb854126e57791497c4e058bb90a5f3b?source=rss",
       "pubDate": "2026-07-16T20:10:01.000Z",
       "source": "日刊スポーツ（Yahoo!ニュース経由）",
       "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "tigers"
-      ],
+      "teams": ["tigers"],
       "topics": [],
       "sources": [
         {
@@ -566,9 +762,7 @@
       "pubDate": "2026-07-16T20:10:01.000Z",
       "source": "日刊スポーツ（Yahoo!ニュース経由）",
       "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "tigers"
-      ],
+      "teams": ["tigers"],
       "topics": [],
       "sources": [
         {
@@ -585,9 +779,7 @@
       "pubDate": "2026-07-16T20:00:03.000Z",
       "source": "日刊スポーツ（Yahoo!ニュース経由）",
       "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "tigers"
-      ],
+      "teams": ["tigers"],
       "topics": [],
       "sources": [
         {
@@ -604,9 +796,7 @@
       "pubDate": "2026-07-16T20:00:02.000Z",
       "source": "日刊スポーツ（Yahoo!ニュース経由）",
       "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "dragons"
-      ],
+      "teams": ["dragons"],
       "topics": [],
       "sources": [
         {
@@ -623,9 +813,7 @@
       "pubDate": "2026-07-16T20:00:01.000Z",
       "source": "日刊スポーツ（Yahoo!ニュース経由）",
       "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "tigers"
-      ],
+      "teams": ["tigers"],
       "topics": [],
       "sources": [
         {
@@ -636,15 +824,489 @@
       ]
     },
     {
+      "title": "【阪神】秦雅夫オーナー、12球団オーナー会議でピッチクロック導入に「前向きに引き続き検討」(日刊スポーツ)",
+      "summary": "プロ野球の12球団オーナー会議が16日、都内で行われ、阪神秦雅夫オーナー（69）が出席した。 会議の中ではピッチクロック導入についても話題が及び、秦オーナーは「試合時間の短縮のみならず、WBCの",
+      "link": "https://news.yahoo.co.jp/articles/e61d512f407c206c504f2dba85034c12491e2cad?source=rss",
+      "pubDate": "2026-07-16T20:00:00.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": ["tigers"],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/e61d512f407c206c504f2dba85034c12491e2cad?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【楽天】左中間への打球を代名詞にしたい辰己涼介、初の3戦連発も「引っ張ったんで反省」(日刊スポーツ)",
+      "summary": "＜楽天12－8オリックス＞◇16日◇楽天モバイル最強パーク 7月絶好調の楽天辰己涼介外野手（29）が、自身初の3試合連続弾も反省の言葉を口にした。 1点差に迫られた直後の7回。オリックス山崎が",
+      "link": "https://news.yahoo.co.jp/articles/aa9405e32077dec85e8c2a76107117b540429d33?source=rss",
+      "pubDate": "2026-07-16T19:55:01.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": ["eagles"],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/aa9405e32077dec85e8c2a76107117b540429d33?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【西武】異例の「育成再契約５年目」過ごす上間永遠が大事なマウンドへ 凡打量産が個性の右腕(日刊スポーツ)",
+      "summary": "西武の背番号114、上間永遠投手（25）が16日、ブルペンで40球近い投球練習を行った。2軍の先発ローテーション通りならば、18日のファーム・リーグ交流戦のオイシックス戦（カーミニークフィールド）で",
+      "link": "https://news.yahoo.co.jp/articles/f3134fe883acc4c914258cf25817850bb4a311f1?source=rss",
+      "pubDate": "2026-07-16T19:55:00.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": ["lions"],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/f3134fe883acc4c914258cf25817850bb4a311f1?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "矢野燿大氏 同点の生還を阻止した大山の一瞬の判断が勝負の分かれ目(スポニチアネックス)",
+      "summary": "◇セ・リーグ 阪神3―1中日（2026年7月16日 バンテリンドーム） 【矢野燿大 視点】何気ないプレーに見えるが、大山の好判断だ。阪神1点リードの7回2死一、二塁で細川の当たりは三遊間へ。遊撃",
+      "link": "https://news.yahoo.co.jp/articles/bebe0db4065a5be6fb23a0861cc0b7cb3ba71c8b?source=rss",
+      "pubDate": "2026-07-16T16:15:00.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": ["tigers"],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/bebe0db4065a5be6fb23a0861cc0b7cb3ba71c8b?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "阪神の浜ちゃん 浜田太貴がごっつええ感じ“虎１号”「感触良かった」 ヒーローインタビューではカミカミ(スポニチアネックス)",
+      "summary": "◇セ・リーグ 阪神3―1中日（2026年7月16日 バンテリンドーム） 自称「人見知り」の阪神・浜田が、持ち前のパワーを発揮した。1点リードで迎えた8回先頭で代打登場。カウント1―2から左腕・牧",
+      "link": "https://news.yahoo.co.jp/articles/eaf4691dd29fc8322b80bc7246c3955d3d0675fe?source=rss",
+      "pubDate": "2026-07-16T16:15:00.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": ["tigers"],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/eaf4691dd29fc8322b80bc7246c3955d3d0675fe?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "2人の恩師が語る阪神・木下里都のルーツ 自分の能力に気付いた大学3年の冬 人として磨かれた社会人時代(スポニチアネックス)",
+      "summary": "◇セ・リーグ 阪神3―1中日（2026年7月16日 バンテリンドーム） 木下の恩師たちがプロへの道を切り開いた“成長の軌跡”を明かした。福岡舞鶴高時代までは遊撃手だったが、福岡大1年時に投手へ転",
+      "link": "https://news.yahoo.co.jp/articles/fcd8bda6fb436ecbce7dd37906b4880e44b2c01c?source=rss",
+      "pubDate": "2026-07-16T16:15:00.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": ["tigers"],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/fcd8bda6fb436ecbce7dd37906b4880e44b2c01c?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "阪神・木下里都 待ちに待ったプロ初勝利 両親からの祝福LINEに「よかったって返しました」(スポニチアネックス)",
+      "summary": "◇セ・リーグ 阪神3―1中日（2026年7月16日 バンテリンドーム） 勝利の記念球を手にすると、優しい笑みが広がった。阪神・木下は1点劣勢の6回に2番手として登板。スコアボードに「0」を刻み、",
+      "link": "https://news.yahoo.co.jp/articles/7cde3d3b292e70d63230eca7ef419ff1f327248d?source=rss",
+      "pubDate": "2026-07-16T16:15:00.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": ["tigers"],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/7cde3d3b292e70d63230eca7ef419ff1f327248d?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【阪神・藤川監督語録】6月3日以来の先発ショート・小幡竜平を称賛「いいものを見せてくれました」(スポニチアネックス)",
+      "summary": "◇セ・リーグ 阪神3―1中日（2026年7月16日 バンテリンドーム） ▼木下のプロ1勝は伏見のおかげ どんどん伸びていってもらいたいところは、もちろんあります。ただやっぱり、伏見が本当によくゲ",
+      "link": "https://news.yahoo.co.jp/articles/e51a37a0d82318f03023a4bb1473f7ca7ec25083?source=rss",
+      "pubDate": "2026-07-16T16:15:00.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": ["tigers"],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/e51a37a0d82318f03023a4bb1473f7ca7ec25083?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "阪神・佐藤輝明 逆転V2ラン！柳から62打席目の初アーチ「狙いを絞った」新庄に並ぶ虎通算145号(スポニチアネックス)",
+      "summary": "◇セ・リーグ 阪神3―1中日（2026年7月16日 バンテリンドーム） 阪神・佐藤輝明内野手（27）が16日の中日戦（バンテリンドーム）で、0―1の7回無死一塁から逆転の21号決勝2ランを放った",
+      "link": "https://news.yahoo.co.jp/articles/3649093c402250c5be83a15d768da38d9ed9cdae?source=rss",
+      "pubDate": "2026-07-16T16:15:00.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": ["tigers"],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/3649093c402250c5be83a15d768da38d9ed9cdae?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "阪神・大山悠輔 好判断で同点阻止 木下の初勝利を“守った”「いい判断ができたと思います」(スポニチアネックス)",
+      "summary": "◇セ・リーグ 阪神3―1中日（2026年7月16日 バンテリンドーム） 阪神が全員でホームを死守した。守備の見せ場は佐藤輝の逆転弾の直後の7回だった。2死一、二塁で、細川の打球を三遊間の深い位置",
+      "link": "https://news.yahoo.co.jp/articles/db390493dfda81a383757be1e0161da218d7fdab?source=rss",
+      "pubDate": "2026-07-16T16:15:00.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": ["tigers"],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/db390493dfda81a383757be1e0161da218d7fdab?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "阪神・ドリス 9回2死からピンチも耐えた15セーブ目 「暑い中だけど、結局はメンタルの問題」(スポニチアネックス)",
+      "summary": "◇セ・リーグ 阪神3―1中日（2026年7月16日 バンテリンドーム） 阪神のドリスは9回2死から四球と左前打でピンチを背負ったが、最後は細川を146キロスライダーで空振り三振に仕留め、白星を死",
+      "link": "https://news.yahoo.co.jp/articles/bd92ff2439d0f54b87f16fdb118be124aa6e5838?source=rss",
+      "pubDate": "2026-07-16T16:15:00.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": ["tigers"],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/bd92ff2439d0f54b87f16fdb118be124aa6e5838?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "阪神・伊原陵人 不敗神話は継続 「流れは良くなかったけど、伏見さんにうまく引っ張ってもらった」(スポニチアネックス)",
+      "summary": "◇セ・リーグ 阪神3―1中日（2026年7月16日 バンテリンドーム） 阪神の伊原は4勝目は逃したが、不敗神話は継続した。腰部の張りからの復帰2戦目で5回2安打1失点と先発としての責任を果たした",
+      "link": "https://news.yahoo.co.jp/articles/c25aa6a17b08b590189967594486cd0de2c95b38?source=rss",
+      "pubDate": "2026-07-16T16:15:00.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": ["tigers"],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/c25aa6a17b08b590189967594486cd0de2c95b38?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【ソフトバンク】渡辺陸がマルチ安打＆好守で勝利に貢献「チームが勝てたのがよかった」(東スポWEB)",
+      "summary": "ソフトバンクは16日の日本ハム戦（エスコン）に6―2で逆転勝ちを収めた。「9番・捕手」で先発出場した渡辺陸捕手（25）が攻守の活躍で勝利に貢献した。 打っては相手先発・伊藤の前に「積極的にいこう",
+      "link": "https://news.yahoo.co.jp/articles/49e505bfde6eaec0cafb056851c3f2758f20b1f0?source=rss",
+      "pubDate": "2026-07-16T15:55:24.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": ["hawks"],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/49e505bfde6eaec0cafb056851c3f2758f20b1f0?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【楽天】浅村栄斗が復活満弾「久しぶりに完璧 監督が使い続けてくれてるのでなんとかしたいと」(日刊スポーツ)",
+      "summary": "＜楽天12－8オリックス＞◇16日◇楽天モバイル最強パーク 不振で苦しんでいた楽天浅村栄斗内野手（35）が、復活の逆転満塁弾で今季2度目の同一カード3連勝に導いた。 2点を追う6回1死満塁。オ",
+      "link": "https://news.yahoo.co.jp/articles/8223699e99ac93664dcfa2c71f00bd45bfb843ff?source=rss",
+      "pubDate": "2026-07-16T15:14:39.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": ["eagles"],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/8223699e99ac93664dcfa2c71f00bd45bfb843ff?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【楽天】浅村栄斗、首脳陣との絆で復活アーチ「彼女でもないのに」山下勝巳コーチと150分電話(日刊スポーツ)",
+      "summary": "＜楽天12－8オリックス＞◇16日◇楽天モバイル最強パーク 楽天が今季最多12得点でシーソーゲームを制し、今季2度目の同一カード3連勝を飾った。仙台でのオリックス戦は6戦全勝。不振で苦しんでいた浅",
+      "link": "https://news.yahoo.co.jp/articles/7114d3538de125c37747970fe47a3174e30ec0c8?source=rss",
+      "pubDate": "2026-07-16T14:41:33.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": ["eagles"],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/7114d3538de125c37747970fe47a3174e30ec0c8?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【ヤクルト】燕党も感動…古巣四国IL愛媛「あの日の約束が…」広沢優、矢野泰二郎バッテリーに(日刊スポーツ)",
+      "summary": "＜ヤクルト1－3巨人＞◇16日◇神宮 四国IL愛媛が球団公式Xで、ヤクルト広沢優投手（25）、矢野泰二郎捕手（24）について投稿した。 矢野はこの日がプロ初のスタメンマスク。広沢は1－1の6回",
+      "link": "https://news.yahoo.co.jp/articles/ffbc7d6a7e6bbf51a185e773bd29fb3534643673?source=rss",
+      "pubDate": "2026-07-16T14:08:25.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": ["swallows"],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/ffbc7d6a7e6bbf51a185e773bd29fb3534643673?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【ヤクルト】逆転負け貯金ゼロ 池山監督「ずっと1勝2敗でいくと…当然の結果」阪神に4・5差(日刊スポーツ)",
+      "summary": "＜ヤクルト1－3巨人＞◇16日◇神宮 3位ヤクルトは逆転負けで貯金が今季初めてゼロとなった。池山隆寛監督（60）は「ずっと1勝2敗（以下）でいくと一つずつなくなっていくのは当然の結果」と話した。今",
+      "link": "https://news.yahoo.co.jp/articles/ebb17ad72a28a12ca9bfaae170a54f3c74d882e3?source=rss",
+      "pubDate": "2026-07-16T13:59:33.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": ["swallows"],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/ebb17ad72a28a12ca9bfaae170a54f3c74d882e3?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【阪神】大山悠輔「いい判断ができたと思います」機転を利かせ同点阻止のビッグプレー(日刊スポーツ)",
+      "summary": "＜中日1－3阪神＞◇16日◇バンテリンドーム 阪神大山悠輔内野手（31）がビッグプレーで同点を阻止した。 1点リードで迎えた7回1死一、二塁の守備だった。中日細川が放った三遊間へ抜けそうな打球",
+      "link": "https://news.yahoo.co.jp/articles/221a31d3a0ccf6ab21797821f7351b759298a8e3?source=rss",
+      "pubDate": "2026-07-16T13:52:20.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": ["tigers"],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/221a31d3a0ccf6ab21797821f7351b759298a8e3?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【巨人】橋上監督代行「毎打席、期待しながら見ています」５試合連続スタメン起用の笹原操希が殊勲 (日刊スポーツ)",
+      "summary": "＜ヤクルト1－3巨人＞◇16日◇神宮 巨人が終盤に競り勝って2連勝を飾り、今季ヤクルト戦初の勝ち越しを決めた。貯金7とし、首位阪神に1ゲーム差で食らいつく。 殊勲は22歳の新鋭だった。笹原操希",
+      "link": "https://news.yahoo.co.jp/articles/3f819e3375a69229e8d91c788a5fee098e49060a?source=rss",
+      "pubDate": "2026-07-16T13:47:27.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": ["giants"],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/3f819e3375a69229e8d91c788a5fee098e49060a?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【ヤクルト】ドラ４ルーキー増居翔太「もう少し…」池山監督は「コントロールよく…」(日刊スポーツ)",
+      "summary": "＜ヤクルト1－3巨人＞◇16日◇神宮 3位ヤクルトが逆転負けを喫し貯金が今季初のゼロとなった。今季の対巨人では初の連敗、カード負け越し。首位阪神との差は今季最大の4・5ゲームに広がった。 先発",
+      "link": "https://news.yahoo.co.jp/articles/c9bda1f3167de02e5e1c027e01d8532e2d6591dd?source=rss",
+      "pubDate": "2026-07-16T13:43:56.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": ["swallows"],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/c9bda1f3167de02e5e1c027e01d8532e2d6591dd?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【阪神】佐藤輝明「やられているのは分かったので…」天敵からの初本塁打は逆転の21号２ラン(日刊スポーツ)",
+      "summary": "＜中日1－3阪神＞◇16日◇バンテリンドーム 阪神佐藤輝明内野手（27）が逆転の21号2ランを放ち、首位を守った。1点を追った7回無死一塁。そこまで無安打無得点投球を続けていた中日柳裕也投手（32",
+      "link": "https://news.yahoo.co.jp/articles/48a2ec4d35296f880d27ffdb977fc26fe6abf668?source=rss",
+      "pubDate": "2026-07-16T13:42:37.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": ["tigers"],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/48a2ec4d35296f880d27ffdb977fc26fe6abf668?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【阪神】伏見寅威、２戦ぶりの先発マスクで勝利に導く「僕の力っていうよりはピッチャーの力」(日刊スポーツ)",
+      "summary": "＜中日1－3阪神＞◇16日◇バンテリンドーム 阪神伏見寅威捕手（36）が2戦ぶりの先発マスクでチームを勝利に導いた。立ち上がりから制球を乱していた先発伊原陵人投手（25）を好リード。5回を1失点に",
+      "link": "https://news.yahoo.co.jp/articles/ab4a29cd20ea5396b19ffb1c6755bedb47166170?source=rss",
+      "pubDate": "2026-07-16T13:34:01.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": ["tigers"],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/ab4a29cd20ea5396b19ffb1c6755bedb47166170?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【阪神】木下里都がうれしいプロ初勝利！「親からLINEが来ていたので…」(日刊スポーツ)",
+      "summary": "＜中日1－3阪神＞◇16日◇バンテリンドーム 2年目の阪神木下里都投手（25）が待望のプロ初勝利を挙げた。0－1の6回に2番手でマウンドへ。 「試合を左右するところで投げさせてもらっているので",
+      "link": "https://news.yahoo.co.jp/articles/0e363d8758b16f6b3fb6bed830e8768266bc4087?source=rss",
+      "pubDate": "2026-07-16T13:32:15.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": ["tigers"],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/0e363d8758b16f6b3fb6bed830e8768266bc4087?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【中日】柳裕也「勝負を急いだ」佐藤輝明の逆転２ランに反省も「良かった部分を大事に」(日刊スポーツ)",
+      "summary": "中日柳裕也投手（32）が佐藤に痛恨の1発を浴びた。6回まで阪神打線を無安打に抑えたが、暗転したのは1点リードの7回。1死一塁で佐藤にこの日初安打となる1発を右中間に運ばれた。佐藤に本塁打を浴びるのは",
+      "link": "https://news.yahoo.co.jp/articles/7a92763f701166bf0e0f0823eff3e64328a71251?source=rss",
+      "pubDate": "2026-07-16T13:28:34.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": ["dragons"],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/7a92763f701166bf0e0f0823eff3e64328a71251?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【楽天】シーソーゲームを制し今季２度目の同一カード3連勝 浅村栄斗が復活の逆転満塁弾(日刊スポーツ)",
+      "summary": "＜楽天12－8オリックス＞◇16日◇楽天モバイル最強パーク 楽天が今季最多12得点でシーソーゲームを制し、今季2度目の同一カード3連勝を飾った。仙台でのオリックス戦は6戦全勝。不振で苦しんでいた浅",
+      "link": "https://news.yahoo.co.jp/articles/287e3cb529c36e6055888691367123a3250b30e2?source=rss",
+      "pubDate": "2026-07-16T13:23:23.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": ["eagles"],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/287e3cb529c36e6055888691367123a3250b30e2?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【大石大二郎】阪神佐藤輝明のすごみ感じる逆転２ラン チームの課題は状況に応じた打撃(日刊スポーツ)",
+      "summary": "＜中日1－3阪神＞◇16日◇バンテリンドーム 阪神佐藤のすごみを感じる逆転2ランでした。恐らくフォーク狙いで、チェンジアップをホームラン。狙っていない球で、しかも甘く入ってくると引っ張りたくなるも",
+      "link": "https://news.yahoo.co.jp/articles/90c829fd883e59733ee55031485c665b684c67a6?source=rss",
+      "pubDate": "2026-07-16T13:15:52.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": ["tigers"],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/90c829fd883e59733ee55031485c665b684c67a6?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【ロッテ】サブロー監督「代えようかなと思った」安田尚憲が勝ち越し打放ち連敗４でストップ(日刊スポーツ)",
+      "summary": "＜西武3－4ロッテ＞◇16日◇ベルーナドーム ロッテは連敗を4でストップさせた。同点の8回に四球と連打で無死満塁と好機をつくり、安田尚憲内野手（27）が中越え適時二塁打を放って2点を勝ち越した。サ",
+      "link": "https://news.yahoo.co.jp/articles/ce75ca16b96fd12a2eb5ee52cca0ef51e625700f?source=rss",
+      "pubDate": "2026-07-16T13:13:23.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": ["marines"],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/ce75ca16b96fd12a2eb5ee52cca0ef51e625700f?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【阪神】浜田太貴 待望“虎１号”「慣れないですね」とタジタジのヒーローインタビューに大歓声(日刊スポーツ)",
+      "summary": "＜中日1－3阪神＞◇16日◇バンテリンドーム 阪神浜田太貴外野手（25）が待望の“虎1号”をかっ飛ばした。8回先頭で代打出場。わずか3球で追い込まれ、カウント1－2からの4球目だった。中日牧野の外",
+      "link": "https://news.yahoo.co.jp/articles/c33d65a73b4c4e01fe1f2c34b9a286f0fc1e1816?source=rss",
+      "pubDate": "2026-07-16T13:04:34.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": ["tigers"],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/c33d65a73b4c4e01fe1f2c34b9a286f0fc1e1816?source=rss"
+        }
+      ]
+    },
+    {
       "title": "右翼手も追わない完璧弾！ ソフトバンクの“4番”が2戦連発27号…本塁打王争いで7本差",
       "summary": "福岡ソフトバンクホークスの栗原陵矢は16日、エスコンフィールドHOKKAIDOで行われた北海道日本ハムファイターズ戦に「4番・一塁」で先発出場。7回に、2試合連続となる27号の2点本塁打を放った。",
       "link": "https://www.baseballchannel.jp/npb/275074/",
       "pubDate": "2026-07-16T11:36:50.000Z",
       "source": "ベースボールチャンネル（プロ野球）",
       "sourceId": "baseballchannel-npb",
-      "teams": [
-        "hawks"
-      ],
+      "teams": ["hawks"],
       "topics": [],
       "sources": [
         {
@@ -661,9 +1323,7 @@
       "pubDate": "2026-07-16T11:15:27.000Z",
       "source": "ベースボールチャンネル（プロ野球）",
       "sourceId": "baseballchannel-npb",
-      "teams": [
-        "hawks"
-      ],
+      "teams": ["hawks"],
       "topics": [],
       "sources": [
         {
@@ -680,9 +1340,7 @@
       "pubDate": "2026-07-16T09:03:19.000Z",
       "source": "Yahoo!ニュース スポーツ",
       "sourceId": "yahoo-sports",
-      "teams": [
-        "baystars"
-      ],
+      "teams": ["baystars"],
       "topics": [],
       "sources": [
         {
@@ -699,9 +1357,7 @@
       "pubDate": "2026-07-16T09:01:43.000Z",
       "source": "Yahoo!ニュース スポーツ",
       "sourceId": "yahoo-sports",
-      "teams": [
-        "hawks"
-      ],
+      "teams": ["hawks"],
       "topics": [],
       "sources": [
         {
@@ -718,9 +1374,7 @@
       "pubDate": "2026-07-16T09:01:12.000Z",
       "source": "Yahoo!ニュース スポーツ",
       "sourceId": "yahoo-sports",
-      "teams": [
-        "dragons"
-      ],
+      "teams": ["dragons"],
       "topics": [],
       "sources": [
         {
@@ -737,17 +1391,8 @@
       "pubDate": "2026-07-16T09:00:38.000Z",
       "source": "Yahoo!ニュース スポーツ",
       "sourceId": "yahoo-sports",
-      "teams": [
-        "tigers",
-        "giants",
-        "swallows",
-        "hawks",
-        "lions",
-        "fighters"
-      ],
-      "topics": [
-        "injury"
-      ],
+      "teams": ["tigers", "giants", "swallows", "hawks", "lions", "fighters"],
+      "topics": ["injury"],
       "sources": [
         {
           "name": "Yahoo!ニュース スポーツ",
@@ -780,9 +1425,7 @@
       "pubDate": "2026-07-16T09:00:24.000Z",
       "source": "Yahoo!ニュース スポーツ",
       "sourceId": "yahoo-sports",
-      "teams": [
-        "lions"
-      ],
+      "teams": ["lions"],
       "topics": [],
       "sources": [
         {
@@ -799,13 +1442,8 @@
       "pubDate": "2026-07-16T08:59:24.000Z",
       "source": "Yahoo!ニュース スポーツ",
       "sourceId": "yahoo-sports",
-      "teams": [
-        "hawks",
-        "fighters"
-      ],
-      "topics": [
-        "trade"
-      ],
+      "teams": ["hawks", "fighters"],
+      "topics": ["trade"],
       "sources": [
         {
           "name": "Yahoo!ニュース スポーツ",
@@ -821,9 +1459,7 @@
       "pubDate": "2026-07-16T08:57:24.000Z",
       "source": "Yahoo!ニュース スポーツ",
       "sourceId": "yahoo-sports",
-      "teams": [
-        "fighters"
-      ],
+      "teams": ["fighters"],
       "topics": [],
       "sources": [
         {
@@ -840,12 +1476,8 @@
       "pubDate": "2026-07-16T08:54:22.000Z",
       "source": "Yahoo!ニュース スポーツ",
       "sourceId": "yahoo-sports",
-      "teams": [
-        "hawks"
-      ],
-      "topics": [
-        "trade"
-      ],
+      "teams": ["hawks"],
+      "topics": ["trade"],
       "sources": [
         {
           "name": "Yahoo!ニュース スポーツ",
@@ -861,12 +1493,8 @@
       "pubDate": "2026-07-16T08:53:10.000Z",
       "source": "Yahoo!ニュース スポーツ",
       "sourceId": "yahoo-sports",
-      "teams": [
-        "giants"
-      ],
-      "topics": [
-        "personnel"
-      ],
+      "teams": ["giants"],
+      "topics": ["personnel"],
       "sources": [
         {
           "name": "Yahoo!ニュース スポーツ",
@@ -882,10 +1510,7 @@
       "pubDate": "2026-07-16T08:48:39.000Z",
       "source": "Yahoo!ニュース スポーツ",
       "sourceId": "yahoo-sports",
-      "teams": [
-        "lions",
-        "marines"
-      ],
+      "teams": ["lions", "marines"],
       "topics": [],
       "sources": [
         {
@@ -902,9 +1527,7 @@
       "pubDate": "2026-07-16T08:47:11.000Z",
       "source": "Yahoo!ニュース スポーツ",
       "sourceId": "yahoo-sports",
-      "teams": [
-        "lions"
-      ],
+      "teams": ["lions"],
       "topics": [],
       "sources": [
         {
@@ -921,9 +1544,7 @@
       "pubDate": "2026-07-16T08:45:28.000Z",
       "source": "Yahoo!ニュース スポーツ",
       "sourceId": "yahoo-sports",
-      "teams": [
-        "giants"
-      ],
+      "teams": ["giants"],
       "topics": [],
       "sources": [
         {
@@ -940,9 +1561,7 @@
       "pubDate": "2026-07-16T08:45:11.000Z",
       "source": "Yahoo!ニュース スポーツ",
       "sourceId": "yahoo-sports",
-      "teams": [
-        "swallows"
-      ],
+      "teams": ["swallows"],
       "topics": [],
       "sources": [
         {
@@ -959,9 +1578,7 @@
       "pubDate": "2026-07-16T08:45:10.000Z",
       "source": "Yahoo!ニュース スポーツ",
       "sourceId": "yahoo-sports",
-      "teams": [
-        "swallows"
-      ],
+      "teams": ["swallows"],
       "topics": [],
       "sources": [
         {
@@ -978,9 +1595,7 @@
       "pubDate": "2026-07-16T08:45:05.000Z",
       "source": "Yahoo!ニュース スポーツ",
       "sourceId": "yahoo-sports",
-      "teams": [
-        "marines"
-      ],
+      "teams": ["marines"],
       "topics": [],
       "sources": [
         {
@@ -1002,12 +1617,8 @@
       "pubDate": "2026-07-16T08:26:47.000Z",
       "source": "ベースボールチャンネル（プロ野球）",
       "sourceId": "baseballchannel-npb",
-      "teams": [
-        "tigers"
-      ],
-      "topics": [
-        "roster"
-      ],
+      "teams": ["tigers"],
+      "topics": ["roster"],
       "sources": [
         {
           "name": "ベースボールチャンネル（プロ野球）",
@@ -1023,9 +1634,7 @@
       "pubDate": "2026-07-16T08:00:00.000Z",
       "source": "BASEBALL KING",
       "sourceId": "baseballking",
-      "teams": [
-        "baystars"
-      ],
+      "teams": ["baystars"],
       "topics": [],
       "sources": [
         {
@@ -1042,9 +1651,7 @@
       "pubDate": "2026-07-16T07:48:01.000Z",
       "source": "Full-Count（プロ野球）",
       "sourceId": "full-count-npb",
-      "teams": [
-        "baystars"
-      ],
+      "teams": ["baystars"],
       "topics": [],
       "sources": [
         {
@@ -1061,17 +1668,64 @@
       "pubDate": "2026-07-16T07:40:31.000Z",
       "source": "ベースボールチャンネル（プロ野球）",
       "sourceId": "baseballchannel-npb",
-      "teams": [
-        "giants"
-      ],
-      "topics": [
-        "roster"
-      ],
+      "teams": ["giants"],
+      "topics": ["roster"],
       "sources": [
         {
           "name": "ベースボールチャンネル（プロ野球）",
           "sourceId": "baseballchannel-npb",
           "link": "https://www.baseballchannel.jp/npb/275059/"
+        }
+      ]
+    },
+    {
+      "title": "【日本ハム】天敵ソフトバンクに逆転負け 今季は全５カード負け越しで首位との差が５に拡大(日刊スポーツ)",
+      "summary": "＜日本ハム2－6ソフトバンク＞◇16日◇エスコンフィールド 日本ハムが、ソフトバンクに逆転負けを喫し、対ソフトバンクは5カード連続で負け越しが決まった。同点の7回、伊藤大海投手（28）が無死二、三",
+      "link": "https://news.yahoo.co.jp/articles/f09d15225b116e01f0e8bce37c72158b3fcf2080?source=rss",
+      "pubDate": "2026-07-16T07:28:50.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": ["fighters"],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/f09d15225b116e01f0e8bce37c72158b3fcf2080?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【ソフトバンク】３年ぶり先発の上茶谷大河６回２失点９奪三振、粘投に打線奮起し白星プレゼント(日刊スポーツ)",
+      "summary": "＜日本ハム2－6ソフトバンク＞◇16日◇エスコンフィールド 今季初先発となったソフトバンク上茶谷大河投手（29）が粘投をみせた。DeNA時代から立ち上がりが不安視された右腕だが、3年ぶりとなる先発",
+      "link": "https://news.yahoo.co.jp/articles/4758695561829c0f1452d20c3e7a71601694c5b9?source=rss",
+      "pubDate": "2026-07-16T07:27:00.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": ["hawks"],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/4758695561829c0f1452d20c3e7a71601694c5b9?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "ロッテ石川柊太、毛利海大ら登録、楽天前田健太、阪神今朝丸裕喜ら抹消／16日公示(日刊スポーツ)",
+      "summary": "7月16日のプロ野球の出場選手登録と抹消は以下の通り。 【セ・リーグ】 ＜登録＞ 阪神 神宮僚介投手 巨人 B・マタ投手 ヤクルト 増居翔太投手 ヤクルト 武岡龍世内野手",
+      "link": "https://news.yahoo.co.jp/articles/86fcfae1d35530a4ee5b7175249c2aad8c085099?source=rss",
+      "pubDate": "2026-07-16T07:24:49.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [],
+      "topics": ["roster"],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/86fcfae1d35530a4ee5b7175249c2aad8c085099?source=rss"
         }
       ]
     },
@@ -1082,9 +1736,7 @@
       "pubDate": "2026-07-16T07:21:54.000Z",
       "source": "Full-Count（プロ野球）",
       "sourceId": "full-count-npb",
-      "teams": [
-        "baystars"
-      ],
+      "teams": ["baystars"],
       "topics": [],
       "sources": [
         {
@@ -1101,12 +1753,8 @@
       "pubDate": "2026-07-16T07:15:17.000Z",
       "source": "Full-Count（プロ野球）",
       "sourceId": "full-count-npb",
-      "teams": [
-        "lions"
-      ],
-      "topics": [
-        "draft"
-      ],
+      "teams": ["lions"],
+      "topics": ["draft"],
       "sources": [
         {
           "name": "Full-Count（プロ野球）",
@@ -1122,9 +1770,7 @@
       "pubDate": "2026-07-16T07:03:03.000Z",
       "source": "Full-Count（プロ野球）",
       "sourceId": "full-count-npb",
-      "teams": [
-        "lions"
-      ],
+      "teams": ["lions"],
       "topics": [],
       "sources": [
         {
@@ -1142,9 +1788,7 @@
       "source": "ベースボールチャンネル（プロ野球）",
       "sourceId": "baseballchannel-npb",
       "teams": [],
-      "topics": [
-        "roster"
-      ],
+      "topics": ["roster"],
       "sources": [
         {
           "name": "ベースボールチャンネル（プロ野球）",
@@ -1160,9 +1804,7 @@
       "pubDate": "2026-07-16T06:20:44.000Z",
       "source": "Yahoo!ニュース スポーツ",
       "sourceId": "yahoo-sports",
-      "teams": [
-        "fighters"
-      ],
+      "teams": ["fighters"],
       "topics": [],
       "sources": [
         {
@@ -1179,12 +1821,8 @@
       "pubDate": "2026-07-16T06:20:06.000Z",
       "source": "Yahoo!ニュース スポーツ",
       "sourceId": "yahoo-sports",
-      "teams": [
-        "giants"
-      ],
-      "topics": [
-        "draft"
-      ],
+      "teams": ["giants"],
+      "topics": ["draft"],
       "sources": [
         {
           "name": "Yahoo!ニュース スポーツ",
@@ -1200,9 +1838,7 @@
       "pubDate": "2026-07-16T06:15:54.000Z",
       "source": "Yahoo!ニュース スポーツ",
       "sourceId": "yahoo-sports",
-      "teams": [
-        "marines"
-      ],
+      "teams": ["marines"],
       "topics": [],
       "sources": [
         {
@@ -1219,9 +1855,7 @@
       "pubDate": "2026-07-16T06:14:53.000Z",
       "source": "Yahoo!ニュース スポーツ",
       "sourceId": "yahoo-sports",
-      "teams": [
-        "fighters"
-      ],
+      "teams": ["fighters"],
       "topics": [],
       "sources": [
         {
@@ -1238,9 +1872,7 @@
       "pubDate": "2026-07-16T06:14:33.000Z",
       "source": "Yahoo!ニュース スポーツ",
       "sourceId": "yahoo-sports",
-      "teams": [
-        "fighters"
-      ],
+      "teams": ["fighters"],
       "topics": [],
       "sources": [
         {
@@ -1257,12 +1889,8 @@
       "pubDate": "2026-07-16T06:13:17.000Z",
       "source": "Yahoo!ニュース スポーツ",
       "sourceId": "yahoo-sports",
-      "teams": [
-        "dragons"
-      ],
-      "topics": [
-        "trade"
-      ],
+      "teams": ["dragons"],
+      "topics": ["trade"],
       "sources": [
         {
           "name": "Yahoo!ニュース スポーツ",
@@ -1278,9 +1906,7 @@
       "pubDate": "2026-07-16T06:09:00.000Z",
       "source": "Yahoo!ニュース スポーツ",
       "sourceId": "yahoo-sports",
-      "teams": [
-        "marines"
-      ],
+      "teams": ["marines"],
       "topics": [],
       "sources": [
         {
@@ -1297,13 +1923,8 @@
       "pubDate": "2026-07-16T06:07:27.000Z",
       "source": "Yahoo!ニュース スポーツ",
       "sourceId": "yahoo-sports",
-      "teams": [
-        "dragons"
-      ],
-      "topics": [
-        "trade",
-        "roster"
-      ],
+      "teams": ["dragons"],
+      "topics": ["trade", "roster"],
       "sources": [
         {
           "name": "Yahoo!ニュース スポーツ",
@@ -1319,9 +1940,7 @@
       "pubDate": "2026-07-16T06:07:07.000Z",
       "source": "Yahoo!ニュース スポーツ",
       "sourceId": "yahoo-sports",
-      "teams": [
-        "giants"
-      ],
+      "teams": ["giants"],
       "topics": [],
       "sources": [
         {
@@ -1338,12 +1957,8 @@
       "pubDate": "2026-07-16T05:50:01.000Z",
       "source": "Yahoo!ニュース スポーツ",
       "sourceId": "yahoo-sports",
-      "teams": [
-        "tigers"
-      ],
-      "topics": [
-        "trade"
-      ],
+      "teams": ["tigers"],
+      "topics": ["trade"],
       "sources": [
         {
           "name": "Yahoo!ニュース スポーツ",
@@ -1359,9 +1974,7 @@
       "pubDate": "2026-07-16T05:48:25.000Z",
       "source": "Yahoo!ニュース スポーツ",
       "sourceId": "yahoo-sports",
-      "teams": [
-        "lions"
-      ],
+      "teams": ["lions"],
       "topics": [],
       "sources": [
         {
@@ -1383,9 +1996,7 @@
       "pubDate": "2026-07-16T05:45:00.000Z",
       "source": "Yahoo!ニュース スポーツ",
       "sourceId": "yahoo-sports",
-      "teams": [
-        "hawks"
-      ],
+      "teams": ["hawks"],
       "topics": [],
       "sources": [
         {
@@ -1419,9 +2030,7 @@
       "pubDate": "2026-07-16T05:41:02.000Z",
       "source": "Yahoo!ニュース スポーツ",
       "sourceId": "yahoo-sports",
-      "teams": [
-        "hawks"
-      ],
+      "teams": ["hawks"],
       "topics": [],
       "sources": [
         {
@@ -1455,9 +2064,7 @@
       "pubDate": "2026-07-16T05:30:33.000Z",
       "source": "Yahoo!ニュース スポーツ",
       "sourceId": "yahoo-sports",
-      "teams": [
-        "carp"
-      ],
+      "teams": ["carp"],
       "topics": [],
       "sources": [
         {
@@ -1474,9 +2081,7 @@
       "pubDate": "2026-07-16T05:16:00.000Z",
       "source": "Yahoo!ニュース スポーツ",
       "sourceId": "yahoo-sports",
-      "teams": [
-        "marines"
-      ],
+      "teams": ["marines"],
       "topics": [],
       "sources": [
         {
@@ -1493,9 +2098,7 @@
       "pubDate": "2026-07-16T05:11:12.000Z",
       "source": "BASEBALL KING",
       "sourceId": "baseballking",
-      "teams": [
-        "marines"
-      ],
+      "teams": ["marines"],
       "topics": [],
       "sources": [
         {
@@ -1512,9 +2115,7 @@
       "pubDate": "2026-07-16T05:11:06.000Z",
       "source": "Yahoo!ニュース スポーツ",
       "sourceId": "yahoo-sports",
-      "teams": [
-        "dragons"
-      ],
+      "teams": ["dragons"],
       "topics": [],
       "sources": [
         {
@@ -1553,9 +2154,7 @@
       "pubDate": "2026-07-16T05:04:37.000Z",
       "source": "Yahoo!ニュース スポーツ",
       "sourceId": "yahoo-sports",
-      "teams": [
-        "dragons"
-      ],
+      "teams": ["dragons"],
       "sources": [
         {
           "name": "Yahoo!ニュース スポーツ",
@@ -1571,9 +2170,7 @@
       "pubDate": "2026-07-16T05:00:57.000Z",
       "source": "Yahoo!ニュース スポーツ",
       "sourceId": "yahoo-sports",
-      "teams": [
-        "hawks"
-      ],
+      "teams": ["hawks"],
       "sources": [
         {
           "name": "Yahoo!ニュース スポーツ",
@@ -1589,9 +2186,7 @@
       "pubDate": "2026-07-16T03:47:28.000Z",
       "source": "ベースボールチャンネル（プロ野球）",
       "sourceId": "baseballchannel-npb",
-      "teams": [
-        "hawks"
-      ],
+      "teams": ["hawks"],
       "topics": [],
       "sources": [
         {
@@ -1608,9 +2203,7 @@
       "pubDate": "2026-07-16T03:14:29.000Z",
       "source": "ベースボールチャンネル（プロ野球）",
       "sourceId": "baseballchannel-npb",
-      "teams": [
-        "lions"
-      ],
+      "teams": ["lions"],
       "topics": [],
       "sources": [
         {
@@ -1627,9 +2220,7 @@
       "pubDate": "2026-07-16T02:25:18.000Z",
       "source": "Full-Count（プロ野球）",
       "sourceId": "full-count-npb",
-      "teams": [
-        "fighters"
-      ],
+      "teams": ["fighters"],
       "topics": [],
       "sources": [
         {
@@ -1646,10 +2237,7 @@
       "pubDate": "2026-07-16T01:40:03.000Z",
       "source": "Full-Count（プロ野球）",
       "sourceId": "full-count-npb",
-      "teams": [
-        "fighters",
-        "lions"
-      ],
+      "teams": ["fighters", "lions"],
       "topics": [],
       "sources": [
         {
@@ -1666,9 +2254,7 @@
       "pubDate": "2026-07-16T01:21:10.000Z",
       "source": "Full-Count（プロ野球）",
       "sourceId": "full-count-npb",
-      "teams": [
-        "lions"
-      ],
+      "teams": ["lions"],
       "topics": [],
       "sources": [
         {
@@ -1719,12 +2305,8 @@
       "pubDate": "2026-07-15T23:08:14.000Z",
       "source": "BASEBALL KING",
       "sourceId": "baseballking",
-      "teams": [
-        "hawks"
-      ],
-      "topics": [
-        "injury"
-      ],
+      "teams": ["hawks"],
+      "topics": ["injury"],
       "sources": [
         {
           "name": "BASEBALL KING",
@@ -1757,9 +2339,7 @@
       "pubDate": "2026-07-15T22:54:15.000Z",
       "source": "BASEBALL KING",
       "sourceId": "baseballking",
-      "teams": [
-        "marines"
-      ],
+      "teams": ["marines"],
       "topics": [],
       "sources": [
         {
@@ -1776,10 +2356,7 @@
       "pubDate": "2026-07-15T21:50:00.000Z",
       "source": "BASEBALL KING",
       "sourceId": "baseballking",
-      "teams": [
-        "giants",
-        "swallows"
-      ],
+      "teams": ["giants", "swallows"],
       "topics": [],
       "sources": [
         {
@@ -1796,9 +2373,7 @@
       "pubDate": "2026-07-15T21:40:00.000Z",
       "source": "BASEBALL KING",
       "sourceId": "baseballking",
-      "teams": [
-        "tigers"
-      ],
+      "teams": ["tigers"],
       "topics": [],
       "sources": [
         {
@@ -1815,9 +2390,7 @@
       "pubDate": "2026-07-15T21:30:00.000Z",
       "source": "BASEBALL KING",
       "sourceId": "baseballking",
-      "teams": [
-        "eagles"
-      ],
+      "teams": ["eagles"],
       "topics": [],
       "sources": [
         {
@@ -1834,9 +2407,7 @@
       "pubDate": "2026-07-15T21:20:00.000Z",
       "source": "BASEBALL KING",
       "sourceId": "baseballking",
-      "teams": [
-        "marines"
-      ],
+      "teams": ["marines"],
       "topics": [],
       "sources": [
         {
@@ -1853,9 +2424,7 @@
       "pubDate": "2026-07-15T21:10:00.000Z",
       "source": "BASEBALL KING",
       "sourceId": "baseballking",
-      "teams": [
-        "fighters"
-      ],
+      "teams": ["fighters"],
       "topics": [],
       "sources": [
         {
@@ -1872,12 +2441,8 @@
       "pubDate": "2026-07-15T08:50:26.000Z",
       "source": "ベースボールチャンネル（プロ野球）",
       "sourceId": "baseballchannel-npb",
-      "teams": [
-        "carp"
-      ],
-      "topics": [
-        "roster"
-      ],
+      "teams": ["carp"],
+      "topics": ["roster"],
       "sources": [
         {
           "name": "ベースボールチャンネル（プロ野球）",
@@ -1893,9 +2458,7 @@
       "pubDate": "2026-07-15T07:50:57.000Z",
       "source": "ベースボールチャンネル（プロ野球）",
       "sourceId": "baseballchannel-npb",
-      "teams": [
-        "hawks"
-      ],
+      "teams": ["hawks"],
       "topics": [],
       "sources": [
         {
@@ -1912,12 +2475,8 @@
       "pubDate": "2026-07-15T07:30:53.000Z",
       "source": "ベースボールチャンネル（プロ野球）",
       "sourceId": "baseballchannel-npb",
-      "teams": [
-        "dragons"
-      ],
-      "topics": [
-        "roster"
-      ],
+      "teams": ["dragons"],
+      "topics": ["roster"],
       "sources": [
         {
           "name": "ベースボールチャンネル（プロ野球）",
@@ -1933,9 +2492,7 @@
       "pubDate": "2026-07-15T07:08:44.000Z",
       "source": "Full-Count（プロ野球）",
       "sourceId": "full-count-npb",
-      "teams": [
-        "hawks"
-      ],
+      "teams": ["hawks"],
       "topics": [],
       "sources": [
         {
@@ -1953,9 +2510,7 @@
       "source": "ベースボールチャンネル（プロ野球）",
       "sourceId": "baseballchannel-npb",
       "teams": [],
-      "topics": [
-        "roster"
-      ],
+      "topics": ["roster"],
       "sources": [
         {
           "name": "ベースボールチャンネル（プロ野球）",
@@ -2005,9 +2560,7 @@
       "pubDate": "2026-07-15T02:52:52.000Z",
       "source": "Full-Count（プロ野球）",
       "sourceId": "full-count-npb",
-      "teams": [
-        "tigers"
-      ],
+      "teams": ["tigers"],
       "topics": [],
       "sources": [
         {
@@ -2024,10 +2577,7 @@
       "pubDate": "2026-07-15T02:36:46.000Z",
       "source": "Full-Count（プロ野球）",
       "sourceId": "full-count-npb",
-      "teams": [
-        "fighters",
-        "swallows"
-      ],
+      "teams": ["fighters", "swallows"],
       "topics": [],
       "sources": [
         {
@@ -2044,10 +2594,7 @@
       "pubDate": "2026-07-15T01:20:50.000Z",
       "source": "Full-Count（プロ野球）",
       "sourceId": "full-count-npb",
-      "teams": [
-        "hawks",
-        "eagles"
-      ],
+      "teams": ["hawks", "eagles"],
       "topics": [],
       "sources": [
         {
@@ -2081,9 +2628,7 @@
       "pubDate": "2026-07-14T11:15:19.000Z",
       "source": "ベースボールチャンネル（プロ野球）",
       "sourceId": "baseballchannel-npb",
-      "teams": [
-        "dragons"
-      ],
+      "teams": ["dragons"],
       "topics": [],
       "sources": [
         {
@@ -2100,9 +2645,7 @@
       "pubDate": "2026-07-14T10:45:47.000Z",
       "source": "ベースボールチャンネル（プロ野球）",
       "sourceId": "baseballchannel-npb",
-      "teams": [
-        "dragons"
-      ],
+      "teams": ["dragons"],
       "topics": [],
       "sources": [
         {
@@ -2119,9 +2662,7 @@
       "pubDate": "2026-07-14T08:19:39.000Z",
       "source": "ベースボールチャンネル（プロ野球）",
       "sourceId": "baseballchannel-npb",
-      "teams": [
-        "baystars"
-      ],
+      "teams": ["baystars"],
       "topics": [],
       "sources": [
         {
@@ -2138,12 +2679,8 @@
       "pubDate": "2026-07-14T07:56:16.000Z",
       "source": "ベースボールチャンネル（プロ野球）",
       "sourceId": "baseballchannel-npb",
-      "teams": [
-        "carp"
-      ],
-      "topics": [
-        "roster"
-      ],
+      "teams": ["carp"],
+      "topics": ["roster"],
       "sources": [
         {
           "name": "ベースボールチャンネル（プロ野球）",
@@ -2159,9 +2696,7 @@
       "pubDate": "2026-07-14T07:37:22.000Z",
       "source": "ベースボールチャンネル（プロ野球）",
       "sourceId": "baseballchannel-npb",
-      "teams": [
-        "baystars"
-      ],
+      "teams": ["baystars"],
       "topics": [],
       "sources": [
         {
@@ -2179,9 +2714,7 @@
       "source": "ベースボールチャンネル（プロ野球）",
       "sourceId": "baseballchannel-npb",
       "teams": [],
-      "topics": [
-        "roster"
-      ],
+      "topics": ["roster"],
       "sources": [
         {
           "name": "ベースボールチャンネル（プロ野球）",
@@ -2197,9 +2730,7 @@
       "pubDate": "2026-07-14T02:40:59.000Z",
       "source": "ベースボールチャンネル（プロ野球）",
       "sourceId": "baseballchannel-npb",
-      "teams": [
-        "marines"
-      ],
+      "teams": ["marines"],
       "topics": [],
       "sources": [
         {
@@ -2216,9 +2747,7 @@
       "pubDate": "2026-07-14T00:00:00.000Z",
       "source": "NPB公式ニュース",
       "sourceId": "npb-official-freefielder",
-      "teams": [
-        "marines"
-      ],
+      "teams": ["marines"],
       "topics": [],
       "sources": [
         {
@@ -2235,9 +2764,7 @@
       "pubDate": "2026-07-14T00:00:00.000Z",
       "source": "NPB公式ニュース",
       "sourceId": "npb-official-freefielder",
-      "teams": [
-        "carp"
-      ],
+      "teams": ["carp"],
       "topics": [],
       "sources": [
         {
@@ -2288,9 +2815,7 @@
       "pubDate": "2026-07-13T22:00:04.000Z",
       "source": "ベースボールチャンネル（プロ野球）",
       "sourceId": "baseballchannel-npb",
-      "teams": [
-        "marines"
-      ],
+      "teams": ["marines"],
       "topics": [],
       "sources": [
         {
@@ -2307,12 +2832,8 @@
       "pubDate": "2026-07-13T09:35:45.000Z",
       "source": "ベースボールチャンネル（プロ野球）",
       "sourceId": "baseballchannel-npb",
-      "teams": [
-        "tigers"
-      ],
-      "topics": [
-        "roster"
-      ],
+      "teams": ["tigers"],
+      "topics": ["roster"],
       "sources": [
         {
           "name": "ベースボールチャンネル（プロ野球）",
@@ -2328,12 +2849,8 @@
       "pubDate": "2026-07-13T08:44:14.000Z",
       "source": "ベースボールチャンネル（プロ野球）",
       "sourceId": "baseballchannel-npb",
-      "teams": [
-        "tigers"
-      ],
-      "topics": [
-        "roster"
-      ],
+      "teams": ["tigers"],
+      "topics": ["roster"],
       "sources": [
         {
           "name": "ベースボールチャンネル（プロ野球）",
@@ -2350,9 +2867,7 @@
       "source": "ベースボールチャンネル（プロ野球）",
       "sourceId": "baseballchannel-npb",
       "teams": [],
-      "topics": [
-        "roster"
-      ],
+      "topics": ["roster"],
       "sources": [
         {
           "name": "ベースボールチャンネル（プロ野球）",
@@ -2368,9 +2883,7 @@
       "pubDate": "2026-07-13T06:21:24.000Z",
       "source": "ベースボールチャンネル（プロ野球）",
       "sourceId": "baseballchannel-npb",
-      "teams": [
-        "giants"
-      ],
+      "teams": ["giants"],
       "topics": [],
       "sources": [
         {
@@ -2387,9 +2900,7 @@
       "pubDate": "2026-07-13T05:01:21.000Z",
       "source": "ベースボールチャンネル（プロ野球）",
       "sourceId": "baseballchannel-npb",
-      "teams": [
-        "baystars"
-      ],
+      "teams": ["baystars"],
       "topics": [],
       "sources": [
         {
@@ -2474,9 +2985,7 @@
       "pubDate": "2026-07-12T22:10:17.000Z",
       "source": "ベースボールチャンネル（プロ野球）",
       "sourceId": "baseballchannel-npb",
-      "teams": [
-        "lions"
-      ],
+      "teams": ["lions"],
       "topics": [],
       "sources": [
         {
@@ -2493,9 +3002,7 @@
       "pubDate": "2026-07-12T02:10:03.000Z",
       "source": "ベースボールチャンネル（プロ野球）",
       "sourceId": "baseballchannel-npb",
-      "teams": [
-        "lions"
-      ],
+      "teams": ["lions"],
       "topics": [],
       "sources": [
         {
@@ -2512,9 +3019,7 @@
       "pubDate": "2026-07-11T21:30:52.000Z",
       "source": "ベースボールチャンネル（プロ野球）",
       "sourceId": "baseballchannel-npb",
-      "teams": [
-        "giants"
-      ],
+      "teams": ["giants"],
       "topics": [],
       "sources": [
         {
@@ -2531,13 +3036,8 @@
       "pubDate": "2026-07-11T01:00:26.000Z",
       "source": "ベースボールチャンネル（プロ野球）",
       "sourceId": "baseballchannel-npb",
-      "teams": [
-        "fighters"
-      ],
-      "topics": [
-        "trade",
-        "draft"
-      ],
+      "teams": ["fighters"],
+      "topics": ["trade", "draft"],
       "sources": [
         {
           "name": "ベースボールチャンネル（プロ野球）",
@@ -2553,12 +3053,8 @@
       "pubDate": "2026-07-11T00:00:16.000Z",
       "source": "ベースボールチャンネル（プロ野球）",
       "sourceId": "baseballchannel-npb",
-      "teams": [
-        "baystars"
-      ],
-      "topics": [
-        "roster"
-      ],
+      "teams": ["baystars"],
+      "topics": ["roster"],
       "sources": [
         {
           "name": "ベースボールチャンネル（プロ野球）",
@@ -2574,12 +3070,8 @@
       "pubDate": "2026-07-10T22:30:57.000Z",
       "source": "ベースボールチャンネル（プロ野球）",
       "sourceId": "baseballchannel-npb",
-      "teams": [
-        "baystars"
-      ],
-      "topics": [
-        "trade"
-      ],
+      "teams": ["baystars"],
+      "topics": ["trade"],
       "sources": [
         {
           "name": "ベースボールチャンネル（プロ野球）",
@@ -2595,12 +3087,8 @@
       "pubDate": "2026-07-10T22:15:21.000Z",
       "source": "ベースボールチャンネル（プロ野球）",
       "sourceId": "baseballchannel-npb",
-      "teams": [
-        "giants"
-      ],
-      "topics": [
-        "roster"
-      ],
+      "teams": ["giants"],
+      "topics": ["roster"],
       "sources": [
         {
           "name": "ベースボールチャンネル（プロ野球）",
@@ -2616,9 +3104,7 @@
       "pubDate": "2026-07-10T22:00:15.000Z",
       "source": "ベースボールチャンネル（プロ野球）",
       "sourceId": "baseballchannel-npb",
-      "teams": [
-        "baystars"
-      ],
+      "teams": ["baystars"],
       "sources": [
         {
           "name": "ベースボールチャンネル（プロ野球）",
