@@ -13,6 +13,7 @@ export const GET: APIRoute = () => {
     link: item.link,
     pubDate: item.pubDate,
     source: item.source,
+    sourceId: item.sourceId,
     teams: item.teams,
     topics: item.topics ?? [],
     sourceCount: item.sources?.length ?? 1,
