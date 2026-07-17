@@ -577,7 +577,10 @@ function isColumnTitleTeamMention(scanText, idx) {
 // 挟まることがある。「5月13日の広島7回戦（福井）で…」のような一文で、
 // 数字入りのため既存の「次の1文字が戦かどうか」という判定では素通りして
 // しまい、対戦相手に過ぎない「広島」まで球団タグとして誤ヒットしていた。
-const OPPONENT_SUFFIX_RE = /^(\d{1,2}回)?戦/;
+// 「西武との試合（ベルーナドーム）に4－3で勝利」のように、「◯◯戦」では
+// なく「◯◯との試合/カード/対戦」という言い回しで対戦相手を指すことも
+// あるため、あわせて対戦相手表現として扱う。
+const OPPONENT_SUFFIX_RE = /^((\d{1,2}回)?戦|との(試合|カード|対戦))/;
 
 function findSubjectIndex(scanText, keywords, excludeSpans = []) {
   let subjectIndex = -1;
@@ -742,6 +745,25 @@ function isLeagueMvpRoundup(title) {
   return LEAGUE_MVP_ROUNDUP_TITLE_RE.test(title);
 }
 
+// 「日本ハム・加藤がリーグ最速10勝到達 西武は石井一成の決勝打で逆転し
+// 3連勝を飾る…15日パ結果」のような見出しは、その日に行われたパ・リーグ
+// (またはセ・リーグ)の全試合結果をまとめて報じる定型記事(Full-Count等)で、
+// 本文には複数球団の試合結果が列挙される。上記の各種ラウンドアップ判定と
+// 同様、特定の1球団のニュースではないため球団タグを一切付けない
+// (見出しに直接名前が挙がった球団だけを拾うと、その日の他カードの結果に
+// 触れた球団が漏れる一方、名前が挙がった球団のタブには無関係な他カードの
+// 結果まで紛れ込んでしまう)。
+// 見出し末尾の「◯日パ結果」「◯日セ結果」というほぼ固定の言い回しと、
+// 本文冒頭の「パ・リーグ公式戦は」「セ・リーグ公式戦は」という定型の
+// 書き出しでほぼ確実に識別できる。
+const DAILY_RESULTS_ROUNDUP_TITLE_RE = /\d{1,2}日(パ|セ)結果$/;
+const DAILY_RESULTS_ROUNDUP_BODY_MARKERS = ["パ・リーグ公式戦は", "セ・リーグ公式戦は"];
+
+function isDailyResultsRoundup(title, haystack) {
+  if (DAILY_RESULTS_ROUNDUP_TITLE_RE.test(title)) return true;
+  return DAILY_RESULTS_ROUNDUP_BODY_MARKERS.some((marker) => haystack.includes(marker));
+}
+
 // 上記のような特定の定型フォーマット(見出しの言い回し)に依存しないタイプの
 // 複数球団横断記事(例:「セ・パ計6球団の"復活の男たち"を紹介する特集」)も
 // 存在する。個別の言い回しを都度追加するのではなく、実際に有効ヒットした
@@ -785,6 +807,7 @@ function matchTeamsForItem(title, summary, feedScoped) {
   if (isSchedulePreviewRoundup(title, combinedForRoundupCheck)) return [];
   if (isPreviewRoundup(title, combinedForRoundupCheck)) return [];
   if (isLeagueMvpRoundup(title)) return [];
+  if (isDailyResultsRoundup(title, combinedForRoundupCheck)) return [];
 
   const bracketMatch = title.match(/^[【\[]([^】\]]+)[】\]]/);
   const bracketText = bracketMatch ? bracketMatch[1] : "";
