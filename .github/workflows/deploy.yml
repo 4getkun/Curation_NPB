@@ -24,6 +24,17 @@ name: Build and deploy to GitHub Pages
 # デプロイ許可ブランチ(master)に一致せず毎回「Failed to deploy」になる
 # ——という事故が実際に起きたため、ここではrefとpush先をmasterに固定し、
 # リポジトリの既定ブランチ設定が何であっても正しく動くようにしている。
+#
+# 重要: concurrency.group は実行トリガーの種類ごとに分けている(下記concurrency
+# 参照)。以前は "pages" という1つのグループに push・schedule・workflow_dispatch
+# すべてをまとめていたが、GitHub Actionsのconcurrency仕様上「実行中1件+待機中
+# 1件」までしか保持されず、待機中に新しいトリガーが来ると待機中だった方は
+# キャンセルされ新しい方に置き換わる。手動でのコード更新pushを短時間に何度も
+# 行うと、そのたびに30分おきのschedule実行の待機枠が奪われてキャンセルされ、
+# 自動更新が長時間止まってしまう事故が実際に起きたため、トリガー種類ごとに
+# グループを分離した。この場合、schedule実行とpush実行が同時に走る可能性が
+# 生まれるため、git pushがコンフリクトした場合はリベースして再試行するように
+# している(下記「Commit updated news.json / results.json if changed」参照)。
 on:
   push:
     branches: [master]
@@ -37,7 +48,7 @@ permissions:
   id-token: write
 
 concurrency:
-  group: "pages"
+  group: "pages-${{ github.event_name }}"
   cancel-in-progress: false
 
 jobs:
@@ -79,7 +90,17 @@ jobs:
             git config user.email "actions@users.noreply.github.com"
             git add src/data/news.json src/data/results.json
             git commit -m "chore: update news feed and game results"
-            git push origin HEAD:master
+            # concurrency.groupをトリガー種類ごとに分けたため、schedule実行と
+            # push実行のgit pushが同時に走る可能性がある。非fast-forwardで
+            # 拒否された場合は最新masterにリベースして再試行する(最大3回)。
+            for i in 1 2 3; do
+              if git push origin HEAD:master; then
+                break
+              fi
+              echo "push failed (attempt $i/3), rebasing onto latest master and retrying..."
+              git fetch origin master
+              git rebase origin/master
+            done
           fi
 
       - name: Setup Pages
