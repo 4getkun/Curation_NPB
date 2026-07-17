@@ -493,6 +493,20 @@ function isMatchupCardMention(scanText, idx, kwLength) {
  *    重複カウントしているだけなので除外する。
  * それ以外の言及が一つでもあれば、その最初の位置を返す。
  */
+// 「【巨人戦みどころ】初戦先発はウィットリー…」のように、見出し先頭の
+// 【】直後が「◯◯戦」で始まる場合の「戦」は、対戦相手としての言及ではなく
+// 「その球団の試合」を指す定型のコラム見出しフォーマット(「巨人番」記者が
+// 書く「◯◯戦みどころ」「◯◯戦展望」等)。通常の「◯◯戦」(文中で対戦相手を
+// 指す言い回し)とは区別する必要があるため、直前の文字が見出し先頭の
+// 角括弧の開始(【または[)である場合だけ例外的に主役側とみなす。
+// これにより、この形式の記事は本来の主役(見出しの球団)がタイトル段階で
+// 確定し、要約側にだけ出てくる対戦相手(例:「中日との３連戦」「最下位の
+// 中日」)まで球団タグとして拾ってしまう誤爆を防げる(タイトル段階でヒット
+// が確定すれば、3段階フォールバックのうち要約を見る後段には進まないため)。
+function isColumnTitleTeamMention(scanText, idx) {
+  return idx > 0 && (scanText[idx - 1] === "【" || scanText[idx - 1] === "[");
+}
+
 function findSubjectIndex(scanText, keywords, excludeSpans = []) {
   let subjectIndex = -1;
   for (const kw of keywords) {
@@ -505,7 +519,9 @@ function findSubjectIndex(scanText, keywords, excludeSpans = []) {
       const withinExcluded = excludeSpans.some(([start, end]) => idx >= start && idx < end);
       if (withinExcluded) continue;
 
-      const isOpponentMention = scanText.slice(idx + kw.length, idx + kw.length + 1) === "戦";
+      const isOpponentMention =
+        scanText.slice(idx + kw.length, idx + kw.length + 1) === "戦" &&
+        !isColumnTitleTeamMention(scanText, idx);
       const isMatchupMention = isMatchupCardMention(scanText, idx, kw.length);
       const isLineupMention = isLineupContainmentMention(scanText, idx, kw.length);
       if (!isOpponentMention && !isMatchupMention && !isLineupMention && (subjectIndex === -1 || idx < subjectIndex)) {
@@ -616,6 +632,20 @@ function isLeagueMvpRoundup(title) {
   return LEAGUE_MVP_ROUNDUP_TITLE_RE.test(title);
 }
 
+// 上記のような特定の定型フォーマット(見出しの言い回し)に依存しないタイプの
+// 複数球団横断記事(例:「セ・パ計6球団の"復活の男たち"を紹介する特集」)も
+// 存在する。個別の言い回しを都度追加するのではなく、実際に有効ヒットした
+// 球団数が一定以上(=特定の1〜2球団の話題ではなく、リーグ横断の話題)であれば
+// 一律で総合タグ扱いにする安全網を設けている。トレード等の複数球団が絡む
+// 記事は現実的には最大でも3球団程度(2球団間トレード＋関連球団への言及等)
+// なので、しきい値は明確にそれを超える4球団以上に設定している。
+const ROUNDUP_TEAM_COUNT_THRESHOLD = 4;
+
+function applyRoundupTeamCountGuard(teamIds) {
+  if (teamIds.length >= ROUNDUP_TEAM_COUNT_THRESHOLD) return [];
+  return teamIds;
+}
+
 /**
  * 球団判定のメイン処理。3段階のフォールバックで判定する。
  *
@@ -650,14 +680,14 @@ function matchTeamsForItem(title, summary, feedScoped) {
   const bracketText = bracketMatch ? bracketMatch[1] : "";
 
   const titleHits = collectTeamHits(title, bracketText, feedScoped || matchesGeneralNpb(title));
-  if (titleHits.length > 0) return titleHits;
+  if (titleHits.length > 0) return applyRoundupTeamCountGuard(titleHits);
 
   const titleHitsRelaxed = collectTeamHits(title, bracketText, matchesBaseballAction(title));
-  if (titleHitsRelaxed.length > 0) return titleHitsRelaxed;
+  if (titleHitsRelaxed.length > 0) return applyRoundupTeamCountGuard(titleHitsRelaxed);
 
   const combined = `${title} ${summary}`;
   const hasBaseballContext = feedScoped || matchesGeneralNpb(combined);
-  return collectTeamHits(combined, bracketText, hasBaseballContext);
+  return applyRoundupTeamCountGuard(collectTeamHits(combined, bracketText, hasBaseballContext));
 }
 
 function matchesGeneralNpb(text) {

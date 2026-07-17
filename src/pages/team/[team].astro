@@ -4,6 +4,7 @@ import NewsRow from "../../components/NewsRow.astro";
 import TeamChipLink from "../../components/TeamChipLink.astro";
 import { teams, needsContrastRing } from "../../lib/teams";
 import { newsForTeam } from "../../lib/news";
+import { withBase } from "../../lib/url";
 
 export function getStaticPaths() {
   return teams.map((team) => ({
@@ -32,6 +33,13 @@ const ring = needsContrastRing(team.color);
         {teams.map((t) => (
           <TeamChipLink team={t} active={t.id === team.id} />
         ))}
+        <a
+          href={withBase("/news/")}
+          class="no-underline rounded-full border font-bold"
+          style="font-size:12px; padding:7px 14px; background:none; color:var(--text-muted); border-color:var(--border);"
+        >
+          総合
+        </a>
       </div>
     </div>
   </section>
