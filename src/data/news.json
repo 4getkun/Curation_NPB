@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-17T00:01:05.168Z",
+  "generatedAt": "2026-07-17T00:09:52.556Z",
   "count": 209,
   "items": [
     {
@@ -18,6 +18,11 @@
           "name": "BASEBALL KING",
           "sourceId": "baseballking",
           "link": "https://baseballking.jp/ns/701655/"
+        },
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/c057809a366608463e66047cbc256de856422dc5?source=rss"
         }
       ]
     },
