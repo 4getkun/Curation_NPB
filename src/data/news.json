@@ -1,7 +1,69 @@
 {
-  "generatedAt": "2026-07-17T06:56:28.686Z",
-  "count": 238,
+  "generatedAt": "2026-07-17T07:07:57.084Z",
+  "count": 242,
   "items": [
+    {
+      "title": "広島・矢野雅哉を抹消 今季は打率.167…巨人は吉川尚輝が復帰 17日の公示",
+      "summary": "17日のプロ野球公示で、巨人は吉川尚輝内野手を登録。ブライアン・マタ投手を抹消した。",
+      "link": "https://full-count.jp/2026/07/17/post1991434/",
+      "pubDate": "2026-07-17T07:06:40.000Z",
+      "source": "Full-Count（プロ野球）",
+      "sourceId": "full-count-npb",
+      "teams": [
+        "carp",
+        "giants"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Full-Count（プロ野球）",
+          "sourceId": "full-count-npb",
+          "link": "https://full-count.jp/2026/07/17/post1991434/"
+        }
+      ]
+    },
+    {
+      "title": "【阪神】モレッタが約１カ月ぶり１軍合流 前カード中日３連戦はリリーフ７人が登板(日刊スポーツ)",
+      "summary": "＜広島－阪神＞◇17日◇マツダスタジアム 阪神ダウリ・モレッタ投手（30）が、1軍に合流した。6月1日に出場選手登録されて以来、約1カ月ぶり。 抹消後は2軍戦で11試合に登板し、11回を2失点",
+      "link": "https://news.yahoo.co.jp/articles/336b4170eba9f04ff6de9b2f660c90b9443212ba?source=rss",
+      "pubDate": "2026-07-17T07:02:28.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "tigers"
+      ],
+      "topics": [
+        "roster"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/336b4170eba9f04ff6de9b2f660c90b9443212ba?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "DeNA・尾形崇斗、2勝目狙い17日のヤクルト戦に先発 石田裕離脱の緊急事態で奮闘誓う(中日スポーツ)",
+      "summary": "DeNAの尾形崇斗投手（27）が2勝目を狙い、17日のヤクルト戦（横浜）に先発する。 前回登板の10日の巨人戦（横浜）では、移籍後最短の3イニング4失点で降板。尾形は16日、球団を通じて「この1",
+      "link": "https://news.yahoo.co.jp/articles/c83af726b5b4060ba854d7f21fefb6aa21cf6168?source=rss",
+      "pubDate": "2026-07-17T07:00:54.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "baystars"
+      ],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/c83af726b5b4060ba854d7f21fefb6aa21cf6168?source=rss"
+        }
+      ]
+    },
     {
       "title": "【阪神】モレッタが１軍合流 ２軍戦で１５試合に登板し６セーブ、防御率１・２０(スポーツ報知)",
       "summary": "◆ＪＥＲＡセ・リーグ 広島―阪神（１７日・マツダスタジアム） 阪神のダウリ・モレッタ投手が１７日、１軍に合流した。 ５月３１日のロッテ戦（ＺＯＺＯ）で８回１死から友杉の二塁内野安打の後、西川に",
@@ -18,6 +80,27 @@
           "name": "Yahoo!ニュース スポーツ",
           "sourceId": "yahoo-sports",
           "link": "https://news.yahoo.co.jp/articles/971b74d1aff7d0226c04b33d1a17f6b612c94b39?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "「プロはいいです」と頑なだったアマ時代の石毛宏典。ドラフト1位の名誉も「納得して指名を受けたわけではない」(SPA!)",
+      "summary": "1980年代から90年代にかけ、圧倒的な強さでプロ野球界を席捲した黄金期の西武ライオンズ。常勝軍団を類まれなリーダーシップで牽引したのが石毛宏典だ。 駒澤大学、プリンスホテル在籍時は野球日本代表に",
+      "link": "https://news.yahoo.co.jp/articles/7e4a66a2b6c735bbc2fc4af1c0195d84acc78109?source=rss",
+      "pubDate": "2026-07-17T06:53:03.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "lions"
+      ],
+      "topics": [
+        "draft"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/7e4a66a2b6c735bbc2fc4af1c0195d84acc78109?source=rss"
         }
       ]
     },
