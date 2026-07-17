@@ -579,15 +579,30 @@ function collectTeamHits(scanText, bracketText, hasBaseballContext) {
 // 事務的な一覧記事が全12球団のタブに同時に表示されてしまうため、この形式に
 // 該当する記事は球団タグを一切付けず(=総合ニュース一覧のみに表示)、
 // 話題タグ(topics.json の "roster")の分類だけで扱う。
+//
+// 「【17日のプロ野球公示】巨人がリチャードらを抹消 広島は矢野、ヤクルトは
+// 増居らを抹消」のように、見出し先頭の【】が「◯日のプロ野球公示」形式・
+// 本文が「＜登録＞」「＜抹消＞」ではなく「【登録】」「【抹消】」形式(全角
+// 隅付き括弧)の配信元(ベースボールチャンネル等)もある。この形式では見出し
+// 本文に複数球団名がそのまま列挙されるため(「巨人がリチャードらを抹消
+// 広島は矢野、ヤクルトは…」)、通常の球団判定ロジックにかけると列挙された
+// 球団すべてにタグが付いてしまう。見出し先頭の「◯日のプロ野球公示」括弧と、
+// 本文の「出場選手登録・登録抹消を公示した」「【登録】」「【抹消】」を
+// 追加の識別パターンとして加えている。
 const ROSTER_TRANSACTION_TITLE_RE = /／\s*\d{1,2}日公示/;
+const ROSTER_TRANSACTION_TITLE_BRACKET_RE = /^[【\[]\d{1,2}日のプロ野球公示[】\]]/;
 const ROSTER_TRANSACTION_BODY_MARKERS = [
   "登録と抹消は以下の通り",
   "＜登録＞",
   "＜抹消＞",
+  "出場選手登録・登録抹消を公示した",
+  "【登録】",
+  "【抹消】",
 ];
 
 function isRosterTransactionRoundup(title, haystack) {
   if (ROSTER_TRANSACTION_TITLE_RE.test(title)) return true;
+  if (ROSTER_TRANSACTION_TITLE_BRACKET_RE.test(title)) return true;
   return ROSTER_TRANSACTION_BODY_MARKERS.some((marker) => haystack.includes(marker));
 }
 
