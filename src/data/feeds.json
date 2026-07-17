@@ -39,6 +39,7 @@
     "id": "npb-official-freefielder",
     "name": "NPB公式ニュース",
     "url": "https://freefielder.jp/npbnews/feed/rss.xml",
-    "scoped": true
+    "scoped": true,
+    "viaProxy": true
   }
 ]

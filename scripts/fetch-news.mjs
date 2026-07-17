@@ -40,15 +40,28 @@ const OUTPUT_PATH = path.join(ROOT, "src/data/news.json");
 const RETENTION_DAYS = 30;
 const MAX_ITEMS = 4000; // 保険用の上限(想定件数を大きく超えないよう安全弁として設定)
 const MAX_PER_FEED = 60;
-// GitHub Actionsのランナー(データセンターのIP)からだと、フィードによっては
-// 手元の検証環境より応答が遅く、15秒では間に合わずタイムアウトすることが
-// 実際に確認された(npb-official-freefielder: "Request timed out after
-// 15000ms")。全フィードはPromise.allで並列取得しているため、この値を
-// 上げても他フィードの合計取得時間には影響しない(一番遅い1本の秒数が
-// 効くだけ)ので、余裕を持たせておく。
 const FETCH_TIMEOUT_MS = 30000;
 const FEED_RETRY_COUNT = 1; // タイムアウト等の一時的な失敗に備え、1回だけ再試行する
 const FEED_RETRY_DELAY_MS = 2000;
+
+// npb-official-freefielder(freefielder.jp)は、手元の検証環境からは
+// 常に瞬時に取得できる一方、GitHub Actionsのランナー(Azureのデータセンター
+// IP)からは30秒+1回のリトライでも100%タイムアウトすることを実際のログで
+// 確認した。応答が単に遅いのではなく、サイト側がクラウド/データセンター
+// 帯のIPを弾いている(あるいは意図的に応答を遅延させ続ける)可能性が高い。
+// タイムアウト値をどれだけ伸ばしても解決しない類の問題と判断し、
+// feeds.json側で "viaProxy": true が付いたフィードだけ、公開の
+// CORSプロキシ(allorigins.win)を経由して取得する(プロキシ側のIPからの
+// アクセスになるため、この種のIP帯ブロックを回避できる)。
+// 外部サービス依存が増える代償はあるが、失敗時も他フィード同様
+// catchで空配列を返すだけなので、プロキシがダウンしていてもサイト全体には
+// 影響しない。
+const PROXY_URL_TEMPLATE = "https://api.allorigins.win/raw?url=";
+
+function resolveFeedUrl(feed) {
+  if (!feed.viaProxy) return feed.url;
+  return PROXY_URL_TEMPLATE + encodeURIComponent(feed.url);
+}
 
 // 「同一ニュースの重複統合」機能のしきい値。複数メディアが同じ出来事を
 // 報じた記事を1件にまとめて表示するための判定パラメータ。
@@ -386,6 +399,14 @@ const ALL_TEAM_KEYWORDS = TEAMS.flatMap((t) => [...t.strongKeywords, ...t.shortK
  * 出てこない球団は記事の主役ではない(=対戦相手として本拠地球場になって
  * いるだけ、等)とみなして除外する。
  */
+// 「巨人3―1ヤクルト（2026年7月16日 神宮）」のように、対戦カード表記の
+// 区切り文字の両側に得点(1〜3桁)が挟まる試合結果見出しのパターン。
+// 区切り文字が球団名に直接隣接しないため、MATCHUP_SEPARATORSの単純な
+// 前後一致だけでは検出できず、実際にこの形式の記事が対戦相手側のタブにも
+// 誤って表示される不具合が確認されたため追加した。
+const SCORE_GAP_AFTER_RE = /^\d{1,3}\s*[―—–－ー-]\s*\d{1,3}/;
+const SCORE_GAP_BEFORE_RE = /\d{1,3}\s*[―—–－ー-]\s*\d{1,3}$/;
+
 function isMatchupCardMention(scanText, idx, kwLength) {
   for (const sep of MATCHUP_SEPARATORS) {
     const beforeSepStart = idx - sep.length;
@@ -400,6 +421,20 @@ function isMatchupCardMention(scanText, idx, kwLength) {
       if (ALL_TEAM_KEYWORDS.some((kw) => afterText.startsWith(kw))) return true;
     }
   }
+
+  // 得点入りの対戦カード表記(例:「巨人3―1ヤクルト」「巨人 3-1 ヤクルト」)
+  const afterText = scanText.slice(idx + kwLength);
+  const scoreAfter = afterText.match(SCORE_GAP_AFTER_RE);
+  if (scoreAfter && ALL_TEAM_KEYWORDS.some((kw) => afterText.slice(scoreAfter[0].length).startsWith(kw))) {
+    return true;
+  }
+
+  const beforeText = scanText.slice(0, idx);
+  const scoreBefore = beforeText.match(SCORE_GAP_BEFORE_RE);
+  if (scoreBefore && ALL_TEAM_KEYWORDS.some((kw) => beforeText.slice(0, beforeText.length - scoreBefore[0].length).endsWith(kw))) {
+    return true;
+  }
+
   return false;
 }
 
@@ -476,6 +511,27 @@ function collectTeamHits(scanText, bracketText, hasBaseballContext) {
   return hits.map((h) => h.id);
 }
 
+// 「◯◯登録、△△抹消／16日公示」のような見出しは、NPBの日々の出場選手登録
+// (支配下・一軍/二軍の入れ替え)をまとめて報じる定型記事で、1本の記事の中に
+// セ・パ全12球団分の異動が列挙されていることが多い。この形式は見出しの
+// 「／◯日公示」というほぼ固定の言い回しと、本文の「登録と抹消は以下の通り」
+// 「＜登録＞」「＜抹消＞」という定型見出しでほぼ確実に識別できる。
+// 全球団名義でヒットしてしまうと、実質「その球団固有のニュース」ではない
+// 事務的な一覧記事が全12球団のタブに同時に表示されてしまうため、この形式に
+// 該当する記事は球団タグを一切付けず(=総合ニュース一覧のみに表示)、
+// 話題タグ(topics.json の "roster")の分類だけで扱う。
+const ROSTER_TRANSACTION_TITLE_RE = /／\s*\d{1,2}日公示/;
+const ROSTER_TRANSACTION_BODY_MARKERS = [
+  "登録と抹消は以下の通り",
+  "＜登録＞",
+  "＜抹消＞",
+];
+
+function isRosterTransactionRoundup(title, haystack) {
+  if (ROSTER_TRANSACTION_TITLE_RE.test(title)) return true;
+  return ROSTER_TRANSACTION_BODY_MARKERS.some((marker) => haystack.includes(marker));
+}
+
 /**
  * 球団判定のメイン処理。3段階のフォールバックで判定する。
  *
@@ -493,8 +549,14 @@ function collectTeamHits(scanText, bracketText, hasBaseballContext) {
  *    「横浜スタートでアジア6都市」のような地名としての言及までは拾わない
  * 3. 2でもヒットしない場合(見出しに球団名が一切ない)だけ、本文も含めて
  *    通常ルールで判定する
+ *
+ * ただし全球団分の異動をまとめて報じる登録抹消の定型記事(下記
+ * isRosterTransactionRoundup参照)は、この判定に入る前に無条件で
+ * 「球団タグなし」を返す。
  */
 function matchTeamsForItem(title, summary, feedScoped) {
+  if (isRosterTransactionRoundup(title, `${title} ${summary}`)) return [];
+
   const bracketMatch = title.match(/^[【\[]([^】\]]+)[】\]]/);
   const bracketText = bracketMatch ? bracketMatch[1] : "";
 
@@ -558,10 +620,11 @@ function sleep(ms) {
 // 多いため(サイト側が明確にブロックしている場合は再試行しても無駄だが、
 // 再試行のコスト自体は小さいので、区別せず一律で試みる)。
 async function parseWithRetry(feed) {
+  const url = resolveFeedUrl(feed);
   let lastErr;
   for (let attempt = 0; attempt <= FEED_RETRY_COUNT; attempt++) {
     try {
-      return await parser.parseURL(feed.url);
+      return await parser.parseURL(url);
     } catch (err) {
       lastErr = err;
       if (attempt < FEED_RETRY_COUNT) {
