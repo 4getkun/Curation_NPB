@@ -40,7 +40,15 @@ const OUTPUT_PATH = path.join(ROOT, "src/data/news.json");
 const RETENTION_DAYS = 30;
 const MAX_ITEMS = 4000; // 保険用の上限(想定件数を大きく超えないよう安全弁として設定)
 const MAX_PER_FEED = 60;
-const FETCH_TIMEOUT_MS = 15000;
+// GitHub Actionsのランナー(データセンターのIP)からだと、フィードによっては
+// 手元の検証環境より応答が遅く、15秒では間に合わずタイムアウトすることが
+// 実際に確認された(npb-official-freefielder: "Request timed out after
+// 15000ms")。全フィードはPromise.allで並列取得しているため、この値を
+// 上げても他フィードの合計取得時間には影響しない(一番遅い1本の秒数が
+// 効くだけ)ので、余裕を持たせておく。
+const FETCH_TIMEOUT_MS = 30000;
+const FEED_RETRY_COUNT = 1; // タイムアウト等の一時的な失敗に備え、1回だけ再試行する
+const FEED_RETRY_DELAY_MS = 2000;
 
 // 「同一ニュースの重複統合」機能のしきい値。複数メディアが同じ出来事を
 // 報じた記事を1件にまとめて表示するための判定パラメータ。
@@ -540,9 +548,34 @@ function truncate(text, max = 120) {
   return text.slice(0, max).trim() + "…";
 }
 
+function sleep(ms) {
+  return new Promise((resolve) => setTimeout(resolve, ms));
+}
+
+// parser.parseURL単体を切り出し、タイムアウト等の一時的な失敗時に
+// FEED_RETRY_COUNT回まで再試行する。「タイムアウト」は接続自体は
+// できているが応答が遅いだけのケースが多く、1回の再試行で拾えることが
+// 多いため(サイト側が明確にブロックしている場合は再試行しても無駄だが、
+// 再試行のコスト自体は小さいので、区別せず一律で試みる)。
+async function parseWithRetry(feed) {
+  let lastErr;
+  for (let attempt = 0; attempt <= FEED_RETRY_COUNT; attempt++) {
+    try {
+      return await parser.parseURL(feed.url);
+    } catch (err) {
+      lastErr = err;
+      if (attempt < FEED_RETRY_COUNT) {
+        console.warn(`  取得リトライ: ${feed.name} — ${err.message}`);
+        await sleep(FEED_RETRY_DELAY_MS);
+      }
+    }
+  }
+  throw lastErr;
+}
+
 async function fetchFeed(feed) {
   try {
-    const parsed = await parser.parseURL(feed.url);
+    const parsed = await parseWithRetry(feed);
     const items = (parsed.items ?? []).slice(0, MAX_PER_FEED);
     const results = [];
 
