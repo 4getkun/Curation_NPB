@@ -1,20 +1,48 @@
 {
-  "generatedAt": "2026-07-17T07:07:57.084Z",
-  "count": 242,
+  "generatedAt": "2026-07-17T07:09:10.129Z",
+  "count": 245,
   "items": [
     {
-      "title": "広島・矢野雅哉を抹消 今季は打率.167…巨人は吉川尚輝が復帰 17日の公示",
-      "summary": "17日のプロ野球公示で、巨人は吉川尚輝内野手を登録。ブライアン・マタ投手を抹消した。",
-      "link": "https://full-count.jp/2026/07/17/post1991434/",
+      "title": "【17日のプロ野球公示】巨人がリチャードらを抹消 広島は矢野、ヤクルトは増居らを抹消(ベースボールチャンネル)",
+      "summary": "日本野球機構は17日付の出場選手登録・登録抹消を公示した。 ■セ・リーグ 【登録】 巨人 内野手 吉川 尚輝 広島 投手 アドゥワ 誠 広島 内野手 前川 誠太 ヤクルト",
+      "link": "https://news.yahoo.co.jp/articles/8176351c10d3302190a99f13734ba2d8cfbd1a98?source=rss",
+      "pubDate": "2026-07-17T07:06:53.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "giants",
+        "carp",
+        "swallows"
+      ],
+      "topics": [
+        "roster"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/8176351c10d3302190a99f13734ba2d8cfbd1a98?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "広島・矢野雅哉を抹消 今季は打率.167…巨人は吉川尚輝が復帰 17日の公示(Full-Count)",
+      "summary": "17日のプロ野球公示で、巨人は吉川尚輝内野手を登録。ブライアン・マタ投手を抹消した。 広島は矢野雅哉内野手を抹消し、アドゥワ誠投手、前川誠太内野手を登録した。",
+      "link": "https://news.yahoo.co.jp/articles/a8ea6472b1258ac47fe076cfd5e0beda844b7498?source=rss",
       "pubDate": "2026-07-17T07:06:40.000Z",
-      "source": "Full-Count（プロ野球）",
-      "sourceId": "full-count-npb",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
       "teams": [
         "carp",
         "giants"
       ],
       "topics": [],
       "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/a8ea6472b1258ac47fe076cfd5e0beda844b7498?source=rss"
+        },
         {
           "name": "Full-Count（プロ野球）",
           "sourceId": "full-count-npb",
@@ -44,6 +72,26 @@
       ]
     },
     {
+      "title": "巨人・坂本勇人、SSK社から達成地の福井名産の漆塗り記念バット贈呈「20年間お世話になっているバット」(サンケイスポーツ)",
+      "summary": "（セ・リーグ、巨人－中日、15回戦、17日、東京D）5月13日の広島7回戦（福井）で逆転サヨナラ3ランを放ち、通算300本塁打を達成した巨人・坂本勇人内野手（37）が、バットの提供を受けているSSK社",
+      "link": "https://news.yahoo.co.jp/articles/ed3aada0b4b6f6296bc88b46667029019b84133e?source=rss",
+      "pubDate": "2026-07-17T07:02:21.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "giants",
+        "carp"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/ed3aada0b4b6f6296bc88b46667029019b84133e?source=rss"
+        }
+      ]
+    },
+    {
       "title": "DeNA・尾形崇斗、2勝目狙い17日のヤクルト戦に先発 石田裕離脱の緊急事態で奮闘誓う(中日スポーツ)",
       "summary": "DeNAの尾形崇斗投手（27）が2勝目を狙い、17日のヤクルト戦（横浜）に先発する。 前回登板の10日の巨人戦（横浜）では、移籍後最短の3イニング4失点で降板。尾形は16日、球団を通じて「この1",
       "link": "https://news.yahoo.co.jp/articles/c83af726b5b4060ba854d7f21fefb6aa21cf6168?source=rss",
@@ -61,6 +109,25 @@
           "name": "Yahoo!ニュース スポーツ",
           "sourceId": "yahoo-sports",
           "link": "https://news.yahoo.co.jp/articles/c83af726b5b4060ba854d7f21fefb6aa21cf6168?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【今日のプロ野球公示】リチャード、達孝太など｜7月17日の一軍出場選手登録・抹消一覧",
+      "summary": "日本野球機構は17日付の出場選手登録・登録抹消を公示した。",
+      "link": "https://www.baseballchannel.jp/npb/275218/",
+      "pubDate": "2026-07-17T07:00:13.000Z",
+      "source": "ベースボールチャンネル（プロ野球）",
+      "sourceId": "baseballchannel-npb",
+      "teams": [],
+      "topics": [
+        "roster"
+      ],
+      "sources": [
+        {
+          "name": "ベースボールチャンネル（プロ野球）",
+          "sourceId": "baseballchannel-npb",
+          "link": "https://www.baseballchannel.jp/npb/275218/"
         }
       ]
     },
@@ -189,16 +256,16 @@
       "summary": "ソフトバンクは17日、柳田悠岐外野手（37）とOBで現在は三重県で精肉店を営む江川智晃氏（39）とのコラボメニュー2品を8月11日からみずほペイペイドームで発売する。江川氏の親族が経営する養豚場で育",
       "link": "https://news.yahoo.co.jp/articles/36a5e868eafb01171b4086fa64db90b9ca09ebde?source=rss",
       "pubDate": "2026-07-17T06:38:13.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
       "teams": [
         "hawks"
       ],
       "topics": [],
       "sources": [
         {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/36a5e868eafb01171b4086fa64db90b9ca09ebde?source=rss"
         }
       ]
