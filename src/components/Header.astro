@@ -80,41 +80,40 @@ const navLinks = [
     </div>
   </div>
 
-  <!-- 球団クイックナビ(セ・パ各リーグを1行ずつ、狭い画面では2行表示。
-       sm以上ではセ・パを同じ行に並べて従来通り1行表示に戻す)。
-       「セ」「パ」ラベルはスモールスクリーンでは横幅を圧迫し6球団すべてが
-       スクロールなしで収まらなくなるため、sm未満(スマホ幅)では非表示にする。 -->
+  <!-- 球団クイックナビ。セ・パ2行×6球団を「1つのCSS Grid」として組む
+       (以前は行ごとに独立したflexだったため、球団名の文字数がセ・パで
+       異なる列は丸(ドット)のx座標が行によってズレていた。1つのgridに
+       することで、同じ列は必ず同じ列幅=同じx座標になる)。
+       列1はセ/パのラベル用で、sm未満(スマホ幅)では横幅を圧迫するため
+       非表示にする(display:noneの列はgrid幅の計算に含まれないため、
+       ラベルの表示/非表示を切り替えても他の列の位置には影響しない)。 -->
   <div style="border-top:1px solid var(--rule);">
     <!-- スマホ幅では container-page(px-6=24px)だと6球団分の横幅が確保できず
          はみ出すため、この行だけ左右の余白を狭めている(sm以上は従来通り)。 -->
-    <div class="mx-auto w-full max-w-[1180px] px-3 sm:px-6 flex flex-col sm:flex-row sm:items-center py-1.5 sm:py-0">
+    <div class="mx-auto w-full max-w-[1180px] px-3 sm:px-6 py-1.5 sm:py-0">
       <div class="relative">
-        <div id="team-quicknav-central" class="team-quicknav overflow-x-auto">
-          <div class="flex items-center gap-0.5 sm:gap-1 py-0.5 sm:py-2 text-[11px] font-bold whitespace-nowrap">
-            <span style="color:var(--text-faint);" class="hidden sm:inline mr-0.5">セ</span>
-            {centralTeams.map((team) => (
+        <div id="team-quicknav" class="team-quicknav overflow-x-auto">
+          <div
+            class="grid items-center py-0.5 sm:py-2 text-[11px] font-bold whitespace-nowrap"
+            style="grid-template-columns: auto repeat(6, auto); column-gap: 6px; row-gap: 2px;"
+          >
+            <span style={`grid-column:1; grid-row:1; color:var(--text-faint);`} class="hidden sm:inline">セ</span>
+            {centralTeams.map((team, i) => (
               <a
                 href={withBase(`/team/${team.id}/`)}
                 class="flex items-center gap-1 sm:gap-1.5 rounded-md px-1.5 sm:px-2 py-1 no-underline"
-                style="color:var(--text-muted);"
+                style={`grid-column:${i + 2}; grid-row:1; color:var(--text-muted);`}
               >
                 <span class="inline-block h-1.5 w-1.5 sm:h-2 sm:w-2 rounded-full" style={`background-color:${team.color};${needsContrastRing(team.color) ? " box-shadow:0 0 0 1px var(--text-faint);" : ""}`}></span>
                 {team.short}
               </a>
             ))}
-          </div>
-        </div>
-        <div class="team-quicknav-fade-right pointer-events-none absolute top-0 bottom-0 right-0 opacity-0" style="width:24px; background:linear-gradient(to left, var(--header-bg), transparent); transition:opacity 0.15s;"></div>
-      </div>
-      <div class="relative">
-        <div id="team-quicknav-pacific" class="team-quicknav overflow-x-auto">
-          <div class="flex items-center gap-0.5 sm:gap-1 py-0.5 sm:py-2 text-[11px] font-bold whitespace-nowrap">
-            <span style="color:var(--text-faint);" class="hidden sm:inline mr-0.5 sm:ml-1.5">パ</span>
-            {pacificTeams.map((team) => (
+            <span style={`grid-column:1; grid-row:2; color:var(--text-faint);`} class="hidden sm:inline">パ</span>
+            {pacificTeams.map((team, i) => (
               <a
                 href={withBase(`/team/${team.id}/`)}
                 class="flex items-center gap-1 sm:gap-1.5 rounded-md px-1.5 sm:px-2 py-1 no-underline"
-                style="color:var(--text-muted);"
+                style={`grid-column:${i + 2}; grid-row:2; color:var(--text-muted);`}
               >
                 <span class="inline-block h-1.5 w-1.5 sm:h-2 sm:w-2 rounded-full" style={`background-color:${team.color};${needsContrastRing(team.color) ? " box-shadow:0 0 0 1px var(--text-faint);" : ""}`}></span>
                 {team.short}
