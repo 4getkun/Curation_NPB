@@ -1,7 +1,64 @@
 {
-  "generatedAt": "2026-07-17T00:16:45.809Z",
-  "count": 209,
+  "generatedAt": "2026-07-17T00:45:43.144Z",
+  "count": 212,
   "items": [
+    {
+      "title": "まさに”スター揃い”…ドラ4から大出世した現役選手（3）本塁打王まで“あと一歩“…若き最強スラッガー(ベースボールチャンネル)",
+      "summary": "ドラフト上位指名選手が注目を浴びるプロ野球の世界だが、必ずしも上位選手だけが活躍するとは限らない。どういった順位でも入団を果たしたのち、チームに欠かせない存在に成長した選手が数多くいる。そこで今回は",
+      "link": "https://news.yahoo.co.jp/articles/62fa2f4a93c6dc2f3c5a50dd844773cc3ddb8f99?source=rss",
+      "pubDate": "2026-07-17T00:30:03.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [],
+      "topics": [
+        "draft"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/62fa2f4a93c6dc2f3c5a50dd844773cc3ddb8f99?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【今週の注目新馬】ウインガラハッドは半兄に共同通信杯3着馬 増井助手「いい意味で落ち着いている」／土曜小倉5R(サンケイスポーツ)",
+      "summary": "ウインガラハッドは母がJRA3勝で、半兄のリトルジャイアンツ（父トーセンラー）は共同通信杯で3着。栗東入厩後は順調に乗られ、今週は坂路で4ハロン55秒0─12秒6だったが、8日にはCWコースの併せ馬で",
+      "link": "https://news.yahoo.co.jp/articles/8df1e8ca21c8357b85b5b7bc29427e4da244e670?source=rss",
+      "pubDate": "2026-07-17T00:23:30.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "giants"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/8df1e8ca21c8357b85b5b7bc29427e4da244e670?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【ヤフコメで話題】「小幡の状況判断と大山の好守備」「守備連携の重要性」 - 阪神タイガースの勝敗を分けたプレーに注目(Yahoo!ニュース オリジナル THE PAGE)",
+      "summary": "阪神タイガースの試合で、小幡選手の守備判断と大山選手の好守備について、Yahoo!ニュースのコメント欄で話題になっています。 2死一二塁の場面で三遊間の緩いゴロを小幡選手が捕球し一塁へ送球した際、大山",
+      "link": "https://news.yahoo.co.jp/articles/e7df8bd3f7446c314119b41ad3f51cb16499157a?source=rss",
+      "pubDate": "2026-07-17T00:22:28.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "tigers"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/e7df8bd3f7446c314119b41ad3f51cb16499157a?source=rss"
+        }
+      ]
+    },
     {
       "title": "ロッテ・中森俊介「まっすぐで早めにカウントを整えられれば」「自分の投球スタイルに近づく」抜群の安定感で防御率は0.45",
       "summary": "ロッテの中森俊介は5月4日に今季初昇格すると、ここまで20試合・20回を投げ、2勝、10ホールド、1セーブ、14奪三振、防御率0.45と抜群の安定感を誇る。 今季初登板となった5月4日のオリックス戦から6月6日の巨人 […]",
@@ -31,16 +88,16 @@
       "summary": "野球日本代表「侍ジャパン」の次期監督に、元ロッテ監督の井口資仁氏（51）の就任が大筋で合意に達したことが17日、分かった。近く正式発表される見通し。5月末に契約満了で退任した井端弘和前監督の後任とな",
       "link": "https://news.yahoo.co.jp/articles/47fffd337a2ebfc7adb74245fa30c7078fd6b5ae?source=rss",
       "pubDate": "2026-07-16T23:41:48.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
       "teams": [
         "marines"
       ],
       "topics": [],
       "sources": [
         {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/47fffd337a2ebfc7adb74245fa30c7078fd6b5ae?source=rss"
         }
       ]
@@ -885,8 +942,7 @@
       "source": "Yahoo!ニュース スポーツ",
       "sourceId": "yahoo-sports",
       "teams": [
-        "giants",
-        "swallows"
+        "giants"
       ],
       "topics": [],
       "sources": [
@@ -924,8 +980,7 @@
       "source": "Yahoo!ニュース スポーツ",
       "sourceId": "yahoo-sports",
       "teams": [
-        "giants",
-        "swallows"
+        "giants"
       ],
       "topics": [],
       "sources": [
@@ -963,8 +1018,7 @@
       "source": "Yahoo!ニュース スポーツ",
       "sourceId": "yahoo-sports",
       "teams": [
-        "eagles",
-        "buffaloes"
+        "eagles"
       ],
       "topics": [],
       "sources": [
@@ -983,8 +1037,7 @@
       "source": "Yahoo!ニュース スポーツ",
       "sourceId": "yahoo-sports",
       "teams": [
-        "lions",
-        "marines"
+        "lions"
       ],
       "topics": [],
       "sources": [
@@ -1130,7 +1183,7 @@
     },
     {
       "title": "【中日】井上監督「隙を突いて走った」土田の本塁突入…３敗目の柳裕也「良かった部分を大事に」(日刊スポーツ)",
-      "summary": "＜ヤクルト1－3巨人＞◇16日◇神宮 本拠地で2カード勝ち越し中だった中日が、阪神に逆転負けして今月初のホーム負け越しを喫した。 柳が4番に痛恨の1発を浴びた。6回まで阪神打線を無安打に抑えた",
+      "summary": "＜中日1－3阪神＞◇16日◇バンテリンドーム 本拠地で2カード勝ち越し中だった中日が、阪神に逆転負けして今月初のホーム負け越しを喫した。 柳が4番に痛恨の1発を浴びた。6回まで阪神打線を無安打",
       "link": "https://news.yahoo.co.jp/articles/d9bfa7a94ac42108de3185d452f6d91a916adee0?source=rss",
       "pubDate": "2026-07-16T20:00:02.000Z",
       "source": "日刊スポーツ（Yahoo!ニュース経由）",
@@ -1231,8 +1284,7 @@
       "source": "Yahoo!ニュース スポーツ",
       "sourceId": "yahoo-sports",
       "teams": [
-        "tigers",
-        "dragons"
+        "tigers"
       ],
       "topics": [],
       "sources": [
@@ -1251,8 +1303,7 @@
       "source": "Yahoo!ニュース スポーツ",
       "sourceId": "yahoo-sports",
       "teams": [
-        "tigers",
-        "dragons"
+        "tigers"
       ],
       "topics": [],
       "sources": [
@@ -1271,8 +1322,7 @@
       "source": "Yahoo!ニュース スポーツ",
       "sourceId": "yahoo-sports",
       "teams": [
-        "tigers",
-        "dragons"
+        "tigers"
       ],
       "topics": [],
       "sources": [
@@ -1291,8 +1341,7 @@
       "source": "Yahoo!ニュース スポーツ",
       "sourceId": "yahoo-sports",
       "teams": [
-        "tigers",
-        "dragons"
+        "tigers"
       ],
       "topics": [],
       "sources": [
@@ -1349,8 +1398,7 @@
       "source": "Yahoo!ニュース スポーツ",
       "sourceId": "yahoo-sports",
       "teams": [
-        "tigers",
-        "dragons"
+        "tigers"
       ],
       "topics": [],
       "sources": [
@@ -1388,8 +1436,7 @@
       "source": "Yahoo!ニュース スポーツ",
       "sourceId": "yahoo-sports",
       "teams": [
-        "tigers",
-        "dragons"
+        "tigers"
       ],
       "topics": [],
       "sources": [
@@ -2671,13 +2718,7 @@
       "pubDate": "2026-07-16T07:24:49.000Z",
       "source": "日刊スポーツ（Yahoo!ニュース経由）",
       "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "marines",
-        "eagles",
-        "tigers",
-        "giants",
-        "swallows"
-      ],
+      "teams": [],
       "topics": [
         "roster"
       ],
