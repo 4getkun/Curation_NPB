@@ -485,22 +485,33 @@ function isAceContainmentMention(scanText, idx, kwLength) {
   return ACE_CONTAINMENT_VERBS.some((verb) => window.includes(verb));
 }
 
-// 「◇セ・リーグ ヤクルト―DeNA（2026年7月17日 横浜）」のように、対戦カード
-// 表記の直後に「（日付　球場）」形式の一文が続くことが多い。この球場名が
-// 別の球団のshortKeywordsと一致するケース(例:「横浜」=DeNAベイスターズ)が
-// あり、単なる開催地の表記に過ぎないのに球団タグとして誤ヒットしてしまう
-// (「（2026年7月17日 横浜）」の「横浜」はDeNAが主役という意味ではなく、
-// 横浜スタジアムで試合が行われたことを示しているだけ)。
-// 「（YYYY年M月D日 ◯◯）」という定型パターンの最後の◯◯部分にだけ限定して
-// 除外することで、本文中の他の「横浜」言及(実際にDeNAが主役の記述)まで
+// 「◇セ・リーグ ヤクルト―DeNA（2026年7月17日 横浜）」「（セ・リーグ、
+// DeNA－ヤクルト、14回戦、17日、横浜）」のように、試合概要をまとめた
+// 括弧書き(冒頭付近に付くことが多い)の末尾に球場名が来る定型がある。
+// メディアによって括弧内の構成要素(日付だけ/リーグ名・対戦カード・
+// 通算対戦数・日付の組み合わせ等)が異なるため、「YYYY年M月D日」という
+// 特定の日付書式だけを手がかりにすると別テンプレートを取りこぼす
+// (実際に「横浜」がDeNAの略称と一致し、開催地に過ぎないのに球団タグとして
+// 誤ヒットする事例が2つの異なる括弧書式で確認された)。
+// そこで「直近の開き括弧から現在位置までの間に閉じ括弧を挟んでいない
+// (=今、括弧の中にいる)」かつ「その球団名の直後が閉じ括弧」という位置関係
+// に加え、括弧内に「回戦」「◯日」「◯年」のような試合概要特有の日付・
+// 対戦数表現が含まれる場合だけ、開催地表記とみなして除外する。この最後の
+// 条件により、単に「選手名（球団名）」のような無関係な注釈形式まで
 // 巻き込まないようにしている。
-const VENUE_DATE_PREFIX_RE = /[（(]\d{4}年\d{1,2}月\d{1,2}日[\s　]*$/;
+const VENUE_PAREN_CONTEXT_RE = /(回戦|\d{1,2}日|\d{4}年)/;
 
 function isVenueParenMention(scanText, idx, kwLength) {
-  const beforeText = scanText.slice(0, idx);
-  if (!VENUE_DATE_PREFIX_RE.test(beforeText)) return false;
   const afterText = scanText.slice(idx + kwLength);
-  return afterText.startsWith("）") || afterText.startsWith(")");
+  if (!(afterText.startsWith("）") || afterText.startsWith(")"))) return false;
+
+  const beforeText = scanText.slice(0, idx);
+  const lastOpen = Math.max(beforeText.lastIndexOf("（"), beforeText.lastIndexOf("("));
+  const lastClose = Math.max(beforeText.lastIndexOf("）"), beforeText.lastIndexOf(")"));
+  if (lastOpen === -1 || lastOpen <= lastClose) return false;
+
+  const parenContent = beforeText.slice(lastOpen);
+  return VENUE_PAREN_CONTEXT_RE.test(parenContent);
 }
 
 function isMatchupCardMention(scanText, idx, kwLength) {
