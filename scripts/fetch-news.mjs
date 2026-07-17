@@ -659,8 +659,20 @@ function collectTeamHits(scanText, bracketText, hasBaseballContext) {
 // 球団すべてにタグが付いてしまう。見出し先頭の「◯日のプロ野球公示」括弧と、
 // 本文の「出場選手登録・登録抹消を公示した」「【登録】」「【抹消】」を
 // 追加の識別パターンとして加えている。
-const ROSTER_TRANSACTION_TITLE_RE = /／\s*\d{1,2}日公示/;
+// 「広島・矢野雅哉を抹消 今季は打率.167…巨人は吉川尚輝が復帰 17日の公示」
+// のように、見出し末尾が「◯日の公示」で終わる(スラッシュも【】括弧も
+// 付かない)第3の定型フォーマットもある(Full-Count等)。この形式は本文も
+// 「＜登録＞」等の記号見出しを使わず「17日のプロ野球公示で、巨人は…を登録。
+// …を抹消した。広島は…」のように地の文で書かれるため、既存の本文マーカー
+// にも該当しない。日付部分を除いた「プロ野球公示で」は日付非依存の
+// 言い回しなので、本文マーカーとしてはこちらを追加する。
+// 全角スラッシュ「／」は正規化(normalizeWidthForMatching)によって半角の
+// 「/」へ変換されるため、判定対象のタイトルは呼び出し元で既に正規化済み
+// である前提で、両方の幅を受け付けるようにしている(正規化前のテキストで
+// このパターンだけを直接テストするケースにも備える)。
+const ROSTER_TRANSACTION_TITLE_RE = /[／\/]\s*\d{1,2}日公示/;
 const ROSTER_TRANSACTION_TITLE_BRACKET_RE = /^[【\[]\d{1,2}日のプロ野球公示[】\]]/;
+const ROSTER_TRANSACTION_TITLE_SUFFIX_RE = /\d{1,2}日の公示$/;
 const ROSTER_TRANSACTION_BODY_MARKERS = [
   "登録と抹消は以下の通り",
   "＜登録＞",
@@ -668,11 +680,13 @@ const ROSTER_TRANSACTION_BODY_MARKERS = [
   "出場選手登録・登録抹消を公示した",
   "【登録】",
   "【抹消】",
+  "プロ野球公示で",
 ];
 
 function isRosterTransactionRoundup(title, haystack) {
   if (ROSTER_TRANSACTION_TITLE_RE.test(title)) return true;
   if (ROSTER_TRANSACTION_TITLE_BRACKET_RE.test(title)) return true;
+  if (ROSTER_TRANSACTION_TITLE_SUFFIX_RE.test(title)) return true;
   return ROSTER_TRANSACTION_BODY_MARKERS.some((marker) => haystack.includes(marker));
 }
 
