@@ -6,7 +6,12 @@ export interface GameResult {
   opponentTeamId: string | null;
   opponentText: string;
   score: string;
+  ownScore: number | null;
+  opponentScore: number | null;
   result: "win" | "loss" | "draw" | "unknown";
+  winningPitcher: string;
+  losingPitcher: string;
+  savePitcher: string;
   venue: string;
   record: string;
 }

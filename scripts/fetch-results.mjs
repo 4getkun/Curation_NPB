@@ -1,7 +1,7 @@
 // scripts/fetch-results.mjs
 //
-// 各球団の直近の試合結果(日付・対戦相手・スコア・勝敗・球場)を取得し、
-// src/data/results.json に書き出すスクリプト。GitHub Actionsから
+// 各球団の直近の試合結果(日付・対戦相手・スコア・勝敗・球場・勝敗投手)を
+// 取得し、src/data/results.json に書き出すスクリプト。GitHub Actionsから
 // fetch-news.mjs と同じタイミングで定期実行される想定。
 //
 // 【なぜWikipediaから取得しているか】
@@ -92,6 +92,14 @@ function resultFromScore(score) {
   return "draw";
 }
 
+// 勝利投手・敗戦投手・セーブ投手の各セルは、該当なし(引き分け等)の場合
+// Wikipedia側で「-」が入る。表示側で「該当なし」を判定しやすいよう、
+// ここで空文字列に正規化しておく。
+function normalizePitcherCell(text) {
+  if (!text || text === "-" || text === "ー") return "";
+  return text;
+}
+
 /**
  * 試合結果表の1行(<tr>)をパースする。以下の行は結果に含めない(nullを返す):
  *  - 列数が10でない行(中止試合の行は colspan で列が減るため6列などになる)
@@ -111,7 +119,18 @@ function parseGameRow(cells) {
     opponentTeamId: findOpponentTeamId(cells[2]),
     opponentText: cells[2],
     score: scoreText,
+    // カード形式の表示側で「1 - 0」のようにクリーンな数字だけを組み立てたい
+    // ため、サヨナラ勝ちの"x"接尾辞等を含まない数値を分けて持たせておく。
+    ownScore: score ? score.own : null,
+    opponentScore: score ? score.opponent : null,
     result: resultFromScore(score),
+    // 列(勝利投手/敗戦投手/セーブ)はカード全体で1組しかなく、どちらの
+    // チームの投手かはこのページの持ち主(=自チーム)の勝敗から表示側で
+    // 逆算する(resultが"win"なら勝利投手・セーブ投手は自チーム側、
+    // "loss"なら敗戦投手が自チーム側、というように)。
+    winningPitcher: normalizePitcherCell(cells[4]),
+    losingPitcher: normalizePitcherCell(cells[5]),
+    savePitcher: normalizePitcherCell(cells[6]),
     venue: cells[8],
     record: cells[9],
   };
@@ -185,6 +204,33 @@ async function loadExistingResults() {
   }
 }
 
+// 各チームの年度別ページには、そのチーム自身の投手が絡む決着(勝利投手・
+// セーブ投手はそのチームが勝った試合のみ、敗戦投手はそのチームが負けた
+// 試合のみ)しか記載されていない。例えば中日が阪神に負けた試合の中日側の
+// 行には、負け投手(中日の投手)は載っているが、勝ち投手(阪神の投手)の欄は
+// 空欄になっている(阪神側の勝ち投手は阪神自身のページにしか載っていない)。
+// カード表示では両チーム分の決着投手を見せたいため、同じ試合(=同じ日付・
+// 対戦相手が逆転している行)を相手チームのデータから探し、空欄のフィールド
+// だけを補完する。
+// 制約: 同日に同一カードのダブルヘッダーがある場合、日付だけでは1試合目・
+// 2試合目を区別できず誤って組み合わせる可能性がある(NPBでは稀なケース)。
+function fillOpponentPitchers(gamesByTeam) {
+  for (const [teamId, games] of Object.entries(gamesByTeam)) {
+    for (const game of games) {
+      if (!game.opponentTeamId) continue;
+      const mirrorGames = gamesByTeam[game.opponentTeamId];
+      if (!mirrorGames) continue;
+      const mirror = mirrorGames.find(
+        (g) => g.date === game.date && g.opponentTeamId === teamId,
+      );
+      if (!mirror) continue;
+      if (!game.winningPitcher && mirror.winningPitcher) game.winningPitcher = mirror.winningPitcher;
+      if (!game.losingPitcher && mirror.losingPitcher) game.losingPitcher = mirror.losingPitcher;
+      if (!game.savePitcher && mirror.savePitcher) game.savePitcher = mirror.savePitcher;
+    }
+  }
+}
+
 async function main() {
   console.log(`NPB試合結果を取得します (${TEAMS.length}球団, Wikipedia)`);
 
@@ -201,6 +247,14 @@ async function main() {
       updatedCount++;
     }
   }
+
+  // 今回新たに取得できた球団同士でのみ、相手チーム側の決着投手を補完する
+  // (取得失敗で既存値を維持した球団のデータは、補完対象に含めない)。
+  const freshGamesByTeam = {};
+  for (const r of results) {
+    if (r.games !== null) freshGamesByTeam[r.teamId] = r.games;
+  }
+  fillOpponentPitchers(freshGamesByTeam);
 
   const output = {
     generatedAt: new Date().toISOString(),

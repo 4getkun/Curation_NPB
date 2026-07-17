@@ -78,12 +78,13 @@ const teamsForClient = teams.map((t) => ({ id: t.id, short: t.short, color: t.co
           まだこの球団のニュースが取得されていません。次回の自動更新をお待ちください。
         </p>
 
-        <!-- 直近の試合結果。データ元はWikipediaの球団年度別ページ(CC BY-SA)。
-             scripts/fetch-results.mjs が定期取得し、src/data/results.json に
-             保存したものを /data/results-index.json 経由で読み込む。 -->
+        <!-- 直近の試合結果(最新1試合のみ)。データ元はWikipediaの球団年度別
+             ページ(CC BY-SA)。scripts/fetch-results.mjs が定期取得し、
+             src/data/results.json に保存したものを /data/results-index.json
+             経由で読み込む。 -->
         <div style="margin-top:28px;">
           <h3 class="font-bold" style="font-size:14px; color:var(--text); margin-bottom:10px;">直近の試合結果</h3>
-          <div id="my-team-results-list" class="flex flex-col" style="gap:4px;"></div>
+          <div id="my-team-result-card" class="hidden" style="border:1px solid var(--border); border-radius:10px; padding:18px 20px;"></div>
           <p id="my-team-results-empty" class="hidden" style="font-size:13px; color:var(--text-muted);">
             直近の試合結果はまだ取得されていません。
           </p>
@@ -265,45 +266,85 @@ const teamsForClient = teams.map((t) => ({ id: t.id, short: t.short, color: t.co
         /* オフライン等で取得に失敗した場合は、ヒント表示のまま静かに諦める */
       });
 
-    // 直近の試合結果を独立して取得する(ニュース取得の成否とは無関係に表示したいため、
-    // 上のfetchとは別チェーンにしている)。
-    var RESULT_SYMBOL = { win: "○", loss: "●", draw: "△", unknown: "" };
+    // 直近の試合結果(最新1試合のみ)をカード形式で表示する。ニュース取得の
+    // 成否とは無関係に表示したいため、上のfetchとは別チェーンにしている。
     fetch(resultsDataUrl)
       .then(function (res) {
         return res.json();
       })
       .then(function (data) {
         var games = (data.teams && data.teams[team.id]) || [];
-        var list = document.getElementById("my-team-results-list");
+        var card = document.getElementById("my-team-result-card");
         var empty = document.getElementById("my-team-results-empty");
         if (games.length === 0) {
           empty.classList.remove("hidden");
           return;
         }
-        list.innerHTML = games
-          .slice(0, 5)
-          .map(function (game) {
-            return (
-              '<div class="flex items-center" style="gap:10px; padding:6px 0; font-size:13px;">' +
-              '<span class="shrink-0 font-bold" style="width:16px; color:var(--text);">' +
-              (RESULT_SYMBOL[game.result] || "") +
-              "</span>" +
-              '<span class="shrink-0" style="width:52px; color:var(--text-muted);">' +
-              escapeHtml(game.date) +
-              "</span>" +
-              '<span class="flex-1 min-w-0 truncate" style="color:var(--text);">' +
-              "対 " + escapeHtml(game.opponentText) +
-              "</span>" +
-              '<span class="shrink-0 font-bold tabular-nums" style="color:var(--text);">' +
-              escapeHtml(game.score) +
-              "</span>" +
-              '<span class="shrink-0 hidden sm:inline" style="width:96px; text-align:right; color:var(--text-faint);">' +
-              escapeHtml(game.venue) +
-              "</span>" +
-              "</div>"
-            );
-          })
-          .join("");
+
+        var game = games[0]; // 新しい順に並んでいるので先頭が最新の1試合
+        var myScore = game.ownScore != null ? game.ownScore : "-";
+        var oppScore = game.opponentScore != null ? game.opponentScore : "-";
+
+        // 勝利投手・セーブ投手・敗戦投手の列はカード全体で1組しかなく、
+        // どちらのチームの投手かはWikipedia側の表からは分からない。この
+        // ページの持ち主(=自チーム)の勝敗から逆算し、勝った試合なら
+        // 勝利投手・セーブ投手を自チーム側、負けた試合なら敗戦投手を
+        // 自チーム側に表示する。引き分け等で決着投手がいない場合は
+        // 両方とも空になる(Wikipedia側もこの場合「-」で空欄になっている)。
+        // ラベル「(勝)」「(敗)」「(S)」はアクセントカラーの小さな見出し、
+        // 選手名自体は本文と同じ黒(var(--text))で表示する。
+        function pitcherLine(label, name) {
+          if (!name) return "";
+          return (
+            '<p class="m-0"><span style="color:var(--accent); font-weight:bold;">(' +
+            label +
+            ")</span><span style=\"color:var(--text);\">" +
+            escapeHtml(name) +
+            "</span></p>"
+          );
+        }
+        var winPitcherHtml = pitcherLine("勝", game.winningPitcher);
+        var savePitcherHtml = pitcherLine("S", game.savePitcher);
+        var losePitcherHtml = pitcherLine("敗", game.losingPitcher);
+
+        var myPitchersHtml = "";
+        var oppPitchersHtml = "";
+        if (game.result === "win") {
+          myPitchersHtml = winPitcherHtml + savePitcherHtml;
+          oppPitchersHtml = losePitcherHtml;
+        } else if (game.result === "loss") {
+          myPitchersHtml = losePitcherHtml;
+          oppPitchersHtml = winPitcherHtml + savePitcherHtml;
+        }
+
+        card.innerHTML =
+          '<p class="m-0" style="font-size:12px; color:var(--text-muted); margin-bottom:14px;">' +
+          escapeHtml(game.venue) +
+          (game.date ? " · " + escapeHtml(game.date) : "") +
+          "</p>" +
+          '<div class="flex items-center justify-between" style="margin-bottom:16px;">' +
+          '<span class="font-bold" style="font-size:16px; color:var(--text);">' +
+          escapeHtml(team.short) +
+          "</span>" +
+          '<span class="font-bold" style="font-size:16px; color:var(--text-muted);">' +
+          escapeHtml(game.opponentText) +
+          "</span>" +
+          "</div>" +
+          '<div class="flex items-center justify-between">' +
+          '<div style="flex:1; font-size:11px; line-height:1.7;">' +
+          myPitchersHtml +
+          "</div>" +
+          '<div class="font-bold tabular-nums" style="flex-shrink:0; font-size:26px; color:var(--text); padding:0 12px;">' +
+          myScore +
+          " - " +
+          oppScore +
+          "</div>" +
+          '<div style="flex:1; font-size:11px; line-height:1.7; text-align:right;">' +
+          oppPitchersHtml +
+          "</div>" +
+          "</div>" +
+          '<p class="m-0" style="margin-top:16px; font-size:12px; color:#2563eb; text-align:center;">試合終了</p>';
+        card.classList.remove("hidden");
       })
       .catch(function () {
         /* 取得に失敗した場合は「まだ取得されていません」表示のまま諦める */
