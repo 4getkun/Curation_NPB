@@ -81,20 +81,24 @@ const navLinks = [
   </div>
 
   <!-- 球団クイックナビ(セ・パ各リーグを1行ずつ、狭い画面では2行表示。
-       sm以上ではセ・パを同じ行に並べて従来通り1行表示に戻す) -->
+       sm以上ではセ・パを同じ行に並べて従来通り1行表示に戻す)。
+       「セ」「パ」ラベルはスモールスクリーンでは横幅を圧迫し6球団すべてが
+       スクロールなしで収まらなくなるため、sm未満(スマホ幅)では非表示にする。 -->
   <div style="border-top:1px solid var(--rule);">
-    <div class="container-page flex flex-col sm:flex-row sm:items-center py-1.5 sm:py-0">
+    <!-- スマホ幅では container-page(px-6=24px)だと6球団分の横幅が確保できず
+         はみ出すため、この行だけ左右の余白を狭めている(sm以上は従来通り)。 -->
+    <div class="mx-auto w-full max-w-[1180px] px-3 sm:px-6 flex flex-col sm:flex-row sm:items-center py-1.5 sm:py-0">
       <div class="relative">
         <div id="team-quicknav-central" class="team-quicknav overflow-x-auto">
-          <div class="flex items-center gap-1 py-0.5 sm:py-2 text-[11px] font-bold whitespace-nowrap">
-            <span style="color:var(--text-faint);" class="mr-0.5">セ</span>
+          <div class="flex items-center gap-0.5 sm:gap-1 py-0.5 sm:py-2 text-[11px] font-bold whitespace-nowrap">
+            <span style="color:var(--text-faint);" class="hidden sm:inline mr-0.5">セ</span>
             {centralTeams.map((team) => (
               <a
                 href={withBase(`/team/${team.id}/`)}
-                class="flex items-center gap-1.5 rounded-md px-2 py-1 no-underline"
+                class="flex items-center gap-1 sm:gap-1.5 rounded-md px-1.5 sm:px-2 py-1 no-underline"
                 style="color:var(--text-muted);"
               >
-                <span class="inline-block h-2 w-2 rounded-full" style={`background-color:${team.color};${needsContrastRing(team.color) ? " box-shadow:0 0 0 1px var(--text-faint);" : ""}`}></span>
+                <span class="inline-block h-1.5 w-1.5 sm:h-2 sm:w-2 rounded-full" style={`background-color:${team.color};${needsContrastRing(team.color) ? " box-shadow:0 0 0 1px var(--text-faint);" : ""}`}></span>
                 {team.short}
               </a>
             ))}
@@ -104,15 +108,15 @@ const navLinks = [
       </div>
       <div class="relative">
         <div id="team-quicknav-pacific" class="team-quicknav overflow-x-auto">
-          <div class="flex items-center gap-1 py-0.5 sm:py-2 text-[11px] font-bold whitespace-nowrap">
-            <span style="color:var(--text-faint);" class="mr-0.5 sm:ml-1.5">パ</span>
+          <div class="flex items-center gap-0.5 sm:gap-1 py-0.5 sm:py-2 text-[11px] font-bold whitespace-nowrap">
+            <span style="color:var(--text-faint);" class="hidden sm:inline mr-0.5 sm:ml-1.5">パ</span>
             {pacificTeams.map((team) => (
               <a
                 href={withBase(`/team/${team.id}/`)}
-                class="flex items-center gap-1.5 rounded-md px-2 py-1 no-underline"
+                class="flex items-center gap-1 sm:gap-1.5 rounded-md px-1.5 sm:px-2 py-1 no-underline"
                 style="color:var(--text-muted);"
               >
-                <span class="inline-block h-2 w-2 rounded-full" style={`background-color:${team.color};${needsContrastRing(team.color) ? " box-shadow:0 0 0 1px var(--text-faint);" : ""}`}></span>
+                <span class="inline-block h-1.5 w-1.5 sm:h-2 sm:w-2 rounded-full" style={`background-color:${team.color};${needsContrastRing(team.color) ? " box-shadow:0 0 0 1px var(--text-faint);" : ""}`}></span>
                 {team.short}
               </a>
             ))}

@@ -201,7 +201,11 @@ const teamsForClient = teams.map((t) => ({ id: t.id, short: t.short, color: t.co
 
     hint.classList.add("hidden");
     resultBox.classList.remove("hidden");
-    document.getElementById("my-team-heading").textContent = "マイ球団: " + team.short + " の最新ニュース";
+    // スマホ幅では見出しが2行に折り返してレイアウトが崩れるため、
+    // 「の最新ニュース」の部分はsm以上でのみ表示する(スマホでは
+    // 「マイ球団: ◯◯」だけで十分意味が伝わるため省略する)。
+    document.getElementById("my-team-heading").innerHTML =
+      "マイ球団: " + escapeHtml(team.short) + '<span class="hidden sm:inline"> の最新ニュース</span>';
     document.getElementById("my-team-link").href = base + "team/" + team.id + "/";
 
     function escapeHtml(str) {
