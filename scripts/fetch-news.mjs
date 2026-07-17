@@ -462,6 +462,47 @@ function isLineupContainmentMention(scanText, idx, kwLength) {
   return LINEUP_CONTAINMENT_VERBS.some((verb) => window.includes(verb));
 }
 
+// 「日本ハムエース伊藤大海攻略で」「◯◯のエース〇〇を打ち崩し」のような、
+// 対戦相手チームのエース投手を打者側が打ち崩したことを報じる記事は、
+// LINEUP_CONTAINMENTと同じ理屈で、投手側(=打者側の相手)である「◯◯エース」
+// のチームは対戦相手としての言及に過ぎない。
+// 例:「ソフトバンク打線が日本ハムエース伊藤大海攻略でカード勝ち越し」は
+// ソフトバンク側の記事であり、日本ハムタグには表示すべきでない。
+// LINEUP_CONTAINMENT_VERBS(完封・無失点等)をそのまま流用しないのは、
+// 「巨人のエース菅野が完封勝利」のように、自チームのエースが好投した
+// ポジティブな記事まで誤って除外してしまうリスクがあるため
+// (「打線を完封」は常に相手打線の意味だが、「エースを完封」という言い回しは
+// 存在せず、意味が曖昧にならない)。ここでは「打者がエースを打ち崩した」
+// という向きが一意に定まる動詞だけを使う。
+const ACE_CONTAINMENT_MARKER = "エース";
+const ACE_CONTAINMENT_VERBS = ["攻略", "打ち崩", "痛打", "つかまえ", "捕まえ"];
+const ACE_CONTAINMENT_WINDOW = 20;
+
+function isAceContainmentMention(scanText, idx, kwLength) {
+  const afterText = scanText.slice(idx + kwLength);
+  if (!afterText.startsWith(ACE_CONTAINMENT_MARKER)) return false;
+  const window = afterText.slice(0, ACE_CONTAINMENT_MARKER.length + ACE_CONTAINMENT_WINDOW);
+  return ACE_CONTAINMENT_VERBS.some((verb) => window.includes(verb));
+}
+
+// 「◇セ・リーグ ヤクルト―DeNA（2026年7月17日 横浜）」のように、対戦カード
+// 表記の直後に「（日付　球場）」形式の一文が続くことが多い。この球場名が
+// 別の球団のshortKeywordsと一致するケース(例:「横浜」=DeNAベイスターズ)が
+// あり、単なる開催地の表記に過ぎないのに球団タグとして誤ヒットしてしまう
+// (「（2026年7月17日 横浜）」の「横浜」はDeNAが主役という意味ではなく、
+// 横浜スタジアムで試合が行われたことを示しているだけ)。
+// 「（YYYY年M月D日 ◯◯）」という定型パターンの最後の◯◯部分にだけ限定して
+// 除外することで、本文中の他の「横浜」言及(実際にDeNAが主役の記述)まで
+// 巻き込まないようにしている。
+const VENUE_DATE_PREFIX_RE = /[（(]\d{4}年\d{1,2}月\d{1,2}日[\s　]*$/;
+
+function isVenueParenMention(scanText, idx, kwLength) {
+  const beforeText = scanText.slice(0, idx);
+  if (!VENUE_DATE_PREFIX_RE.test(beforeText)) return false;
+  const afterText = scanText.slice(idx + kwLength);
+  return afterText.startsWith("）") || afterText.startsWith(")");
+}
+
 function isMatchupCardMention(scanText, idx, kwLength) {
   for (const sep of MATCHUP_SEPARATORS) {
     const beforeSepStart = idx - sep.length;
@@ -520,6 +561,13 @@ function isColumnTitleTeamMention(scanText, idx) {
   return idx > 0 && (scanText[idx - 1] === "【" || scanText[idx - 1] === "[");
 }
 
+// 「◯◯戦」だけでなく、「広島7回戦」(=広島との今シーズン7回目の対戦、
+// という意味の定型表現)のように、球団名と「戦」の間に対戦数を表す数字が
+// 挟まることがある。「5月13日の広島7回戦（福井）で…」のような一文で、
+// 数字入りのため既存の「次の1文字が戦かどうか」という判定では素通りして
+// しまい、対戦相手に過ぎない「広島」まで球団タグとして誤ヒットしていた。
+const OPPONENT_SUFFIX_RE = /^(\d{1,2}回)?戦/;
+
 function findSubjectIndex(scanText, keywords, excludeSpans = []) {
   let subjectIndex = -1;
   for (const kw of keywords) {
@@ -533,11 +581,20 @@ function findSubjectIndex(scanText, keywords, excludeSpans = []) {
       if (withinExcluded) continue;
 
       const isOpponentMention =
-        scanText.slice(idx + kw.length, idx + kw.length + 1) === "戦" &&
+        OPPONENT_SUFFIX_RE.test(scanText.slice(idx + kw.length)) &&
         !isColumnTitleTeamMention(scanText, idx);
       const isMatchupMention = isMatchupCardMention(scanText, idx, kw.length);
       const isLineupMention = isLineupContainmentMention(scanText, idx, kw.length);
-      if (!isOpponentMention && !isMatchupMention && !isLineupMention && (subjectIndex === -1 || idx < subjectIndex)) {
+      const isAceMention = isAceContainmentMention(scanText, idx, kw.length);
+      const isVenueMention = isVenueParenMention(scanText, idx, kw.length);
+      if (
+        !isOpponentMention &&
+        !isMatchupMention &&
+        !isLineupMention &&
+        !isAceMention &&
+        !isVenueMention &&
+        (subjectIndex === -1 || idx < subjectIndex)
+      ) {
         subjectIndex = idx;
       }
     }
