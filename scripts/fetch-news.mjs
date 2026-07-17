@@ -154,6 +154,14 @@ function isEntertainmentNoise(haystack) {
 // KEYWORDS)に釣られて誤って球団タブに表示される事例が確認された。
 // クラブの固有名詞(「サッカー」「Jリーグ」という語を含まない記事でも
 // 確実に検知できるもの)を個別に追加している。
+// 「NBAサマーリーグで珍事…グリズリーズがホークス戦の第1Qを32－2と圧倒
+// (バスケットボールキング)」のようなNBA記事が、球団の愛称「ホークス」
+// (ソフトバンクではなくアトランタ・ホークス)に誤ってヒットする事例が
+// 確認された。出典表記「(バスケットボールキング)」は分類判定用テキストからは
+// stripTrailingSourceSuffixで除去されるため、既存の「バスケットボール」
+// キーワードだけでは検知できない(見出し本文側には「バスケットボール」という
+// 語自体が含まれないケースが多い)。見出し本文に出てくる「NBA」を直接
+// キーワードとして追加している。
 const OTHER_SPORTS_KEYWORDS = [
   "女子ゴルフ",
   "男子ゴルフ",
@@ -165,6 +173,7 @@ const OTHER_SPORTS_KEYWORDS = [
   "テニス",
   "バレーボール",
   "バスケットボール",
+  "NBA",
   "Bリーグ",
   "ラグビー",
   "卓球",
@@ -420,6 +429,26 @@ const ALL_TEAM_KEYWORDS = TEAMS.flatMap((t) => [...t.strongKeywords, ...t.shortK
 const SCORE_GAP_AFTER_RE = /^\d{1,3}\s*[―—–－ー-]\s*\d{1,3}/;
 const SCORE_GAP_BEFORE_RE = /\d{1,3}\s*[―—–－ー-]\s*\d{1,3}$/;
 
+// 「◯◯打線をノーヒットに抑える」「◯◯打線を4安打に封じた」のような、
+// 対戦相手チームの打線を(自チームの投手が)抑え込んだことを報じる記事は、
+// 実質的には投手側のチームが主役であり、「◯◯打線」として名前が出てくる
+// チームは対戦相手としての言及に過ぎない。
+// 例:「中日・柳、6回まで阪神打線をノーヒットピッチングも…」は中日サイドの
+// 記事であり、阪神タグには表示すべきでない(中日タグのみでよい)。
+// 「◯◯戦」と同様、この形の言及しかないチームは主役としてヒットさせない。
+// ただし「阪神打線が量産」のように自チームの打点力を報じる記事まで除外
+// しないよう、抑制系の動詞が近くに実際に出てくる場合だけを対象にする。
+const LINEUP_CONTAINMENT_MARKER = "打線";
+const LINEUP_CONTAINMENT_VERBS = ["抑え", "封じ", "ノーヒット", "無安打", "完封", "無失点"];
+const LINEUP_CONTAINMENT_WINDOW = 20; // 「◯◯打線」から抑制動詞までの許容文字数
+
+function isLineupContainmentMention(scanText, idx, kwLength) {
+  const afterText = scanText.slice(idx + kwLength);
+  if (!afterText.startsWith(LINEUP_CONTAINMENT_MARKER)) return false;
+  const window = afterText.slice(0, LINEUP_CONTAINMENT_MARKER.length + LINEUP_CONTAINMENT_WINDOW);
+  return LINEUP_CONTAINMENT_VERBS.some((verb) => window.includes(verb));
+}
+
 function isMatchupCardMention(scanText, idx, kwLength) {
   for (const sep of MATCHUP_SEPARATORS) {
     const beforeSepStart = idx - sep.length;
@@ -478,7 +507,8 @@ function findSubjectIndex(scanText, keywords, excludeSpans = []) {
 
       const isOpponentMention = scanText.slice(idx + kw.length, idx + kw.length + 1) === "戦";
       const isMatchupMention = isMatchupCardMention(scanText, idx, kw.length);
-      if (!isOpponentMention && !isMatchupMention && (subjectIndex === -1 || idx < subjectIndex)) {
+      const isLineupMention = isLineupContainmentMention(scanText, idx, kw.length);
+      if (!isOpponentMention && !isMatchupMention && !isLineupMention && (subjectIndex === -1 || idx < subjectIndex)) {
         subjectIndex = idx;
       }
     }
@@ -561,6 +591,31 @@ function isSchedulePreviewRoundup(title, haystack) {
   return SCHEDULE_PREVIEW_BODY_MARKERS.some((marker) => haystack.includes(marker));
 }
 
+// 「【プレビュー】中日・大野雄大が4戦で防御率0.29と相性の良い巨人戦に先発、
+// 貯金が0となったヤクルトは高橋奎二で再スタートなるか、ほか｜セ・リーグ｜
+// プロ野球(DAZN News)」のような見出しは、DAZN Newsが配信するその日の
+// リーグ全カード(複数試合)の見どころをまとめて紹介する定型プレビュー記事。
+// isSchedulePreviewRoundupと同様、本文には複数球団の対戦カードが列挙され
+// 特定の1球団に紐づくニュースではないため、球団タグを一切付けない。
+const PREVIEW_ROUNDUP_TITLE_RE = /^【プレビュー】/;
+const PREVIEW_ROUNDUP_BODY_MARKERS = ["試合が予定されている"];
+
+function isPreviewRoundup(title, haystack) {
+  if (PREVIEW_ROUNDUP_TITLE_RE.test(title) && title.includes("｜プロ野球")) return true;
+  return PREVIEW_ROUNDUP_BODY_MARKERS.some((marker) => haystack.includes(marker));
+}
+
+// 「栗原陵矢、レイエス、滝澤夏央…前半戦の「チーム内MVP」は？【パ・リーグ編】
+// (週刊ベースボールONLINE)」のような見出しは、リーグ内の複数球団の選手を
+// 横並びで紹介する定型の特集記事(「チーム内MVP」企画)で、本文にも
+// リーグ内の各球団が列挙される。特定の1球団の話題ではないため、
+// 球団タグを一切付けない。
+const LEAGUE_MVP_ROUNDUP_TITLE_RE = /チーム内MVP.*【(セ|パ)・リーグ編】/;
+
+function isLeagueMvpRoundup(title) {
+  return LEAGUE_MVP_ROUNDUP_TITLE_RE.test(title);
+}
+
 /**
  * 球団判定のメイン処理。3段階のフォールバックで判定する。
  *
@@ -588,6 +643,8 @@ function matchTeamsForItem(title, summary, feedScoped) {
   const combinedForRoundupCheck = `${title} ${summary}`;
   if (isRosterTransactionRoundup(title, combinedForRoundupCheck)) return [];
   if (isSchedulePreviewRoundup(title, combinedForRoundupCheck)) return [];
+  if (isPreviewRoundup(title, combinedForRoundupCheck)) return [];
+  if (isLeagueMvpRoundup(title)) return [];
 
   const bracketMatch = title.match(/^[【\[]([^】\]]+)[】\]]/);
   const bracketText = bracketMatch ? bracketMatch[1] : "";
