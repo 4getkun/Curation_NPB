@@ -1,7 +1,28 @@
 {
-  "generatedAt": "2026-07-17T05:18:54.570Z",
-  "count": 223,
+  "generatedAt": "2026-07-17T05:36:44.959Z",
+  "count": 224,
   "items": [
+    {
+      "title": "【巨人】吉川尚輝が約１カ月ぶりに１軍再合流！(日刊スポーツ)",
+      "summary": "＜巨人－中日＞◇17日◇東京ドーム 巨人吉川尚輝内野手（31）が約1カ月ぶりに1軍に再合流した。昨シーズン終了後に両股関節の手術を受けて臨んだ今季は、ここまで打率2割1分5厘、OPS・503にとど",
+      "link": "https://news.yahoo.co.jp/articles/2594dc22fe988570833116c9121dd3ff0a2b4492?source=rss",
+      "pubDate": "2026-07-17T05:25:10.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "giants"
+      ],
+      "topics": [
+        "injury"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/2594dc22fe988570833116c9121dd3ff0a2b4492?source=rss"
+        }
+      ]
+    },
     {
       "title": "巨人・小笠原慎之介が1軍合流 19日の古巣・中日戦で1軍初登板見込み 吉川尚輝、バルドナードも合流(スポニチアネックス)",
       "summary": "巨人に加入した小笠原慎之介投手(28)が17日、中日戦が行われる東京ドームで1軍合流した。 加入後は6月27日の阪神とのファーム・リーグで初登板して3回3安打1失点。前回12日は同リーグの中日戦",
@@ -116,11 +137,6 @@
           "name": "Full-Count（プロ野球）",
           "sourceId": "full-count-npb",
           "link": "https://full-count.jp/2026/07/17/post1991343/"
-        },
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/3a228b46d1d4d1d37b5eea2b8a24c88148e2f4ac?source=rss"
         }
       ]
     },
