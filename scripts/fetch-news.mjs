@@ -203,6 +203,19 @@ function stripTrailingSourceSuffix(title) {
   return title.replace(/[（(][^（）()]*[）)]\s*$/, "").trim();
 }
 
+// 見出し・本文には「Ｊリーグ」「１７日」のように全角英数記号が使われる
+// ことがある一方、各キーワードリストは半角で統一しているため、そのままでは
+// 一致しない(例:「Ｊ１開幕戦・横浜ＦＭ―鹿島」というＪリーグ記事が、全角の
+// 「Ｊリーグ」がOTHER_SPORTS_KEYWORDSの半角「Jリーグ」と一致せず素通りし、
+// 「横浜」がDeNAベイスターズの略称として誤ヒットする事例が確認された)。
+// 分類・除外判定の直前に全角英数記号だけを半角へ正規化する(表示用の
+// title/summary自体は変更しない)。normalizeTitleForCompare内の重複統合用
+// 正規化と同じ変換(全角英数記号の範囲！-～をコードポイント0xFEE0分だけ
+// 引いて半角化)を流用している。
+function normalizeWidthForMatching(text) {
+  return text.replace(/[！-～]/g, (ch) => String.fromCharCode(ch.charCodeAt(0) - 0xfee0));
+}
+
 // このサイトはNPB(日本プロ野球)専門なので、MLB(メジャーリーグ)の記事は
 // 対象外として除外する(MLB専門の姉妹サイト「Curation MLB」を別途運営)。
 // 総合スポーツ系フィード(BASEBALL KING等)はMLBニュースも配信しており、
@@ -786,23 +799,35 @@ async function fetchFeed(feed) {
       // 分類・除外判定は「(中日スポーツ)」等の出典表記を取り除いたテキストで
       // 行う(表示用のtitle自体はそのまま保持する)。理由はstripTrailingSourceSuffix
       // のコメント参照。
-      const titleForMatching = stripTrailingSourceSuffix(title);
-      const haystack = `${titleForMatching} ${summary}`;
+      const titleForMatching = normalizeWidthForMatching(stripTrailingSourceSuffix(title));
+      const summaryForMatching = normalizeWidthForMatching(summary);
+      const haystack = `${titleForMatching} ${summaryForMatching}`;
+
+      // 対象外カテゴリ・他競技・MLB等のカテゴリ除外判定だけは、出典表記を
+      // 取り除く前の生タイトルで行う(出典表記も含める)。stripTrailingSourceSuffix
+      // が懸念するのは「中日スポーツ」→「中日」のような球団の曖昧な略称との
+      // 偶然の一致だが、「高校野球」「ゴルフ」のようなカテゴリキーワードが
+      // 出典名に含まれる場合はその出典が実際にそのジャンルの専門メディアで
+      // あることを示す強いシグナルであり、除外判定にはむしろ積極的に使いたい
+      // (例:「横浜に敗れた東海大相模は…(高校野球ドットコム)」は本文中に
+      // 「高校野球」「甲子園」等の一般キーワードを含まないことがあるが、
+      // 出典表記自体が高校野球専門メディアであることを明示している)。
+      const exclusionHaystack = `${normalizeWidthForMatching(title)} ${summaryForMatching}`;
 
       // 高校野球など対象外カテゴリの記事は、球団名を含んでいても除外する
-      if (OUT_OF_SCOPE_KEYWORDS.some((kw) => haystack.includes(kw))) continue;
+      if (OUT_OF_SCOPE_KEYWORDS.some((kw) => exclusionHaystack.includes(kw))) continue;
 
       // ゴルフ・サッカー等、野球ではない他競技の記事は除外する
-      if (isOtherSportsContent(haystack)) continue;
+      if (isOtherSportsContent(exclusionHaystack)) continue;
 
       // 始球式のアイドル来場・ファンミーティング等、球団名にヒットしても
       // 実質的には野球と無関係な芸能・エンタメ記事は除外する
-      if (isEntertainmentNoise(haystack)) continue;
+      if (isEntertainmentNoise(exclusionHaystack)) continue;
 
       // MLB(メジャーリーグ)の記事はこのサイトの対象外なので除外する
       // (総合スポーツフィードが「オールスターゲーム」等の一般野球キーワード
       // 経由で拾ってしまうことがあるため、球団名一致の有無に関わらず除外)
-      if (isMlbContent(haystack)) continue;
+      if (isMlbContent(exclusionHaystack)) continue;
 
       // 「広告ゼロ」が差別化点なので、PR・タイアップ記事は取得元フィードに
       // 含まれていても掲載しない
@@ -812,7 +837,7 @@ async function fetchFeed(feed) {
       // 経歴紹介記事は除外する(isRetiredPlayerBusinessProfile参照)
       if (isRetiredPlayerBusinessProfile(haystack)) continue;
 
-      const teamHits = matchTeamsForItem(titleForMatching, summary, feed.scoped);
+      const teamHits = matchTeamsForItem(titleForMatching, summaryForMatching, feed.scoped);
       const generalHit = matchesGeneralNpb(haystack);
       const topicHits = classifyTopics(haystack);
 
@@ -1060,20 +1085,25 @@ async function main() {
   // 対戦相手の球団タグが付いた記事を遡って修正できるようにしている。
   const existingItems = existingItemsRaw
     .filter((item) => {
-      const titleForMatching = stripTrailingSourceSuffix(item.title);
-      const haystack = `${titleForMatching} ${item.summary}`;
-      if (OUT_OF_SCOPE_KEYWORDS.some((kw) => haystack.includes(kw))) return false;
-      if (isOtherSportsContent(haystack)) return false;
-      if (isEntertainmentNoise(haystack)) return false;
-      if (isMlbContent(haystack)) return false;
+      const summaryForMatching = normalizeWidthForMatching(item.summary ?? "");
+      // カテゴリ除外判定は出典表記を残した生タイトルで行う(fetchFeed内の
+      // 同種の判定と同じ理由。exclusionHaystackのコメント参照)
+      const exclusionHaystack = `${normalizeWidthForMatching(item.title)} ${summaryForMatching}`;
+      const titleForMatching = normalizeWidthForMatching(stripTrailingSourceSuffix(item.title));
+      const haystack = `${titleForMatching} ${summaryForMatching}`;
+      if (OUT_OF_SCOPE_KEYWORDS.some((kw) => exclusionHaystack.includes(kw))) return false;
+      if (isOtherSportsContent(exclusionHaystack)) return false;
+      if (isEntertainmentNoise(exclusionHaystack)) return false;
+      if (isMlbContent(exclusionHaystack)) return false;
       if (isAdContent(item.title)) return false;
       if (isRetiredPlayerBusinessProfile(haystack)) return false;
       return true;
     })
     .map((item) => {
       const feedScoped = FEEDS.find((f) => f.id === item.sourceId)?.scoped ?? false;
-      const titleForMatching = stripTrailingSourceSuffix(item.title);
-      const teams = matchTeamsForItem(titleForMatching, item.summary, feedScoped);
+      const titleForMatching = normalizeWidthForMatching(stripTrailingSourceSuffix(item.title));
+      const summaryForMatching = normalizeWidthForMatching(item.summary ?? "");
+      const teams = matchTeamsForItem(titleForMatching, summaryForMatching, feedScoped);
       return { ...item, teams };
     });
   const removedByRuleUpdate = existingItemsRaw.length - existingItems.length;
