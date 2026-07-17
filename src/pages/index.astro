@@ -69,20 +69,12 @@ const teamsForClient = teams.map((t) => ({ id: t.id, short: t.short, color: t.co
         <a href="#team-access" class="link-underline" style="color:var(--accent); font-weight:bold;">球団を選ぶ →</a>
       </p>
       <div id="my-team-result" class="hidden">
-        <div class="flex items-baseline justify-between" style="margin-bottom:16px;">
-          <h2 id="my-team-heading" class="font-display font-black m-0" style="font-size:20px; color:var(--text);"></h2>
-          <a id="my-team-link" href="#" class="no-underline font-bold" style="font-size:13px; color:var(--accent);">すべて見る →</a>
-        </div>
-        <div id="my-team-list"></div>
-        <p id="my-team-empty" class="hidden" style="font-size:13px; color:var(--text-muted);">
-          まだこの球団のニュースが取得されていません。次回の自動更新をお待ちください。
-        </p>
-
         <!-- 直近の試合結果(最新1試合のみ)。データ元はWikipediaの球団年度別
              ページ(CC BY-SA)。scripts/fetch-results.mjs が定期取得し、
              src/data/results.json に保存したものを /data/results-index.json
-             経由で読み込む。 -->
-        <div style="margin-top:28px;">
+             経由で読み込む。レイアウト上、マイ球団の最新ニュースより上に
+             表示する方が自然なため先に置いている。 -->
+        <div style="margin-bottom:28px;">
           <h3 class="font-bold" style="font-size:14px; color:var(--text); margin-bottom:10px;">直近の試合結果</h3>
           <div id="my-team-result-card" class="hidden" style="border:1px solid var(--border); border-radius:10px; padding:18px 20px;"></div>
           <p id="my-team-results-empty" class="hidden" style="font-size:13px; color:var(--text-muted);">
@@ -92,6 +84,15 @@ const teamsForClient = teams.map((t) => ({ id: t.id, short: t.short, color: t.co
             試合結果データ: <a href="https://ja.wikipedia.org/" target="_blank" rel="noopener noreferrer" class="link-underline" style="color:inherit;">Wikipedia</a>(CC BY-SA 4.0)
           </p>
         </div>
+
+        <div class="flex items-baseline justify-between" style="margin-bottom:16px;">
+          <h2 id="my-team-heading" class="font-display font-black m-0" style="font-size:20px; color:var(--text);"></h2>
+          <a id="my-team-link" href="#" class="no-underline font-bold" style="font-size:13px; color:var(--accent);">すべて見る →</a>
+        </div>
+        <div id="my-team-list"></div>
+        <p id="my-team-empty" class="hidden" style="font-size:13px; color:var(--text-muted);">
+          まだこの球団のニュースが取得されていません。次回の自動更新をお待ちください。
+        </p>
       </div>
     </div>
   </section>
@@ -291,17 +292,10 @@ const teamsForClient = teams.map((t) => ({ id: t.id, short: t.short, color: t.co
         // 勝利投手・セーブ投手を自チーム側、負けた試合なら敗戦投手を
         // 自チーム側に表示する。引き分け等で決着投手がいない場合は
         // 両方とも空になる(Wikipedia側もこの場合「-」で空欄になっている)。
-        // ラベル「(勝)」「(敗)」「(S)」はアクセントカラーの小さな見出し、
-        // 選手名自体は本文と同じ黒(var(--text))で表示する。
+        // ラベル「(勝)」「(敗)」「(S)」・選手名とも、本文と同じ黒(var(--text))で表示する。
         function pitcherLine(label, name) {
           if (!name) return "";
-          return (
-            '<p class="m-0"><span style="color:var(--accent); font-weight:bold;">(' +
-            label +
-            ")</span><span style=\"color:var(--text);\">" +
-            escapeHtml(name) +
-            "</span></p>"
-          );
+          return '<p class="m-0" style="color:var(--text);">(' + label + ")" + escapeHtml(name) + "</p>";
         }
         var winPitcherHtml = pitcherLine("勝", game.winningPitcher);
         var savePitcherHtml = pitcherLine("S", game.savePitcher);
