@@ -35,6 +35,15 @@ export function newsForTeam(teamId: string): NewsItem[] {
   return allNews.filter((item) => item.teams.includes(teamId));
 }
 
+/**
+ * どの球団タグも付いていない記事(対戦カード予告・登録抹消・複数球団横断の
+ * 特集記事など、特定の1球団に紐づかない「総合」扱いの記事)だけを返す。
+ * fetch-news.mjs 側の matchTeamsForItem が teams:[] を返すケースに対応する。
+ */
+export function newsForGeneral(): NewsItem[] {
+  return allNews.filter((item) => (item.teams?.length ?? 0) === 0);
+}
+
 export function newsForTopic(topicId: string): NewsItem[] {
   return allNews.filter((item) => item.topics?.includes(topicId));
 }
