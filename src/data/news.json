@@ -1,7 +1,171 @@
 {
-  "generatedAt": "2026-07-17T07:39:39.776Z",
-  "count": 259,
+  "generatedAt": "2026-07-17T07:51:20.322Z",
+  "count": 264,
   "items": [
+    {
+      "title": "西武・武内夏暉、18日の楽天戦に先発「疲れを溜めないように過ごしてきました」",
+      "summary": "西武の武内夏暉が18日の楽天戦に先発する。 武内は球団を通じて「前回登板を終えた後、リカバリーに重点を置いて１週間調整し、オンとオフの切り替えを意識して疲れを溜めないように過ごしてきました。試合では打席での相手の反応 […]",
+      "link": "https://baseballking.jp/ns/701701/",
+      "pubDate": "2026-07-17T07:46:47.000Z",
+      "source": "BASEBALL KING",
+      "sourceId": "baseballking",
+      "teams": [
+        "lions"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "BASEBALL KING",
+          "sourceId": "baseballking",
+          "link": "https://baseballking.jp/ns/701701/"
+        },
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/bc8d76f046cd06ac1d4a4195129c773b0b58c76a?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【巨人】２軍調整中の則本昂大「下を向いてると置いていかれる」ＫＯから１週間 いま取り組む課題は(スポーツ報知)",
+      "summary": "巨人・則本昂大投手（３５）が１７日、ジャイアンツ球場で２軍の先発練習に参加。「力強さ」をテーマにキャッチボール、傾斜を使った投球練習を行い、ダッシュやチューブを用いたトレーニングでも大粒の汗を流した",
+      "link": "https://news.yahoo.co.jp/articles/eb670719aa959ecff5623f91a158d093f5dde4e6?source=rss",
+      "pubDate": "2026-07-17T07:46:00.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "giants"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/eb670719aa959ecff5623f91a158d093f5dde4e6?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【日本ハム】新庄監督「１発目で勝ってほしい」後半戦“開幕投手”に達孝太を指名(日刊スポーツ)",
+      "summary": "次期エース候補で、逆転Vへ加速する。日本ハム新庄剛志監督（54）が、後半戦の“開幕投手”に若手成長株のイケメン右腕、達孝太投手（22）を指名した。「オールスター明けの1発目で考えています」と明言。「",
+      "link": "https://news.yahoo.co.jp/articles/980e2d6495d29dcc05a2253f71d2848992f01f76?source=rss",
+      "pubDate": "2026-07-17T07:44:20.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "fighters"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/980e2d6495d29dcc05a2253f71d2848992f01f76?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "巨人・リチャードが2軍降格 昇格後5戦無安打6三振...吉川尚輝が再昇格(サンケイスポーツ)",
+      "summary": "（セ・リーグ、巨人－中日、15回戦、17日、東京D）巨人・リチャード内野手（27）、ブライアン・マタ投手（27）が出場選手登録を抹消され、代わって吉川尚輝内野手（31）が登録された。 リチャードは7",
+      "link": "https://news.yahoo.co.jp/articles/235682edd7a3c7b647deca225a781488c89286c3?source=rss",
+      "pubDate": "2026-07-17T07:44:08.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "giants"
+      ],
+      "topics": [
+        "roster"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/235682edd7a3c7b647deca225a781488c89286c3?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "ヤクルト 約2カ月ぶりの1軍復帰なのに… 丸山和郁は「上がり」と言われ「いきなりですか！」周囲爆笑(スポニチアネックス)",
+      "summary": "◇セ・リーグ ヤクルト―DeNA（2026年7月17日 横浜） 右大腿裏の肉離れで離脱していたヤクルト・丸山和郁が17日、約2カ月ぶりに1軍に復帰した。 5月1日のDeNA戦ではサイクル安打",
+      "link": "https://news.yahoo.co.jp/articles/ec9e607409e80a02ad3ed4af6158f990de0fa59b?source=rss",
+      "pubDate": "2026-07-17T07:41:54.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "swallows",
+        "baystars"
+      ],
+      "topics": [
+        "injury"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/ec9e607409e80a02ad3ed4af6158f990de0fa59b?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "ソフトバンク・モイネロ、次回は2軍戦登板へ 倉野コーチが説明 1軍復帰基準も示す(西スポWEB OTTO!)",
+      "summary": "◆ソフトバンク投手練習（17日、ZOZOマリン） 独自調整を続けているソフトバンクのリバン・モイネロ投手が、近日中に2軍戦に登板する見通しであることが分かった。倉野信次投手チーフコーチが明かした",
+      "link": "https://news.yahoo.co.jp/articles/b262acca2d7c53012559b232df4485ef54733843?source=rss",
+      "pubDate": "2026-07-17T07:41:49.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "hawks"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/b262acca2d7c53012559b232df4485ef54733843?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "「和巳監督から呼ばれた時は怒られるのかと…」 ソフトバンク、育成の山下恭吾がフレッシュ球宴出場 石見颯真が膝のけがで出場辞退(西スポWEB OTTO!)",
+      "summary": "NPBは17日、今月27日にHARD OFF ECOスタジアム新潟で開催する「ナミックス フレッシュオールスターゲーム2026」の出場選手の変更を発表した。 ソフトバンクの石見颯真内野手（20）",
+      "link": "https://news.yahoo.co.jp/articles/c740a4ccb0f8a86bd2d987cefb383fcdccc35206?source=rss",
+      "pubDate": "2026-07-17T07:40:57.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "hawks"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/c740a4ccb0f8a86bd2d987cefb383fcdccc35206?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "ソフトバンク 石見颯真が故障でフレッシュ球宴辞退 代役は山下恭吾「呼ばれた時は怒られるかと…」(スポニチアネックス)",
+      "summary": "ソフトバクは17日、27日に新潟で開催される「ナミックスフレッシュオールスターゲーム2026」の出場選手が変更になったと発表した。 石見颯真内野手（20）が、両側膝蓋腱症のため出場辞退し、山下恭",
+      "link": "https://news.yahoo.co.jp/articles/ec4e06429448017843b5ced223aa5de45e324b86?source=rss",
+      "pubDate": "2026-07-17T07:39:41.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "hawks"
+      ],
+      "topics": [
+        "injury"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/ec4e06429448017843b5ced223aa5de45e324b86?source=rss"
+        }
+      ]
+    },
     {
       "title": "【巨人】坂本勇人に漆塗りの３００号記念バットが贈呈「２０年間お世話になっているＳＳＫさんのバットで打てて良かった」(スポーツ報知)",
       "summary": "◆ＪＥＲＡセ・リーグ 巨人―中日（１７日・東京ドーム） 巨人の坂本勇人内野手が１７日、野球用具メーカーのＳＳＫ社から「漆塗り記念バット」を贈呈された。漆黒のバットを手に取り、「２０年間お世話になっ",
@@ -41,19 +205,26 @@
       ]
     },
     {
-      "title": "不動の主砲になれず…巨人の”和製大砲”が登録抹消 9試合で打率.056、1本塁打",
-      "summary": "17日のプロ野球公示で、読売ジャイアンツはリチャード選手を一軍登録から抹消した。",
-      "link": "https://www.baseballchannel.jp/npb/275234/",
+      "title": "不動のスラッガーになれず…巨人の\"和製大砲\"が登録抹消 9試合で打率.056、1本塁打(ベースボールチャンネル)",
+      "summary": "17日のプロ野球公示で、読売ジャイアンツはリチャード選手を一軍登録から抹消した。 リチャードは2017年育成ドラフト3位で沖縄尚学高から福岡ソフトバンクホークスに入団し、2025年にトレードで巨",
+      "link": "https://news.yahoo.co.jp/articles/4a5f17d3b8b8c0516c10b12455c2f4c6e5b35650?source=rss",
       "pubDate": "2026-07-17T07:30:22.000Z",
-      "source": "ベースボールチャンネル（プロ野球）",
-      "sourceId": "baseballchannel-npb",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
       "teams": [
         "giants"
       ],
       "topics": [
-        "roster"
+        "roster",
+        "trade",
+        "draft"
       ],
       "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/4a5f17d3b8b8c0516c10b12455c2f4c6e5b35650?source=rss"
+        },
         {
           "name": "ベースボールチャンネル（プロ野球）",
           "sourceId": "baseballchannel-npb",
@@ -66,16 +237,16 @@
       "summary": "7月17日のプロ野球の出場選手登録と抹消は以下の通り。 【セ・リーグ】 ＜登録＞ 巨人 吉川尚輝内野手 広島 アドゥワ誠投手 広島 前川誠太内野手 ヤクルト 長谷川宙輝投手",
       "link": "https://news.yahoo.co.jp/articles/265cd0fa4890d65d59242e425e32052116e81800?source=rss",
       "pubDate": "2026-07-17T07:25:33.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
       "teams": [],
       "topics": [
         "roster"
       ],
       "sources": [
         {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/265cd0fa4890d65d59242e425e32052116e81800?source=rss"
         }
       ]
@@ -85,16 +256,16 @@
       "summary": "＜巨人－中日＞◇17日◇東京ドーム 巨人坂本勇人内野手（37）の“通算300号伝説”がまた1つ加わった。アドバイザリー契約を結ぶSSK社から通算300本塁打を祝う、「漆塗り記念バット」を贈呈された",
       "link": "https://news.yahoo.co.jp/articles/c1dd2bbfc7b80d8b98ef563e5b31b90fdce96cf6?source=rss",
       "pubDate": "2026-07-17T07:25:12.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
       "teams": [
         "giants"
       ],
       "topics": [],
       "sources": [
         {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/c1dd2bbfc7b80d8b98ef563e5b31b90fdce96cf6?source=rss"
         }
       ]
@@ -126,8 +297,8 @@
       "summary": "楽天は17日、4選手の出場選手登録を抹消した。 田中千晴投手（25）内星龍投手（24）小森航大郎内野手（23）ワォーターズ内野手（20）がこの日抹消となった。最短での再登録は27日から。 田",
       "link": "https://news.yahoo.co.jp/articles/6898799e513bd47977a431045294df57322cb223?source=rss",
       "pubDate": "2026-07-17T07:23:55.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
       "teams": [
         "eagles"
       ],
@@ -136,8 +307,8 @@
       ],
       "sources": [
         {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/6898799e513bd47977a431045294df57322cb223?source=rss"
         }
       ]
@@ -147,16 +318,16 @@
       "summary": "楽天荘司康誠投手（25）が苦境を打破する。18日西武戦（楽天モバイル最強パーク）で先発。17日、本拠地で前日調整した右腕は、自身6連敗中で8戦連続白星なしと苦しんでいるが、5月5日の日本ハム戦（同）",
       "link": "https://news.yahoo.co.jp/articles/90d12224014e3a18ffe03c6895f5e8b64201f764?source=rss",
       "pubDate": "2026-07-17T07:23:02.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
       "teams": [
         "eagles"
       ],
       "topics": [],
       "sources": [
         {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/90d12224014e3a18ffe03c6895f5e8b64201f764?source=rss"
         }
       ]
@@ -204,39 +375,20 @@
       ]
     },
     {
-      "title": "Ｊ１開幕戦・横浜ＦＭ―鹿島の地上波生中継が決定！地上波のゴールデンタイム中継は２４年ぶり 前回は森保一監督が選手として出場(スポーツ報知)",
-      "summary": "Ｊリーグは１７日、秋春制元年の２０２６―２７年シーズン開幕戦の横浜ＦＭ―鹿島戦（８月７日・ＭＵＦＧ国立）で、フジテレビ系列での全国生中継が決定したと発表した。Ｊリーグによると、ゴールデンタイムでの地",
-      "link": "https://news.yahoo.co.jp/articles/8905f72af9bd40bd02ed871fe67a70cd188cc45f?source=rss",
-      "pubDate": "2026-07-17T07:14:42.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "baystars"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/8905f72af9bd40bd02ed871fe67a70cd188cc45f?source=rss"
-        }
-      ]
-    },
-    {
       "title": "【中日】高橋宏斗が交流戦以来の１軍合流 再調整経て９連戦の救世主となるか(日刊スポーツ)",
       "summary": "＜巨人－中日＞◇17日◇東京ドーム 中日の高橋宏斗投手（23）が1軍に合流し、球場での練習に参加して汗を流した。 高橋宏は今春、WBC日本代表メンバーとして帰国後、開幕ローテーション入り。しか",
       "link": "https://news.yahoo.co.jp/articles/0283e7969e04b06dc46b736bb344c76c775bbe55?source=rss",
       "pubDate": "2026-07-17T07:13:27.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
       "teams": [
         "dragons"
       ],
       "topics": [],
       "sources": [
         {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/0283e7969e04b06dc46b736bb344c76c775bbe55?source=rss"
         }
       ]
@@ -485,25 +637,6 @@
           "name": "Yahoo!ニュース スポーツ",
           "sourceId": "yahoo-sports",
           "link": "https://news.yahoo.co.jp/articles/54ff18c15be7ae51b2340a1788a96f9cd4eb1b32?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "横浜に敗れた東海大相模は出場した1年生4名が逸材揃い！3安打を記録した4番、先発左腕など潜在能力は抜群(高校野球ドットコム)",
-      "summary": "16日、東海大相模は横浜にコールドで敗れた。 今年は下級生11名がベンチ入りしていたが、楽しみな1年生が多い。この試合では4名の1年生が登場した。 まず投手では吉永 颯大投手が先発。3回4失点で",
-      "link": "https://news.yahoo.co.jp/articles/0bfa079b2f08a16078daeba6f627144a19eefd85?source=rss",
-      "pubDate": "2026-07-17T06:41:24.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "baystars"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/0bfa079b2f08a16078daeba6f627144a19eefd85?source=rss"
         }
       ]
     },
@@ -943,6 +1076,7 @@
       "source": "Yahoo!ニュース スポーツ",
       "sourceId": "yahoo-sports",
       "teams": [
+        "baystars",
         "lions"
       ],
       "topics": [
@@ -1080,25 +1214,6 @@
           "name": "Yahoo!ニュース スポーツ",
           "sourceId": "yahoo-sports",
           "link": "https://news.yahoo.co.jp/articles/371933bbf3732f98334b7532c524a8901c1164f5?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "大阪の公立校投手が12球団のスカウトの前で11奪三振の力投！プロ志望を表明【大阪】(高校野球ドットコム)",
-      "summary": "＜第108回全国高等学校野球選手権大阪大会：関大北陽3-1香里丘＞◇15日◇3回戦◇ 南港中央野球場 今秋のドラフト候補に挙がっている香里丘の最速148キロ右腕・岡本 翔斗投手（3年）が3番投手で出",
-      "link": "https://news.yahoo.co.jp/articles/709b079c6a0858b8a669dc55ec57c05b5da4f769?source=rss",
-      "pubDate": "2026-07-17T03:18:25.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [],
-      "topics": [
-        "draft"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/709b079c6a0858b8a669dc55ec57c05b5da4f769?source=rss"
         }
       ]
     },
@@ -1307,7 +1422,10 @@
       "pubDate": "2026-07-17T02:41:23.000Z",
       "source": "Yahoo!ニュース スポーツ",
       "sourceId": "yahoo-sports",
-      "teams": [],
+      "teams": [
+        "giants",
+        "dragons"
+      ],
       "topics": [],
       "sources": [
         {
