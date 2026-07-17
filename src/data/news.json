@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-17T01:40:03.815Z",
+  "generatedAt": "2026-07-17T02:00:50.435Z",
   "count": 182,
   "items": [
     {
@@ -9,8 +9,12 @@
       "pubDate": "2026-07-17T01:30:35.000Z",
       "source": "Yahoo!ニュース スポーツ",
       "sourceId": "yahoo-sports",
-      "teams": ["giants"],
-      "topics": ["trade"],
+      "teams": [
+        "giants"
+      ],
+      "topics": [
+        "trade"
+      ],
       "sources": [
         {
           "name": "Yahoo!ニュース スポーツ",
@@ -26,7 +30,9 @@
       "pubDate": "2026-07-17T01:30:01.000Z",
       "source": "Yahoo!ニュース スポーツ",
       "sourceId": "yahoo-sports",
-      "teams": ["dragons"],
+      "teams": [
+        "dragons"
+      ],
       "topics": [],
       "sources": [
         {
@@ -43,7 +49,9 @@
       "pubDate": "2026-07-17T01:17:45.000Z",
       "source": "Yahoo!ニュース スポーツ",
       "sourceId": "yahoo-sports",
-      "teams": ["baystars"],
+      "teams": [
+        "baystars"
+      ],
       "topics": [],
       "sources": [
         {
@@ -60,8 +68,12 @@
       "pubDate": "2026-07-17T01:08:15.000Z",
       "source": "Full-Count（プロ野球）",
       "sourceId": "full-count-npb",
-      "teams": ["baystars"],
-      "topics": ["draft"],
+      "teams": [
+        "baystars"
+      ],
+      "topics": [
+        "draft"
+      ],
       "sources": [
         {
           "name": "Full-Count（プロ野球）",
@@ -77,18 +89,15 @@
       "pubDate": "2026-07-17T01:00:00.000Z",
       "source": "BASEBALL KING",
       "sourceId": "baseballking",
-      "teams": ["swallows"],
+      "teams": [
+        "swallows"
+      ],
       "topics": [],
       "sources": [
         {
           "name": "BASEBALL KING",
           "sourceId": "baseballking",
           "link": "https://baseballking.jp/ns/701667/"
-        },
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/6ddae5e82dd124d72472046c23c8826f8153fdb3?source=rss"
         }
       ]
     },
@@ -100,7 +109,9 @@
       "source": "Yahoo!ニュース スポーツ",
       "sourceId": "yahoo-sports",
       "teams": [],
-      "topics": ["trade"],
+      "topics": [
+        "trade"
+      ],
       "sources": [
         {
           "name": "Yahoo!ニュース スポーツ",
@@ -116,7 +127,9 @@
       "pubDate": "2026-07-17T00:57:24.000Z",
       "source": "Yahoo!ニュース スポーツ",
       "sourceId": "yahoo-sports",
-      "teams": ["giants"],
+      "teams": [
+        "giants"
+      ],
       "topics": [],
       "sources": [
         {
@@ -134,7 +147,9 @@
       "source": "Yahoo!ニュース スポーツ",
       "sourceId": "yahoo-sports",
       "teams": [],
-      "topics": ["draft"],
+      "topics": [
+        "draft"
+      ],
       "sources": [
         {
           "name": "Yahoo!ニュース スポーツ",
@@ -150,7 +165,9 @@
       "pubDate": "2026-07-17T00:22:28.000Z",
       "source": "Yahoo!ニュース スポーツ",
       "sourceId": "yahoo-sports",
-      "teams": ["tigers"],
+      "teams": [
+        "tigers"
+      ],
       "topics": [],
       "sources": [
         {
@@ -167,7 +184,9 @@
       "pubDate": "2026-07-17T00:00:00.000Z",
       "source": "BASEBALL KING",
       "sourceId": "baseballking",
-      "teams": ["marines"],
+      "teams": [
+        "marines"
+      ],
       "topics": [],
       "sources": [
         {
@@ -184,7 +203,9 @@
       "pubDate": "2026-07-16T23:41:48.000Z",
       "source": "日刊スポーツ（Yahoo!ニュース経由）",
       "sourceId": "yahoo-nikkansports",
-      "teams": ["marines"],
+      "teams": [
+        "marines"
+      ],
       "topics": [],
       "sources": [
         {
@@ -201,8 +222,12 @@
       "pubDate": "2026-07-16T23:00:32.000Z",
       "source": "Yahoo!ニュース スポーツ",
       "sourceId": "yahoo-sports",
-      "teams": ["carp"],
-      "topics": ["roster"],
+      "teams": [
+        "carp"
+      ],
+      "topics": [
+        "roster"
+      ],
       "sources": [
         {
           "name": "Yahoo!ニュース スポーツ",
@@ -218,7 +243,9 @@
       "pubDate": "2026-07-16T23:00:04.000Z",
       "source": "Yahoo!ニュース スポーツ",
       "sourceId": "yahoo-sports",
-      "teams": ["eagles"],
+      "teams": [
+        "eagles"
+      ],
       "topics": [],
       "sources": [
         {
@@ -235,7 +262,10 @@
       "pubDate": "2026-07-16T22:40:00.000Z",
       "source": "BASEBALL KING",
       "sourceId": "baseballking",
-      "teams": ["fighters", "hawks"],
+      "teams": [
+        "fighters",
+        "hawks"
+      ],
       "topics": [],
       "sources": [
         {
@@ -252,7 +282,9 @@
       "pubDate": "2026-07-16T22:20:00.000Z",
       "source": "BASEBALL KING",
       "sourceId": "baseballking",
-      "teams": ["eagles"],
+      "teams": [
+        "eagles"
+      ],
       "topics": [],
       "sources": [
         {
@@ -269,8 +301,12 @@
       "pubDate": "2026-07-16T22:15:44.000Z",
       "source": "ベースボールチャンネル（プロ野球）",
       "sourceId": "baseballchannel-npb",
-      "teams": ["swallows"],
-      "topics": ["roster"],
+      "teams": [
+        "swallows"
+      ],
+      "topics": [
+        "roster"
+      ],
       "sources": [
         {
           "name": "ベースボールチャンネル（プロ野球）",
@@ -286,8 +322,12 @@
       "pubDate": "2026-07-16T22:10:00.000Z",
       "source": "BASEBALL KING",
       "sourceId": "baseballking",
-      "teams": ["hawks"],
-      "topics": ["trade"],
+      "teams": [
+        "hawks"
+      ],
+      "topics": [
+        "trade"
+      ],
       "sources": [
         {
           "name": "BASEBALL KING",
@@ -303,7 +343,9 @@
       "pubDate": "2026-07-16T22:00:01.000Z",
       "source": "日刊スポーツ（Yahoo!ニュース経由）",
       "sourceId": "yahoo-nikkansports",
-      "teams": ["baystars"],
+      "teams": [
+        "baystars"
+      ],
       "topics": [],
       "sources": [
         {
@@ -320,7 +362,9 @@
       "pubDate": "2026-07-16T22:00:01.000Z",
       "source": "日刊スポーツ（Yahoo!ニュース経由）",
       "sourceId": "yahoo-nikkansports",
-      "teams": ["tigers"],
+      "teams": [
+        "tigers"
+      ],
       "topics": [],
       "sources": [
         {
@@ -337,7 +381,10 @@
       "pubDate": "2026-07-16T21:50:00.000Z",
       "source": "BASEBALL KING",
       "sourceId": "baseballking",
-      "teams": ["marines", "lions"],
+      "teams": [
+        "marines",
+        "lions"
+      ],
       "topics": [],
       "sources": [
         {
@@ -354,8 +401,12 @@
       "pubDate": "2026-07-16T21:40:00.000Z",
       "source": "BASEBALL KING",
       "sourceId": "baseballking",
-      "teams": ["buffaloes"],
-      "topics": ["injury"],
+      "teams": [
+        "buffaloes"
+      ],
+      "topics": [
+        "injury"
+      ],
       "sources": [
         {
           "name": "BASEBALL KING",
@@ -371,7 +422,9 @@
       "pubDate": "2026-07-16T21:40:00.000Z",
       "source": "BASEBALL KING",
       "sourceId": "baseballking",
-      "teams": ["swallows"],
+      "teams": [
+        "swallows"
+      ],
       "topics": [],
       "sources": [
         {
@@ -388,8 +441,12 @@
       "pubDate": "2026-07-16T21:30:00.000Z",
       "source": "BASEBALL KING",
       "sourceId": "baseballking",
-      "teams": ["tigers"],
-      "topics": ["trade"],
+      "teams": [
+        "tigers"
+      ],
+      "topics": [
+        "trade"
+      ],
       "sources": [
         {
           "name": "BASEBALL KING",
@@ -405,7 +462,10 @@
       "pubDate": "2026-07-16T21:20:00.000Z",
       "source": "BASEBALL KING",
       "sourceId": "baseballking",
-      "teams": ["dragons", "tigers"],
+      "teams": [
+        "dragons",
+        "tigers"
+      ],
       "topics": [],
       "sources": [
         {
@@ -422,7 +482,10 @@
       "pubDate": "2026-07-16T21:10:00.000Z",
       "source": "BASEBALL KING",
       "sourceId": "baseballking",
-      "teams": ["swallows", "giants"],
+      "teams": [
+        "swallows",
+        "giants"
+      ],
       "topics": [],
       "sources": [
         {
@@ -439,8 +502,12 @@
       "pubDate": "2026-07-16T21:00:00.000Z",
       "source": "日刊スポーツ（Yahoo!ニュース経由）",
       "sourceId": "yahoo-nikkansports",
-      "teams": ["baystars"],
-      "topics": ["injury"],
+      "teams": [
+        "baystars"
+      ],
+      "topics": [
+        "injury"
+      ],
       "sources": [
         {
           "name": "日刊スポーツ（Yahoo!ニュース経由）",
@@ -456,7 +523,9 @@
       "pubDate": "2026-07-16T20:45:55.000Z",
       "source": "ベースボールチャンネル（プロ野球）",
       "sourceId": "baseballchannel-npb",
-      "teams": ["hawks"],
+      "teams": [
+        "hawks"
+      ],
       "topics": [],
       "sources": [
         {
@@ -473,8 +542,12 @@
       "pubDate": "2026-07-16T20:30:02.000Z",
       "source": "日刊スポーツ（Yahoo!ニュース経由）",
       "sourceId": "yahoo-nikkansports",
-      "teams": ["dragons"],
-      "topics": ["roster"],
+      "teams": [
+        "dragons"
+      ],
+      "topics": [
+        "roster"
+      ],
       "sources": [
         {
           "name": "日刊スポーツ（Yahoo!ニュース経由）",
@@ -490,7 +563,9 @@
       "pubDate": "2026-07-16T20:30:01.000Z",
       "source": "日刊スポーツ（Yahoo!ニュース経由）",
       "sourceId": "yahoo-nikkansports",
-      "teams": ["baystars"],
+      "teams": [
+        "baystars"
+      ],
       "topics": [],
       "sources": [
         {
@@ -507,7 +582,9 @@
       "pubDate": "2026-07-16T20:30:00.000Z",
       "source": "Yahoo!ニュース スポーツ",
       "sourceId": "yahoo-sports",
-      "teams": ["baystars"],
+      "teams": [
+        "baystars"
+      ],
       "topics": [],
       "sources": [
         {
@@ -524,7 +601,9 @@
       "pubDate": "2026-07-16T20:30:00.000Z",
       "source": "Yahoo!ニュース スポーツ",
       "sourceId": "yahoo-sports",
-      "teams": ["fighters"],
+      "teams": [
+        "fighters"
+      ],
       "topics": [],
       "sources": [
         {
@@ -541,7 +620,9 @@
       "pubDate": "2026-07-16T20:30:00.000Z",
       "source": "Yahoo!ニュース スポーツ",
       "sourceId": "yahoo-sports",
-      "teams": ["giants"],
+      "teams": [
+        "giants"
+      ],
       "topics": [],
       "sources": [
         {
@@ -558,7 +639,9 @@
       "pubDate": "2026-07-16T20:30:00.000Z",
       "source": "Yahoo!ニュース スポーツ",
       "sourceId": "yahoo-sports",
-      "teams": ["giants"],
+      "teams": [
+        "giants"
+      ],
       "topics": [],
       "sources": [
         {
@@ -575,7 +658,9 @@
       "pubDate": "2026-07-16T20:30:00.000Z",
       "source": "Yahoo!ニュース スポーツ",
       "sourceId": "yahoo-sports",
-      "teams": ["giants"],
+      "teams": [
+        "giants"
+      ],
       "topics": [],
       "sources": [
         {
@@ -592,7 +677,9 @@
       "pubDate": "2026-07-16T20:30:00.000Z",
       "source": "Yahoo!ニュース スポーツ",
       "sourceId": "yahoo-sports",
-      "teams": ["swallows"],
+      "teams": [
+        "swallows"
+      ],
       "topics": [],
       "sources": [
         {
@@ -609,7 +696,9 @@
       "pubDate": "2026-07-16T20:30:00.000Z",
       "source": "Yahoo!ニュース スポーツ",
       "sourceId": "yahoo-sports",
-      "teams": ["giants"],
+      "teams": [
+        "giants"
+      ],
       "topics": [],
       "sources": [
         {
@@ -626,7 +715,9 @@
       "pubDate": "2026-07-16T20:30:00.000Z",
       "source": "Yahoo!ニュース スポーツ",
       "sourceId": "yahoo-sports",
-      "teams": ["baystars"],
+      "teams": [
+        "baystars"
+      ],
       "topics": [],
       "sources": [
         {
@@ -643,7 +734,9 @@
       "pubDate": "2026-07-16T20:30:00.000Z",
       "source": "Yahoo!ニュース スポーツ",
       "sourceId": "yahoo-sports",
-      "teams": ["eagles"],
+      "teams": [
+        "eagles"
+      ],
       "topics": [],
       "sources": [
         {
@@ -660,7 +753,9 @@
       "pubDate": "2026-07-16T20:30:00.000Z",
       "source": "Yahoo!ニュース スポーツ",
       "sourceId": "yahoo-sports",
-      "teams": ["lions"],
+      "teams": [
+        "lions"
+      ],
       "topics": [],
       "sources": [
         {
@@ -677,7 +772,9 @@
       "pubDate": "2026-07-16T20:30:00.000Z",
       "source": "Yahoo!ニュース スポーツ",
       "sourceId": "yahoo-sports",
-      "teams": ["marines"],
+      "teams": [
+        "marines"
+      ],
       "topics": [],
       "sources": [
         {
@@ -694,7 +791,9 @@
       "pubDate": "2026-07-16T20:30:00.000Z",
       "source": "Yahoo!ニュース スポーツ",
       "sourceId": "yahoo-sports",
-      "teams": ["eagles"],
+      "teams": [
+        "eagles"
+      ],
       "topics": [],
       "sources": [
         {
@@ -711,7 +810,9 @@
       "pubDate": "2026-07-16T20:20:04.000Z",
       "source": "Yahoo!ニュース スポーツ",
       "sourceId": "yahoo-sports",
-      "teams": ["giants"],
+      "teams": [
+        "giants"
+      ],
       "topics": [],
       "sources": [
         {
@@ -728,7 +829,9 @@
       "pubDate": "2026-07-16T20:15:29.000Z",
       "source": "Yahoo!ニュース スポーツ",
       "sourceId": "yahoo-sports",
-      "teams": ["tigers"],
+      "teams": [
+        "tigers"
+      ],
       "topics": [],
       "sources": [
         {
@@ -745,7 +848,9 @@
       "pubDate": "2026-07-16T20:10:01.000Z",
       "source": "日刊スポーツ（Yahoo!ニュース経由）",
       "sourceId": "yahoo-nikkansports",
-      "teams": ["tigers"],
+      "teams": [
+        "tigers"
+      ],
       "topics": [],
       "sources": [
         {
@@ -762,7 +867,9 @@
       "pubDate": "2026-07-16T20:10:01.000Z",
       "source": "日刊スポーツ（Yahoo!ニュース経由）",
       "sourceId": "yahoo-nikkansports",
-      "teams": ["tigers"],
+      "teams": [
+        "tigers"
+      ],
       "topics": [],
       "sources": [
         {
@@ -779,7 +886,9 @@
       "pubDate": "2026-07-16T20:00:03.000Z",
       "source": "日刊スポーツ（Yahoo!ニュース経由）",
       "sourceId": "yahoo-nikkansports",
-      "teams": ["tigers"],
+      "teams": [
+        "tigers"
+      ],
       "topics": [],
       "sources": [
         {
@@ -796,7 +905,9 @@
       "pubDate": "2026-07-16T20:00:02.000Z",
       "source": "日刊スポーツ（Yahoo!ニュース経由）",
       "sourceId": "yahoo-nikkansports",
-      "teams": ["dragons"],
+      "teams": [
+        "dragons"
+      ],
       "topics": [],
       "sources": [
         {
@@ -813,7 +924,9 @@
       "pubDate": "2026-07-16T20:00:01.000Z",
       "source": "日刊スポーツ（Yahoo!ニュース経由）",
       "sourceId": "yahoo-nikkansports",
-      "teams": ["tigers"],
+      "teams": [
+        "tigers"
+      ],
       "topics": [],
       "sources": [
         {
@@ -830,7 +943,9 @@
       "pubDate": "2026-07-16T20:00:00.000Z",
       "source": "日刊スポーツ（Yahoo!ニュース経由）",
       "sourceId": "yahoo-nikkansports",
-      "teams": ["tigers"],
+      "teams": [
+        "tigers"
+      ],
       "topics": [],
       "sources": [
         {
@@ -847,7 +962,9 @@
       "pubDate": "2026-07-16T19:55:01.000Z",
       "source": "日刊スポーツ（Yahoo!ニュース経由）",
       "sourceId": "yahoo-nikkansports",
-      "teams": ["eagles"],
+      "teams": [
+        "eagles"
+      ],
       "topics": [],
       "sources": [
         {
@@ -864,7 +981,9 @@
       "pubDate": "2026-07-16T19:55:00.000Z",
       "source": "日刊スポーツ（Yahoo!ニュース経由）",
       "sourceId": "yahoo-nikkansports",
-      "teams": ["lions"],
+      "teams": [
+        "lions"
+      ],
       "topics": [],
       "sources": [
         {
@@ -881,7 +1000,9 @@
       "pubDate": "2026-07-16T16:15:00.000Z",
       "source": "Yahoo!ニュース スポーツ",
       "sourceId": "yahoo-sports",
-      "teams": ["tigers"],
+      "teams": [
+        "tigers"
+      ],
       "topics": [],
       "sources": [
         {
@@ -898,7 +1019,9 @@
       "pubDate": "2026-07-16T16:15:00.000Z",
       "source": "Yahoo!ニュース スポーツ",
       "sourceId": "yahoo-sports",
-      "teams": ["tigers"],
+      "teams": [
+        "tigers"
+      ],
       "topics": [],
       "sources": [
         {
@@ -915,7 +1038,9 @@
       "pubDate": "2026-07-16T16:15:00.000Z",
       "source": "Yahoo!ニュース スポーツ",
       "sourceId": "yahoo-sports",
-      "teams": ["tigers"],
+      "teams": [
+        "tigers"
+      ],
       "topics": [],
       "sources": [
         {
@@ -932,7 +1057,9 @@
       "pubDate": "2026-07-16T16:15:00.000Z",
       "source": "Yahoo!ニュース スポーツ",
       "sourceId": "yahoo-sports",
-      "teams": ["tigers"],
+      "teams": [
+        "tigers"
+      ],
       "topics": [],
       "sources": [
         {
@@ -949,7 +1076,9 @@
       "pubDate": "2026-07-16T16:15:00.000Z",
       "source": "Yahoo!ニュース スポーツ",
       "sourceId": "yahoo-sports",
-      "teams": ["tigers"],
+      "teams": [
+        "tigers"
+      ],
       "topics": [],
       "sources": [
         {
@@ -966,7 +1095,9 @@
       "pubDate": "2026-07-16T16:15:00.000Z",
       "source": "Yahoo!ニュース スポーツ",
       "sourceId": "yahoo-sports",
-      "teams": ["tigers"],
+      "teams": [
+        "tigers"
+      ],
       "topics": [],
       "sources": [
         {
@@ -983,7 +1114,9 @@
       "pubDate": "2026-07-16T16:15:00.000Z",
       "source": "Yahoo!ニュース スポーツ",
       "sourceId": "yahoo-sports",
-      "teams": ["tigers"],
+      "teams": [
+        "tigers"
+      ],
       "topics": [],
       "sources": [
         {
@@ -1000,7 +1133,9 @@
       "pubDate": "2026-07-16T16:15:00.000Z",
       "source": "Yahoo!ニュース スポーツ",
       "sourceId": "yahoo-sports",
-      "teams": ["tigers"],
+      "teams": [
+        "tigers"
+      ],
       "topics": [],
       "sources": [
         {
@@ -1017,7 +1152,9 @@
       "pubDate": "2026-07-16T16:15:00.000Z",
       "source": "Yahoo!ニュース スポーツ",
       "sourceId": "yahoo-sports",
-      "teams": ["tigers"],
+      "teams": [
+        "tigers"
+      ],
       "topics": [],
       "sources": [
         {
@@ -1034,7 +1171,9 @@
       "pubDate": "2026-07-16T15:55:24.000Z",
       "source": "Yahoo!ニュース スポーツ",
       "sourceId": "yahoo-sports",
-      "teams": ["hawks"],
+      "teams": [
+        "hawks"
+      ],
       "topics": [],
       "sources": [
         {
@@ -1051,7 +1190,9 @@
       "pubDate": "2026-07-16T15:14:39.000Z",
       "source": "日刊スポーツ（Yahoo!ニュース経由）",
       "sourceId": "yahoo-nikkansports",
-      "teams": ["eagles"],
+      "teams": [
+        "eagles"
+      ],
       "topics": [],
       "sources": [
         {
@@ -1068,7 +1209,9 @@
       "pubDate": "2026-07-16T14:41:33.000Z",
       "source": "日刊スポーツ（Yahoo!ニュース経由）",
       "sourceId": "yahoo-nikkansports",
-      "teams": ["eagles"],
+      "teams": [
+        "eagles"
+      ],
       "topics": [],
       "sources": [
         {
@@ -1085,7 +1228,9 @@
       "pubDate": "2026-07-16T14:08:25.000Z",
       "source": "日刊スポーツ（Yahoo!ニュース経由）",
       "sourceId": "yahoo-nikkansports",
-      "teams": ["swallows"],
+      "teams": [
+        "swallows"
+      ],
       "topics": [],
       "sources": [
         {
@@ -1102,7 +1247,9 @@
       "pubDate": "2026-07-16T13:59:33.000Z",
       "source": "日刊スポーツ（Yahoo!ニュース経由）",
       "sourceId": "yahoo-nikkansports",
-      "teams": ["swallows"],
+      "teams": [
+        "swallows"
+      ],
       "topics": [],
       "sources": [
         {
@@ -1119,7 +1266,9 @@
       "pubDate": "2026-07-16T13:52:20.000Z",
       "source": "日刊スポーツ（Yahoo!ニュース経由）",
       "sourceId": "yahoo-nikkansports",
-      "teams": ["tigers"],
+      "teams": [
+        "tigers"
+      ],
       "topics": [],
       "sources": [
         {
@@ -1136,7 +1285,9 @@
       "pubDate": "2026-07-16T13:47:27.000Z",
       "source": "日刊スポーツ（Yahoo!ニュース経由）",
       "sourceId": "yahoo-nikkansports",
-      "teams": ["giants"],
+      "teams": [
+        "giants"
+      ],
       "topics": [],
       "sources": [
         {
@@ -1153,7 +1304,9 @@
       "pubDate": "2026-07-16T13:43:56.000Z",
       "source": "日刊スポーツ（Yahoo!ニュース経由）",
       "sourceId": "yahoo-nikkansports",
-      "teams": ["swallows"],
+      "teams": [
+        "swallows"
+      ],
       "topics": [],
       "sources": [
         {
@@ -1170,7 +1323,9 @@
       "pubDate": "2026-07-16T13:42:37.000Z",
       "source": "日刊スポーツ（Yahoo!ニュース経由）",
       "sourceId": "yahoo-nikkansports",
-      "teams": ["tigers"],
+      "teams": [
+        "tigers"
+      ],
       "topics": [],
       "sources": [
         {
@@ -1187,7 +1342,9 @@
       "pubDate": "2026-07-16T13:34:01.000Z",
       "source": "日刊スポーツ（Yahoo!ニュース経由）",
       "sourceId": "yahoo-nikkansports",
-      "teams": ["tigers"],
+      "teams": [
+        "tigers"
+      ],
       "topics": [],
       "sources": [
         {
@@ -1204,7 +1361,9 @@
       "pubDate": "2026-07-16T13:32:15.000Z",
       "source": "日刊スポーツ（Yahoo!ニュース経由）",
       "sourceId": "yahoo-nikkansports",
-      "teams": ["tigers"],
+      "teams": [
+        "tigers"
+      ],
       "topics": [],
       "sources": [
         {
@@ -1221,7 +1380,9 @@
       "pubDate": "2026-07-16T13:28:34.000Z",
       "source": "日刊スポーツ（Yahoo!ニュース経由）",
       "sourceId": "yahoo-nikkansports",
-      "teams": ["dragons"],
+      "teams": [
+        "dragons"
+      ],
       "topics": [],
       "sources": [
         {
@@ -1238,7 +1399,9 @@
       "pubDate": "2026-07-16T13:23:23.000Z",
       "source": "日刊スポーツ（Yahoo!ニュース経由）",
       "sourceId": "yahoo-nikkansports",
-      "teams": ["eagles"],
+      "teams": [
+        "eagles"
+      ],
       "topics": [],
       "sources": [
         {
@@ -1255,7 +1418,9 @@
       "pubDate": "2026-07-16T13:15:52.000Z",
       "source": "日刊スポーツ（Yahoo!ニュース経由）",
       "sourceId": "yahoo-nikkansports",
-      "teams": ["tigers"],
+      "teams": [
+        "tigers"
+      ],
       "topics": [],
       "sources": [
         {
@@ -1272,7 +1437,9 @@
       "pubDate": "2026-07-16T13:13:23.000Z",
       "source": "日刊スポーツ（Yahoo!ニュース経由）",
       "sourceId": "yahoo-nikkansports",
-      "teams": ["marines"],
+      "teams": [
+        "marines"
+      ],
       "topics": [],
       "sources": [
         {
@@ -1289,7 +1456,9 @@
       "pubDate": "2026-07-16T13:04:34.000Z",
       "source": "日刊スポーツ（Yahoo!ニュース経由）",
       "sourceId": "yahoo-nikkansports",
-      "teams": ["tigers"],
+      "teams": [
+        "tigers"
+      ],
       "topics": [],
       "sources": [
         {
@@ -1306,7 +1475,9 @@
       "pubDate": "2026-07-16T11:36:50.000Z",
       "source": "ベースボールチャンネル（プロ野球）",
       "sourceId": "baseballchannel-npb",
-      "teams": ["hawks"],
+      "teams": [
+        "hawks"
+      ],
       "topics": [],
       "sources": [
         {
@@ -1323,7 +1494,9 @@
       "pubDate": "2026-07-16T11:15:27.000Z",
       "source": "ベースボールチャンネル（プロ野球）",
       "sourceId": "baseballchannel-npb",
-      "teams": ["hawks"],
+      "teams": [
+        "hawks"
+      ],
       "topics": [],
       "sources": [
         {
@@ -1340,7 +1513,9 @@
       "pubDate": "2026-07-16T09:03:19.000Z",
       "source": "Yahoo!ニュース スポーツ",
       "sourceId": "yahoo-sports",
-      "teams": ["baystars"],
+      "teams": [
+        "baystars"
+      ],
       "topics": [],
       "sources": [
         {
@@ -1357,7 +1532,9 @@
       "pubDate": "2026-07-16T09:01:43.000Z",
       "source": "Yahoo!ニュース スポーツ",
       "sourceId": "yahoo-sports",
-      "teams": ["hawks"],
+      "teams": [
+        "hawks"
+      ],
       "topics": [],
       "sources": [
         {
@@ -1374,7 +1551,9 @@
       "pubDate": "2026-07-16T09:01:12.000Z",
       "source": "Yahoo!ニュース スポーツ",
       "sourceId": "yahoo-sports",
-      "teams": ["dragons"],
+      "teams": [
+        "dragons"
+      ],
       "topics": [],
       "sources": [
         {
@@ -1391,8 +1570,17 @@
       "pubDate": "2026-07-16T09:00:38.000Z",
       "source": "Yahoo!ニュース スポーツ",
       "sourceId": "yahoo-sports",
-      "teams": ["tigers", "giants", "swallows", "hawks", "lions", "fighters"],
-      "topics": ["injury"],
+      "teams": [
+        "tigers",
+        "giants",
+        "swallows",
+        "hawks",
+        "lions",
+        "fighters"
+      ],
+      "topics": [
+        "injury"
+      ],
       "sources": [
         {
           "name": "Yahoo!ニュース スポーツ",
@@ -1425,7 +1613,9 @@
       "pubDate": "2026-07-16T09:00:24.000Z",
       "source": "Yahoo!ニュース スポーツ",
       "sourceId": "yahoo-sports",
-      "teams": ["lions"],
+      "teams": [
+        "lions"
+      ],
       "topics": [],
       "sources": [
         {
@@ -1442,8 +1632,13 @@
       "pubDate": "2026-07-16T08:59:24.000Z",
       "source": "Yahoo!ニュース スポーツ",
       "sourceId": "yahoo-sports",
-      "teams": ["hawks", "fighters"],
-      "topics": ["trade"],
+      "teams": [
+        "hawks",
+        "fighters"
+      ],
+      "topics": [
+        "trade"
+      ],
       "sources": [
         {
           "name": "Yahoo!ニュース スポーツ",
@@ -1459,7 +1654,9 @@
       "pubDate": "2026-07-16T08:57:24.000Z",
       "source": "Yahoo!ニュース スポーツ",
       "sourceId": "yahoo-sports",
-      "teams": ["fighters"],
+      "teams": [
+        "fighters"
+      ],
       "topics": [],
       "sources": [
         {
@@ -1476,8 +1673,12 @@
       "pubDate": "2026-07-16T08:54:22.000Z",
       "source": "Yahoo!ニュース スポーツ",
       "sourceId": "yahoo-sports",
-      "teams": ["hawks"],
-      "topics": ["trade"],
+      "teams": [
+        "hawks"
+      ],
+      "topics": [
+        "trade"
+      ],
       "sources": [
         {
           "name": "Yahoo!ニュース スポーツ",
@@ -1493,8 +1694,12 @@
       "pubDate": "2026-07-16T08:53:10.000Z",
       "source": "Yahoo!ニュース スポーツ",
       "sourceId": "yahoo-sports",
-      "teams": ["giants"],
-      "topics": ["personnel"],
+      "teams": [
+        "giants"
+      ],
+      "topics": [
+        "personnel"
+      ],
       "sources": [
         {
           "name": "Yahoo!ニュース スポーツ",
@@ -1510,7 +1715,10 @@
       "pubDate": "2026-07-16T08:48:39.000Z",
       "source": "Yahoo!ニュース スポーツ",
       "sourceId": "yahoo-sports",
-      "teams": ["lions", "marines"],
+      "teams": [
+        "lions",
+        "marines"
+      ],
       "topics": [],
       "sources": [
         {
@@ -1527,7 +1735,9 @@
       "pubDate": "2026-07-16T08:47:11.000Z",
       "source": "Yahoo!ニュース スポーツ",
       "sourceId": "yahoo-sports",
-      "teams": ["lions"],
+      "teams": [
+        "lions"
+      ],
       "topics": [],
       "sources": [
         {
@@ -1544,7 +1754,9 @@
       "pubDate": "2026-07-16T08:45:28.000Z",
       "source": "Yahoo!ニュース スポーツ",
       "sourceId": "yahoo-sports",
-      "teams": ["giants"],
+      "teams": [
+        "giants"
+      ],
       "topics": [],
       "sources": [
         {
@@ -1561,7 +1773,9 @@
       "pubDate": "2026-07-16T08:45:11.000Z",
       "source": "Yahoo!ニュース スポーツ",
       "sourceId": "yahoo-sports",
-      "teams": ["swallows"],
+      "teams": [
+        "swallows"
+      ],
       "topics": [],
       "sources": [
         {
@@ -1578,7 +1792,9 @@
       "pubDate": "2026-07-16T08:45:10.000Z",
       "source": "Yahoo!ニュース スポーツ",
       "sourceId": "yahoo-sports",
-      "teams": ["swallows"],
+      "teams": [
+        "swallows"
+      ],
       "topics": [],
       "sources": [
         {
@@ -1595,7 +1811,9 @@
       "pubDate": "2026-07-16T08:45:05.000Z",
       "source": "Yahoo!ニュース スポーツ",
       "sourceId": "yahoo-sports",
-      "teams": ["marines"],
+      "teams": [
+        "marines"
+      ],
       "topics": [],
       "sources": [
         {
@@ -1617,8 +1835,12 @@
       "pubDate": "2026-07-16T08:26:47.000Z",
       "source": "ベースボールチャンネル（プロ野球）",
       "sourceId": "baseballchannel-npb",
-      "teams": ["tigers"],
-      "topics": ["roster"],
+      "teams": [
+        "tigers"
+      ],
+      "topics": [
+        "roster"
+      ],
       "sources": [
         {
           "name": "ベースボールチャンネル（プロ野球）",
@@ -1634,7 +1856,9 @@
       "pubDate": "2026-07-16T08:00:00.000Z",
       "source": "BASEBALL KING",
       "sourceId": "baseballking",
-      "teams": ["baystars"],
+      "teams": [
+        "baystars"
+      ],
       "topics": [],
       "sources": [
         {
@@ -1651,7 +1875,9 @@
       "pubDate": "2026-07-16T07:48:01.000Z",
       "source": "Full-Count（プロ野球）",
       "sourceId": "full-count-npb",
-      "teams": ["baystars"],
+      "teams": [
+        "baystars"
+      ],
       "topics": [],
       "sources": [
         {
@@ -1668,8 +1894,12 @@
       "pubDate": "2026-07-16T07:40:31.000Z",
       "source": "ベースボールチャンネル（プロ野球）",
       "sourceId": "baseballchannel-npb",
-      "teams": ["giants"],
-      "topics": ["roster"],
+      "teams": [
+        "giants"
+      ],
+      "topics": [
+        "roster"
+      ],
       "sources": [
         {
           "name": "ベースボールチャンネル（プロ野球）",
@@ -1685,7 +1915,9 @@
       "pubDate": "2026-07-16T07:28:50.000Z",
       "source": "日刊スポーツ（Yahoo!ニュース経由）",
       "sourceId": "yahoo-nikkansports",
-      "teams": ["fighters"],
+      "teams": [
+        "fighters"
+      ],
       "topics": [],
       "sources": [
         {
@@ -1702,7 +1934,9 @@
       "pubDate": "2026-07-16T07:27:00.000Z",
       "source": "日刊スポーツ（Yahoo!ニュース経由）",
       "sourceId": "yahoo-nikkansports",
-      "teams": ["hawks"],
+      "teams": [
+        "hawks"
+      ],
       "topics": [],
       "sources": [
         {
@@ -1720,7 +1954,9 @@
       "source": "日刊スポーツ（Yahoo!ニュース経由）",
       "sourceId": "yahoo-nikkansports",
       "teams": [],
-      "topics": ["roster"],
+      "topics": [
+        "roster"
+      ],
       "sources": [
         {
           "name": "日刊スポーツ（Yahoo!ニュース経由）",
@@ -1736,7 +1972,9 @@
       "pubDate": "2026-07-16T07:21:54.000Z",
       "source": "Full-Count（プロ野球）",
       "sourceId": "full-count-npb",
-      "teams": ["baystars"],
+      "teams": [
+        "baystars"
+      ],
       "topics": [],
       "sources": [
         {
@@ -1753,8 +1991,12 @@
       "pubDate": "2026-07-16T07:15:17.000Z",
       "source": "Full-Count（プロ野球）",
       "sourceId": "full-count-npb",
-      "teams": ["lions"],
-      "topics": ["draft"],
+      "teams": [
+        "lions"
+      ],
+      "topics": [
+        "draft"
+      ],
       "sources": [
         {
           "name": "Full-Count（プロ野球）",
@@ -1770,7 +2012,9 @@
       "pubDate": "2026-07-16T07:03:03.000Z",
       "source": "Full-Count（プロ野球）",
       "sourceId": "full-count-npb",
-      "teams": ["lions"],
+      "teams": [
+        "lions"
+      ],
       "topics": [],
       "sources": [
         {
@@ -1788,7 +2032,9 @@
       "source": "ベースボールチャンネル（プロ野球）",
       "sourceId": "baseballchannel-npb",
       "teams": [],
-      "topics": ["roster"],
+      "topics": [
+        "roster"
+      ],
       "sources": [
         {
           "name": "ベースボールチャンネル（プロ野球）",
@@ -1804,7 +2050,9 @@
       "pubDate": "2026-07-16T06:20:44.000Z",
       "source": "Yahoo!ニュース スポーツ",
       "sourceId": "yahoo-sports",
-      "teams": ["fighters"],
+      "teams": [
+        "fighters"
+      ],
       "topics": [],
       "sources": [
         {
@@ -1821,8 +2069,12 @@
       "pubDate": "2026-07-16T06:20:06.000Z",
       "source": "Yahoo!ニュース スポーツ",
       "sourceId": "yahoo-sports",
-      "teams": ["giants"],
-      "topics": ["draft"],
+      "teams": [
+        "giants"
+      ],
+      "topics": [
+        "draft"
+      ],
       "sources": [
         {
           "name": "Yahoo!ニュース スポーツ",
@@ -1838,7 +2090,9 @@
       "pubDate": "2026-07-16T06:15:54.000Z",
       "source": "Yahoo!ニュース スポーツ",
       "sourceId": "yahoo-sports",
-      "teams": ["marines"],
+      "teams": [
+        "marines"
+      ],
       "topics": [],
       "sources": [
         {
@@ -1855,7 +2109,9 @@
       "pubDate": "2026-07-16T06:14:53.000Z",
       "source": "Yahoo!ニュース スポーツ",
       "sourceId": "yahoo-sports",
-      "teams": ["fighters"],
+      "teams": [
+        "fighters"
+      ],
       "topics": [],
       "sources": [
         {
@@ -1872,7 +2128,9 @@
       "pubDate": "2026-07-16T06:14:33.000Z",
       "source": "Yahoo!ニュース スポーツ",
       "sourceId": "yahoo-sports",
-      "teams": ["fighters"],
+      "teams": [
+        "fighters"
+      ],
       "topics": [],
       "sources": [
         {
@@ -1889,8 +2147,12 @@
       "pubDate": "2026-07-16T06:13:17.000Z",
       "source": "Yahoo!ニュース スポーツ",
       "sourceId": "yahoo-sports",
-      "teams": ["dragons"],
-      "topics": ["trade"],
+      "teams": [
+        "dragons"
+      ],
+      "topics": [
+        "trade"
+      ],
       "sources": [
         {
           "name": "Yahoo!ニュース スポーツ",
@@ -1906,7 +2168,9 @@
       "pubDate": "2026-07-16T06:09:00.000Z",
       "source": "Yahoo!ニュース スポーツ",
       "sourceId": "yahoo-sports",
-      "teams": ["marines"],
+      "teams": [
+        "marines"
+      ],
       "topics": [],
       "sources": [
         {
@@ -1923,8 +2187,13 @@
       "pubDate": "2026-07-16T06:07:27.000Z",
       "source": "Yahoo!ニュース スポーツ",
       "sourceId": "yahoo-sports",
-      "teams": ["dragons"],
-      "topics": ["trade", "roster"],
+      "teams": [
+        "dragons"
+      ],
+      "topics": [
+        "trade",
+        "roster"
+      ],
       "sources": [
         {
           "name": "Yahoo!ニュース スポーツ",
@@ -1940,7 +2209,9 @@
       "pubDate": "2026-07-16T06:07:07.000Z",
       "source": "Yahoo!ニュース スポーツ",
       "sourceId": "yahoo-sports",
-      "teams": ["giants"],
+      "teams": [
+        "giants"
+      ],
       "topics": [],
       "sources": [
         {
@@ -1957,8 +2228,12 @@
       "pubDate": "2026-07-16T05:50:01.000Z",
       "source": "Yahoo!ニュース スポーツ",
       "sourceId": "yahoo-sports",
-      "teams": ["tigers"],
-      "topics": ["trade"],
+      "teams": [
+        "tigers"
+      ],
+      "topics": [
+        "trade"
+      ],
       "sources": [
         {
           "name": "Yahoo!ニュース スポーツ",
@@ -1974,7 +2249,9 @@
       "pubDate": "2026-07-16T05:48:25.000Z",
       "source": "Yahoo!ニュース スポーツ",
       "sourceId": "yahoo-sports",
-      "teams": ["lions"],
+      "teams": [
+        "lions"
+      ],
       "topics": [],
       "sources": [
         {
@@ -1996,7 +2273,9 @@
       "pubDate": "2026-07-16T05:45:00.000Z",
       "source": "Yahoo!ニュース スポーツ",
       "sourceId": "yahoo-sports",
-      "teams": ["hawks"],
+      "teams": [
+        "hawks"
+      ],
       "topics": [],
       "sources": [
         {
@@ -2030,7 +2309,9 @@
       "pubDate": "2026-07-16T05:41:02.000Z",
       "source": "Yahoo!ニュース スポーツ",
       "sourceId": "yahoo-sports",
-      "teams": ["hawks"],
+      "teams": [
+        "hawks"
+      ],
       "topics": [],
       "sources": [
         {
@@ -2064,7 +2345,9 @@
       "pubDate": "2026-07-16T05:30:33.000Z",
       "source": "Yahoo!ニュース スポーツ",
       "sourceId": "yahoo-sports",
-      "teams": ["carp"],
+      "teams": [
+        "carp"
+      ],
       "topics": [],
       "sources": [
         {
@@ -2081,7 +2364,9 @@
       "pubDate": "2026-07-16T05:16:00.000Z",
       "source": "Yahoo!ニュース スポーツ",
       "sourceId": "yahoo-sports",
-      "teams": ["marines"],
+      "teams": [
+        "marines"
+      ],
       "topics": [],
       "sources": [
         {
@@ -2098,7 +2383,9 @@
       "pubDate": "2026-07-16T05:11:12.000Z",
       "source": "BASEBALL KING",
       "sourceId": "baseballking",
-      "teams": ["marines"],
+      "teams": [
+        "marines"
+      ],
       "topics": [],
       "sources": [
         {
@@ -2115,7 +2402,9 @@
       "pubDate": "2026-07-16T05:11:06.000Z",
       "source": "Yahoo!ニュース スポーツ",
       "sourceId": "yahoo-sports",
-      "teams": ["dragons"],
+      "teams": [
+        "dragons"
+      ],
       "topics": [],
       "sources": [
         {
@@ -2154,7 +2443,9 @@
       "pubDate": "2026-07-16T05:04:37.000Z",
       "source": "Yahoo!ニュース スポーツ",
       "sourceId": "yahoo-sports",
-      "teams": ["dragons"],
+      "teams": [
+        "dragons"
+      ],
       "sources": [
         {
           "name": "Yahoo!ニュース スポーツ",
@@ -2170,7 +2461,9 @@
       "pubDate": "2026-07-16T05:00:57.000Z",
       "source": "Yahoo!ニュース スポーツ",
       "sourceId": "yahoo-sports",
-      "teams": ["hawks"],
+      "teams": [
+        "hawks"
+      ],
       "sources": [
         {
           "name": "Yahoo!ニュース スポーツ",
@@ -2186,7 +2479,9 @@
       "pubDate": "2026-07-16T03:47:28.000Z",
       "source": "ベースボールチャンネル（プロ野球）",
       "sourceId": "baseballchannel-npb",
-      "teams": ["hawks"],
+      "teams": [
+        "hawks"
+      ],
       "topics": [],
       "sources": [
         {
@@ -2203,7 +2498,9 @@
       "pubDate": "2026-07-16T03:14:29.000Z",
       "source": "ベースボールチャンネル（プロ野球）",
       "sourceId": "baseballchannel-npb",
-      "teams": ["lions"],
+      "teams": [
+        "lions"
+      ],
       "topics": [],
       "sources": [
         {
@@ -2220,7 +2517,9 @@
       "pubDate": "2026-07-16T02:25:18.000Z",
       "source": "Full-Count（プロ野球）",
       "sourceId": "full-count-npb",
-      "teams": ["fighters"],
+      "teams": [
+        "fighters"
+      ],
       "topics": [],
       "sources": [
         {
@@ -2237,7 +2536,10 @@
       "pubDate": "2026-07-16T01:40:03.000Z",
       "source": "Full-Count（プロ野球）",
       "sourceId": "full-count-npb",
-      "teams": ["fighters", "lions"],
+      "teams": [
+        "fighters",
+        "lions"
+      ],
       "topics": [],
       "sources": [
         {
@@ -2254,7 +2556,9 @@
       "pubDate": "2026-07-16T01:21:10.000Z",
       "source": "Full-Count（プロ野球）",
       "sourceId": "full-count-npb",
-      "teams": ["lions"],
+      "teams": [
+        "lions"
+      ],
       "topics": [],
       "sources": [
         {
@@ -2305,8 +2609,12 @@
       "pubDate": "2026-07-15T23:08:14.000Z",
       "source": "BASEBALL KING",
       "sourceId": "baseballking",
-      "teams": ["hawks"],
-      "topics": ["injury"],
+      "teams": [
+        "hawks"
+      ],
+      "topics": [
+        "injury"
+      ],
       "sources": [
         {
           "name": "BASEBALL KING",
@@ -2339,7 +2647,9 @@
       "pubDate": "2026-07-15T22:54:15.000Z",
       "source": "BASEBALL KING",
       "sourceId": "baseballking",
-      "teams": ["marines"],
+      "teams": [
+        "marines"
+      ],
       "topics": [],
       "sources": [
         {
@@ -2356,7 +2666,10 @@
       "pubDate": "2026-07-15T21:50:00.000Z",
       "source": "BASEBALL KING",
       "sourceId": "baseballking",
-      "teams": ["giants", "swallows"],
+      "teams": [
+        "giants",
+        "swallows"
+      ],
       "topics": [],
       "sources": [
         {
@@ -2373,7 +2686,9 @@
       "pubDate": "2026-07-15T21:40:00.000Z",
       "source": "BASEBALL KING",
       "sourceId": "baseballking",
-      "teams": ["tigers"],
+      "teams": [
+        "tigers"
+      ],
       "topics": [],
       "sources": [
         {
@@ -2390,7 +2705,9 @@
       "pubDate": "2026-07-15T21:30:00.000Z",
       "source": "BASEBALL KING",
       "sourceId": "baseballking",
-      "teams": ["eagles"],
+      "teams": [
+        "eagles"
+      ],
       "topics": [],
       "sources": [
         {
@@ -2407,7 +2724,9 @@
       "pubDate": "2026-07-15T21:20:00.000Z",
       "source": "BASEBALL KING",
       "sourceId": "baseballking",
-      "teams": ["marines"],
+      "teams": [
+        "marines"
+      ],
       "topics": [],
       "sources": [
         {
@@ -2424,7 +2743,9 @@
       "pubDate": "2026-07-15T21:10:00.000Z",
       "source": "BASEBALL KING",
       "sourceId": "baseballking",
-      "teams": ["fighters"],
+      "teams": [
+        "fighters"
+      ],
       "topics": [],
       "sources": [
         {
@@ -2441,8 +2762,12 @@
       "pubDate": "2026-07-15T08:50:26.000Z",
       "source": "ベースボールチャンネル（プロ野球）",
       "sourceId": "baseballchannel-npb",
-      "teams": ["carp"],
-      "topics": ["roster"],
+      "teams": [
+        "carp"
+      ],
+      "topics": [
+        "roster"
+      ],
       "sources": [
         {
           "name": "ベースボールチャンネル（プロ野球）",
@@ -2458,7 +2783,9 @@
       "pubDate": "2026-07-15T07:50:57.000Z",
       "source": "ベースボールチャンネル（プロ野球）",
       "sourceId": "baseballchannel-npb",
-      "teams": ["hawks"],
+      "teams": [
+        "hawks"
+      ],
       "topics": [],
       "sources": [
         {
@@ -2475,8 +2802,12 @@
       "pubDate": "2026-07-15T07:30:53.000Z",
       "source": "ベースボールチャンネル（プロ野球）",
       "sourceId": "baseballchannel-npb",
-      "teams": ["dragons"],
-      "topics": ["roster"],
+      "teams": [
+        "dragons"
+      ],
+      "topics": [
+        "roster"
+      ],
       "sources": [
         {
           "name": "ベースボールチャンネル（プロ野球）",
@@ -2492,7 +2823,9 @@
       "pubDate": "2026-07-15T07:08:44.000Z",
       "source": "Full-Count（プロ野球）",
       "sourceId": "full-count-npb",
-      "teams": ["hawks"],
+      "teams": [
+        "hawks"
+      ],
       "topics": [],
       "sources": [
         {
@@ -2510,7 +2843,9 @@
       "source": "ベースボールチャンネル（プロ野球）",
       "sourceId": "baseballchannel-npb",
       "teams": [],
-      "topics": ["roster"],
+      "topics": [
+        "roster"
+      ],
       "sources": [
         {
           "name": "ベースボールチャンネル（プロ野球）",
@@ -2560,7 +2895,9 @@
       "pubDate": "2026-07-15T02:52:52.000Z",
       "source": "Full-Count（プロ野球）",
       "sourceId": "full-count-npb",
-      "teams": ["tigers"],
+      "teams": [
+        "tigers"
+      ],
       "topics": [],
       "sources": [
         {
@@ -2577,7 +2914,10 @@
       "pubDate": "2026-07-15T02:36:46.000Z",
       "source": "Full-Count（プロ野球）",
       "sourceId": "full-count-npb",
-      "teams": ["fighters", "swallows"],
+      "teams": [
+        "fighters",
+        "swallows"
+      ],
       "topics": [],
       "sources": [
         {
@@ -2594,7 +2934,10 @@
       "pubDate": "2026-07-15T01:20:50.000Z",
       "source": "Full-Count（プロ野球）",
       "sourceId": "full-count-npb",
-      "teams": ["hawks", "eagles"],
+      "teams": [
+        "hawks",
+        "eagles"
+      ],
       "topics": [],
       "sources": [
         {
@@ -2628,7 +2971,9 @@
       "pubDate": "2026-07-14T11:15:19.000Z",
       "source": "ベースボールチャンネル（プロ野球）",
       "sourceId": "baseballchannel-npb",
-      "teams": ["dragons"],
+      "teams": [
+        "dragons"
+      ],
       "topics": [],
       "sources": [
         {
@@ -2645,7 +2990,9 @@
       "pubDate": "2026-07-14T10:45:47.000Z",
       "source": "ベースボールチャンネル（プロ野球）",
       "sourceId": "baseballchannel-npb",
-      "teams": ["dragons"],
+      "teams": [
+        "dragons"
+      ],
       "topics": [],
       "sources": [
         {
@@ -2662,7 +3009,9 @@
       "pubDate": "2026-07-14T08:19:39.000Z",
       "source": "ベースボールチャンネル（プロ野球）",
       "sourceId": "baseballchannel-npb",
-      "teams": ["baystars"],
+      "teams": [
+        "baystars"
+      ],
       "topics": [],
       "sources": [
         {
@@ -2679,8 +3028,12 @@
       "pubDate": "2026-07-14T07:56:16.000Z",
       "source": "ベースボールチャンネル（プロ野球）",
       "sourceId": "baseballchannel-npb",
-      "teams": ["carp"],
-      "topics": ["roster"],
+      "teams": [
+        "carp"
+      ],
+      "topics": [
+        "roster"
+      ],
       "sources": [
         {
           "name": "ベースボールチャンネル（プロ野球）",
@@ -2696,7 +3049,9 @@
       "pubDate": "2026-07-14T07:37:22.000Z",
       "source": "ベースボールチャンネル（プロ野球）",
       "sourceId": "baseballchannel-npb",
-      "teams": ["baystars"],
+      "teams": [
+        "baystars"
+      ],
       "topics": [],
       "sources": [
         {
@@ -2714,7 +3069,9 @@
       "source": "ベースボールチャンネル（プロ野球）",
       "sourceId": "baseballchannel-npb",
       "teams": [],
-      "topics": ["roster"],
+      "topics": [
+        "roster"
+      ],
       "sources": [
         {
           "name": "ベースボールチャンネル（プロ野球）",
@@ -2730,7 +3087,9 @@
       "pubDate": "2026-07-14T02:40:59.000Z",
       "source": "ベースボールチャンネル（プロ野球）",
       "sourceId": "baseballchannel-npb",
-      "teams": ["marines"],
+      "teams": [
+        "marines"
+      ],
       "topics": [],
       "sources": [
         {
@@ -2747,7 +3106,9 @@
       "pubDate": "2026-07-14T00:00:00.000Z",
       "source": "NPB公式ニュース",
       "sourceId": "npb-official-freefielder",
-      "teams": ["marines"],
+      "teams": [
+        "marines"
+      ],
       "topics": [],
       "sources": [
         {
@@ -2764,7 +3125,9 @@
       "pubDate": "2026-07-14T00:00:00.000Z",
       "source": "NPB公式ニュース",
       "sourceId": "npb-official-freefielder",
-      "teams": ["carp"],
+      "teams": [
+        "carp"
+      ],
       "topics": [],
       "sources": [
         {
@@ -2815,7 +3178,9 @@
       "pubDate": "2026-07-13T22:00:04.000Z",
       "source": "ベースボールチャンネル（プロ野球）",
       "sourceId": "baseballchannel-npb",
-      "teams": ["marines"],
+      "teams": [
+        "marines"
+      ],
       "topics": [],
       "sources": [
         {
@@ -2832,8 +3197,12 @@
       "pubDate": "2026-07-13T09:35:45.000Z",
       "source": "ベースボールチャンネル（プロ野球）",
       "sourceId": "baseballchannel-npb",
-      "teams": ["tigers"],
-      "topics": ["roster"],
+      "teams": [
+        "tigers"
+      ],
+      "topics": [
+        "roster"
+      ],
       "sources": [
         {
           "name": "ベースボールチャンネル（プロ野球）",
@@ -2849,8 +3218,12 @@
       "pubDate": "2026-07-13T08:44:14.000Z",
       "source": "ベースボールチャンネル（プロ野球）",
       "sourceId": "baseballchannel-npb",
-      "teams": ["tigers"],
-      "topics": ["roster"],
+      "teams": [
+        "tigers"
+      ],
+      "topics": [
+        "roster"
+      ],
       "sources": [
         {
           "name": "ベースボールチャンネル（プロ野球）",
@@ -2867,7 +3240,9 @@
       "source": "ベースボールチャンネル（プロ野球）",
       "sourceId": "baseballchannel-npb",
       "teams": [],
-      "topics": ["roster"],
+      "topics": [
+        "roster"
+      ],
       "sources": [
         {
           "name": "ベースボールチャンネル（プロ野球）",
@@ -2883,7 +3258,9 @@
       "pubDate": "2026-07-13T06:21:24.000Z",
       "source": "ベースボールチャンネル（プロ野球）",
       "sourceId": "baseballchannel-npb",
-      "teams": ["giants"],
+      "teams": [
+        "giants"
+      ],
       "topics": [],
       "sources": [
         {
@@ -2900,7 +3277,9 @@
       "pubDate": "2026-07-13T05:01:21.000Z",
       "source": "ベースボールチャンネル（プロ野球）",
       "sourceId": "baseballchannel-npb",
-      "teams": ["baystars"],
+      "teams": [
+        "baystars"
+      ],
       "topics": [],
       "sources": [
         {
@@ -2985,7 +3364,9 @@
       "pubDate": "2026-07-12T22:10:17.000Z",
       "source": "ベースボールチャンネル（プロ野球）",
       "sourceId": "baseballchannel-npb",
-      "teams": ["lions"],
+      "teams": [
+        "lions"
+      ],
       "topics": [],
       "sources": [
         {
@@ -3002,7 +3383,9 @@
       "pubDate": "2026-07-12T02:10:03.000Z",
       "source": "ベースボールチャンネル（プロ野球）",
       "sourceId": "baseballchannel-npb",
-      "teams": ["lions"],
+      "teams": [
+        "lions"
+      ],
       "topics": [],
       "sources": [
         {
@@ -3019,7 +3402,9 @@
       "pubDate": "2026-07-11T21:30:52.000Z",
       "source": "ベースボールチャンネル（プロ野球）",
       "sourceId": "baseballchannel-npb",
-      "teams": ["giants"],
+      "teams": [
+        "giants"
+      ],
       "topics": [],
       "sources": [
         {
@@ -3036,8 +3421,13 @@
       "pubDate": "2026-07-11T01:00:26.000Z",
       "source": "ベースボールチャンネル（プロ野球）",
       "sourceId": "baseballchannel-npb",
-      "teams": ["fighters"],
-      "topics": ["trade", "draft"],
+      "teams": [
+        "fighters"
+      ],
+      "topics": [
+        "trade",
+        "draft"
+      ],
       "sources": [
         {
           "name": "ベースボールチャンネル（プロ野球）",
@@ -3053,8 +3443,12 @@
       "pubDate": "2026-07-11T00:00:16.000Z",
       "source": "ベースボールチャンネル（プロ野球）",
       "sourceId": "baseballchannel-npb",
-      "teams": ["baystars"],
-      "topics": ["roster"],
+      "teams": [
+        "baystars"
+      ],
+      "topics": [
+        "roster"
+      ],
       "sources": [
         {
           "name": "ベースボールチャンネル（プロ野球）",
@@ -3070,8 +3464,12 @@
       "pubDate": "2026-07-10T22:30:57.000Z",
       "source": "ベースボールチャンネル（プロ野球）",
       "sourceId": "baseballchannel-npb",
-      "teams": ["baystars"],
-      "topics": ["trade"],
+      "teams": [
+        "baystars"
+      ],
+      "topics": [
+        "trade"
+      ],
       "sources": [
         {
           "name": "ベースボールチャンネル（プロ野球）",
@@ -3087,8 +3485,12 @@
       "pubDate": "2026-07-10T22:15:21.000Z",
       "source": "ベースボールチャンネル（プロ野球）",
       "sourceId": "baseballchannel-npb",
-      "teams": ["giants"],
-      "topics": ["roster"],
+      "teams": [
+        "giants"
+      ],
+      "topics": [
+        "roster"
+      ],
       "sources": [
         {
           "name": "ベースボールチャンネル（プロ野球）",
@@ -3104,7 +3506,9 @@
       "pubDate": "2026-07-10T22:00:15.000Z",
       "source": "ベースボールチャンネル（プロ野球）",
       "sourceId": "baseballchannel-npb",
-      "teams": ["baystars"],
+      "teams": [
+        "baystars"
+      ],
       "sources": [
         {
           "name": "ベースボールチャンネル（プロ野球）",
