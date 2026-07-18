@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-18T18:14:17.295Z",
-  "count": 647,
+  "generatedAt": "2026-07-18T18:39:08.193Z",
+  "count": 646,
   "items": [
     {
       "title": "阪神・石井大智 ブルペンで約40球全球種投げた 復帰へ平田2軍監督「順調。肩をつくっている段階」(スポニチアネックス)",
@@ -212,27 +212,6 @@
           "name": "Yahoo!ニュース スポーツ",
           "sourceId": "yahoo-sports",
           "link": "https://news.yahoo.co.jp/articles/f43bdfebc3849133bb87654631411a0f076181ee?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "鹿島、神戸DF広瀬陸斗の獲得決定的 濃野公人は米MLS移籍間近 元横浜Mのヤン・マテウスも獲得へ(スポニチアネックス)",
-      "summary": "鹿島が神戸からDF広瀬陸斗（30）を完全移籍で獲得することが18日、決定的となった。キック精度の高い右サイドバック（SB）で、左もこなす万能型。近年は神戸で攻撃的なポジションも務め、24年のリーグ連",
-      "link": "https://news.yahoo.co.jp/articles/8c201249a1def614a9461caca6f4b752ed5fa1d2?source=rss",
-      "pubDate": "2026-07-18T15:00:00.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "baystars"
-      ],
-      "topics": [
-        "trade"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/8c201249a1def614a9461caca6f4b752ed5fa1d2?source=rss"
         }
       ]
     },
@@ -3214,11 +3193,7 @@
       "pubDate": "2026-07-18T03:07:59.000Z",
       "source": "Yahoo!ニュース スポーツ",
       "sourceId": "yahoo-sports",
-      "teams": [
-        "giants",
-        "buffaloes",
-        "fighters"
-      ],
+      "teams": [],
       "topics": [
         "roster"
       ],
@@ -7780,11 +7755,7 @@
       "pubDate": "2026-07-17T07:17:19.000Z",
       "source": "Yahoo!ニュース スポーツ",
       "sourceId": "yahoo-sports",
-      "teams": [
-        "giants",
-        "swallows",
-        "carp"
-      ],
+      "teams": [],
       "topics": [
         "roster"
       ],
