@@ -1,7 +1,47 @@
 {
-  "generatedAt": "2026-07-18T03:13:36.438Z",
-  "count": 483,
+  "generatedAt": "2026-07-18T03:39:33.155Z",
+  "count": 485,
   "items": [
+    {
+      "title": "西武・滝澤夏央が語る「僕の使命」 体重減少も想定内…164cmの首位打者へ、仁志コーチが語る“算段”",
+      "summary": "意外な選手が、パ・リーグの打率ランキング上位にいる。西武・滝澤夏央内野手だ。現在12球団の選手で2番目に低い身長164センチの小兵だが、打率.301（256打数77安打）で、日本ハムのフランミル・レイエス外野手の.324に次ぐ2位につけてい…",
+      "link": "https://full-count.jp/2026/07/18/post1991697/",
+      "pubDate": "2026-07-18T03:29:45.000Z",
+      "source": "Full-Count（プロ野球）",
+      "sourceId": "full-count-npb",
+      "teams": [
+        "lions"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Full-Count（プロ野球）",
+          "sourceId": "full-count-npb",
+          "link": "https://full-count.jp/2026/07/18/post1991697/"
+        }
+      ]
+    },
+    {
+      "title": "【巨人】バルドナードが今季初昇格 ２軍で１０戦連続無失点→１７日１軍合流(スポーツ報知)",
+      "summary": "◆ＪＥＲＡセ・リーグ 巨人―中日（１８日・東京ドーム） 巨人のアルベルト・バルドナード投手が今季初めて出場選手登録された。 今季は２月のキャンプに参加せず、パナマ代表としてＷＢＣに出場。ファー",
+      "link": "https://news.yahoo.co.jp/articles/514db81a6106095e4d294b378770d3542e68de39?source=rss",
+      "pubDate": "2026-07-18T03:16:22.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "giants"
+      ],
+      "topics": [
+        "roster"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/514db81a6106095e4d294b378770d3542e68de39?source=rss"
+        }
+      ]
+    },
     {
       "title": "オリックス山岡泰輔、吉田輝星、日本ハム細野晴希、巨人バルドナードら登録／18日公示(日刊スポーツ)",
       "summary": "7月18日のプロ野球の出場選手登録と抹消は以下の通り。 【セ・リーグ】 ＜登録＞ 巨人 A・バルドナード投手 ＜抹消＞ なし 【パ・リーグ】 ＜登録＞ 日本ハム 細野",
@@ -70,16 +110,16 @@
       "summary": "＜ロッテ－ソフトバンク＞◇18日◇ZOZO ソフトバンクが今日18日から真夏の9連戦に臨む。 18～20日に敵地でロッテ3連戦。21～23日は本拠地に戻り、オリックス3連戦を迎え撃つ。さらに2",
       "link": "https://news.yahoo.co.jp/articles/220e16bf4ad51472b3414b679e022d43242888b5?source=rss",
       "pubDate": "2026-07-18T03:01:00.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
       "teams": [
         "hawks"
       ],
       "topics": [],
       "sources": [
         {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/220e16bf4ad51472b3414b679e022d43242888b5?source=rss"
         }
       ]
