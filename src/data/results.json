@@ -1,7 +1,22 @@
 {
-  "generatedAt": "2026-07-19T07:20:05.019Z",
+  "generatedAt": "2026-07-19T09:23:39.956Z",
   "teams": {
     "giants": [
+      {
+        "gameNumber": 86,
+        "date": "7月19日",
+        "opponentTeamId": "dragons",
+        "opponentText": "中日",
+        "score": "6-1",
+        "ownScore": 6,
+        "opponentScore": 1,
+        "result": "win",
+        "winningPitcher": "小笠原（1-0）",
+        "losingPitcher": "金丸（5-8）",
+        "savePitcher": "",
+        "venue": "東京ドーム",
+        "record": "46-38-2"
+      },
       {
         "gameNumber": 85,
         "date": "7月18日",
@@ -136,21 +151,6 @@
         "savePitcher": "",
         "venue": "東京ドーム",
         "record": "40-35-2"
-      },
-      {
-        "gameNumber": 76,
-        "date": "7月8日",
-        "opponentTeamId": "tigers",
-        "opponentText": "阪神",
-        "score": "1-4",
-        "ownScore": 1,
-        "opponentScore": 4,
-        "result": "loss",
-        "winningPitcher": "才木（6-4）",
-        "losingPitcher": "西舘（1-1）",
-        "savePitcher": "ドリス（1-2-12）",
-        "venue": "東京ドーム",
-        "record": "40-34-2"
       }
     ],
     "tigers": [
@@ -299,7 +299,7 @@
         "opponentScore": 1,
         "result": "win",
         "winningPitcher": "才木（6-4）",
-        "losingPitcher": "西舘（1-1）",
+        "losingPitcher": "",
         "savePitcher": "ドリス（1-2-12）",
         "venue": "東京ドーム",
         "record": "40-34-1"
@@ -588,7 +588,7 @@
         "opponentScore": 3,
         "result": "win",
         "winningPitcher": "東（7-4）",
-        "losingPitcher": "松葉（0-1）",
+        "losingPitcher": "",
         "savePitcher": "レイノルズ（2-0-2）",
         "venue": "横浜",
         "record": "32-42-3"
@@ -763,6 +763,21 @@
     ],
     "dragons": [
       {
+        "gameNumber": 88,
+        "date": "7月19日",
+        "opponentTeamId": "giants",
+        "opponentText": "巨人",
+        "score": "1-6",
+        "ownScore": 1,
+        "opponentScore": 6,
+        "result": "loss",
+        "winningPitcher": "小笠原（1-0）",
+        "losingPitcher": "金丸（5-8）",
+        "savePitcher": "",
+        "venue": "東京ドーム",
+        "record": "34-53-1"
+      },
+      {
         "gameNumber": 87,
         "date": "7月18日",
         "opponentTeamId": "giants",
@@ -896,21 +911,6 @@
         "savePitcher": "松山（1-2-16）",
         "venue": "横浜",
         "record": "30-48-1"
-      },
-      {
-        "gameNumber": 78,
-        "date": "7月8日",
-        "opponentTeamId": "baystars",
-        "opponentText": "DeNA",
-        "score": "3-4",
-        "ownScore": 3,
-        "opponentScore": 4,
-        "result": "loss",
-        "winningPitcher": "東（7-4）",
-        "losingPitcher": "松葉（0-1）",
-        "savePitcher": "レイノルズ（2-0-2）",
-        "venue": "横浜",
-        "record": "29-48-1"
       }
     ],
     "hawks": [
