@@ -1,7 +1,66 @@
 {
-  "generatedAt": "2026-07-20T15:11:13.646Z",
-  "count": 999,
+  "generatedAt": "2026-07-20T16:50:27.322Z",
+  "count": 1002,
   "items": [
+    {
+      "title": "【巨人】笹原操希が走者一掃のＶ二塁打！〝石破前首相そっくり説〟には苦笑「好きにしていただければ」(東スポWEB)",
+      "summary": "巨人・笹原操希外野手（22）が20日の広島戦（東京ドーム）に「7番・右翼」で先発出場。6回に決勝打となる走者一掃の逆転適時二塁打を放った。 0―1の6回二死満塁。笹原が左中間を破る走者一掃の適時",
+      "link": "https://news.yahoo.co.jp/articles/161e2d6d6d11a4e8ab3d59b0ab8f5b178e94722e?source=rss",
+      "pubDate": "2026-07-20T15:50:25.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "giants"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/161e2d6d6d11a4e8ab3d59b0ab8f5b178e94722e?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【ロッテ】引退発表・角中勝也が涙のスピーチ ファンの前で感極まり「ちょっと時間ください…」(東スポWEB)",
+      "summary": "今季限りでの現役引退を発表したロッテ・角中勝也外野手（39）が20日のソフトバンク戦（ZOZOマリン）に「8番・DH」で先発出場した。試合後には球場に詰めかけたファンに向けて言葉を送った。 この",
+      "link": "https://news.yahoo.co.jp/articles/312266b208987e255b88ab20dd3a3eef60186a12?source=rss",
+      "pubDate": "2026-07-20T15:35:23.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "marines"
+      ],
+      "topics": [
+        "retirement"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/312266b208987e255b88ab20dd3a3eef60186a12?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【巨人】森田駿哉がプロ初ホールド 杉内コーチ「右も左も関係なく抑えてくれる。重宝するかも」(東スポWEB)",
+      "summary": "巨人は20日の広島戦（東京ドーム）に3―1で勝利。8回一死一塁から登板した森田駿哉投手（29）がプロ初ホールドを記録した。杉内俊哉投手チーフコーチ（45）は左腕投入の理由を明かした。 8回は2番",
+      "link": "https://news.yahoo.co.jp/articles/9555ac33a025df7471eb92aaa5fc1cb20b1f2de3?source=rss",
+      "pubDate": "2026-07-20T15:35:23.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "giants"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/9555ac33a025df7471eb92aaa5fc1cb20b1f2de3?source=rss"
+        }
+      ]
+    },
     {
       "title": "ヤクルト・宮本丈、1軍復帰即スタメンで適時二塁打「目の前の一戦をしっかり戦っていきたい」(サンケイスポーツ)",
       "summary": "（セ・リーグ、ヤクルト2－4中日、11回戦、中日6勝5敗、20日、神宮）右脇腹の張りから復帰し、約2カ月ぶりに1軍昇格を果たしたヤクルト・宮本が「5番・一塁」で即出場。4点を追う七回2死一、二塁から右",
@@ -64,8 +123,8 @@
       "summary": "＜ロッテ4－5ソフトバンク＞◇20日◇ZOZOマリンスタジアム ロッテ角中勝也外野手（39）が20日、今季限りで現役を引退することを表明した。ソフトバンク戦に「8番DH」で出場し4打数無安打だった",
       "link": "https://news.yahoo.co.jp/articles/05bcd29f6ad68bb7f82a5f78835a2105480db556?source=rss",
       "pubDate": "2026-07-20T14:15:43.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
       "teams": [
         "marines"
       ],
@@ -74,8 +133,8 @@
       ],
       "sources": [
         {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/05bcd29f6ad68bb7f82a5f78835a2105480db556?source=rss"
         }
       ]
@@ -161,16 +220,16 @@
       "summary": "完敗の中、阪神2番手の木下里都投手（25）が力投した。 6回2死一、二塁で、先発の大竹耕太郎投手（31）を救援。蝦名を154キロストレートで見逃し三振に封じてピンチを脱し、イニングまたぎで7回へ",
       "link": "https://news.yahoo.co.jp/articles/aaaa9e60bb8ae4ef6498e8a4bcc7c4467a2fca6e?source=rss",
       "pubDate": "2026-07-20T14:05:02.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
       "teams": [
         "tigers"
       ],
       "topics": [],
       "sources": [
         {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/aaaa9e60bb8ae4ef6498e8a4bcc7c4467a2fca6e?source=rss"
         }
       ]
@@ -218,16 +277,16 @@
       "summary": "＜巨人3－1広島＞◇20日◇東京ドーム 巨人丸佳浩外野手（37）が通算2000試合出場を達成した。2点リードの8回2死一塁、代打で出場し空振り三振に倒れた。古巣広島のファンからも大きな拍手が送られ",
       "link": "https://news.yahoo.co.jp/articles/e63b7c688a12c8dd1c50db3366da1d76d73905ab?source=rss",
       "pubDate": "2026-07-20T14:03:52.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
       "teams": [
         "giants"
       ],
       "topics": [],
       "sources": [
         {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/e63b7c688a12c8dd1c50db3366da1d76d73905ab?source=rss"
         }
       ]
@@ -237,16 +296,16 @@
       "summary": "中日高橋宏斗投手（23）が、50日ぶりの1軍マウンドで8回2失点の好投を見せた。4月26日のヤクルト戦（バンテリンドーム）以来となる今季2勝目。 「久しぶりに大声援の中で投げることができてよかっ",
       "link": "https://news.yahoo.co.jp/articles/62ff693ffbeafac8961c5dbd1d1e38c68229618c?source=rss",
       "pubDate": "2026-07-20T14:03:19.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
       "teams": [
         "dragons"
       ],
       "topics": [],
       "sources": [
         {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/62ff693ffbeafac8961c5dbd1d1e38c68229618c?source=rss"
         }
       ]
@@ -275,8 +334,8 @@
       "summary": "＜ロッテ4－5ソフトバンク＞◇20日◇ZOZOマリン ロッテサブロー監督（50）が今季限りでの現役引退を表明した角中勝也外野手（39）にねぎらいの言葉を贈った。「最初に僕のところに来てくれて。引退",
       "link": "https://news.yahoo.co.jp/articles/2daecb617179965a4374a2ef03b2f4735095516f?source=rss",
       "pubDate": "2026-07-20T14:01:22.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
       "teams": [
         "marines"
       ],
@@ -285,8 +344,8 @@
       ],
       "sources": [
         {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/2daecb617179965a4374a2ef03b2f4735095516f?source=rss"
         }
       ]
