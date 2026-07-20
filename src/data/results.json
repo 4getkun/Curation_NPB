@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-20T21:37:48.853Z",
+  "generatedAt": "2026-07-20T22:43:48.678Z",
   "teams": {
     "giants": [
       {
@@ -155,6 +155,21 @@
     ],
     "tigers": [
       {
+        "gameNumber": 86,
+        "date": "7月20日",
+        "opponentTeamId": "baystars",
+        "opponentText": "DeNA",
+        "score": "0-7",
+        "ownScore": 0,
+        "opponentScore": 7,
+        "result": "loss",
+        "winningPitcher": "平良（3-5）",
+        "losingPitcher": "大竹（3-7）",
+        "savePitcher": "",
+        "venue": "甲子園",
+        "record": "47-38-1"
+      },
+      {
         "gameNumber": 85,
         "date": "7月19日",
         "opponentTeamId": "carp",
@@ -288,21 +303,6 @@
         "savePitcher": "キハダ（2-4-20）",
         "venue": "甲子園",
         "record": "41-35-1"
-      },
-      {
-        "gameNumber": 76,
-        "date": "7月9日",
-        "opponentTeamId": "giants",
-        "opponentText": "巨人",
-        "score": "10-2",
-        "ownScore": 10,
-        "opponentScore": 2,
-        "result": "win",
-        "winningPitcher": "伊原（3-0）",
-        "losingPitcher": "",
-        "savePitcher": "",
-        "venue": "東京ドーム",
-        "record": "41-34-1"
       }
     ],
     "carp": [
@@ -459,6 +459,21 @@
     ],
     "baystars": [
       {
+        "gameNumber": 87,
+        "date": "7月20日",
+        "opponentTeamId": "tigers",
+        "opponentText": "阪神",
+        "score": "7-0",
+        "ownScore": 7,
+        "opponentScore": 0,
+        "result": "win",
+        "winningPitcher": "平良（3-5）",
+        "losingPitcher": "大竹（3-7）",
+        "savePitcher": "",
+        "venue": "甲子園",
+        "record": "38-46-3"
+      },
+      {
         "gameNumber": 86,
         "date": "7月19日",
         "opponentTeamId": "swallows",
@@ -592,21 +607,6 @@
         "savePitcher": "",
         "venue": "横浜",
         "record": "32-43-3"
-      },
-      {
-        "gameNumber": 77,
-        "date": "7月8日",
-        "opponentTeamId": "dragons",
-        "opponentText": "中日",
-        "score": "4-3",
-        "ownScore": 4,
-        "opponentScore": 3,
-        "result": "win",
-        "winningPitcher": "東（7-4）",
-        "losingPitcher": "",
-        "savePitcher": "レイノルズ（2-0-2）",
-        "venue": "横浜",
-        "record": "32-42-3"
       }
     ],
     "swallows": [
