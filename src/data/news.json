@@ -1,7 +1,45 @@
 {
-  "generatedAt": "2026-07-20T14:24:07.805Z",
-  "count": 997,
+  "generatedAt": "2026-07-20T15:11:13.646Z",
+  "count": 999,
   "items": [
+    {
+      "title": "ヤクルト・宮本丈、1軍復帰即スタメンで適時二塁打「目の前の一戦をしっかり戦っていきたい」(サンケイスポーツ)",
+      "summary": "（セ・リーグ、ヤクルト2－4中日、11回戦、中日6勝5敗、20日、神宮）右脇腹の張りから復帰し、約2カ月ぶりに1軍昇格を果たしたヤクルト・宮本が「5番・一塁」で即出場。4点を追う七回2死一、二塁から右",
+      "link": "https://news.yahoo.co.jp/articles/dc747cc294b40accc6010724cf88e1f072c557e9?source=rss",
+      "pubDate": "2026-07-20T15:05:00.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "swallows"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/dc747cc294b40accc6010724cf88e1f072c557e9?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "巨人・森田駿哉、3年目でプロ初ホールド「いいところで投げさせてもらえたので…」(サンケイスポーツ)",
+      "summary": "（セ・リーグ、巨人3－1広島、9回戦、巨人6勝3敗、20日、東京D）巨人の3年目、森田駿哉投手が3―1の八回1死一塁から3番手で登板。打者2人を打ち取り無失点でプロ初ホールドを挙げ「与えられたところで",
+      "link": "https://news.yahoo.co.jp/articles/80e510d0f91dfc5cd1b40df796bfa60787bbd2f4?source=rss",
+      "pubDate": "2026-07-20T14:55:00.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "giants"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/80e510d0f91dfc5cd1b40df796bfa60787bbd2f4?source=rss"
+        }
+      ]
+    },
     {
       "title": "【巨人】井上温大がキャリアハイ９勝目 初回ソロ被弾も「粘り強く投げようと思って」 尻上がりに状態アップ(スポーツ報知)",
       "summary": "◆ＪＥＲＡセ・リーグ 巨人３―１広島（２０日・東京ドーム） 巨人の井上温大投手が自身４連勝でキャリアハイ９勝目を挙げた。７回９７球を投げ６安打１失点、８奪三振の力投。「ピンチをつくることが多かった",
@@ -277,16 +315,16 @@
       "summary": "＜ロッテ4－5ソフトバンク＞◇20日◇ZOZOマリン ソフトバンク先発の大関友久投手（28）は6回途中3失点と何とか試合をつくった。 「苦しい投球になったが、野手の方の守備、そしてヘルナンデス",
       "link": "https://news.yahoo.co.jp/articles/eeba3927ebafcda797bf8969db641e9d9647707f?source=rss",
       "pubDate": "2026-07-20T14:00:24.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
       "teams": [
         "hawks"
       ],
       "topics": [],
       "sources": [
         {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/eeba3927ebafcda797bf8969db641e9d9647707f?source=rss"
         }
       ]
@@ -334,16 +372,16 @@
       "summary": "本塁打トップの阪神森下翔太外野手（25）も快音を響かせられなかった。 DeNAの右腕平良の外角に大きく逃げるスライダーに初回、6回とバットが空を切った。3回2死二塁から四球を選んだが得点にはつな",
       "link": "https://news.yahoo.co.jp/articles/92b370394f37f232479499de93f5c6364aaf99e4?source=rss",
       "pubDate": "2026-07-20T13:54:29.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
       "teams": [
         "tigers"
       ],
       "topics": [],
       "sources": [
         {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/92b370394f37f232479499de93f5c6364aaf99e4?source=rss"
         }
       ]
@@ -488,7 +526,7 @@
     },
     {
       "title": "【ヤクルト】池山監督「いい形はできつつあるので。何とか勝ち試合を見せたい」６連敗にも前を向く(日刊スポーツ)",
-      "summary": "＜ヤクルト2－4中日＞◇20日◇神宮 ヤクルトが今季3度目の6連敗を喫した。首位阪神も敗れ、ゲーム差は6・5のまま。先発のウォルターズは3回に板山に先制ソロを浴びるなど5回0／3を投げて3失点で降",
+      "summary": "＜ヤクルト2－4中日＞◇20日◇神宮 ヤクルトが今季3度目の6連敗を喫した。首位阪神も敗れ、ゲーム差は6・5のまま。先発のウォルターズは3回に板山に先制ソロを浴びるなど5回0／3を投げて4失点で降",
       "link": "https://news.yahoo.co.jp/articles/b9ac5a3f4787bd15244846ffcec8359267aecf63?source=rss",
       "pubDate": "2026-07-20T13:19:57.000Z",
       "source": "日刊スポーツ（Yahoo!ニュース経由）",
