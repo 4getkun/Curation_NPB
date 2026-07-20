@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-20T04:57:58.823Z",
+  "generatedAt": "2026-07-20T07:54:57.061Z",
   "teams": {
     "giants": [
       {
@@ -1059,7 +1059,7 @@
         "opponentScore": 3,
         "result": "win",
         "winningPitcher": "上沢（5-3）",
-        "losingPitcher": "ジェリー（3-5）",
+        "losingPitcher": "",
         "savePitcher": "杉山（0-1-16）",
         "venue": "京セラD大阪",
         "record": "47-29-1"
@@ -1363,7 +1363,7 @@
         "opponentScore": 2,
         "result": "win",
         "winningPitcher": "ジャクソン（6-5）",
-        "losingPitcher": "北山（8-3）",
+        "losingPitcher": "",
         "savePitcher": "",
         "venue": "ZOZOマリン",
         "record": "37-35-3"
@@ -1523,6 +1523,21 @@
     ],
     "buffaloes": [
       {
+        "gameNumber": 88,
+        "date": "7月20日",
+        "opponentTeamId": "fighters",
+        "opponentText": "日本ハム",
+        "score": "3-0",
+        "ownScore": 3,
+        "opponentScore": 0,
+        "result": "win",
+        "winningPitcher": "九里（7-6）",
+        "losingPitcher": "有原（2-6）",
+        "savePitcher": "マチャド（1-0-21）",
+        "venue": "京セラD大阪",
+        "record": "43-43-2"
+      },
+      {
         "gameNumber": 87,
         "date": "7月19日",
         "opponentTeamId": "fighters",
@@ -1656,24 +1671,24 @@
         "savePitcher": "",
         "venue": "京セラD大阪",
         "record": "40-37-2"
-      },
-      {
-        "gameNumber": 78,
-        "date": "7月7日",
-        "opponentTeamId": "hawks",
-        "opponentText": "ソフトバンク",
-        "score": "3-6",
-        "ownScore": 3,
-        "opponentScore": 6,
-        "result": "loss",
-        "winningPitcher": "上沢（5-3）",
-        "losingPitcher": "ジェリー（3-5）",
-        "savePitcher": "杉山（0-1-16）",
-        "venue": "京セラD大阪",
-        "record": "39-37-2"
       }
     ],
     "fighters": [
+      {
+        "gameNumber": 92,
+        "date": "7月20日",
+        "opponentTeamId": "buffaloes",
+        "opponentText": "オリックス",
+        "score": "0-3",
+        "ownScore": 0,
+        "opponentScore": 3,
+        "result": "loss",
+        "winningPitcher": "九里（7-6）",
+        "losingPitcher": "有原（2-6）",
+        "savePitcher": "マチャド（1-0-21）",
+        "venue": "京セラD大阪",
+        "record": "51-41-0"
+      },
       {
         "gameNumber": 91,
         "date": "7月19日",
@@ -1808,21 +1823,6 @@
         "savePitcher": "",
         "venue": "ZOZOマリン",
         "record": "47-36-0"
-      },
-      {
-        "gameNumber": 82,
-        "date": "7月7日",
-        "opponentTeamId": "marines",
-        "opponentText": "ロッテ",
-        "score": "2-10",
-        "ownScore": 2,
-        "opponentScore": 10,
-        "result": "loss",
-        "winningPitcher": "ジャクソン（6-5）",
-        "losingPitcher": "北山（8-3）",
-        "savePitcher": "",
-        "venue": "ZOZOマリン",
-        "record": "46-36-0"
       }
     ]
   }
