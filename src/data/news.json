@@ -1,7 +1,50 @@
 {
-  "generatedAt": "2026-07-21T15:20:21.110Z",
-  "count": 1181,
+  "generatedAt": "2026-07-21T16:51:28.741Z",
+  "count": 1183,
   "items": [
+    {
+      "title": "阪神・前川右京が2軍残留練習に合流 死球で骨折の右肩にギプスなし、早期復帰目指す(スポニチアネックス)",
+      "summary": "阪神・前川がファーム施設のSGL尼崎で行われた2軍残留練習に合流した。17日広島戦で死球を受けて「右肩甲骨骨折」と診断され、戦線離脱していた。 この日は室内練習場で別メニュー調整。患部にギプスな",
+      "link": "https://news.yahoo.co.jp/articles/896fcde10e7f1aa11ed4021168297b411b6c36b0?source=rss",
+      "pubDate": "2026-07-21T16:15:00.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "tigers"
+      ],
+      "topics": [
+        "injury"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/896fcde10e7f1aa11ed4021168297b411b6c36b0?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "阪神 コスパ最高の新助っ人ガルシアが連覇の使者 “当たったらもうけもん”の怪力砲 22日に2軍戦出場(スポニチアネックス)",
+      "summary": "阪神は21日、新外国人のデルミス・ガルシア外野手（28＝四国・高知）の獲得を発表し、兵庫県西宮市内で入団会見をした。背番号94。単年契約で年俸は6万ドル（約970万円）という破格の安さ。さっそく甲子",
+      "link": "https://news.yahoo.co.jp/articles/800e2620751315deac7e126f9b252ce6fd775702?source=rss",
+      "pubDate": "2026-07-21T16:15:00.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "tigers"
+      ],
+      "topics": [
+        "contract",
+        "draft"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/800e2620751315deac7e126f9b252ce6fd775702?source=rss"
+        }
+      ]
+    },
     {
       "title": "【阪神】金本知憲、矢野燿大、下柳剛ら２００３年阪神Ｖ戦士９人が奇跡の集結！「虎バンフェス～２００３年伝説のＶ戦士 大同窓会～」が１０・４に神戸市内で開催(スポーツ報知)",
       "summary": "朝日放送テレビ株式会社は２２日、今年１０月４日にＧＬＩＯＮ ＡＲＥＮＡ ＫＯＢＥで「虎バンフェス～２００３年伝説のＶ戦士 大同窓会～」を開催すると発表した。０３年に１８年ぶりのリーグ優勝で阪神ファン",
@@ -202,16 +245,16 @@
       "summary": "＜ヤクルト4－11中日＞◇21日◇神宮 中日は2度追いつかれながらも終盤に突き放し、3カードぶりのカード勝ち越しを決めた。阿部寿樹内野手（36）がプロ11年目でキャリア初の1試合2本塁打を放ち、勝",
       "link": "https://news.yahoo.co.jp/articles/35eb7de4888bac37449fd1be959f099757b51772?source=rss",
       "pubDate": "2026-07-21T14:16:23.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
       "teams": [
         "dragons"
       ],
       "topics": [],
       "sources": [
         {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/35eb7de4888bac37449fd1be959f099757b51772?source=rss"
         }
       ]
@@ -221,16 +264,16 @@
       "summary": "＜巨人11－5広島＞◇21日◇東京ドーム 広島は先発岡本駿投手（24）の乱調もあり、巨人に大敗。3連敗で借金が今季最多15に膨らんだ。 岡本は序盤から崩れた。1回に安打と二塁失策で一、二塁とす",
       "link": "https://news.yahoo.co.jp/articles/080a6d66da2154ae085ba625395bd8375ed59c52?source=rss",
       "pubDate": "2026-07-21T14:12:41.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
       "teams": [
         "carp"
       ],
       "topics": [],
       "sources": [
         {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/080a6d66da2154ae085ba625395bd8375ed59c52?source=rss"
         }
       ]
@@ -240,16 +283,16 @@
       "summary": "＜ヤクルト4－11中日＞◇21日◇神宮 中日井上一樹監督（54）は21日ヤクルト戦（神宮）の試合後、6回守備で途中交代した田中幹也内野手（25）について脱臼だったと明かした。井上監督は「最善の治療",
       "link": "https://news.yahoo.co.jp/articles/ca59a4efc607782bfdf5e50b6bf43ed30ae0da36?source=rss",
       "pubDate": "2026-07-21T14:12:14.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
       "teams": [
         "dragons"
       ],
       "topics": [],
       "sources": [
         {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/ca59a4efc607782bfdf5e50b6bf43ed30ae0da36?source=rss"
         }
       ]
