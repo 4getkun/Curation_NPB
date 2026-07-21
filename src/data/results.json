@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-21T11:43:56.713Z",
+  "generatedAt": "2026-07-21T13:09:42.326Z",
   "teams": {
     "giants": [
       {
@@ -915,6 +915,21 @@
     ],
     "hawks": [
       {
+        "gameNumber": 88,
+        "date": "7月21日",
+        "opponentTeamId": "buffaloes",
+        "opponentText": "オリックス",
+        "score": "1-2",
+        "ownScore": 1,
+        "opponentScore": 2,
+        "result": "loss",
+        "winningPitcher": "エスピノーザ（9-3）",
+        "losingPitcher": "上沢（5-4）",
+        "savePitcher": "マチャド（1-0-22）",
+        "venue": "みずほPayPay",
+        "record": "54-33-1"
+      },
+      {
         "gameNumber": 87,
         "date": "7月20日",
         "opponentTeamId": "marines",
@@ -1048,21 +1063,6 @@
         "savePitcher": "藤平（0-1-16）",
         "venue": "みずほPayPay",
         "record": "47-31-1"
-      },
-      {
-        "gameNumber": 78,
-        "date": "7月8日",
-        "opponentTeamId": "buffaloes",
-        "opponentText": "オリックス",
-        "score": "2-3x",
-        "ownScore": 2,
-        "opponentScore": 3,
-        "result": "loss",
-        "winningPitcher": "椋木（2-2）",
-        "losingPitcher": "杉山（0-2）",
-        "savePitcher": "",
-        "venue": "京セラD大阪",
-        "record": "47-30-1"
       }
     ],
     "lions": [
@@ -1523,6 +1523,21 @@
     ],
     "buffaloes": [
       {
+        "gameNumber": 89,
+        "date": "7月21日",
+        "opponentTeamId": "hawks",
+        "opponentText": "ソフトバンク",
+        "score": "2-1",
+        "ownScore": 2,
+        "opponentScore": 1,
+        "result": "win",
+        "winningPitcher": "エスピノーザ（9-3）",
+        "losingPitcher": "上沢（5-4）",
+        "savePitcher": "マチャド（1-0-22）",
+        "venue": "みずほPayPay",
+        "record": "44-43-2"
+      },
+      {
         "gameNumber": 88,
         "date": "7月20日",
         "opponentTeamId": "fighters",
@@ -1656,21 +1671,6 @@
         "savePitcher": "益田（1-0-1）",
         "venue": "ZOZOマリン",
         "record": "40-38-2"
-      },
-      {
-        "gameNumber": 79,
-        "date": "7月8日",
-        "opponentTeamId": "hawks",
-        "opponentText": "ソフトバンク",
-        "score": "3x-2",
-        "ownScore": 3,
-        "opponentScore": 2,
-        "result": "win",
-        "winningPitcher": "椋木（2-2）",
-        "losingPitcher": "杉山（0-2）",
-        "savePitcher": "",
-        "venue": "京セラD大阪",
-        "record": "40-37-2"
       }
     ],
     "fighters": [
