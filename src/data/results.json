@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-22T12:52:58.631Z",
+  "generatedAt": "2026-07-22T14:52:24.260Z",
   "teams": {
     "giants": [
       {
@@ -164,7 +164,7 @@
         "opponentScore": 4,
         "result": "win",
         "winningPitcher": "岩崎（2-2）",
-        "losingPitcher": "",
+        "losingPitcher": "マルセリーノ（1-1）",
         "savePitcher": "ドリス（2-2-17）",
         "venue": "甲子園",
         "record": "49-38-1"
@@ -459,6 +459,21 @@
     ],
     "baystars": [
       {
+        "gameNumber": 89,
+        "date": "7月22日",
+        "opponentTeamId": "tigers",
+        "opponentText": "阪神",
+        "score": "4-5",
+        "ownScore": 4,
+        "opponentScore": 5,
+        "result": "loss",
+        "winningPitcher": "岩崎（2-2）",
+        "losingPitcher": "マルセリーノ（1-1）",
+        "savePitcher": "ドリス（2-2-17）",
+        "venue": "甲子園",
+        "record": "38-48-3"
+      },
+      {
         "gameNumber": 88,
         "date": "7月21日",
         "opponentTeamId": "tigers",
@@ -592,21 +607,6 @@
         "savePitcher": "",
         "venue": "横浜",
         "record": "33-44-3"
-      },
-      {
-        "gameNumber": 79,
-        "date": "7月10日",
-        "opponentTeamId": "giants",
-        "opponentText": "巨人",
-        "score": "11-6",
-        "ownScore": 11,
-        "opponentScore": 6,
-        "result": "win",
-        "winningPitcher": "マルセリーノ（1-0）",
-        "losingPitcher": "",
-        "savePitcher": "",
-        "venue": "横浜",
-        "record": "33-43-3"
       }
     ],
     "swallows": [
