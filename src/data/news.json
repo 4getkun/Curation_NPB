@@ -1,7 +1,268 @@
 {
-  "generatedAt": "2026-07-24T04:41:02.011Z",
-  "count": 1557,
+  "generatedAt": "2026-07-24T07:24:07.075Z",
+  "count": 1570,
   "items": [
+    {
+      "title": "【セパ公示】（２４日）阪神が及川雅貴、ガルシアを登録 西武は岩城颯空らを登録(スポーツ報知)",
+      "summary": "◆ＪＥＲＡセ・リーグ 【出場選手登録】 ▽阪神 及川雅貴投手 ▽阪神 ガルシア外野手 ▽ヤクルト 松本直樹捕手 【出場選手登録抹消】 ▽阪神 津田淳哉投手 ◆パ・リーグ",
+      "link": "https://news.yahoo.co.jp/articles/486f3383d671bc75e11612868fb7aa3ef3cca0e1?source=rss",
+      "pubDate": "2026-07-24T07:20:51.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [],
+      "topics": [
+        "roster"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/486f3383d671bc75e11612868fb7aa3ef3cca0e1?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【オリックス】山口廉王の出場選手登録を抹消…前夜に５回途中３失点 ３か月ぶり先発の寺西成騎が出場選手登録(スポーツ報知)",
+      "summary": "オリックス・山口廉王投手が２４日、出場選手登録を抹消された。仙台育英から２４年のドラフト３位で入団した高卒２年目の１５３キロ右腕。前日２３日のソフトバンク戦（みずほペイペイドーム）で今季初登板初先発",
+      "link": "https://news.yahoo.co.jp/articles/da5041218277339422bdedd4d68991ac23b66ad6?source=rss",
+      "pubDate": "2026-07-24T07:12:58.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "buffaloes"
+      ],
+      "topics": [
+        "roster",
+        "draft"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/da5041218277339422bdedd4d68991ac23b66ad6?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "阪神ガルシア、ヤクルト松本直樹、西武仲三優太ら登録 日本ハム北山亘基ら抹消／24日公示(日刊スポーツ)",
+      "summary": "7月24日のプロ野球の出場選手登録と抹消は以下の通り。 【セ・リーグ】 ＜登録＞ 阪神 及川雅貴投手 阪神 D・ガルシア外野手 ヤクルト 松本直樹捕手 ＜抹消＞ 阪神 津",
+      "link": "https://news.yahoo.co.jp/articles/e0484cf91262ce4dfd38e63c4d2cedc36a3eac7a?source=rss",
+      "pubDate": "2026-07-24T07:10:24.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [],
+      "topics": [
+        "roster"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/e0484cf91262ce4dfd38e63c4d2cedc36a3eac7a?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【24日の公示】西武のドラフト2位・岩城颯空が1軍復帰 阪神は新助っ人・ガルシア、及川雅貴を登録(スポニチアネックス)",
+      "summary": "◇出場選手登録 【オリックス】寺西成騎投手 【西武】佐藤隼輔投手、岩城颯空投手、仲三優太外野手 【阪神】及川雅貴投手、ガルシア外野手 【ヤクルト】松本直樹捕手 ◇同抹消 【日本ハム】北山亘",
+      "link": "https://news.yahoo.co.jp/articles/cfac28ec778bd89b1973067fc2c4f4619c015ae5?source=rss",
+      "pubDate": "2026-07-24T07:09:09.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "lions",
+        "tigers"
+      ],
+      "topics": [
+        "roster",
+        "draft"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/cfac28ec778bd89b1973067fc2c4f4619c015ae5?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【24日のプロ野球公示】阪神がガルシアと及川を登録 ヤクルトは松本、西武は佐藤隼らを登録(ベースボールチャンネル)",
+      "summary": "日本野球機構は24日付の出場選手登録・登録抹消を公示した。 ■セ・リーグ 【登録】 阪神 投手 及川 雅貴 阪神 外野手 D．ガルシア ヤクルト 捕手 松本 直樹 【抹消",
+      "link": "https://news.yahoo.co.jp/articles/961427d6d8c221cf8bc3839cfd9afee801c161c8?source=rss",
+      "pubDate": "2026-07-24T07:06:19.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [],
+      "topics": [
+        "roster"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/961427d6d8c221cf8bc3839cfd9afee801c161c8?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【西武】篠原響が休養のため出場選手登録抹消の見込み 高卒２年目ながら２３ホールド 西口監督「良かった、十分」と働きを評価(スポーツ報知)",
+      "summary": "◆パ・リーグ 西武―ソフトバンク（２４日・ベルーナドーム） 西武・篠原響投手が２４日、出場選手登録を抹消される見込みとなった。この日の試合前練習に姿を見せなかった。 篠原は福井工大福井から２４",
+      "link": "https://news.yahoo.co.jp/articles/4e1dc0353801c1175ea340f857e7f891e8fb4581?source=rss",
+      "pubDate": "2026-07-24T07:02:26.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "lions"
+      ],
+      "topics": [
+        "roster"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/4e1dc0353801c1175ea340f857e7f891e8fb4581?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【今日のプロ野球公示】及川雅貴、ガルシア、岩城颯空など｜7月24日の一軍出場選手登録・抹消一覧",
+      "summary": "日本野球機構は24日付の出場選手登録・登録抹消を公示した。",
+      "link": "https://www.baseballchannel.jp/npb/276651/",
+      "pubDate": "2026-07-24T07:00:16.000Z",
+      "source": "ベースボールチャンネル（プロ野球）",
+      "sourceId": "baseballchannel-npb",
+      "teams": [],
+      "topics": [
+        "roster"
+      ],
+      "sources": [
+        {
+          "name": "ベースボールチャンネル（プロ野球）",
+          "sourceId": "baseballchannel-npb",
+          "link": "https://www.baseballchannel.jp/npb/276651/"
+        }
+      ]
+    },
+    {
+      "title": "【西武】高卒2年目で23ホールドの篠原響がリフレッシュで登録抹消 西口監督も働きを評価(日刊スポーツ)",
+      "summary": "西武篠原響投手（19）が24日、1軍練習に姿を見せなかった。この後、出場選手登録を抹消になる見込みだ。 高卒2年目の今季は、山田らの手術もあり、開幕直後からセットアッパーとして獅子奮迅。ここまで",
+      "link": "https://news.yahoo.co.jp/articles/8f335775cb74390b5cb894ddf16a57f285ee7663?source=rss",
+      "pubDate": "2026-07-24T07:00:01.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "lions"
+      ],
+      "topics": [
+        "injury",
+        "roster"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/8f335775cb74390b5cb894ddf16a57f285ee7663?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【楽天】荘司康誠、勝利をつかみ後半戦に弾みをつける「自分の借金を返すことしか頭にない」(日刊スポーツ)",
+      "summary": "楽天荘司康誠投手（25）が北の大地で勝利をつかみ、後半戦に弾みをつける。 25日の日本ハム戦（エスコンフィールド）に先発する右腕は、ここまで自己最多タイの5勝（8敗）と1年目に並ぶ勝利数を挙げて",
+      "link": "https://news.yahoo.co.jp/articles/bcdfd1265f92b90638d929060deee93c34f0d046?source=rss",
+      "pubDate": "2026-07-24T06:50:45.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "eagles"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/bcdfd1265f92b90638d929060deee93c34f0d046?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【DeNA】角田信朗が「横濱漢祭」の応援総長に就任 昨年は「倍倍FIGHT！」熱唱で注目(日刊スポーツ)",
+      "summary": "DeNAは24日、8月18日～20日の巨人戦（横浜）で開催する「横濱漢祭 2026」の応援総長として、4年連続で角田信朗が出演することが決定したことを発表した。 昨年は、「CANDY TUNE」",
+      "link": "https://news.yahoo.co.jp/articles/9d7f9285f6832866932e2ed45425edc899312c06?source=rss",
+      "pubDate": "2026-07-24T06:10:18.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "baystars"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/9d7f9285f6832866932e2ed45425edc899312c06?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【巨人】船迫大雅が球宴の補充選手に選出 大勢が右ひじの張りで辞退、巨人から７人が選出(日刊スポーツ)",
+      "summary": "巨人船迫大雅投手（29）が24日、「マイナビオールスターゲーム2026」の補充選手に選出された。ファン投票で選出されていた大勢投手（26）が右ひじの張りで辞退となった。 船迫はプロ4年目で初選出",
+      "link": "https://news.yahoo.co.jp/articles/c41dd661366cd08df2db281a2564ec0c312e19b8?source=rss",
+      "pubDate": "2026-07-24T05:15:51.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "giants"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/c41dd661366cd08df2db281a2564ec0c312e19b8?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "千両役者が決めた…ソフトバンクの“現役レジェンド”が代打サヨナラタイムリー！7月打率.352と絶好調",
+      "summary": "福岡ソフトバンクホークスの柳田悠岐選手は23日、本拠地・みずほPayPayドーム福岡で行われたオリックス・バファローズ戦に代打出場。試合に終止符を打つサヨナラタイムリーを放った。",
+      "link": "https://www.baseballchannel.jp/npb/276619/",
+      "pubDate": "2026-07-24T05:00:10.000Z",
+      "source": "ベースボールチャンネル（プロ野球）",
+      "sourceId": "baseballchannel-npb",
+      "teams": [
+        "hawks"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "ベースボールチャンネル（プロ野球）",
+          "sourceId": "baseballchannel-npb",
+          "link": "https://www.baseballchannel.jp/npb/276619/"
+        }
+      ]
+    },
+    {
+      "title": "“所沢が泣く日”まで1か月…それでも栗山巧は「必死にやってる」 25年目も変わらぬチームへの思い",
+      "summary": "西武の栗山巧外野手は今季限りでユニホームを脱ぐ。球団は8月30日にベルーナドームで開催する楽天戦で引退試合と引退セレモニーを行うと発表している。“所沢が泣く日”まで約1か月。孤高のバットマンは、今どのような心境でいるのだろうか――。",
+      "link": "https://full-count.jp/2026/07/24/post1994581/",
+      "pubDate": "2026-07-24T04:52:33.000Z",
+      "source": "Full-Count（プロ野球）",
+      "sourceId": "full-count-npb",
+      "teams": [
+        "lions"
+      ],
+      "topics": [
+        "retirement"
+      ],
+      "sources": [
+        {
+          "name": "Full-Count（プロ野球）",
+          "sourceId": "full-count-npb",
+          "link": "https://full-count.jp/2026/07/24/post1994581/"
+        }
+      ]
+    },
     {
       "title": "巨人・大勢が右肘関節痛で球宴出場辞退 代替選手として巨人・船迫大雅が初出場(サンケイスポーツ)",
       "summary": "日本野球機構（NPB）は24日、「マイナビオールスターゲーム2026」（28日＝東京ドーム、29日＝富山市民球場）の出場選手変更を発表した。 セ・リーグ中継ぎ部門でファン投票で選出されていた巨人・大",
@@ -37,11 +298,6 @@
           "name": "BASEBALL KING",
           "sourceId": "baseballking",
           "link": "https://baseballking.jp/ns/702247/"
-        },
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/9f0ffd90b25e383284d5d16cb534d2c169c53444?source=rss"
         }
       ]
     },
