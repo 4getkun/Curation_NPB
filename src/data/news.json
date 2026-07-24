@@ -1,7 +1,50 @@
 {
-  "generatedAt": "2026-07-24T22:50:17.973Z",
-  "count": 1674,
+  "generatedAt": "2026-07-24T23:52:25.346Z",
+  "count": 1676,
   "items": [
+    {
+      "title": "オリックスがサヨナラ勝ち！山中の同点打＆太田のサヨナラ打に坂口氏「抑え込まれていたボールを仕留めて最後まで繋げられていた」と評価",
+      "summary": "オリックスは24日、ロッテとの試合（京セラD）に3－2で勝利。1点を追う9回裏、代打・来田涼斗が左安打で出塁し、1番・宗佑磨は一犠打で一死二塁とすると、2番・山中 稜真の左安打で同点。3番・西川龍馬が申告敬遠で一死一・ […]",
+      "link": "https://baseballking.jp/ns/702275/",
+      "pubDate": "2026-07-24T23:20:00.000Z",
+      "source": "BASEBALL KING",
+      "sourceId": "baseballking",
+      "teams": [
+        "buffaloes"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "BASEBALL KING",
+          "sourceId": "baseballking",
+          "link": "https://baseballking.jp/ns/702275/"
+        },
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/4bec965b4dcc1ae01f82a682c44d3534a3228674?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "ソフトバンク・栗原陵矢が両リーグ最速の今季30号到達！齊藤明雄氏「56本打った村上の記録に近づくペース」",
+      "summary": "ソフトバンクは24日、西武との試合（ベルーナドーム）に7－3で勝利。先制を許すも、4回表栗原陵矢に3ランが飛び出し逆転に成功した。24日放送のCSフジテレビONE『プロ野球ニュース2026』では、栗原をピックアップ。栗 […]",
+      "link": "https://baseballking.jp/ns/702272/",
+      "pubDate": "2026-07-24T23:10:00.000Z",
+      "source": "BASEBALL KING",
+      "sourceId": "baseballking",
+      "teams": [
+        "hawks"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "BASEBALL KING",
+          "sourceId": "baseballking",
+          "link": "https://baseballking.jp/ns/702272/"
+        }
+      ]
+    },
     {
       "title": "パ・リーグの首位攻防戦、明日明後日のポイントはズバリ…谷繫元信氏「西武の中継ぎ陣」",
       "summary": "西武は24日、ソフトバンクとの試合（ベルーナドーム）に3－7で敗戦。この日のCSフジテレビONE『プロ野球ニュース2026』に番組MCの谷繁元信氏は明日、明後日の首位攻防戦について「今日岩城が1軍に帰ってきたんですけど […]",
@@ -75,11 +118,6 @@
           "name": "BASEBALL KING",
           "sourceId": "baseballking",
           "link": "https://baseballking.jp/ns/702281/"
-        },
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/2905638d89c86c089033ea5417f5569da7e3fa6c?source=rss"
         }
       ]
     },
@@ -99,11 +137,6 @@
           "name": "BASEBALL KING",
           "sourceId": "baseballking",
           "link": "https://baseballking.jp/ns/702266/"
-        },
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/fa4856000c62105c74c07ebeacf2e4ad78ed6532?source=rss"
         }
       ]
     },
@@ -162,11 +195,6 @@
           "name": "BASEBALL KING",
           "sourceId": "baseballking",
           "link": "https://baseballking.jp/ns/702259/"
-        },
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/06cefbea4ed1ac2935234db97a1081087e157258?source=rss"
         }
       ]
     },
