@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-25T12:54:45.472Z",
+  "generatedAt": "2026-07-25T14:24:45.710Z",
   "teams": {
     "giants": [
       {
@@ -307,6 +307,21 @@
     ],
     "carp": [
       {
+        "gameNumber": 88,
+        "date": "7月25日",
+        "opponentTeamId": "swallows",
+        "opponentText": "ヤクルト",
+        "score": "1-2x",
+        "ownScore": 1,
+        "opponentScore": 2,
+        "result": "loss",
+        "winningPitcher": "リランソ（2-2）",
+        "losingPitcher": "遠藤（1-2）",
+        "savePitcher": "",
+        "venue": "神宮",
+        "record": "34-50-4"
+      },
+      {
         "gameNumber": 87,
         "date": "7月24日",
         "opponentTeamId": "swallows",
@@ -440,21 +455,6 @@
         "savePitcher": "レイノルズ（2-0-3）",
         "venue": "マツダ",
         "record": "31-44-4"
-      },
-      {
-        "gameNumber": 78,
-        "date": "7月12日",
-        "opponentTeamId": "dragons",
-        "opponentText": "中日",
-        "score": "5-1",
-        "ownScore": 5,
-        "opponentScore": 1,
-        "result": "win",
-        "winningPitcher": "床田（4-3）",
-        "losingPitcher": "",
-        "savePitcher": "",
-        "venue": "バンテリンドーム",
-        "record": "31-43-4"
       }
     ],
     "baystars": [
@@ -611,6 +611,21 @@
     ],
     "swallows": [
       {
+        "gameNumber": 91,
+        "date": "7月25日",
+        "opponentTeamId": "carp",
+        "opponentText": "広島",
+        "score": "2x-1",
+        "ownScore": 2,
+        "opponentScore": 1,
+        "result": "win",
+        "winningPitcher": "リランソ（2-2）",
+        "losingPitcher": "遠藤（1-2）",
+        "savePitcher": "",
+        "venue": "神宮",
+        "record": "44-46-1"
+      },
+      {
         "gameNumber": 90,
         "date": "7月24日",
         "opponentTeamId": "carp",
@@ -744,21 +759,6 @@
         "savePitcher": "",
         "venue": "神宮",
         "record": "41-40-1"
-      },
-      {
-        "gameNumber": 81,
-        "date": "7月14日",
-        "opponentTeamId": "giants",
-        "opponentText": "巨人",
-        "score": "5-4",
-        "ownScore": 5,
-        "opponentScore": 4,
-        "result": "win",
-        "winningPitcher": "山野（8-2）",
-        "losingPitcher": "",
-        "savePitcher": "キハダ（2-4-21）",
-        "venue": "神宮",
-        "record": "41-39-1"
       }
     ],
     "dragons": [
