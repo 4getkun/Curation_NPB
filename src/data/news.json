@@ -1,7 +1,28 @@
 {
-  "generatedAt": "2026-07-24T23:52:25.346Z",
-  "count": 1676,
+  "generatedAt": "2026-07-25T01:22:17.693Z",
+  "count": 1677,
   "items": [
+    {
+      "title": "Ｗ杯落選の守田英正が〝タイガース〟ことハルに移籍決定 ＳＮＳ「森保を見返してやれ」(東スポWEB)",
+      "summary": "ポルトガル1部スポルティングを退団したMF守田英正（31）が24日（日本時間25日）にイングランド・プレミアリーグのハルヘの入団が決まり、同クラブが正式発表した。契約期間は2年で1年の延長オプション",
+      "link": "https://news.yahoo.co.jp/articles/3e39f5b698bb796eaf4a024e7fed0283a1223ccc?source=rss",
+      "pubDate": "2026-07-25T00:50:33.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "tigers"
+      ],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/3e39f5b698bb796eaf4a024e7fed0283a1223ccc?source=rss"
+        }
+      ]
+    },
     {
       "title": "オリックスがサヨナラ勝ち！山中の同点打＆太田のサヨナラ打に坂口氏「抑え込まれていたボールを仕留めて最後まで繋げられていた」と評価",
       "summary": "オリックスは24日、ロッテとの試合（京セラD）に3－2で勝利。1点を追う9回裏、代打・来田涼斗が左安打で出塁し、1番・宗佑磨は一犠打で一死二塁とすると、2番・山中 稜真の左安打で同点。3番・西川龍馬が申告敬遠で一死一・ […]",
@@ -18,11 +39,6 @@
           "name": "BASEBALL KING",
           "sourceId": "baseballking",
           "link": "https://baseballking.jp/ns/702275/"
-        },
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/4bec965b4dcc1ae01f82a682c44d3534a3228674?source=rss"
         }
       ]
     },
