@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-25T10:49:41.237Z",
+  "generatedAt": "2026-07-25T11:56:50.946Z",
   "teams": {
     "giants": [
       {
@@ -915,6 +915,21 @@
     ],
     "hawks": [
       {
+        "gameNumber": 92,
+        "date": "7月25日",
+        "opponentTeamId": "lions",
+        "opponentText": "西武",
+        "score": "6-8",
+        "ownScore": 6,
+        "opponentScore": 8,
+        "result": "loss",
+        "winningPitcher": "武内（7-5）",
+        "losingPitcher": "ヘルナンデス（0-1）",
+        "savePitcher": "甲斐野（2-2-11）",
+        "venue": "ベルーナドーム",
+        "record": "57-34-1"
+      },
+      {
         "gameNumber": 91,
         "date": "7月24日",
         "opponentTeamId": "lions",
@@ -1048,24 +1063,24 @@
         "savePitcher": "堀（2-0-1）",
         "venue": "エスコンF",
         "record": "50-32-1"
-      },
-      {
-        "gameNumber": 82,
-        "date": "7月14日",
-        "opponentTeamId": "fighters",
-        "opponentText": "日本ハム",
-        "score": "4-2",
-        "ownScore": 4,
-        "opponentScore": 2,
-        "result": "win",
-        "winningPitcher": "松本裕（3-3）",
-        "losingPitcher": "島本（2-2）",
-        "savePitcher": "杉山（0-2-18）",
-        "venue": "エスコンF",
-        "record": "50-31-1"
       }
     ],
     "lions": [
+      {
+        "gameNumber": 95,
+        "date": "7月25日",
+        "opponentTeamId": "hawks",
+        "opponentText": "ソフトバンク",
+        "score": "8-6",
+        "ownScore": 8,
+        "opponentScore": 6,
+        "result": "win",
+        "winningPitcher": "武内（7-5）",
+        "losingPitcher": "ヘルナンデス（0-1）",
+        "savePitcher": "甲斐野（2-2-11）",
+        "venue": "ベルーナドーム",
+        "record": "53-39-3"
+      },
       {
         "gameNumber": 94,
         "date": "7月24日",
@@ -1200,21 +1215,6 @@
         "savePitcher": "甲斐野（2-2-8）",
         "venue": "ベルーナドーム",
         "record": "48-35-3"
-      },
-      {
-        "gameNumber": 85,
-        "date": "7月12日",
-        "opponentTeamId": "fighters",
-        "opponentText": "日本ハム",
-        "score": "12-1",
-        "ownScore": 12,
-        "opponentScore": 1,
-        "result": "win",
-        "winningPitcher": "隅田（7-5）",
-        "losingPitcher": "福島（3-3）",
-        "savePitcher": "",
-        "venue": "エスコンF",
-        "record": "47-35-3"
       }
     ],
     "marines": [
@@ -1803,9 +1803,9 @@
         "ownScore": 2,
         "opponentScore": 4,
         "result": "loss",
-        "winningPitcher": "松本裕（3-3）",
+        "winningPitcher": "",
         "losingPitcher": "島本（2-2）",
-        "savePitcher": "杉山（0-2-18）",
+        "savePitcher": "",
         "venue": "エスコンF",
         "record": "48-39-0"
       },
@@ -1818,7 +1818,7 @@
         "ownScore": 1,
         "opponentScore": 12,
         "result": "loss",
-        "winningPitcher": "隅田（7-5）",
+        "winningPitcher": "",
         "losingPitcher": "福島（3-3）",
         "savePitcher": "",
         "venue": "エスコンF",
