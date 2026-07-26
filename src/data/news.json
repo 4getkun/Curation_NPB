@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-25T23:25:53.989Z",
+  "generatedAt": "2026-07-26T01:03:36.164Z",
   "count": 1833,
   "items": [
     {
@@ -7,8 +7,8 @@
       "summary": "＜中日0－5DeNA＞◇25日◇バンテリンドーム DeNAオスバルド・ビド投手（30）が、来日初先発で5回無失点と好投し、初勝利を挙げた。 今季は、ルーキーではドラフト2位の島田舜也、4位の片",
       "link": "https://news.yahoo.co.jp/articles/5bff36e82a7c242f529af042453385aedaf33d65?source=rss",
       "pubDate": "2026-07-25T23:16:35.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
       "teams": [
         "baystars"
       ],
@@ -17,8 +17,8 @@
       ],
       "sources": [
         {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/5bff36e82a7c242f529af042453385aedaf33d65?source=rss"
         }
       ]
