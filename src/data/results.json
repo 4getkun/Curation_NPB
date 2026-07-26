@@ -1,7 +1,22 @@
 {
-  "generatedAt": "2026-07-26T11:12:01.961Z",
+  "generatedAt": "2026-07-26T12:34:47.482Z",
   "teams": {
     "giants": [
+      {
+        "gameNumber": 92,
+        "date": "7月26日",
+        "opponentTeamId": "tigers",
+        "opponentText": "阪神",
+        "score": "0-1",
+        "ownScore": 0,
+        "opponentScore": 1,
+        "result": "loss",
+        "winningPitcher": "村上（8-5）",
+        "losingPitcher": "小笠原（1-1）",
+        "savePitcher": "",
+        "venue": "甲子園",
+        "record": "50-40-2"
+      },
       {
         "gameNumber": 91,
         "date": "7月25日",
@@ -136,24 +151,24 @@
         "savePitcher": "マルティネス（1-2-28）",
         "venue": "神宮",
         "record": "44-37-2"
-      },
-      {
-        "gameNumber": 82,
-        "date": "7月15日",
-        "opponentTeamId": "swallows",
-        "opponentText": "ヤクルト",
-        "score": "8-2",
-        "ownScore": 8,
-        "opponentScore": 2,
-        "result": "win",
-        "winningPitcher": "西舘（2-1）",
-        "losingPitcher": "奥川（3-7）",
-        "savePitcher": "",
-        "venue": "神宮",
-        "record": "43-37-2"
       }
     ],
     "tigers": [
+      {
+        "gameNumber": 91,
+        "date": "7月26日",
+        "opponentTeamId": "giants",
+        "opponentText": "巨人",
+        "score": "1-0",
+        "ownScore": 1,
+        "opponentScore": 0,
+        "result": "win",
+        "winningPitcher": "村上（8-5）",
+        "losingPitcher": "小笠原（1-1）",
+        "savePitcher": "",
+        "venue": "甲子園",
+        "record": "50-40-1"
+      },
       {
         "gameNumber": 90,
         "date": "7月25日",
@@ -288,21 +303,6 @@
         "savePitcher": "ドリス（2-2-15）",
         "venue": "バンテリンドーム",
         "record": "45-36-1"
-      },
-      {
-        "gameNumber": 81,
-        "date": "7月15日",
-        "opponentTeamId": "dragons",
-        "opponentText": "中日",
-        "score": "5-6",
-        "ownScore": 5,
-        "opponentScore": 6,
-        "result": "loss",
-        "winningPitcher": "",
-        "losingPitcher": "今朝丸（0-1）",
-        "savePitcher": "",
-        "venue": "バンテリンドーム",
-        "record": "44-36-1"
       }
     ],
     "carp": [
@@ -754,7 +754,7 @@
         "ownScore": 2,
         "opponentScore": 8,
         "result": "loss",
-        "winningPitcher": "西舘（2-1）",
+        "winningPitcher": "",
         "losingPitcher": "奥川（3-7）",
         "savePitcher": "",
         "venue": "神宮",
