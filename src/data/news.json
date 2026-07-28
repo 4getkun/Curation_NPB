@@ -1,7 +1,577 @@
 {
-  "generatedAt": "2026-07-28T04:33:30.132Z",
-  "count": 2119,
+  "generatedAt": "2026-07-28T07:29:20.794Z",
+  "count": 2149,
   "items": [
+    {
+      "title": "板東英さんをしのび、野々村真がインスタで献杯「芸能界のお父さん」「流石燃えよドラゴンズ！」(日刊スポーツ)",
+      "summary": "タレント野々村真（62）が28日、自身のインスタグラムを更新。この日、プロ野球、中日の元投手で、引退後は芸能界で活躍した板東英二さんが、86歳で亡くなったと判明したことを受けて、同氏の写真の前で献杯",
+      "link": "https://news.yahoo.co.jp/articles/44e52a04feeada2c3eb72bd3e66d0d3afd0a2444?source=rss",
+      "pubDate": "2026-07-28T07:28:17.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "dragons"
+      ],
+      "topics": [
+        "retirement"
+      ],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/44e52a04feeada2c3eb72bd3e66d0d3afd0a2444?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "間寛平「今何してんのかなぁとずっと…」死去の板東英二さんへ思い(日刊スポーツ)",
+      "summary": "元プロ野球の中日ドラゴンズ投手で、タレントとしても活躍した板東英二さんが7月22日、慢性心不全のため、亡くなった。28日、公式サイトで発表された。86歳だった。 「マジカル頭脳パワー!!」などで",
+      "link": "https://news.yahoo.co.jp/articles/344f707dd9d90363b27d202d221686586ea61570?source=rss",
+      "pubDate": "2026-07-28T07:24:52.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "dragons"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/344f707dd9d90363b27d202d221686586ea61570?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "「すぐに勇人に連絡しました」「試合前に電話が…」 ソフトバンク柳田悠岐がプラスワンで球宴選出の巨人・坂本勇人に電話したことを明かす ともに旅行断念して出場(西スポWEB OTTO!)",
+      "summary": "◆マイナビオールスターゲーム2026第1戦・全セ―全パ（28日、東京ドーム） プラスワン投票で選出されたソフトバンクの柳田悠岐外野手（37）と巨人坂本勇人内野手（37）の同学年コンビが「旅行キャ",
+      "link": "https://news.yahoo.co.jp/articles/6cbee6a78055140938c92ef986774542dee02a56?source=rss",
+      "pubDate": "2026-07-28T07:20:17.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "hawks",
+        "giants"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/6cbee6a78055140938c92ef986774542dee02a56?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "はるな愛、板東英二さんの温かい人柄回想「現場にいるとウキウキ」(日刊スポーツ)",
+      "summary": "タレントのはるな愛（54）が28日、カンテレ制作のフジテレビ系情報番組「旬感LIVE とれたてっ！」（月～金曜午後1時50分）に出演した。 番組では冒頭で、プロ野球・中日の元投手で、引退後は野球",
+      "link": "https://news.yahoo.co.jp/articles/bbc583f8f2d6e369c80e6cabf73a2c1adecfea7a?source=rss",
+      "pubDate": "2026-07-28T07:16:22.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "dragons"
+      ],
+      "topics": [
+        "retirement"
+      ],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/bbc583f8f2d6e369c80e6cabf73a2c1adecfea7a?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【我が好敵手・江夏豊を語る】八重樫幸雄「剛速球投手なのにアウトコースを磨く。江夏さんは緻密で合理的な投球術の先駆者だった」(NEWSポストセブン)",
+      "summary": "シーズン401奪三振、両リーグでのMVP獲得などの大記録を残し、「プロ野球史上最高の左腕」と評される江夏豊氏。その江夏氏が78歳の誕生日を迎えた5月15日、『江夏の遺言』（江夏豊・松永多佳倫の共著、",
+      "link": "https://news.yahoo.co.jp/articles/2039956b48b6660efcfeea4a37173e95bd9a3466?source=rss",
+      "pubDate": "2026-07-28T07:15:00.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/2039956b48b6660efcfeea4a37173e95bd9a3466?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "黒柳徹子、板東英二さん悼む「私のことを『お母さん』と」海外ロケでの思い出などもつづる(日刊スポーツ)",
+      "summary": "元プロ野球の中日ドラゴンズ投手で、タレントとしても活躍した板東英二さんが7月22日、慢性心不全のため、亡くなった。28日、公式サイトで発表された。86歳だった。 公私ともに親交のあった黒柳徹子（",
+      "link": "https://news.yahoo.co.jp/articles/828483492942ff7982d09cf9c4d86e13d7ac45a2?source=rss",
+      "pubDate": "2026-07-28T07:12:53.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "dragons"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/828483492942ff7982d09cf9c4d86e13d7ac45a2?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "藤本景子アナ、板東英二さんとの24年前の共演回想「孫と祖父役」(日刊スポーツ)",
+      "summary": "カンテレの藤本景子アナウンサー（49）が28日、カンテレ制作のフジテレビ系情報番組「旬感LIVE とれたてっ！」（月～金曜午後1時50分）に出演した。 番組では冒頭で、プロ野球・中日の元投手で、",
+      "link": "https://news.yahoo.co.jp/articles/56aea284107223e6d0d9bcdc832cc543d8c8aa28?source=rss",
+      "pubDate": "2026-07-28T07:05:49.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "dragons"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/56aea284107223e6d0d9bcdc832cc543d8c8aa28?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【球宴】全セの巨人大城卓三「大丈夫っす」25日阪神戦で２死球受け翌日は出場せず(日刊スポーツ)",
+      "summary": "＜マイナビオールスターゲーム2026：全セ－全パ＞◇28日◇第1戦◇東京ドーム 巨人大城卓三捕手（33）が無事を強調した。 25日阪神戦で背中、右腰に2死球を受け途中交代。打撲で、26日の同戦",
+      "link": "https://news.yahoo.co.jp/articles/0f95bfeaf32b5beefc987d8835c2cb9cb18d47f8?source=rss",
+      "pubDate": "2026-07-28T07:02:13.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "giants"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/0f95bfeaf32b5beefc987d8835c2cb9cb18d47f8?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "宮根誠司が板東英二さんに質問、中日契約金2000万円の当時の価値に驚き「ホンマかうそか…」(日刊スポーツ)",
+      "summary": "フリーアナウンサー宮根誠司（63）が28日、日本テレビ系「情報ライブミヤネ屋」（月～金曜午後1時55分）にMCとして生出演。22日に慢性心不全により86歳で亡くなった元プロ野球選手でタレントの板東英",
+      "link": "https://news.yahoo.co.jp/articles/af1b3d3fa738c03addf77c381462bac6b693857f?source=rss",
+      "pubDate": "2026-07-28T07:01:51.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "dragons"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/af1b3d3fa738c03addf77c381462bac6b693857f?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【中日】高橋宏斗が休日返上で投手練習参加「間隔がいつも以上に空くのでしっかり体を動かす」(日刊スポーツ)",
+      "summary": "中日高橋宏斗投手（23）とカイル・マラー投手（28）が31日からのビジター広島3連戦に向けナゴヤ球場で投手練習に参加した。 高橋宏は2軍調整を経て、20日ヤクルト戦で8回2失点と好投し今季2勝目",
+      "link": "https://news.yahoo.co.jp/articles/b9c0dab64d00606975115e8a43946cf2992aa4b1?source=rss",
+      "pubDate": "2026-07-28T07:00:01.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "dragons"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/b9c0dab64d00606975115e8a43946cf2992aa4b1?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【球宴】セ界が誇るドミニカ共和国出身クローザーも“共演”阪神ドリス、ヤクルトキハダが談笑(日刊スポーツ)",
+      "summary": "＜マイナビオールスターゲーム2026：全セ－全パ＞◇28日◇第1戦◇東京ドーム セ界が誇るドミニカ共和国出身クローザーも“共演”する。 全セの阪神ラファエル・ドリス投手（38）、ヤクルトのホセ",
+      "link": "https://news.yahoo.co.jp/articles/0bdd3110d0673b39d0115b0a4908d1429ea1a33a?source=rss",
+      "pubDate": "2026-07-28T06:59:12.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "tigers",
+        "swallows"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/0bdd3110d0673b39d0115b0a4908d1429ea1a33a?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "ピッチクロックの来季からの導入をNPBに要望へ 日本プロ野球選手会の臨時大会で決議(サンケイスポーツ)",
+      "summary": "日本プロ野球選手会の臨時大会が28日に東京都内で行われ、今春のワールド・ベースボール・クラシック（WBC）でも採用された投球間隔制限「ピッチクロック」の来季からの導入をNPB（日本野球機構）に要望する",
+      "link": "https://news.yahoo.co.jp/articles/91ad8b4c0a6a3415eaf6b20b2eb1a02f72a30e5e?source=rss",
+      "pubDate": "2026-07-28T06:58:20.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/91ad8b4c0a6a3415eaf6b20b2eb1a02f72a30e5e?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【球宴】阪神中野拓夢、ヤクルト長岡秀樹の背番号「7」コンビ談笑 中野6回目、長岡4回目の出場(日刊スポーツ)",
+      "summary": "＜マイナビオールスターゲーム2026：全セ－全パ＞◇28日◇第1戦◇東京ドーム 虎と燕の背番号7がグラウンドで交流を深めた。 全セの選手たちは午後2時30分ごろにグラウンドに登場し、全員で記念",
+      "link": "https://news.yahoo.co.jp/articles/a0c44710e280db052d4e344696dfdb3d81161a66?source=rss",
+      "pubDate": "2026-07-28T06:57:39.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "tigers",
+        "swallows"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/a0c44710e280db052d4e344696dfdb3d81161a66?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【球宴】西武の平良海馬に“ハプニング”発生？！集合写真に間に合わず…(日刊スポーツ)",
+      "summary": "＜マイナビオールスターゲーム2026：全セ－全パ＞◇28日◇第1戦◇東京ドーム 全パの西武平良海馬投手（26）に“ハプニング”が発生した。 全パの選手たちは午後3時20分ごろにグラウンドに登場",
+      "link": "https://news.yahoo.co.jp/articles/9da0bf7e34da9bd8df885d112905e9aad2715e95?source=rss",
+      "pubDate": "2026-07-28T06:52:34.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "lions"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/9da0bf7e34da9bd8df885d112905e9aad2715e95?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "板東英二さん死去 次長課長河本「もう一回…会いたかった…」笑福亭銀瓶「最後に会ったのは…」(日刊スポーツ)",
+      "summary": "プロ野球、中日の元投手で、引退後は野球解説者のほかタレント、司会、俳優など多彩な芸能活動を続けていた板東英二さんが死去した。86歳だった。公式サイトで28日、発表された。板東さんの訃報（ふほう）を受",
+      "link": "https://news.yahoo.co.jp/articles/271cd7dfa2ad2d4c497a5c6fa9d8439ea2570478?source=rss",
+      "pubDate": "2026-07-28T06:44:21.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "dragons"
+      ],
+      "topics": [
+        "retirement"
+      ],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/271cd7dfa2ad2d4c497a5c6fa9d8439ea2570478?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【こんな人】板東英二さんキャンプのブルペンで焼き芋…煙の先には星野仙一(日刊スポーツ)",
+      "summary": "プロ野球、中日の元投手で、引退後は野球解説者のほかタレント、司会、俳優など多彩な芸能活動を続けていた「板（ばん）ちゃん」の愛称で親しまれた板東英二氏が22日に慢性心不全のため死去したことが28日、分",
+      "link": "https://news.yahoo.co.jp/articles/e27923103465d82d1adff57847c29ef4521ec1f4?source=rss",
+      "pubDate": "2026-07-28T06:42:28.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "dragons"
+      ],
+      "topics": [
+        "retirement"
+      ],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/e27923103465d82d1adff57847c29ef4521ec1f4?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【球宴】日本ハム清宮幸太郎と巨人田中瑛斗が“再会” グラウンドで仲良く談笑(日刊スポーツ)",
+      "summary": "＜マイナビオールスターゲーム2026：全セ－全パ＞◇28日◇第1戦◇東京ドーム 全パの日本ハム清宮幸太郎内野手（27）と全セの巨人田中瑛斗投手（27）が“再会”を果たした。午後2時40分頃。2人は",
+      "link": "https://news.yahoo.co.jp/articles/9771d8537b3fb989984a6f14919edcef7406acd8?source=rss",
+      "pubDate": "2026-07-28T06:29:15.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "fighters",
+        "giants"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/9771d8537b3fb989984a6f14919edcef7406acd8?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "吉田賢吾の懲罰抹消に象徴される、新庄野球「ミス」の基準【えのきどいちろうのファイターズチャンネル#280】",
+      "summary": "前半戦を終えてファイターズは3位ターン。オールスターブレーク直前の試合内容を振り返ると単なる試合中の失策＝ミスとはならない、新庄采配の基準が浮かび上がる。",
+      "link": "https://www.baseballchannel.jp/npb/275857/",
+      "pubDate": "2026-07-28T06:20:18.000Z",
+      "source": "ベースボールチャンネル（プロ野球）",
+      "sourceId": "baseballchannel-npb",
+      "teams": [
+        "fighters"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "ベースボールチャンネル（プロ野球）",
+          "sourceId": "baseballchannel-npb",
+          "link": "https://www.baseballchannel.jp/npb/275857/"
+        }
+      ]
+    },
+    {
+      "title": "ブラマヨ吉田、板東英二さんとの深夜ロケ回想「エネルギーの塊」(日刊スポーツ)",
+      "summary": "お笑いコンビ、ブラックマヨネーズの吉田敬（53）が28日、カンテレ制作のフジテレビ系情報番組「旬感LIVEとれたてっ！」（月～金曜午後1時50分）に出演した。 番組では冒頭で、プロ野球・中日の元",
+      "link": "https://news.yahoo.co.jp/articles/862edc88803421428627280bf71dff6ce44f480f?source=rss",
+      "pubDate": "2026-07-28T06:02:32.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "dragons"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/862edc88803421428627280bf71dff6ce44f480f?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "家族ぐるみ「板東家の長男」と親しまれた62歳タレントは家族葬に参加「お別れすることできた」(日刊スポーツ)",
+      "summary": "タレント野々村真（62）が28日、日本テレビ系「情報ライブミヤネ屋」（月～金曜午後1時55分）に電話出演。22日に慢性心不全により86歳で亡くなった元プロ野球選手でタレントの板東英二さんをしのんだ。",
+      "link": "https://news.yahoo.co.jp/articles/a74388e7cfdd2088cb536ec524dd8e2c789009d1?source=rss",
+      "pubDate": "2026-07-28T05:58:26.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/a74388e7cfdd2088cb536ec524dd8e2c789009d1?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "板東英二氏は無類の卵好き ルーツは食事に困った幼少期、産まれたばかりの卵をイタチと争う日々(日刊スポーツ)",
+      "summary": "プロ野球、中日の元投手で、引退後は野球解説者のほか多彩な芸能活動を続けていた板東英二氏が死去したことが28日、分かった。86歳だった。板東氏を物語る上で欠かせないのが、無類の卵好きだったというエピソ",
+      "link": "https://news.yahoo.co.jp/articles/a74b11de30f966440ba23690d50a2848a9e51ac7?source=rss",
+      "pubDate": "2026-07-28T05:56:22.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "dragons"
+      ],
+      "topics": [
+        "retirement"
+      ],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/a74b11de30f966440ba23690d50a2848a9e51ac7?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "選手会がオーナーと来季からのピッチクロック導入を目指す事で一致 今後はNPBと話し合いへ(日刊スポーツ)",
+      "summary": "NPB（日本プロフェッショナル野球機構）12球団のオーナーと「日本プロ野球選手会」が28日、初めて会談の場を持った。12球団の選手が集まるオールスターに合わせ、都内のホテルで執り行われた。選手はソフ",
+      "link": "https://news.yahoo.co.jp/articles/592bca4a154cfcadeb286661d628a6c2d8c2c1a1?source=rss",
+      "pubDate": "2026-07-28T05:55:41.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/592bca4a154cfcadeb286661d628a6c2d8c2c1a1?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "「芸能人」板東英二氏アラカルト 「マジカル頭脳パワー！！」で人気、日本アカデミー賞も受賞(日刊スポーツ)",
+      "summary": "元プロ野球の中日ドラゴンズ投手で、タレントとしても活躍した板東英二さんが7月22日、慢性心不全のため、亡くなった。28日、公式サイトで発表された。86歳だった。 プロ野球引退後の板東氏 ◆7",
+      "link": "https://news.yahoo.co.jp/articles/1903b3e45a6abfeebe9c8dc15be62af2e7d653e6?source=rss",
+      "pubDate": "2026-07-28T05:51:35.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "dragons"
+      ],
+      "topics": [
+        "retirement"
+      ],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/1903b3e45a6abfeebe9c8dc15be62af2e7d653e6?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "野々村真が板東英二さんを追悼「テレビに出なくなってから連絡取ることができなくて…」(日刊スポーツ)",
+      "summary": "タレント野々村真（62）が28日、日本テレビ系「情報ライブ ミヤネ屋」（月～金曜午後1時55分）に電話出演。22日に慢性心不全により86歳で亡くなった元プロ野球選手でタレントの板東英二さんをしのんだ",
+      "link": "https://news.yahoo.co.jp/articles/f425f38088306b604f5fb122d271a61734d576dc?source=rss",
+      "pubDate": "2026-07-28T05:43:37.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/f425f38088306b604f5fb122d271a61734d576dc?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "プロ野球選手会とオーナーの初会談、広島松田元オーナー「選手と話ができたのが一番」(日刊スポーツ)",
+      "summary": "日本プロ野球選手会と12球団オーナー会議が28日、都内のホテルで初の公式会談を行った。野球振興くじの導入などが話し合われた。出席した広島の松田元オーナー（75）は「野球振興が一番、主に軟式野球、中学",
+      "link": "https://news.yahoo.co.jp/articles/f909304d054765d68fb7510c4ca51fb75617a723?source=rss",
+      "pubDate": "2026-07-28T05:43:21.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "carp"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/f909304d054765d68fb7510c4ca51fb75617a723?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "板東英二さん、６年半前出演「水ダウ」で衝撃「２億円」発言、強烈存在感「松ぼっくり」事件(日刊スポーツ)",
+      "summary": "元プロ野球選手でタレントの板東英二さんが亡くなったことが28日、明らかになった。86歳、慢性心不全だった。本人の公式サイトで発表された。 プロ野球引退後はタレントとして活躍。近年のテレビ出演では",
+      "link": "https://news.yahoo.co.jp/articles/b878b3dffbab8057502b3f4f39de24459626e4e7?source=rss",
+      "pubDate": "2026-07-28T05:42:47.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [],
+      "topics": [
+        "retirement"
+      ],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/b878b3dffbab8057502b3f4f39de24459626e4e7?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "史上初の会談 オーナー会議と選手会が共同声明「すれ違う場面もありましたが」「大きな前進」(日刊スポーツ)",
+      "summary": "NPB（日本プロフェッショナル野球機構）12球団のオーナーと「日本プロ野球選手会」が28日、初めて会談の場を持った。12球団の選手が集まるオールスターに合わせ、都内のホテルで執り行われた。選手はソフ",
+      "link": "https://news.yahoo.co.jp/articles/c37177f5c5372c2500390324132c4b387f51d205?source=rss",
+      "pubDate": "2026-07-28T05:42:24.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/c37177f5c5372c2500390324132c4b387f51d205?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "ファーム打率.389の20歳がアピール！ソフトバンク、“左の大砲候補”がタイムリー【三軍戦】",
+      "summary": "福岡ソフトバンクホークスの佐倉侠史朗は27日、タマホームスタジアム筑後で行われたソフトバンク三軍戦の大分B-リングス戦に「4番・一塁」で先発出場。6回の第3打席で、適時打を放った。",
+      "link": "https://www.baseballchannel.jp/npb/277250/",
+      "pubDate": "2026-07-28T05:35:53.000Z",
+      "source": "ベースボールチャンネル（プロ野球）",
+      "sourceId": "baseballchannel-npb",
+      "teams": [
+        "hawks"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "ベースボールチャンネル（プロ野球）",
+          "sourceId": "baseballchannel-npb",
+          "link": "https://www.baseballchannel.jp/npb/277250/"
+        }
+      ]
+    },
+    {
+      "title": "【球宴】直近10年はパが13勝と圧倒 セは意地を見せるか？",
+      "summary": "28日と29日に『マイナビオールスターゲーム2026』が開催される。 昨年はパ・リーグが第1戦に5－1で勝利し、2戦目も10－7で乱打戦を制し2連勝で幕を閉じた。 直近10年のオールスターゲームを見ても、パ・リーグ […]",
+      "link": "https://baseballking.jp/ns/702576/",
+      "pubDate": "2026-07-28T05:20:00.000Z",
+      "source": "BASEBALL KING",
+      "sourceId": "baseballking",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "BASEBALL KING",
+          "sourceId": "baseballking",
+          "link": "https://baseballking.jp/ns/702576/"
+        }
+      ]
+    },
+    {
+      "title": "30回目を迎えたもう一つの“球宴” きっかけは淡路大震災…主催者がレジェンドOBに託す思い",
+      "summary": "プロ野球のレジェンドOBが集結する「サントリードリームマッチ」が27日、東京ドームで行われ、3万5196人の観客が詰めかけた。サントリーグループが主催し、毎夏の恒例となっている同大会の観客動員は、通算125万1266人（1試合平均約4万36…",
+      "link": "https://full-count.jp/2026/07/28/post1996036/",
+      "pubDate": "2026-07-28T05:03:25.000Z",
+      "source": "Full-Count（プロ野球）",
+      "sourceId": "full-count-npb",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Full-Count（プロ野球）",
+          "sourceId": "full-count-npb",
+          "link": "https://full-count.jp/2026/07/28/post1996036/"
+        }
+      ]
+    },
     {
       "title": "【ヤフコメで話題】「マリンスタジアムのドーム化に賛否」「気候変動と多目的利用が論点」 - ロッテ新球場の屋根付き化を巡る議論(Yahoo!ニュース オリジナル THE PAGE)",
       "summary": "千葉ロッテマリーンズの本拠地・マリンスタジアムのドーム化について、Yahoo!ニュースのコメント欄で話題になっています。 コメントでは、屋外球場の開放感や季節ごとの楽しさを評価する声がある一方、近年の",
@@ -206,11 +776,6 @@
           "name": "ベースボールチャンネル（プロ野球）",
           "sourceId": "baseballchannel-npb",
           "link": "https://www.baseballchannel.jp/npb/277219/"
-        },
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/b5582a113972a849e25f413ac5414b858054b269?source=rss"
         }
       ]
     },
