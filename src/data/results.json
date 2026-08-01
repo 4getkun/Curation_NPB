@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-01T10:57:58.827Z",
+  "generatedAt": "2026-08-01T11:59:18.773Z",
   "teams": {
     "giants": [
       {
@@ -915,6 +915,21 @@
     ],
     "hawks": [
       {
+        "gameNumber": 94,
+        "date": "8月1日",
+        "opponentTeamId": "eagles",
+        "opponentText": "楽天",
+        "score": "5-0",
+        "ownScore": 5,
+        "opponentScore": 0,
+        "result": "win",
+        "winningPitcher": "上茶谷（7-0）",
+        "losingPitcher": "早川（4-5）",
+        "savePitcher": "",
+        "venue": "楽天モバイル",
+        "record": "59-34-1"
+      },
+      {
         "gameNumber": 93,
         "date": "7月26日",
         "opponentTeamId": "lions",
@@ -1048,21 +1063,6 @@
         "savePitcher": "杉山（0-2-19）",
         "venue": "ZOZOマリン",
         "record": "52-32-1"
-      },
-      {
-        "gameNumber": 84,
-        "date": "7月16日",
-        "opponentTeamId": "fighters",
-        "opponentText": "日本ハム",
-        "score": "6-2",
-        "ownScore": 6,
-        "opponentScore": 2,
-        "result": "win",
-        "winningPitcher": "上茶谷（5-0）",
-        "losingPitcher": "伊藤（8-5）",
-        "savePitcher": "",
-        "venue": "エスコンF",
-        "record": "51-32-1"
       }
     ],
     "lions": [
@@ -1371,6 +1371,21 @@
     ],
     "eagles": [
       {
+        "gameNumber": 92,
+        "date": "8月1日",
+        "opponentTeamId": "hawks",
+        "opponentText": "ソフトバンク",
+        "score": "0-5",
+        "ownScore": 0,
+        "opponentScore": 5,
+        "result": "loss",
+        "winningPitcher": "上茶谷（7-0）",
+        "losingPitcher": "早川（4-5）",
+        "savePitcher": "",
+        "venue": "楽天モバイル",
+        "record": "36-55-1"
+      },
+      {
         "gameNumber": 91,
         "date": "7月26日",
         "opponentTeamId": "fighters",
@@ -1504,21 +1519,6 @@
         "savePitcher": "藤平（0-1-18）",
         "venue": "楽天モバイル",
         "record": "33-49-1"
-      },
-      {
-        "gameNumber": 82,
-        "date": "7月14日",
-        "opponentTeamId": "buffaloes",
-        "opponentText": "オリックス",
-        "score": "3-1",
-        "ownScore": 3,
-        "opponentScore": 1,
-        "result": "win",
-        "winningPitcher": "瀧中（5-3）",
-        "losingPitcher": "",
-        "savePitcher": "藤平（0-1-17）",
-        "venue": "楽天モバイル",
-        "record": "32-49-1"
       }
     ],
     "buffaloes": [
@@ -1818,7 +1818,7 @@
         "ownScore": 2,
         "opponentScore": 6,
         "result": "loss",
-        "winningPitcher": "上茶谷（5-0）",
+        "winningPitcher": "",
         "losingPitcher": "伊藤（8-5）",
         "savePitcher": "",
         "venue": "エスコンF",
