@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-02T16:42:54.010Z",
+  "generatedAt": "2026-08-02T17:49:54.318Z",
   "count": 3377,
   "items": [
     {
@@ -201,8 +201,8 @@
       "summary": "＜ヤクルト3－4阪神＞◇2日◇神宮 阪神が今季4度目の同一カード3連戦3連勝を飾った。前半戦を含めれば4連勝。貯金「13」は今季最多更新で、2位巨人に2ゲーム差をつけた。 ▼阪神工藤が初セーブ",
       "link": "https://news.yahoo.co.jp/articles/7b58deb5b816ce0cbc9024da917350efad16ba07?source=rss",
       "pubDate": "2026-08-02T14:22:09.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
       "teams": [
         "tigers"
       ],
@@ -211,8 +211,8 @@
       ],
       "sources": [
         {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/7b58deb5b816ce0cbc9024da917350efad16ba07?source=rss"
         }
       ]
