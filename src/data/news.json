@@ -1,7 +1,621 @@
 {
-  "generatedAt": "2026-08-02T09:28:17.888Z",
-  "count": 3261,
+  "generatedAt": "2026-08-02T10:57:33.926Z",
+  "count": 3293,
   "items": [
+    {
+      "title": "【西武】２連勝 先発武内が７回１失点好投 ウィンゲンター日本タイ記録18試合連続ホールド(日刊スポーツ)",
+      "summary": "＜西武5－１オリックス＞◇2日◇ベルーナドーム 西武が逆転勝ちし、2連勝でカード勝ち越しを決めた。 先発の武内夏暉投手（25）は7回5安打1失点の好投をみせ、8勝目。テンポ良くコースに投げ分け、的",
+      "link": "https://news.yahoo.co.jp/articles/9308d26b98ec0c29f4c1d7e333d93c10a0bde22c?source=rss",
+      "pubDate": "2026-08-02T10:57:06.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "lions"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/9308d26b98ec0c29f4c1d7e333d93c10a0bde22c?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【ソフトバンク】前田悠伍が開幕９連勝でも５失点に大反省 高卒３年目以内では６０ぶり快挙 (スポーツ報知)",
+      "summary": "◆パ・リーグ 楽天１０―６ソフトバンク（２日・楽天モバイル最強パーク宮城） ソフトバンク・前田悠が開幕から無傷の９連勝を飾った。高卒３年目以内では、６６年に高卒１年目で１３連勝した堀内恒夫（巨人）",
+      "link": "https://news.yahoo.co.jp/articles/24f9079a60c158c919eac77f069c23d6606f928a?source=rss",
+      "pubDate": "2026-08-02T10:52:37.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "hawks"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/24f9079a60c158c919eac77f069c23d6606f928a?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "阪神 右足首捻挫の湯浅京己が約2カ月ぶりの実戦復帰 ソロ被弾など1回3安打1失点も最速150キロ計測(スポニチアネックス)",
+      "summary": "◇ファーム・リーグ 阪神―広島（2026年8月2日 SGL尼崎） 右足首捻挫からの再起を目指している阪神の湯浅京己投手（27）が負傷した6月11日のソフトバンク戦以来となる実戦復帰を果たした。",
+      "link": "https://news.yahoo.co.jp/articles/92230f4c3025f3b1dca8d2657a0150b23b1183a1?source=rss",
+      "pubDate": "2026-08-02T10:52:17.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "tigers"
+      ],
+      "topics": [
+        "injury"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/92230f4c3025f3b1dca8d2657a0150b23b1183a1?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【オリックス】逆転負けで７・２３以来の借金１…敵地３カード連続負け越しで３位・日本ハムと７ゲーム差(スポーツ報知)",
+      "summary": "◆パ・リーグ 西武５―１オリックス（２日・ベルーナドーム） オリックスが逆転負けし、２カードぶりの負け越しとなった。７月２３日以来となる借金１に逆戻り。敵地では３カード連続負け越しで、ＣＳ圏内の３",
+      "link": "https://news.yahoo.co.jp/articles/049559f760349857c6969a9d3455ebd11bccd5ef?source=rss",
+      "pubDate": "2026-08-02T10:52:07.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "buffaloes"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/049559f760349857c6969a9d3455ebd11bccd5ef?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "オリックス 今季5度目の借金生活に 3カード連続負け越しの敵地で今季20の負け越し(スポニチアネックス)",
+      "summary": "◇パ・リーグ オリックス1―5西武（2026年8月2日 ベルーナドーム） オリックスが球宴明け最初のカードで負け越し、今季5度目の借金生活に。苦手のビジター球場では3カード連続負け越しで、今季通",
+      "link": "https://news.yahoo.co.jp/articles/8773baf7b8df91b82f6f0c3752c8defd0110dfbd?source=rss",
+      "pubDate": "2026-08-02T10:51:33.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "buffaloes"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/8773baf7b8df91b82f6f0c3752c8defd0110dfbd?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【オリックス】苦手敵地で３カード連続負け越しで再び借金生活へ ３位と７ゲーム差に拡大(日刊スポーツ)",
+      "summary": "＜西武5－1オリックス＞◇1◇ベルーナドーム オリックスが敵地で連敗し、7月23日以来の借金生活に逆戻りした。3位、日本ハムとのゲーム差も7に拡大。Aクラス復帰へ暗雲が漂った。 先発した高島泰",
+      "link": "https://news.yahoo.co.jp/articles/acc8fe3bfce6b4e08a9d2b81731bedfff308438b?source=rss",
+      "pubDate": "2026-08-02T10:51:07.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "buffaloes"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/acc8fe3bfce6b4e08a9d2b81731bedfff308438b?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【西武】後半戦最初のカード勝ち越しで２位死守！ ウィンゲンターがプロ野球最多に並ぶ１８試合連続ホールド(スポーツ報知)",
+      "summary": "◆パ・リーグ 西武５―１オリックス（２日・ベルーナドーム） 西武はオリックス相手に２連勝。後半戦最初のカードで勝ち越し、２位を死守した。 打線は１点を追う５回、１死満塁で蛭間が右翼手の頭上を越",
+      "link": "https://news.yahoo.co.jp/articles/5c3048c4e4f42e775b0e906321a6d732eaff32d4?source=rss",
+      "pubDate": "2026-08-02T10:50:37.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "lions"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/5c3048c4e4f42e775b0e906321a6d732eaff32d4?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "西武、ウィンゲンターがプロ野球タイ記録の18試合連続ホールド 武内夏暉は8勝目 2戦連続3安打の蛭間拓哉が逆転二塁打(西スポWEB OTTO!)",
+      "summary": "◆西武5―1オリックス（2日、ベルーナドーム） 西武が逆転勝ちで2連勝して2位をキープした。先発の武内夏暉は今季初対戦のオリックスを7回1失点に抑え、今季8勝目を手にした。 2番手で8回の1",
+      "link": "https://news.yahoo.co.jp/articles/faea996a0742160e7e0dd5b5e5f6f620b1276060?source=rss",
+      "pubDate": "2026-08-02T10:50:30.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "lions"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/faea996a0742160e7e0dd5b5e5f6f620b1276060?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【楽天】投手陣が精彩欠き４連敗で８年ぶり借金20 平良竜哉、マッカスカー１発など２ケタ安打も(日刊スポーツ)",
+      "summary": "＜楽天6－10ソフトバンク＞◇2日◇楽天モバイル最強パーク 楽天は投手陣が精彩を欠いて4連敗を喫し、8年ぶりの借金20を背負った。 0－0の3回、平良竜哉内野手（28）がソフトバンク前田悠から",
+      "link": "https://news.yahoo.co.jp/articles/50bbab3268bb7158016f17cade01b22bbe752cfb?source=rss",
+      "pubDate": "2026-08-02T10:49:07.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "eagles"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/50bbab3268bb7158016f17cade01b22bbe752cfb?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【ソフトバンク】最下位楽天にきっちり連勝 ６カード連続勝ち越し 貯金26 最短５日にＭ点灯(日刊スポーツ)",
+      "summary": "＜楽天6－10ソフトバンク＞◇2日◇楽天モバイル最強パーク 首位を走るソフトバンクが最下位の楽天にきっちり連勝。6カード連続の勝ち越しを決めた。 1点を追う4回だった。相手の守備のミスなどで2",
+      "link": "https://news.yahoo.co.jp/articles/d7a17447577c8c9870b000f7265864aa5f9ac00b?source=rss",
+      "pubDate": "2026-08-02T10:48:47.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "hawks"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/d7a17447577c8c9870b000f7265864aa5f9ac00b?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "ソフトバンク・前田悠伍が開幕9連勝！高卒3年目以内では堀内恒以来60年ぶり快挙 6回5失点も粘投実る(スポニチアネックス)",
+      "summary": "◇パ・リーグ ソフトバンク10―6楽天（2026年8月2日 楽天モバイル） ソフトバンクの前田悠伍投手（20）が2日、楽天戦（楽天モバイル）で今季12度目の先発登板。6回99球7安打5失点ながら",
+      "link": "https://news.yahoo.co.jp/articles/3f1a6fec1cb183c11abb417af28fdf40180b1b89?source=rss",
+      "pubDate": "2026-08-02T10:48:45.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "hawks",
+        "eagles"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/3f1a6fec1cb183c11abb417af28fdf40180b1b89?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【楽天】 大量失点で４連敗 今季ワースト借金２０ ３連続押し出し四球などで６回に痛恨６失点 雨中の乱戦に敗れる(スポーツ報知)",
+      "summary": "◆パ・リーグ 楽天６―１０ソフトバンク（２日・楽天モバイル最強パーク宮城） 楽天はソフトバンクに敗れ、４連敗となった。借金は今季ワーストの２０に膨れあがった。 ソフトバンク戦に先発した古謝は３",
+      "link": "https://news.yahoo.co.jp/articles/964daba01c70139f9b294efd6747be031fb2b2c7?source=rss",
+      "pubDate": "2026-08-02T10:48:14.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "eagles"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/964daba01c70139f9b294efd6747be031fb2b2c7?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "ソフトバンク、前田悠伍が今季最多5失点も開幕9連勝 高卒3年目以内では巨人・堀内恒夫以来60年ぶり 3連勝で貯金26は最多(西スポWEB OTTO!)",
+      "summary": "◆楽天6―10ソフトバンク（2日、楽天モバイル最強パーク宮城） 首位のソフトバンクが逆転勝ちで3連勝を飾り、今季最多の貯金26とした。先発の前田悠伍は6回を投げて今季最多の5失点ながら、開幕から",
+      "link": "https://news.yahoo.co.jp/articles/daf913754e9871206ece5550cf5c4bff9ab97509?source=rss",
+      "pubDate": "2026-08-02T10:48:11.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "hawks",
+        "giants"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/daf913754e9871206ece5550cf5c4bff9ab97509?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "阪神 前川右京が守備で痛恨のミス連発…初回に悪送球、4回には後逸の適時失策 骨折から復帰即スタメンも(スポニチアネックス)",
+      "summary": "◇セ・リーグ 阪神―ヤクルト（2026年8月2日 神宮） 後半戦3連勝スタートを狙う阪神は、ヤクルト戦で緊急昇格した前川右京外野手を「6番・左翼」でスタメン起用した。 中野拓夢内野手がベンチ",
+      "link": "https://news.yahoo.co.jp/articles/cc87fcf9651c4212e1322c9b5274972e1d213ec9?source=rss",
+      "pubDate": "2026-08-02T10:44:04.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "tigers"
+      ],
+      "topics": [
+        "injury"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/cc87fcf9651c4212e1322c9b5274972e1d213ec9?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【西武】ウィンゲンターがプロ野球最多に並ぶ１８試合連続ホールド 今季登板全試合でホールドマーク＆失点なしの防御率０・００(スポーツ報知)",
+      "summary": "◆パ・リーグ 西武―オリックス（２日・ベルーナドーム） 西武のトレイ・ウィンゲンター投手が２日・オリックス戦（ベルーナＤ）で、阪神・及川のプロ野球最多に並ぶ１８試合連続ホールドを達成した。 ２",
+      "link": "https://news.yahoo.co.jp/articles/67c4e8bc11e625a2ea5523f34b265ff873d40b7d?source=rss",
+      "pubDate": "2026-08-02T10:43:24.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "lions"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/67c4e8bc11e625a2ea5523f34b265ff873d40b7d?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【西武】ウィンゲンターが日本タイ記録の18試合連続ホールド、２点差の８回に登板し無失点(日刊スポーツ)",
+      "summary": "＜西武－オリックス＞◇2日◇ベルーナドーム 西武のトレイ・ウィンゲンター投手（32）が日本タイ記録の18試合連続ホールドをマークした。 7回1失点と好投した先発武内夏暉投手（25）のあとを受け",
+      "link": "https://news.yahoo.co.jp/articles/48ce24a29cf7c0c036e307894ebc09b1de31ea7a?source=rss",
+      "pubDate": "2026-08-02T10:42:43.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "lions"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/48ce24a29cf7c0c036e307894ebc09b1de31ea7a?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【ソフトバンク】前田悠伍、開幕から無傷９勝目の権利も笑顔なし「反省の多い…」６回５失点(日刊スポーツ)",
+      "summary": "＜楽天－ソフトバンク＞◇2日◇楽天モバイル最強パーク ソフトバンクの前田悠伍投手（20）が開幕から無傷の9勝目の権利を手にして降板した。 初回から2回まで打者6人で抑えるパーフェクトの立ち上が",
+      "link": "https://news.yahoo.co.jp/articles/e6ac4e4bec3dafc54f9b121f8363addc202ec407?source=rss",
+      "pubDate": "2026-08-02T10:41:20.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "hawks"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/e6ac4e4bec3dafc54f9b121f8363addc202ec407?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【阪神】坂本誠志郎、自身初の２試合連続弾！左翼ポール際に今季４号ソロ(スポーツ報知)",
+      "summary": "◆ＪＥＲＡセ・リーグ ヤクルト―阪神（２日・神宮） 阪神・坂本誠志郎捕手が、自身初となる２試合連続弾を放った。 １点リードの４回１死、助っ人右腕・ウォルターズの直球を左翼ポール際に運んだ。「打",
+      "link": "https://news.yahoo.co.jp/articles/86c236e9564ee81406c12240f8c4ff299d7a5423?source=rss",
+      "pubDate": "2026-08-02T10:40:50.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "tigers"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/86c236e9564ee81406c12240f8c4ff299d7a5423?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【阪神】坂本誠志郎の長打力が覚醒？11年目で初の２試合連続アーチで自己最多また更新(日刊スポーツ)",
+      "summary": "＜ヤクルト－阪神＞◇2日◇神宮 阪神坂本誠志郎捕手（32）が、4号ソロで貴重な追加点を挙げた。 3－2の4回1死で、ヤクルト先発のナッシュ・ウォルターズ投手（29）の初球の高め直球をとらえた。",
+      "link": "https://news.yahoo.co.jp/articles/ac02f10a4237e5de05fcef6c5ba38eabf2ded695?source=rss",
+      "pubDate": "2026-08-02T10:40:38.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "tigers"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/ac02f10a4237e5de05fcef6c5ba38eabf2ded695?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "西武・ウィンゲンター、18試合連続ホールドの日本タイ記録＆パ・リーグ新記録達成(サンケイスポーツ)",
+      "summary": "（パ・リーグ、西武－オリックス、17回戦、2日、ベルーナD）西武のトレイ・ウィンゲンター投手（32）が18試合連続ホールドの日本タイ記録＆パ・リーグ新記録を達成した。 3-1の八回に2番手で登板し、",
+      "link": "https://news.yahoo.co.jp/articles/af38557d3ecdc1014465d7ef15efdc49a439e07d?source=rss",
+      "pubDate": "2026-08-02T10:38:21.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "lions"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/af38557d3ecdc1014465d7ef15efdc49a439e07d?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【中日】プロ４年目の樋口正修、プロ初打点＆初適時打で先制 １年ぶりのスタメン起用に応える(日刊スポーツ)",
+      "summary": "＜広島－中日＞◇2日◇マツダスタジアム 中日樋口修内野手（27）が、約1年ぶりのスタメン起用で先制打となるプロ初打点＆プロ初適時打を記録した。 「1番二塁」でスタメン出場。先発起用は25年8月",
+      "link": "https://news.yahoo.co.jp/articles/1c98036d21fec4cac12cb4d60f808c1bcac963ae?source=rss",
+      "pubDate": "2026-08-02T10:29:38.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "dragons"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/1c98036d21fec4cac12cb4d60f808c1bcac963ae?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【阪神】目立ってきた佐藤輝明への厳しい内角攻め 逆転打直前にも2球のけぞる 要注意人物の証(日刊スポーツ)",
+      "summary": "＜ヤクルト－阪神＞◇2日◇神宮 セ・リーグ首位打者、阪神佐藤輝明内野手（27）への厳しい内角攻めが目立ってきた。 3回2死一、二塁の第2打席ではヤクルトのナッシュ・ウォルターズ投手（29）から",
+      "link": "https://news.yahoo.co.jp/articles/e62b64a83de55a2530271efd274cc7c2b02351c7?source=rss",
+      "pubDate": "2026-08-02T10:23:15.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "tigers"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/e62b64a83de55a2530271efd274cc7c2b02351c7?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【阪神】打者・下村海翔の驚異の粘り無駄にせず 佐藤輝明の２点二塁打で３回に逆転成功(日刊スポーツ)",
+      "summary": "＜ヤクルト－阪神＞◇2日◇神宮 阪神が0－1の3回に逆転した。2死一、二塁から佐藤輝明内野手（27）の右翼線二塁打で2者を生還させた。 初対戦のナッシュ・ウォルターズ投手（29）に2回まで無得",
+      "link": "https://news.yahoo.co.jp/articles/b0d3aa68ae9cc66d9e824d92c52d1f314f809b01?source=rss",
+      "pubDate": "2026-08-02T10:19:11.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "tigers"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/b0d3aa68ae9cc66d9e824d92c52d1f314f809b01?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【阪神】「代役」二塁手・高寺望夢が守備でピンチ救う 二塁ベースに自ら駆け込む好判断(日刊スポーツ)",
+      "summary": "＜ヤクルト－阪神＞◇2日◇神宮 阪神高寺望夢内野手（23）がピンチを救った。 中野拓夢内野手（30）に代わって二塁で先発。0－1の2回2死一、三塁で岩田幸宏外野手（29）の高いバウンドの打球が",
+      "link": "https://news.yahoo.co.jp/articles/f08e1125df1de6a2d604dabdf277c9166c01a8f6?source=rss",
+      "pubDate": "2026-08-02T10:15:17.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "tigers"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/f08e1125df1de6a2d604dabdf277c9166c01a8f6?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【ヤクルト】増田珠が先制打「打ったのはストレート。先制点が欲しい所で積極的にいきました」(日刊スポーツ)",
+      "summary": "＜ヤクルト－阪神＞◇1日◇神宮 ヤクルト増田珠外野手（27）が先制打を放った。1回裏、阪神先発下村を攻めて1死一、二塁。4番右翼で先発の増田がが左前に適時打を放った。 「打ったのはストレート。",
+      "link": "https://news.yahoo.co.jp/articles/3693a9efc449b25b78fac3ef36ff0343044ad72d?source=rss",
+      "pubDate": "2026-08-02T10:08:35.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "swallows"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/3693a9efc449b25b78fac3ef36ff0343044ad72d?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【阪神】坂本誠志郎指示のバント守備網が成功 大山悠輔の猛チャージでピンチ拡大防ぐ(日刊スポーツ)",
+      "summary": "＜ヤクルト－阪神＞◇1日◇神宮 阪神のバント守備網が成功した。 0－1の2回無死一、二塁でナッシュ・ウォルターズ投手（29）はバントの構え。司令塔・坂本誠志郎捕手（32）のサインを受け、一塁手",
+      "link": "https://news.yahoo.co.jp/articles/978e1fe7720aa7b011022bc2a4c533016ac999f0?source=rss",
+      "pubDate": "2026-08-02T09:59:20.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "tigers"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/978e1fe7720aa7b011022bc2a4c533016ac999f0?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【広島】スタメン復帰の秋山翔吾「顔がよぎると、頑張りたいと思う」ひとり親家庭を招待し奮起(日刊スポーツ)",
+      "summary": "＜広島－中日＞◇2日◇マツダスタジアム 広島秋山翔吾外野手（38）が「5番右翼」で2試合ぶりにスタメン復帰した。この日は広島県内に住む、ひとり親家庭13組30人を招待した。西武時代の15年に始め、",
+      "link": "https://news.yahoo.co.jp/articles/6ddc282a6c71a85587bc709639a48bcd5e02d9ce?source=rss",
+      "pubDate": "2026-08-02T09:56:10.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "carp"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/6ddc282a6c71a85587bc709639a48bcd5e02d9ce?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【阪神】珍事？捕球し損ねた力ないボールが一塁コーチャー筒井コーチに当たる 無事で試合続行(日刊スポーツ)",
+      "summary": "＜ヤクルト－阪神＞◇1日◇神宮 阪神の一塁コーチャー、筒井壮外野守備兼走塁コーチ（51）に捕球し損ねたボールが当たる珍事が起こった。 2回1死、前川右京外野手（23）が三遊間へボテボテのゴロを",
+      "link": "https://news.yahoo.co.jp/articles/76a0f618700763bd419340d4e1b79c926824e1d6?source=rss",
+      "pubDate": "2026-08-02T09:55:20.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "tigers"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/76a0f618700763bd419340d4e1b79c926824e1d6?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【DeNA】幼少期は巨人ファン深沢鳳介、憧れの東京Dで家族見守る中３勝目「楽しく投げた」(日刊スポーツ)",
+      "summary": "＜巨人1－2DeNA＞◇2日◇東京ドーム DeNAが2連勝で3カードぶりの勝ち越しを決めた。先発の深沢鳳介投手（22）は6回途中5安打1失点の好投で今季3勝目を挙げた。7月5日のヤクルト戦（神宮）",
+      "link": "https://news.yahoo.co.jp/articles/338e407f4dd56d2efb0e29cd99e41cfc7820dab5?source=rss",
+      "pubDate": "2026-08-02T09:48:10.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "baystars"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/338e407f4dd56d2efb0e29cd99e41cfc7820dab5?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【阪神】１軍復帰の前川右京がいきなり失策＆安打 初回に悪送球、追加点にはつながらず(日刊スポーツ)",
+      "summary": "＜ヤクルト－阪神＞◇2日◇神宮 復帰戦となった阪神前川右京外野手（23）がいきなり失策をおかした。 初回1死一、二塁で増田珠外野手（27）に左前打され、先制の1点が入った。 左翼の前川は打",
+      "link": "https://news.yahoo.co.jp/articles/7a5e8d1d3de1baf4f4a9221367add1505bee1f16?source=rss",
+      "pubDate": "2026-08-02T09:37:19.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "tigers"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/7a5e8d1d3de1baf4f4a9221367add1505bee1f16?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【オリックス】紅林弘太郎、同学年の西武武内夏暉から先制適時打「積極的に振っていこうと…」 (日刊スポーツ)",
+      "summary": "＜西武－オリックス＞◇2日◇ベルーナドーム オリックス紅林弘太郎内野手（24）が2回1死二塁で、先制適時打を放った。 3ボールから西武先発・武内の148キロストレートを振り抜くと打球は左翼線へ",
+      "link": "https://news.yahoo.co.jp/articles/f1fe941f5aa15ea1461476e92ddb29864e9522f5?source=rss",
+      "pubDate": "2026-08-02T09:36:35.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "buffaloes"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/f1fe941f5aa15ea1461476e92ddb29864e9522f5?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【楽天】古謝樹「1点差にしてもらったのに」自責２ながら６回途中６失点で降板 ５者連続三振も(日刊スポーツ)",
+      "summary": "＜楽天－ソフトバンク＞◇2日◇楽天モバイル最強パーク 楽天古謝樹投手（24）は悔しい途中降板となった。 初回、ソフトバンク正木を右飛、周東を左飛、近藤を遊ゴロと3者凡退で発進。2回2死から山本",
+      "link": "https://news.yahoo.co.jp/articles/93ca4b60c7493db9fa7b42da0c72f2da90e9da9b?source=rss",
+      "pubDate": "2026-08-02T09:36:10.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "eagles"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/93ca4b60c7493db9fa7b42da0c72f2da90e9da9b?source=rss"
+        }
+      ]
+    },
     {
       "title": "【ソフトバンク】今宮健太、11戦ぶりのスタメン起用に応える一打「とにかく思い切って…」(日刊スポーツ)",
       "summary": "ソフトバンク今宮健太内野手（35）が11戦ぶりの先発起用にバットで応えた。 2点リードの4回2死一塁から適時二塁打。カウント1－1からの3球目、内角高め直球を捉え、左翼線へはじき返した。5月28日",
@@ -192,11 +806,6 @@
           "name": "Full-Count（プロ野球）",
           "sourceId": "full-count-npb",
           "link": "https://full-count.jp/2026/08/02/post1993615/"
-        },
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/34711d9592a195f6dc0a260cfa4777ae9e60b83b?source=rss"
         }
       ]
     },
