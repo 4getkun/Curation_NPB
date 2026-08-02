@@ -1,7 +1,28 @@
 {
-  "generatedAt": "2026-08-02T14:44:53.618Z",
-  "count": 3367,
+  "generatedAt": "2026-08-02T15:50:23.872Z",
+  "count": 3368,
   "items": [
+    {
+      "title": "西武・若林楽人、スーパーキャッチ＆移籍後初安打「自分の中でもナイスプレーだったと思います」(サンケイスポーツ)",
+      "summary": "（パ・リーグ、西武5－1オリックス、17回戦、オリックス9勝7敗1分、2日、ベルーナD）復帰2戦目の西武・若林楽人外野手（28）が移籍後初安打に超ファインプレーで、連勝に貢献した。 2戦連続「9番・",
+      "link": "https://news.yahoo.co.jp/articles/8e7a18f78613f716708b5832f3df054e706a5136?source=rss",
+      "pubDate": "2026-08-02T15:13:28.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "lions"
+      ],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/8e7a18f78613f716708b5832f3df054e706a5136?source=rss"
+        }
+      ]
+    },
     {
       "title": "【データ】工藤泰成が初セーブ 阪神の育成ドラフト出身選手がセーブを挙げたのは２人目(日刊スポーツ)",
       "summary": "＜ヤクルト3－4阪神＞◇2日◇神宮 阪神が今季4度目の同一カード3連戦3連勝を飾った。前半戦を含めれば4連勝。貯金「13」は今季最多更新で、2位巨人に2ゲーム差をつけた。 ▼阪神工藤が初セーブ",
@@ -201,16 +222,16 @@
       "summary": "＜広島4－3中日＞◇2日◇マツダスタジアム 広島が秋山翔吾外野手（38）の逆転3号2ランで中日に逆転勝利した。後半戦最初のカードを勝ち越し、5月9日以来の最下位転落を阻止した。1点ビハインドの8回",
       "link": "https://news.yahoo.co.jp/articles/fc515bed03885bfdec3b6da6581ad23bcd85b5a9?source=rss",
       "pubDate": "2026-08-02T13:29:58.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
       "teams": [
         "carp"
       ],
       "topics": [],
       "sources": [
         {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/fc515bed03885bfdec3b6da6581ad23bcd85b5a9?source=rss"
         }
       ]
@@ -277,16 +298,16 @@
       "summary": "＜広島4－3中日＞◇2日◇マツダスタジアム 中日はまさかの逆転負けで、5位浮上を逃した。 1点リードの8回、勝ちパターンの吉田聖弥投手（24）が2死から坂倉に左前打を許すと、続く秋山に1－1か",
       "link": "https://news.yahoo.co.jp/articles/5fb0341ad3d20691c442b5f5119340947c3e2bb6?source=rss",
       "pubDate": "2026-08-02T13:26:26.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
       "teams": [
         "dragons"
       ],
       "topics": [],
       "sources": [
         {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/5fb0341ad3d20691c442b5f5119340947c3e2bb6?source=rss"
         }
       ]
@@ -296,16 +317,16 @@
       "summary": "＜広島4－3中日＞◇2日◇マツダスタジアム 広島秋山翔吾外野手（38）が最下位転落の危機から救った。 1点ビハインドの8回2死一塁。カウント1－1から初対戦の中日吉田の大きく曲がるスライダーに",
       "link": "https://news.yahoo.co.jp/articles/b67da03dc74312657c44accd76308bd69489a665?source=rss",
       "pubDate": "2026-08-02T13:25:43.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
       "teams": [
         "carp"
       ],
       "topics": [],
       "sources": [
         {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/b67da03dc74312657c44accd76308bd69489a665?source=rss"
         }
       ]
@@ -388,7 +409,7 @@
     },
     {
       "title": "【阪神】坂本誠志郎が勝負決めた ９回決勝５号ソロ びっくり初体験の１試合２本塁打(日刊スポーツ)",
-      "summary": "＜ヤクルト3－4阪神＞◇2日◇神宮 阪神坂本誠志郎捕手（32）が試合を決めた。3－3のまま進んだ9回、左越えに5号ソロを打ち込んだ。この試合2本目のアーチ。「恐怖の7番打者」がバットでヤクルトを沈",
+      "summary": "＜ヤクルト3－4阪神＞◇2日◇神宮 「恐怖の7番」が試合を決めた。3－3の9回、阪神坂本誠志郎捕手（32）がヤクルト守護神キハダから左越えに決勝の5号ソロ。この日2本目のアーチは値千金、女房役が粘",
       "link": "https://news.yahoo.co.jp/articles/5c278ecdd7f251cc3d7788bc050845ec8eb6f3a4?source=rss",
       "pubDate": "2026-08-02T13:05:52.000Z",
       "source": "日刊スポーツ（Yahoo!ニュース経由）",
