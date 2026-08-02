@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-02T13:03:16.439Z",
+  "generatedAt": "2026-08-02T14:44:54.860Z",
   "teams": {
     "giants": [
       {
@@ -155,6 +155,21 @@
     ],
     "tigers": [
       {
+        "gameNumber": 94,
+        "date": "8月2日",
+        "opponentTeamId": "swallows",
+        "opponentText": "ヤクルト",
+        "score": "4-3",
+        "ownScore": 4,
+        "opponentScore": 3,
+        "result": "win",
+        "winningPitcher": "及川（2-1）",
+        "losingPitcher": "",
+        "savePitcher": "工藤（2-0-1）",
+        "venue": "神宮",
+        "record": "53-40-1"
+      },
+      {
         "gameNumber": 93,
         "date": "8月1日",
         "opponentTeamId": "swallows",
@@ -288,21 +303,6 @@
         "savePitcher": "ドリス（2-2-16）",
         "venue": "マツダ",
         "record": "47-37-1"
-      },
-      {
-        "gameNumber": 84,
-        "date": "7月18日",
-        "opponentTeamId": "carp",
-        "opponentText": "広島",
-        "score": "1-2",
-        "ownScore": 1,
-        "opponentScore": 2,
-        "result": "loss",
-        "winningPitcher": "栗林（5-3）",
-        "losingPitcher": "伊藤将（0-1）",
-        "savePitcher": "森浦（4-2-10）",
-        "venue": "マツダ",
-        "record": "46-37-1"
       }
     ],
     "carp": [
@@ -451,7 +451,7 @@
         "opponentScore": 1,
         "result": "win",
         "winningPitcher": "栗林（5-3）",
-        "losingPitcher": "伊藤将（0-1）",
+        "losingPitcher": "",
         "savePitcher": "森浦（4-2-10）",
         "venue": "マツダ",
         "record": "33-45-4"
