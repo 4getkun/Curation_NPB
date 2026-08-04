@@ -1,41 +1,202 @@
 {
-  "generatedAt": "2026-08-03T23:57:19.868Z",
-  "count": 3553,
+  "generatedAt": "2026-08-04T01:51:31.863Z",
+  "count": 3561,
   "items": [
     {
-      "title": "【パ入れ替え＆２軍情報】ソフトバンク、育成３人を支配下＆ラトリッジ獲得で70人枠いっぱいに(日刊スポーツ)",
-      "summary": "先週の入れ替え＆ファーム情報を、球団別でおさらいします。パ・リーグ編。 ◇ ◇ ◇ 【ソフトバンク】育成から張峻瑋（チャン・ジュンウェイ）投手（20）、ルイス・ロドリゲス投手（24",
-      "link": "https://news.yahoo.co.jp/articles/e2dc91fb47356ba65d85fe3e8a90878b345bf60d?source=rss",
-      "pubDate": "2026-08-03T23:56:01.000Z",
+      "title": "オリックス・来田涼斗が劇的サヨナラHR 17年ぶり東京D主催試合で“空中戦”制す…3日パ結果",
+      "summary": "パ・リーグのパーソル パ・リーグ公式戦は3日に1試合が行われ、オリックスが楽天に9-6でサヨナラ勝ちを収め、連敗を止めた。",
+      "link": "https://full-count.jp/2026/08/04/post1999153/",
+      "pubDate": "2026-08-04T01:49:12.000Z",
+      "source": "Full-Count（プロ野球）",
+      "sourceId": "full-count-npb",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Full-Count（プロ野球）",
+          "sourceId": "full-count-npb",
+          "link": "https://full-count.jp/2026/08/04/post1999153/"
+        }
+      ]
+    },
+    {
+      "title": "阪神・坂本誠志郎の“6番”はあり？ 田尾氏「いいんじゃないですか」",
+      "summary": "3日にフジテレビONEで放送された『プロ野球ニュース2026』に出演した田尾安志氏が、阪神・坂本誠志郎について言及した。 田尾氏は「1番から5番まで頑張ってもくれるのは当たり前。下位打線の中で誰か出てこないかなという […]",
+      "link": "https://baseballking.jp/ns/703301/",
+      "pubDate": "2026-08-04T01:30:00.000Z",
+      "source": "BASEBALL KING",
+      "sourceId": "baseballking",
+      "teams": [
+        "tigers"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "BASEBALL KING",
+          "sourceId": "baseballking",
+          "link": "https://baseballking.jp/ns/703301/"
+        },
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/f1a1fcac7b6863effe0d9a8942c815f4cfbc9e10?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "中日・阿部寿樹が「JERA セ・リーグ AWARD」6・7月度大賞 代打で存在感「チーム引っ張っている」",
+      "summary": "熱戦を盛り上げるリーグ公式表彰「月間JERAセ・リーグAWARD」6・7月度の大賞が3日、発表された。ノミネートされた6人の中から、公式配信番組「JERAセ・リーグ レジェンドLIVE」内でレジェンドOBによる選考が行われ、中日の阿部寿樹内…",
+      "link": "https://full-count.jp/2026/08/04/post1999079/",
+      "pubDate": "2026-08-04T01:25:40.000Z",
+      "source": "Full-Count（プロ野球）",
+      "sourceId": "full-count-npb",
+      "teams": [
+        "dragons"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Full-Count（プロ野球）",
+          "sourceId": "full-count-npb",
+          "link": "https://full-count.jp/2026/08/04/post1999079/"
+        },
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/f697053219692fe8b041063399a2b3b928b4b0da?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "掛布氏が選んだ阪神7月のベストプレー3候補 連敗止めたエースの仕事を絶賛「左右の投げ分け。完璧」",
+      "summary": "阪神ファンに人気のABCテレビ公式YouTube「虎バンチャンネル」では、今季も「DID 大同工業 presents 阪神タイガース DIDアワード」を開催。3日、7月度のノミネートプレー3選が発表された。",
+      "link": "https://full-count.jp/2026/08/04/post1999059/",
+      "pubDate": "2026-08-04T01:22:01.000Z",
+      "source": "Full-Count（プロ野球）",
+      "sourceId": "full-count-npb",
+      "teams": [
+        "tigers"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Full-Count（プロ野球）",
+          "sourceId": "full-count-npb",
+          "link": "https://full-count.jp/2026/08/04/post1999059/"
+        },
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/2db15398795001c89bd28c2c057c51baa71d0e30?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【プロ野球】掛布雅之が語る「三冠王・佐藤輝明」誕生の可能性 森下翔太が好調な理由、立石正広の「気になる」点も指摘(webスポルティーバ)",
+      "summary": "掛布雅之インタビュー 前編 三冠王を射程圏内にとらえている佐藤輝明。その佐藤を上回る25本塁打（成績は８月３日時点。以下同）を放つなど、さらなる成長を見せる森下翔太。ふたりに続こうと一定の活躍を見",
+      "link": "https://news.yahoo.co.jp/articles/57299f66a5d0164900a38843cb19ccb5ac555f3c?source=rss",
+      "pubDate": "2026-08-04T01:05:42.000Z",
       "source": "Yahoo!ニュース スポーツ",
       "sourceId": "yahoo-sports",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/57299f66a5d0164900a38843cb19ccb5ac555f3c?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "田尾氏、巨人・浦田は「頑張っている」と一定の評価も「心配なのは…」",
+      "summary": "3日にフジテレビONEで放送された『プロ野球ニュース2026』に出演した田尾安志氏と佐伯貴弘氏が、巨人・浦田俊輔について言及した。 田尾氏は「頑張っていると思いますけど」と一定の評価をしながらも、「心配なのは浦田選手 […]",
+      "link": "https://baseballking.jp/ns/703297/",
+      "pubDate": "2026-08-04T01:00:00.000Z",
+      "source": "BASEBALL KING",
+      "sourceId": "baseballking",
+      "teams": [
+        "giants"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "BASEBALL KING",
+          "sourceId": "baseballking",
+          "link": "https://baseballking.jp/ns/703297/"
+        }
+      ]
+    },
+    {
+      "title": "「また戻りたいよ」元ロッテのゲレーロを虜にした“日本食” 忘れられない幕張の景色「世界で一番素晴らしい」",
+      "summary": "「お金があれば日本に住みたい」元ロッテのゲレーロが明かす日本愛。家族と共に過ごした思い出と、今も胸に秘める「3度目の来日」への強い想い。",
+      "link": "https://full-count.jp/2026/08/04/post1999062/",
+      "pubDate": "2026-08-04T00:57:22.000Z",
+      "source": "Full-Count（プロ野球）",
+      "sourceId": "full-count-npb",
+      "teams": [
+        "marines"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Full-Count（プロ野球）",
+          "sourceId": "full-count-npb",
+          "link": "https://full-count.jp/2026/08/04/post1999062/"
+        }
+      ]
+    },
+    {
+      "title": "セの新人王は竹丸？浦田？工藤？ 佐伯氏「チーム成績が左右するかも」",
+      "summary": "3日にフジテレビONEで放送された『プロ野球ニュース2026』に出演した田尾安志氏と佐伯貴弘氏が、セ・リーグの新人王争いについて言及した。 田尾氏は「具体的に見たら竹丸、浦田あたりになりますからね」と予想すると、佐伯 […]",
+      "link": "https://baseballking.jp/ns/703285/",
+      "pubDate": "2026-08-04T00:30:00.000Z",
+      "source": "BASEBALL KING",
+      "sourceId": "baseballking",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "BASEBALL KING",
+          "sourceId": "baseballking",
+          "link": "https://baseballking.jp/ns/703285/"
+        }
+      ]
+    },
+    {
+      "title": "【パ入れ替え＆２軍情報】ソフトバンク、育成３人を支配下＆ラトリッジ獲得で70人枠いっぱいに(日刊スポーツ)",
+      "summary": "先週の入れ替え＆ファーム情報を、球団別でおさらいします。パ・リーグ編。 ◇ ◇ ◇ 【ソフトバンク】育成から張峻瑋（チャン・ジュンウェイ）投手（20）、ルイス・ロドリゲス投手（",
+      "link": "https://news.yahoo.co.jp/articles/e2dc91fb47356ba65d85fe3e8a90878b345bf60d?source=rss",
+      "pubDate": "2026-08-03T23:56:01.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
       "teams": [
         "hawks"
       ],
       "topics": [],
       "sources": [
         {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/e2dc91fb47356ba65d85fe3e8a90878b345bf60d?source=rss"
         }
       ]
     },
     {
       "title": "【楽天】相性いいオリックス戦 一つでも上の順位に行くために大阪で連勝を(日刊スポーツ)",
-      "summary": "各チームの現在地を紹介します！ 球団別に担当記者が選んだ先週のMVP、今週の見どころ、入れ替え＆2軍情報、広報情報をお届けします。 【楽天】 ＜先週のMVP＞平良竜哉内野手が2カ月ぶりアーチを放",
+      "summary": "各チームの現在地を紹介します！ 球団別に担当記者が選んだ先週のMVP、今週の見どころ、入れ替え＆2軍情報、広報情報をお届けします。 【楽天】 ＜先週のMVP＞平良竜哉内野手が2カ月ぶりアーチ",
       "link": "https://news.yahoo.co.jp/articles/421960c1dbe9b027907413aa0d5d675c7ba2505a?source=rss",
       "pubDate": "2026-08-03T23:56:01.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
       "teams": [
         "eagles"
       ],
       "topics": [],
       "sources": [
         {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/421960c1dbe9b027907413aa0d5d675c7ba2505a?source=rss"
         }
       ]
@@ -45,16 +206,16 @@
       "summary": "各チームの現在地を紹介します！ 球団別に担当記者が選んだ先週のMVP、今週の見どころ、入れ替え＆2軍情報、広報情報をお届けします。 【ロッテ】 ＜先週のMVP＞佐藤都志也捕手が勝負強さを発揮",
       "link": "https://news.yahoo.co.jp/articles/e0ab92cabf89f14c4ab99ef9939053bb0538e71b?source=rss",
       "pubDate": "2026-08-03T23:56:01.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
       "teams": [
         "marines"
       ],
       "topics": [],
       "sources": [
         {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/e0ab92cabf89f14c4ab99ef9939053bb0538e71b?source=rss"
         }
       ]
@@ -64,16 +225,16 @@
       "summary": "各チームの現在地を紹介します！ 球団別に担当記者が選んだ先週のMVP、今週の見どころ、入れ替え＆2軍情報、広報情報をお届けします。 【オリックス】 ＜先週のMVP＞後半戦開幕の7月31日の西",
       "link": "https://news.yahoo.co.jp/articles/502831dc3799e44eaffd70ec121b8f98f782ecb2?source=rss",
       "pubDate": "2026-08-03T23:56:01.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
       "teams": [
         "buffaloes"
       ],
       "topics": [],
       "sources": [
         {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/502831dc3799e44eaffd70ec121b8f98f782ecb2?source=rss"
         }
       ]
@@ -83,8 +244,8 @@
       "summary": "各チームの現在地を紹介します！ 球団別に担当記者が選んだ先週のMVP、今週の見どころ、入れ替え＆2軍情報、広報情報をお届けします。 【日本ハム】 ＜先週のMVP＞中継ぎに配置転換となっていた",
       "link": "https://news.yahoo.co.jp/articles/eb9aaedeca8f880b689daa2a8589968e89a90aff?source=rss",
       "pubDate": "2026-08-03T23:56:01.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
       "teams": [
         "fighters",
         "hawks"
@@ -92,8 +253,8 @@
       "topics": [],
       "sources": [
         {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/eb9aaedeca8f880b689daa2a8589968e89a90aff?source=rss"
         }
       ]
@@ -103,16 +264,16 @@
       "summary": "各チームの現在地を紹介します！ 球団別に担当記者が選んだ先週のMVP、今週の見どころ、入れ替え＆2軍情報、広報情報をお届けします。 【西武】 ＜先週のMVP＞蛭間拓哉外野手が「獅子」になった",
       "link": "https://news.yahoo.co.jp/articles/408143dc23ddfc84ce4a42c2a1ee09ea3d4284ae?source=rss",
       "pubDate": "2026-08-03T23:56:01.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
       "teams": [
         "lions"
       ],
       "topics": [],
       "sources": [
         {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/408143dc23ddfc84ce4a42c2a1ee09ea3d4284ae?source=rss"
         }
       ]
@@ -122,16 +283,16 @@
       "summary": "各チームの現在地を紹介します！ 球団別に担当記者が選んだ先週のMVP、今週の見どころ、入れ替え＆2軍情報、広報情報をお届けします。 【ソフトバンク】 ＜先週のMVP＞チーム最年長37歳の柳田",
       "link": "https://news.yahoo.co.jp/articles/4e17082af4ad65f148d48f0fbebdd017279d5ff2?source=rss",
       "pubDate": "2026-08-03T23:56:01.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
       "teams": [
         "hawks"
       ],
       "topics": [],
       "sources": [
         {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/4e17082af4ad65f148d48f0fbebdd017279d5ff2?source=rss"
         }
       ]
@@ -141,8 +302,8 @@
       "summary": "各チームの現在地を紹介します！ 球団別に担当記者が選んだ先週のMVP、今週の見どころ、入れ替え＆2軍情報、広報情報をお届けします。 【DeNA】 ＜先週のMVP＞ドラフト3位の宮下朝陽内野手",
       "link": "https://news.yahoo.co.jp/articles/8db2e4625387f133333bdd07e1722476e2a5d915?source=rss",
       "pubDate": "2026-08-03T23:55:02.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
       "teams": [
         "baystars"
       ],
@@ -151,8 +312,8 @@
       ],
       "sources": [
         {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/8db2e4625387f133333bdd07e1722476e2a5d915?source=rss"
         }
       ]
@@ -162,16 +323,16 @@
       "summary": "各チームの現在地を紹介します！ 球団別に担当記者が選んだ先週のMVP、今週の見どころ、入れ替え＆2軍情報、広報情報をお届けします。 【阪神】 ＜先週のMVP＞木下里都投手と工藤泰成投手の16",
       "link": "https://news.yahoo.co.jp/articles/63563549b4ec46f7767b413f4d8eccfb24c1a561?source=rss",
       "pubDate": "2026-08-03T23:55:02.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
       "teams": [
         "tigers"
       ],
       "topics": [],
       "sources": [
         {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/63563549b4ec46f7767b413f4d8eccfb24c1a561?source=rss"
         }
       ]
@@ -181,16 +342,16 @@
       "summary": "各チームの現在地を紹介します！ 球団別に担当記者が選んだ先週のMVP、今週の見どころ、入れ替え＆2軍情報、広報情報をお届けします。 【中日】 ＜先週のMVP＞2年ぶりに出場した球宴でMVPと",
       "link": "https://news.yahoo.co.jp/articles/7acdcbfb0acdf27059345a260a3f03ba27a8496f?source=rss",
       "pubDate": "2026-08-03T23:55:02.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
       "teams": [
         "dragons"
       ],
       "topics": [],
       "sources": [
         {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/7acdcbfb0acdf27059345a260a3f03ba27a8496f?source=rss"
         }
       ]
@@ -241,16 +402,16 @@
       "summary": "各チームの現在地を紹介します！ 球団別に担当記者が選んだ先週のMVP、今週の見どころ、入れ替え＆2軍情報、広報情報をお届けします。 【広島】 ＜先週のMVP＞秋山翔吾外野手が、チームを最下位",
       "link": "https://news.yahoo.co.jp/articles/e7df84685791719d0f0f3b006b283268f58f0035?source=rss",
       "pubDate": "2026-08-03T23:55:01.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
       "teams": [
         "carp"
       ],
       "topics": [],
       "sources": [
         {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/e7df84685791719d0f0f3b006b283268f58f0035?source=rss"
         }
       ]
@@ -260,16 +421,16 @@
       "summary": "各チームの現在地を紹介します！ 球団別に担当記者が選んだ先週のMVP、今週の見どころ、入れ替え＆2軍情報、広報情報をお届けします。 【ヤクルト】 ＜先週のMVP＞長岡秀樹内野手が全3試合で打",
       "link": "https://news.yahoo.co.jp/articles/b073e9b0c7758f5a612a45b0d17f7d7e86edc3cd?source=rss",
       "pubDate": "2026-08-03T23:55:01.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
       "teams": [
         "swallows"
       ],
       "topics": [],
       "sources": [
         {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/b073e9b0c7758f5a612a45b0d17f7d7e86edc3cd?source=rss"
         }
       ]
@@ -412,7 +573,7 @@
       ]
     },
     {
-      "title": "太田椋が負傷交代も…オリックス・来田、チャンスを活かし2ホーマー5打点の大暴れ！佐伯氏「何か持っている感じがします」オリックス",
+      "title": "太田椋が負傷交代も…オリックス・来田、チャンスを活かし2ホーマー5打点の大暴れ！佐伯氏「何か持っている感じがします」",
       "summary": "3日にフジテレビONEで放送された『プロ野球ニュース2026』に出演した田尾安志氏と佐伯貴弘氏が、オリックス・来田涼斗について言及した。 来田は同日の楽天戦、太田椋のアクシデントで1回に代打で登場すると、1打席目に適 […]",
       "link": "https://baseballking.jp/ns/703214/",
       "pubDate": "2026-08-03T21:50:00.000Z",
