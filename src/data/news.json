@@ -1,7 +1,356 @@
 {
-  "generatedAt": "2026-08-05T20:42:52.784Z",
-  "count": 3946,
+  "generatedAt": "2026-08-05T22:03:14.236Z",
+  "count": 3962,
   "items": [
+    {
+      "title": "まさかの”今季絶望”も！？ 長期離脱が確定した選手（1）巨人のレギュラーがまたも“戦線離脱”(ベースボールチャンネル)",
+      "summary": "レギュラーシーズン後半戦に突入した2026年のプロ野球。リーグ優勝をかけて熱戦が続いている中で、今シーズンも各球団でアクシデントが発生しており、早期復帰が難しくなった選手も少なくない。ここでは、今シ",
+      "link": "https://news.yahoo.co.jp/articles/2e29ebaf645e24ff5890ea05fc6c2b39095c660c?source=rss",
+      "pubDate": "2026-08-05T22:01:32.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "giants"
+      ],
+      "topics": [
+        "injury"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/2e29ebaf645e24ff5890ea05fc6c2b39095c660c?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【DeNA】Ｖ弾の宮下朝陽「毎回みんな騒いで」レイノルズ考案“勝利の儀式”でチーム一体(日刊スポーツ)",
+      "summary": "＜DeNA11－7阪神＞◇5日◇横浜 DeNAでは7月の初めごろからレイノルズ考案の“勝利の儀式”が始まった。この日、決勝弾を放ったドラフト3位の宮下朝陽内野手（22）が笑顔で明かした。 「そ",
+      "link": "https://news.yahoo.co.jp/articles/01aceba8ec03a22c1bf8e0ce830866f2c0870427?source=rss",
+      "pubDate": "2026-08-05T22:00:03.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "baystars"
+      ],
+      "topics": [
+        "draft"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/01aceba8ec03a22c1bf8e0ce830866f2c0870427?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【ソフトバンク】「7回の男」として復活したオスナ、本塁打王争いのトップを走る栗原陵矢に注目｜最新情報・注目選手・先発ローテーション・打撃オーダー・新戦力｜2026プロ野球選手名鑑(DAZN News)",
+      "summary": "プロ野球は後半戦に突入した。ここまでの戦いぶりを踏まえ、各球団から投打のキーマンをピックアップしつつ、現状のローテーションや打順を整理する。本記事では、福岡ソフトバンクホークスを紹介する。※8月3日終",
+      "link": "https://news.yahoo.co.jp/articles/a428e52ee804546490bb917979bcd1eeda7170e5?source=rss",
+      "pubDate": "2026-08-05T22:00:02.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "hawks"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/a428e52ee804546490bb917979bcd1eeda7170e5?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "楽天岸孝之 勝てば２球団で70勝以上 相手は通算貯金14と相性よいオリックス／見どころ(日刊スポーツ)",
+      "summary": "楽天岸孝之が節目の白星を目指す。岸は西武で103勝、楽天で69勝で、通算では172勝。2球団で70勝以上を挙げれば小山正明（阪神176勝、ロッテ140勝）以来。通算勝利数では桑田真澄らの173勝に並",
+      "link": "https://news.yahoo.co.jp/articles/28c92c8cafde050d8c84c09f993dce4197af7872?source=rss",
+      "pubDate": "2026-08-05T22:00:01.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "eagles",
+        "buffaloes"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/28c92c8cafde050d8c84c09f993dce4197af7872?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【DeNA】新助っ人ビド「ギアを上げるためにファン声援は絶対必要」６日阪神戦で本拠地デビュー(日刊スポーツ)",
+      "summary": "DeNA新助っ人のオスバルド・ビド投手（30）が本拠地デビューする。6日の阪神戦（横浜）に先発。「どの打者も本当に怖いなというイメージがある。アウトを1つずつ取って、勝利に貢献できるように」と見据え",
+      "link": "https://news.yahoo.co.jp/articles/433f1427340a541d4f60944caacce01a84b5e4d0?source=rss",
+      "pubDate": "2026-08-05T22:00:01.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "baystars"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/433f1427340a541d4f60944caacce01a84b5e4d0?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "巨人・井上温大が5連勝で自身初の10勝到達！ 高木豊氏「見ていて楽しいピッチング」",
+      "summary": "巨人が広島に完封勝利。5日放送のCSフジテレビONE『プロ野球ニュース』では、好投した井上温大の投球を解説称賛した。 井上はストレートとカットボールを軸に、低めを丁寧に突く投球でゴロを量産。7回を無失点に抑え、防御率 […]",
+      "link": "https://baseballking.jp/ns/703521/",
+      "pubDate": "2026-08-05T22:00:00.000Z",
+      "source": "BASEBALL KING",
+      "sourceId": "baseballking",
+      "teams": [
+        "giants",
+        "carp"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "BASEBALL KING",
+          "sourceId": "baseballking",
+          "link": "https://baseballking.jp/ns/703521/"
+        },
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/f32ccbfd5653e73a03504556c8774fc36ae67ee9?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "抹消からわずか2日後…ロッテの“現ドラ大砲”が逆方向へ豪快6号 再昇格へ即アピール【ファーム】",
+      "summary": "千葉ロッテマリーンズの井上広大外野手は5日、バンテリンドームで行われたファーム交流戦の中日戦に「6番・右翼」でスタメン出場。2回にファームでの6号ソロ本塁打を放ち、一軍復帰へ向けてアピールした。",
+      "link": "https://www.baseballchannel.jp/npb/279549/",
+      "pubDate": "2026-08-05T21:50:34.000Z",
+      "source": "ベースボールチャンネル（プロ野球）",
+      "sourceId": "baseballchannel-npb",
+      "teams": [
+        "marines"
+      ],
+      "topics": [
+        "roster"
+      ],
+      "sources": [
+        {
+          "name": "ベースボールチャンネル（プロ野球）",
+          "sourceId": "baseballchannel-npb",
+          "link": "https://www.baseballchannel.jp/npb/279549/"
+        },
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/9b02661f1564e7e988433f74ad2f85959ad50119?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【阪神】大敗の中でも好材料、新外国人・ガルシアが来日初アーチ 笘篠氏「一本出ると気分がガラっと変わる」",
+      "summary": "阪神の新助っ人のデルミス・ガルシアが「5番・左翼手」で先発出場。第4打席で来日初本塁打となる満塁弾を放ち、5日放送のCSフジテレビONE『プロ野球ニュース』で解説陣の注目を集めた。 連続3三振でも動じなかった。8回に […]",
+      "link": "https://baseballking.jp/ns/703505/",
+      "pubDate": "2026-08-05T21:50:00.000Z",
+      "source": "BASEBALL KING",
+      "sourceId": "baseballking",
+      "teams": [
+        "tigers"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "BASEBALL KING",
+          "sourceId": "baseballking",
+          "link": "https://baseballking.jp/ns/703505/"
+        },
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/a64163d1e0ffa7bb481840f272bee141d7105b29?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "バンテリンの右中間席へ豪快弾…ロッテの“助っ人大砲”がファーム6号 昇格へ猛アピール(ベースボールチャンネル)",
+      "summary": "千葉ロッテマリーンズのグレゴリー・ポランコ外野手は5日、バンテリンドームで行われたファーム交流戦の中日戦に「2番・指名打者」で先発出場。初回に今季6号となる先制ソロを放った。 両チーム無得点で迎",
+      "link": "https://news.yahoo.co.jp/articles/0703fc58ea2d73918a7b4d5dae0689a2435b036c?source=rss",
+      "pubDate": "2026-08-05T21:40:56.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "marines"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/0703fc58ea2d73918a7b4d5dae0689a2435b036c?source=rss"
+        },
+        {
+          "name": "ベースボールチャンネル（プロ野球）",
+          "sourceId": "baseballchannel-npb",
+          "link": "https://www.baseballchannel.jp/npb/279539/"
+        }
+      ]
+    },
+    {
+      "title": "「投手陣と津森に申し訳ない」決勝2ランのソフトバンク野村勇 優勝マジック「37」初点灯も反省しきり 監督が指摘した失策(西スポWEB OTTO!)",
+      "summary": "◆ソフトバンク7―5日本ハム（5日、みずほペイペイドーム） リーグ優勝のマジックナンバー「37」が初点灯したが、小久保監督の表情は険しかった。「それこそ、地獄から天国。でも結果は出したのでつながり",
+      "link": "https://news.yahoo.co.jp/articles/41f31e3b8bc0b975d7318b4cc83535b785a81e04?source=rss",
+      "pubDate": "2026-08-05T21:40:48.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "hawks"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/41f31e3b8bc0b975d7318b4cc83535b785a81e04?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【DeNA】激戦区争いに名乗り！関根大気が誓う巻き返し劇「レベルの高いピッチャーに対して、1打席1球あるかないかの打てる可能性のあるボールを打つ」",
+      "summary": "◆ プロ13年目の意地 待ちに待った一軍昇格、そして初のスタメンを担った関根大気が、その存在感を見せつけた。 23年には140試合出場を果たしたが、一昨年は79試合、昨年は9試合と年々活躍の場は減少。今年もファームで […]",
+      "link": "https://baseballking.jp/ns/703538/",
+      "pubDate": "2026-08-05T21:40:00.000Z",
+      "source": "BASEBALL KING",
+      "sourceId": "baseballking",
+      "teams": [
+        "baystars"
+      ],
+      "topics": [
+        "roster"
+      ],
+      "sources": [
+        {
+          "name": "BASEBALL KING",
+          "sourceId": "baseballking",
+          "link": "https://baseballking.jp/ns/703538/"
+        },
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/923c8e4903ba953142be969cb3e791bccc592582?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "阪神、悪夢の11失点 解説陣が疑問視した3回の守備隊形「簡単に1点を与えてしまうのは…」",
+      "summary": "◆ 3回の守備隊形に疑問の声 阪神がDeNAに大敗を喫した。5日放送のCSフジテレビONE『プロ野球ニュース』では、解説陣が3回の守備隊形に疑問を呈した。 阪神は3回、先頭を遊撃手・元山飛優の失策で無死二塁とされると […]",
+      "link": "https://baseballking.jp/ns/703489/",
+      "pubDate": "2026-08-05T21:40:00.000Z",
+      "source": "BASEBALL KING",
+      "sourceId": "baseballking",
+      "teams": [
+        "tigers",
+        "baystars"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "BASEBALL KING",
+          "sourceId": "baseballking",
+          "link": "https://baseballking.jp/ns/703489/"
+        },
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/7754c72444769fccd426383bd65bed57586264e7?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "中日首脳とギクシャク…8月に決めた引退 新監督から打診も固辞、ぽっきり折れた心",
+      "summary": "中日で第1次星野仙一監督体制が幕を閉じた1991年、左腕・米村明氏も現役を引退した。プロ7年目での決断だった。左肘の状態が思わしくなかったこともあるが、ラストイヤーは2軍で抑えなどを務めながら、1軍へ一度も推薦されず、気持ちも切れていた。「…",
+      "link": "https://full-count.jp/2026/08/06/post1999499/",
+      "pubDate": "2026-08-05T21:30:00.000Z",
+      "source": "Full-Count（プロ野球）",
+      "sourceId": "full-count-npb",
+      "teams": [
+        "dragons"
+      ],
+      "topics": [
+        "personnel",
+        "retirement"
+      ],
+      "sources": [
+        {
+          "name": "Full-Count（プロ野球）",
+          "sourceId": "full-count-npb",
+          "link": "https://full-count.jp/2026/08/06/post1999499/"
+        }
+      ]
+    },
+    {
+      "title": "楽天、後半戦初白星ならず6連敗で借金「22」 高木氏が挙げたポイントは「やはりいてくれると、すごく得点力という匂いもする」",
+      "summary": "◆ 前戦退場もこの日は2安打1打点「マッカスカーに集めたい、そこができると打ってくれる」 楽天は5日、オリックスと対戦し1－3と敗北した。後半戦初白星はお預けの6連敗、借金は「22」となった。 5日放送のフジテレビO […]",
+      "link": "https://baseballking.jp/ns/703472/",
+      "pubDate": "2026-08-05T21:20:00.000Z",
+      "source": "BASEBALL KING",
+      "sourceId": "baseballking",
+      "teams": [
+        "eagles"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "BASEBALL KING",
+          "sourceId": "baseballking",
+          "link": "https://baseballking.jp/ns/703472/"
+        }
+      ]
+    },
+    {
+      "title": "日本ハム、最終回の大チャンスで代打攻勢も連続三振 辻氏がソフトバンクと比較して苦言「近藤健介はそういう打撃をしない」「勝つチームはしっかりできる」",
+      "summary": "◆ 高木氏「五十幡亮汰が二塁走者だし…」「もったいなかった」と悔やむ 日本ハムは5日、ソフトバンクと対戦し5－7で敗れた。9回に四球と二塁打で無死二・三塁とするも、代打・常谷拓輝と清水優心が2者連続の空振り三振に倒れ、 […]",
+      "link": "https://baseballking.jp/ns/703470/",
+      "pubDate": "2026-08-05T21:10:00.000Z",
+      "source": "BASEBALL KING",
+      "sourceId": "baseballking",
+      "teams": [
+        "fighters",
+        "hawks"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "BASEBALL KING",
+          "sourceId": "baseballking",
+          "link": "https://baseballking.jp/ns/703470/"
+        }
+      ]
+    },
+    {
+      "title": "【DeNA】各自の積極的な好球必打で８月負けなしの４連勝「しっかり狙い球を絞って」相川監督(日刊スポーツ)",
+      "summary": "＜DeNA11－7阪神＞◇5日◇横浜 DeNAが8月負けなしの4連勝を決めた。7月以降は16勝9敗1分けと勝率はリーグトップ。どのチームよりもアツい夏を過ごしている。 強力打線が前半戦11勝1",
+      "link": "https://news.yahoo.co.jp/articles/9e03bb5db893274a2b498e2c73edd696ca5686af?source=rss",
+      "pubDate": "2026-08-05T21:00:03.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "baystars"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/9e03bb5db893274a2b498e2c73edd696ca5686af?source=rss"
+        }
+      ]
+    },
     {
       "title": "橋上監督代行がルーキーの小浜＆知念をスタメンに抜てきした理由 固定観念のない柔軟な思考法をひも解く(スポーツ報知)",
       "summary": "◆ＪＥＲＡセ・リーグ 広島０―４巨人（５日・マツダスタジアム） 連敗脱出へ思い切って動いた。橋上監督代行は育成５位ルーキーの知念を「８番・右翼」、同じくドラフト５位の小浜を休養した浦田に代わり「１",
