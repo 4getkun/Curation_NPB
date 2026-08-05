@@ -1,7 +1,470 @@
 {
-  "generatedAt": "2026-08-05T07:30:07.922Z",
-  "count": 3797,
+  "generatedAt": "2026-08-05T10:07:40.101Z",
+  "count": 3821,
   "items": [
+    {
+      "title": "【阪神】無双左腕に何が起きた…高橋遥人が今季ワースト６失点ノックアウト 悪夢の１イニング２被弾で崩れ落ちる(スポーツ報知)",
+      "summary": "◆ＪＥＲＡセ・リーグ ＤｅＮＡ―阪神（５日・横浜スタジアム） 阪神の先発・高橋遥人投手が今季最短の４回、同ワースト６失点（自責点４）でノックアウトされた。 先制した直後の２回に悪夢の１イニング",
+      "link": "https://news.yahoo.co.jp/articles/98db19a8f231da706e5bb5b695e3b50496384193?source=rss",
+      "pubDate": "2026-08-05T10:04:45.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "tigers"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/98db19a8f231da706e5bb5b695e3b50496384193?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【DeNA】阪神高橋から２本塁打で逆転！ 筒香嘉智８号２ラン＆ドラ３宮下朝陽５号２ラン(日刊スポーツ)",
+      "summary": "＜DeNA－阪神＞◇5日◇横浜 DeNA筒香嘉智内野手（34）がひと振りで試合を振り出しに戻した。 2点を追う2回無死一塁。阪神高橋の初球148キロ直球を捉え、左翼席ポール際に放り込んだ。8号",
+      "link": "https://news.yahoo.co.jp/articles/c0ca2a164175222b74b07df001a56c7c4469e1a3?source=rss",
+      "pubDate": "2026-08-05T10:03:58.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "baystars"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/c0ca2a164175222b74b07df001a56c7c4469e1a3?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【阪神】あぁ痛恨…ミスが失点直結 高橋遥人、元山飛優２イニング連続 ３回までにまさか5失点(日刊スポーツ)",
+      "summary": "＜DeNA－阪神＞◇5日◇横浜 阪神が2、3回に2イニング連続失策。いずれも失点につながる痛恨プレーとなった。 2－0の2回に先発の高橋遥人投手（30）が筒香に同点2ランを献上。さらに1死から",
+      "link": "https://news.yahoo.co.jp/articles/a08c270e6a2293ac0993ca107f56c6588cd7398a?source=rss",
+      "pubDate": "2026-08-05T10:02:03.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "tigers"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/a08c270e6a2293ac0993ca107f56c6588cd7398a?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【巨人】宇都宮葵星が７日の３軍戦で約３か月半ぶり実戦復帰「やってきたことをできるように」(スポーツ報知)",
+      "summary": "巨人の宇都宮葵星内野手（２２）が７日の３軍・拓大戦で約３か月半ぶりに実戦復帰する。今季は開幕前に支配下登録され、開幕１軍入り。しかし、４月２１日の中日戦（長野）の７回、代走で出場した際に負傷。翌２２",
+      "link": "https://news.yahoo.co.jp/articles/85defbc9d232a89001ef9e291d707e86e3b7dc74?source=rss",
+      "pubDate": "2026-08-05T09:57:27.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "giants"
+      ],
+      "topics": [
+        "injury",
+        "roster"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/85defbc9d232a89001ef9e291d707e86e3b7dc74?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【巨人】育成５位ルーキーが“カメレオン打法”で３週間ぶりヒット ２ストライクからモデルチェンジ(スポーツ報知)",
+      "summary": "◆ＪＥＲＡセ・リーグ 広島―巨人（５日・マツダスタジアム） 巨人の知念大成外野手が変幻自在の“カメレオン打法”で３週間ぶりの安打をマークした。 敵地での広島戦に「８番・右翼」で先発出場し、０―",
+      "link": "https://news.yahoo.co.jp/articles/5cf9e8af529693c4c106a2a47aa182714a5e0e94?source=rss",
+      "pubDate": "2026-08-05T09:56:24.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "giants"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/5cf9e8af529693c4c106a2a47aa182714a5e0e94?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "「ランナー三塁のチャンスを生かすことだけを考えた」ソフトバンク4番栗原陵矢が6試合ぶり安打となる適時打ですぐさま逆転に成功(西スポWEB OTTO!)",
+      "summary": "◆ソフトバンク―日本ハム（5日、みずほペイペイドーム） 初回に1点を先制されたソフトバンクが、すぐさま試合をひっくり返した。 直後の1回裏。四球と失策で無死二、三塁と労せず好機を得ると、3番近",
+      "link": "https://news.yahoo.co.jp/articles/11d18d2257ac236135a7f6b51f39a4f8c2975f5c?source=rss",
+      "pubDate": "2026-08-05T09:55:16.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "hawks"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/11d18d2257ac236135a7f6b51f39a4f8c2975f5c?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "「すぐに取り返せて良かった」DeNA、筒香＆宮下の一発攻勢で逆転 セ2冠の阪神・高橋から2回に4点奪う(中日スポーツ)",
+      "summary": "◇５日 ＤｅＮＡ―阪神（横浜） ＤｅＮＡが２点を追う２回、一発攻勢で４点を奪って逆転に成功。試合前までセ・リーグの勝ち星と防御率の２冠に君臨する阪神先発・高橋を捉えた。 先頭のエンカーナシオン",
+      "link": "https://news.yahoo.co.jp/articles/df9585b73cd86f4d698d3d9ac8b60e22169e8df4?source=rss",
+      "pubDate": "2026-08-05T09:51:53.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "baystars",
+        "tigers"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/df9585b73cd86f4d698d3d9ac8b60e22169e8df4?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "阪神 遊撃手・元山飛優の落球からピンチ広げて5点目を失う(スポニチアネックス)",
+      "summary": "◇セ・リーグ 阪神─DeNA（2026年8月5日 横浜） 球宴をはさんで10試合連続スタメン出場の元山飛優の今季2個目の失策が、DeNAの追加点につながった。 3回、先頭の牧の二塁ベース後方",
+      "link": "https://news.yahoo.co.jp/articles/dfb2033d2e04748feb36701c5b767a0cd4f2cb11?source=rss",
+      "pubDate": "2026-08-05T09:47:47.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "tigers",
+        "baystars"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/dfb2033d2e04748feb36701c5b767a0cd4f2cb11?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【日本ハム】自力優勝消滅かかる1戦、“守乱”であっさり逆転許す 二塁手ファンブル&送球ミスで無死二、三塁→初回3失点 (中日スポーツ)",
+      "summary": "◇５日 ソフトバンク―日本ハム（みずほペイペイドーム） 日本ハムが１回に先制した直後、〝守乱〟がきっかけであっさりと逆転を許した。 初回に先発右腕・北山亘基投手がソフトバンクの１番・正木に四球",
+      "link": "https://news.yahoo.co.jp/articles/4b7dc13aec6ef6da4437867ea9be8c8afddb5583?source=rss",
+      "pubDate": "2026-08-05T09:45:38.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "fighters"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/4b7dc13aec6ef6da4437867ea9be8c8afddb5583?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "阪神・高橋遥人、今季ワースト5失点… 防御率1・89でリーグ2位に(サンケイスポーツ)",
+      "summary": "（セ・リーグ、DeNA－阪神、15回戦、5日、横浜）先発した阪神・高橋遥人投手（30）がノーヒットで追加点を許した。 2－4で迎えた三回、先頭の牧が高々と打ち上げた飛球を遊撃の元山がまさかの落球。無",
+      "link": "https://news.yahoo.co.jp/articles/2674869e3bab0e7f83bc52f88b07e6b8387c0504?source=rss",
+      "pubDate": "2026-08-05T09:45:33.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "tigers"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/2674869e3bab0e7f83bc52f88b07e6b8387c0504?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【阪神】元山飛優が牧秀悟の飛球を痛恨の落球…凡飛→“二塁打”で５点目失う(スポーツ報知)",
+      "summary": "◆ＪＥＲＡセ・リーグ ＤｅＮＡ―阪神（５日・横浜） 阪神・元山飛優内野手が痛恨の落球だ。 ２点ビハインドの３回。先頭・牧の飛球が強風にあおられ、目測を誤って捕球できなかった。二塁進塁を許し、続",
+      "link": "https://news.yahoo.co.jp/articles/df2d40b672c389c816ca49bc282c105279501b12?source=rss",
+      "pubDate": "2026-08-05T09:45:19.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "tigers"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/df2d40b672c389c816ca49bc282c105279501b12?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【阪神】伏見寅威が走路ふさぐ松尾汐恩に“タックル” コリジョンルール採用下では珍しい衝突(日刊スポーツ)",
+      "summary": "＜DeNA－阪神＞◇5日◇横浜 阪神とDeNAの間で激しい接触プレーがあった。 初回2死二、三塁から熊谷敬宥内野手（30）が中前打。二塁走者の伏見寅威捕手（36）が本塁に突っ込んだ際、ボールを",
+      "link": "https://news.yahoo.co.jp/articles/efa9c22a5a2988c3933baddf8de19dcf5f7c682f?source=rss",
+      "pubDate": "2026-08-05T09:44:22.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "tigers"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/efa9c22a5a2988c3933baddf8de19dcf5f7c682f?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【ソフトバンク】栗原陵矢、24打席ぶりの安打は勝ち越し適時打 早出でティー打撃(日刊スポーツ)",
+      "summary": "5試合ノーヒットだったソフトバンク栗原陵矢内野手（30）が初回に勝ち越しの左前適時打を放った。日本ハムに1点先制されたが近藤健介外野手（32）の二ゴロの間に追いつき、なおも1死三塁で、高いバウンドの",
+      "link": "https://news.yahoo.co.jp/articles/5ba8495274a4a513911627628a398b68a6c3de49?source=rss",
+      "pubDate": "2026-08-05T09:43:33.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "hawks"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/5ba8495274a4a513911627628a398b68a6c3de49?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【阪神】高橋遥人が今季初の１試合２被弾…登板５戦連続で１発浴びる(日刊スポーツ)",
+      "summary": "＜DeNA－阪神＞◇5日◇横浜 阪神高橋遥人投手（30）が登板5試合連続で本塁打を浴びた。 2点の援護をもらった直後の2回。DeNA先頭のヘラル・エンカーナシオン外野手（28＝ジャイアンツ）に",
+      "link": "https://news.yahoo.co.jp/articles/1d66d469b3dfcef4ca22f993d94e485066536bb4?source=rss",
+      "pubDate": "2026-08-05T09:42:54.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "tigers"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/1d66d469b3dfcef4ca22f993d94e485066536bb4?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【中日】涌井秀章、左手首付近に打球直撃のアクシデントも治療後に続投し、初回3者凡退(日刊スポーツ)",
+      "summary": "＜中日－ヤクルト＞◇5日◇バンテリンドーム プレーボール直後、中日涌井秀章投手（40）の左手首付近に打球が直撃するアクシデントが発生した。 初回、ヤクルト先頭長岡への3球目。痛烈な投手返しに素",
+      "link": "https://news.yahoo.co.jp/articles/2e0d8f7adfb9e7ae057ed2f6ca004b3e4265f5b1?source=rss",
+      "pubDate": "2026-08-05T09:38:47.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "dragons"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/2e0d8f7adfb9e7ae057ed2f6ca004b3e4265f5b1?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【阪神】伏見寅威ヒヤリ連続…左腕死球に本塁付近で交錯 虎党心配もベンチ前で仲間とハイタッチ(日刊スポーツ)",
+      "summary": "＜DeNA－阪神＞◇5日◇横浜 阪神伏見寅威捕手（36）が今季3つ目の死球を受けた。2回1死一塁、DeNA東の142キロ直球が左腕に直撃した。伏見は治療などは行わずプレー続行した。 その後、2",
+      "link": "https://news.yahoo.co.jp/articles/56e4701acd51fa654dd195aae0ac9652d903cbea?source=rss",
+      "pubDate": "2026-08-05T09:37:05.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "tigers"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/56e4701acd51fa654dd195aae0ac9652d903cbea?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "ロッテ、9月20日西武戦でTシャツ付きチケットを販売 藤原恭大らのサヨナラ勝利の瞬間をモチーフに 全3種類の中からランダムで配布",
+      "summary": "千葉ロッテマリーンズは、9月20日にZOZOマリンスタジアムで行われる西武戦（18時00分試合開始）を対象に、「GRAB THE WIN - DRAMATIC PAINT TEE」がセットになったグッズ付きチケットを先着15,000枚限定で…",
+      "link": "https://www.baseballchannel.jp/npb/279470/",
+      "pubDate": "2026-08-05T09:30:10.000Z",
+      "source": "ベースボールチャンネル（プロ野球）",
+      "sourceId": "baseballchannel-npb",
+      "teams": [
+        "marines"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "ベースボールチャンネル（プロ野球）",
+          "sourceId": "baseballchannel-npb",
+          "link": "https://www.baseballchannel.jp/npb/279470/"
+        }
+      ]
+    },
+    {
+      "title": "【広島】床田寛樹が左肩の張りで出場選手登録抹消、今季16戦４勝４敗、代わって野間峻祥が昇格(日刊スポーツ)",
+      "summary": "＜広島－巨人＞◇5日◇マツダスタジアム 広島床田寛樹投手（31）が5日、左肩の張りのため出場選手登録を抹消された。 7月31日中日戦（マツダスタジアム）に先発し、7回6安打1失点に抑えていた。",
+      "link": "https://news.yahoo.co.jp/articles/c91967186ed80ae95394adcb5228e0d031189c36?source=rss",
+      "pubDate": "2026-08-05T09:19:58.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "carp"
+      ],
+      "topics": [
+        "roster"
+      ],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/c91967186ed80ae95394adcb5228e0d031189c36?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【阪神】打線変更で１年ぶりの「６番捕手」 嶋村麟士朗がDHで６番経験、中川勇斗は外野で(日刊スポーツ)",
+      "summary": "＜DeNA－阪神＞◇5日◇横浜 阪神は今季初めて6番に捕手を入れる打順を組んだ。 普段2番を打つ中野拓夢内野手（30）がベンチスタートのため主軸トリオを繰り上げ。6番に伏見寅威捕手（36）が入",
+      "link": "https://news.yahoo.co.jp/articles/edc1313f7023604348715bd24ee670b64a5a468d?source=rss",
+      "pubDate": "2026-08-05T09:18:02.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "tigers"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/edc1313f7023604348715bd24ee670b64a5a468d?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【ソフトバンク】スチュワート中14日、６日の日本ハム戦で７勝目狙う「攻めの投球でいきたい」(日刊スポーツ)",
+      "summary": "ソフトバンクのカーター・スチュワート投手（26）が6日の日本ハム戦（みずほペイペイドーム）に先発し7勝目を狙う。 今季対日本ハムは3試合、1勝1敗、防御率7・71。前回7月22日オリックス戦は7",
+      "link": "https://news.yahoo.co.jp/articles/570b2058a5fc47b6b0d8f794d329e232d5c0865d?source=rss",
+      "pubDate": "2026-08-05T09:14:31.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "hawks"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/570b2058a5fc47b6b0d8f794d329e232d5c0865d?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【西武】桑原将志、ファーム阪神戦で実戦復帰 想定よりかなり早く(日刊スポーツ)",
+      "summary": "＜ファーム・リーグ：西武－阪神＞◇5日◇ベルーナドーム 戦線離脱中の西武桑原将志外野手（33）がファーム・リーグ交流戦の阪神戦（ベルーナドーム）で実戦復帰した。「1番左翼」でスタメン出場した。7月",
+      "link": "https://news.yahoo.co.jp/articles/e039d5dda7c136da574f9a6ae4dfa5e80b6468ee?source=rss",
+      "pubDate": "2026-08-05T09:02:29.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "lions"
+      ],
+      "topics": [
+        "injury"
+      ],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/e039d5dda7c136da574f9a6ae4dfa5e80b6468ee?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "外国人観光客が急増中 京セラドームでナイター観戦が「夜の観光」の定番になる理由",
+      "summary": "2025年の訪日外客数（訪日外国人観光客）は、前年比15.8％増の4268万人を記録し過去最多を更新した*1。韓国、中国、台湾、アメリカ、香港、タイ、オーストラリアなどからの旅行者が大半を占める中、パ・リーグ6球団の主催試合でもインバウンド…",
+      "link": "https://full-count.jp/2026/08/05/post1999794/",
+      "pubDate": "2026-08-05T08:18:20.000Z",
+      "source": "Full-Count（プロ野球）",
+      "sourceId": "full-count-npb",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Full-Count（プロ野球）",
+          "sourceId": "full-count-npb",
+          "link": "https://full-count.jp/2026/08/05/post1999794/"
+        }
+      ]
+    },
+    {
+      "title": "17試合連続無失点も…ヤクルトの“新加入クローザー”が登録抹消 直近3試合連続で敗戦投手",
+      "summary": "5日のプロ野球公示で、東京ヤクルトスワローズはJ.キハダ投手を一軍登録から抹消した。",
+      "link": "https://www.baseballchannel.jp/npb/279400/",
+      "pubDate": "2026-08-05T07:45:26.000Z",
+      "source": "ベースボールチャンネル（プロ野球）",
+      "sourceId": "baseballchannel-npb",
+      "teams": [],
+      "topics": [
+        "roster"
+      ],
+      "sources": [
+        {
+          "name": "ベースボールチャンネル（プロ野球）",
+          "sourceId": "baseballchannel-npb",
+          "link": "https://www.baseballchannel.jp/npb/279400/"
+        }
+      ]
+    },
+    {
+      "title": "打率.056も…巨人27歳は「やっぱり規格外」 逆方向へのライナー弾に驚嘆「すごい打球」",
+      "summary": "巨人・リチャード内野手が規格外の一発を放った。4日のファーム・リーグDeNA戦（ジャイアンツタウンスタジアム）で、逆方向の右中間へライナーで運んだ。左打者が引っ張ったような弾道にファンも驚嘆。「1軍にいてほしくなる」「ポテンシャルは間違いな…",
+      "link": "https://full-count.jp/2026/08/05/post1999720/",
+      "pubDate": "2026-08-05T07:30:16.000Z",
+      "source": "Full-Count（プロ野球）",
+      "sourceId": "full-count-npb",
+      "teams": [
+        "giants"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Full-Count（プロ野球）",
+          "sourceId": "full-count-npb",
+          "link": "https://full-count.jp/2026/08/05/post1999720/"
+        }
+      ]
+    },
     {
       "title": "『プロ野球スピリッツ 2026』「松坂vs.大谷」「大谷vs.イチロー」夢のWBCモードを実現！【プロ野球ゲーム遊戯】",
       "summary": "プレイステーションのゲームソフトディスク版の生産が、2028年1月をもって終了することが発表された。すでにディスク版の販売はダウンロード版の8分の1にとどまっているという。これも時代の流れだが、やがて誕生日やクリスマス […]",
