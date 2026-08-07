@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-07T12:04:02.956Z",
+  "generatedAt": "2026-08-07T13:44:34.102Z",
   "teams": {
     "giants": [
       {
@@ -155,6 +155,21 @@
     ],
     "tigers": [
       {
+        "gameNumber": 98,
+        "date": "8月7日",
+        "opponentTeamId": "dragons",
+        "opponentText": "中日",
+        "score": "2-3",
+        "ownScore": 2,
+        "opponentScore": 3,
+        "result": "loss",
+        "winningPitcher": "藤嶋（3-2）",
+        "losingPitcher": "ドリス（2-3）",
+        "savePitcher": "松山（1-2-20）",
+        "venue": "京セラD大阪",
+        "record": "54-43-1"
+      },
+      {
         "gameNumber": 97,
         "date": "8月6日",
         "opponentTeamId": "baystars",
@@ -288,21 +303,6 @@
         "savePitcher": "田中瑛（1-2-2）",
         "venue": "甲子園",
         "record": "49-39-1"
-      },
-      {
-        "gameNumber": 88,
-        "date": "7月22日",
-        "opponentTeamId": "baystars",
-        "opponentText": "DeNA",
-        "score": "5-4",
-        "ownScore": 5,
-        "opponentScore": 4,
-        "result": "win",
-        "winningPitcher": "岩崎（2-2）",
-        "losingPitcher": "",
-        "savePitcher": "ドリス（2-2-17）",
-        "venue": "甲子園",
-        "record": "49-38-1"
       }
     ],
     "carp": [
@@ -763,6 +763,21 @@
     ],
     "dragons": [
       {
+        "gameNumber": 101,
+        "date": "8月7日",
+        "opponentTeamId": "tigers",
+        "opponentText": "阪神",
+        "score": "3-2",
+        "ownScore": 3,
+        "opponentScore": 2,
+        "result": "win",
+        "winningPitcher": "藤嶋（3-2）",
+        "losingPitcher": "ドリス（2-3）",
+        "savePitcher": "松山（1-2-20）",
+        "venue": "京セラD大阪",
+        "record": "43-57-1"
+      },
+      {
         "gameNumber": 100,
         "date": "8月6日",
         "opponentTeamId": "swallows",
@@ -896,24 +911,24 @@
         "savePitcher": "",
         "venue": "バンテリンドーム",
         "record": "37-54-1"
-      },
-      {
-        "gameNumber": 91,
-        "date": "7月22日",
-        "opponentTeamId": "swallows",
-        "opponentText": "ヤクルト",
-        "score": "5-8",
-        "ownScore": 5,
-        "opponentScore": 8,
-        "result": "loss",
-        "winningPitcher": "",
-        "losingPitcher": "中西（2-3）",
-        "savePitcher": "",
-        "venue": "神宮",
-        "record": "36-54-1"
       }
     ],
     "hawks": [
+      {
+        "gameNumber": 99,
+        "date": "8月7日",
+        "opponentTeamId": "lions",
+        "opponentText": "西武",
+        "score": "5-2",
+        "ownScore": 5,
+        "opponentScore": 2,
+        "result": "win",
+        "winningPitcher": "松本晴（7-2）",
+        "losingPitcher": "森脇（0-1）",
+        "savePitcher": "杉山（1-2-24）",
+        "venue": "ベルーナドーム",
+        "record": "63-35-1"
+      },
       {
         "gameNumber": 98,
         "date": "8月6日",
@@ -1044,25 +1059,10 @@
         "opponentScore": 5,
         "result": "win",
         "winningPitcher": "杉山（1-2）",
-        "losingPitcher": "椋木（2-4）",
-        "savePitcher": "",
-        "venue": "みずほPayPay",
-        "record": "56-33-1"
-      },
-      {
-        "gameNumber": 89,
-        "date": "7月22日",
-        "opponentTeamId": "buffaloes",
-        "opponentText": "オリックス",
-        "score": "22-2",
-        "ownScore": 22,
-        "opponentScore": 2,
-        "result": "win",
-        "winningPitcher": "スチュワート・ジュニア（6-4）",
         "losingPitcher": "",
         "savePitcher": "",
         "venue": "みずほPayPay",
-        "record": "55-33-1"
+        "record": "56-33-1"
       }
     ],
     "lions": [
@@ -1075,9 +1075,9 @@
         "ownScore": 2,
         "opponentScore": 5,
         "result": "loss",
-        "winningPitcher": "",
+        "winningPitcher": "松本晴（7-2）",
         "losingPitcher": "森脇（0-1）",
-        "savePitcher": "",
+        "savePitcher": "杉山（1-2-24）",
         "venue": "ベルーナドーム",
         "record": "55-44-3"
       },
@@ -1219,6 +1219,21 @@
     ],
     "marines": [
       {
+        "gameNumber": 96,
+        "date": "8月7日",
+        "opponentTeamId": "buffaloes",
+        "opponentText": "オリックス",
+        "score": "2-6",
+        "ownScore": 2,
+        "opponentScore": 6,
+        "result": "loss",
+        "winningPitcher": "寺西（4-2）",
+        "losingPitcher": "廣池（2-6）",
+        "savePitcher": "",
+        "venue": "ZOZOマリン",
+        "record": "44-49-3"
+      },
+      {
         "gameNumber": 95,
         "date": "8月5日",
         "opponentTeamId": "lions",
@@ -1352,21 +1367,6 @@
         "savePitcher": "藤平（0-1-20）",
         "venue": "ZOZOマリン",
         "record": "40-44-3"
-      },
-      {
-        "gameNumber": 86,
-        "date": "7月22日",
-        "opponentTeamId": "eagles",
-        "opponentText": "楽天",
-        "score": "10-2",
-        "ownScore": 10,
-        "opponentScore": 2,
-        "result": "win",
-        "winningPitcher": "小島（3-6）",
-        "losingPitcher": "早川（4-4）",
-        "savePitcher": "",
-        "venue": "ZOZOマリン",
-        "record": "40-43-3"
       }
     ],
     "eagles": [
@@ -1514,7 +1514,7 @@
         "ownScore": 2,
         "opponentScore": 10,
         "result": "loss",
-        "winningPitcher": "小島（3-6）",
+        "winningPitcher": "",
         "losingPitcher": "早川（4-4）",
         "savePitcher": "",
         "venue": "ZOZOマリン",
@@ -1522,6 +1522,21 @@
       }
     ],
     "buffaloes": [
+      {
+        "gameNumber": 101,
+        "date": "8月7日",
+        "opponentTeamId": "marines",
+        "opponentText": "ロッテ",
+        "score": "6-2",
+        "ownScore": 6,
+        "opponentScore": 2,
+        "result": "win",
+        "winningPitcher": "寺西（4-2）",
+        "losingPitcher": "廣池（2-6）",
+        "savePitcher": "",
+        "venue": "ZOZOマリン",
+        "record": "50-49-2"
+      },
       {
         "gameNumber": 100,
         "date": "8月6日",
@@ -1656,21 +1671,6 @@
         "savePitcher": "",
         "venue": "京セラD大阪",
         "record": "45-45-2"
-      },
-      {
-        "gameNumber": 91,
-        "date": "7月23日",
-        "opponentTeamId": "hawks",
-        "opponentText": "ソフトバンク",
-        "score": "5-6x",
-        "ownScore": 5,
-        "opponentScore": 6,
-        "result": "loss",
-        "winningPitcher": "杉山（1-2）",
-        "losingPitcher": "椋木（2-4）",
-        "savePitcher": "",
-        "venue": "みずほPayPay",
-        "record": "44-45-2"
       }
     ],
     "fighters": [
