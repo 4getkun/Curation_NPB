@@ -1,14 +1,81 @@
 {
-  "generatedAt": "2026-08-07T23:01:05.649Z",
+  "generatedAt": "2026-08-07T23:53:43.037Z",
   "count": 4000,
   "items": [
+    {
+      "title": "楽天、痛恨の送球エラーでサヨナラ献上…斎藤雅樹氏「ピッチャーが本塁のカバーにもっと早く深くいっていれば…」",
+      "summary": "楽天は7日、日本ハムとの試合（エスコンF）に2－3で敗戦。7日放送のCSフジテレビONE『プロ野球ニュース2026』では、9回裏の楽天の守りにズームアップ。一死から2番・有薗直輝をこの日5個目となる死球で歩かせると、3 […]",
+      "link": "https://baseballking.jp/ns/703723/",
+      "pubDate": "2026-08-07T23:20:00.000Z",
+      "source": "BASEBALL KING",
+      "sourceId": "baseballking",
+      "teams": [
+        "eagles"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "BASEBALL KING",
+          "sourceId": "baseballking",
+          "link": "https://baseballking.jp/ns/703723/"
+        },
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/7b4e845ba6d5c9a19e006560c0070fc1c84fb437?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "オリックス・寺西成騎が6回2失点で4か月ぶりに先発で勝利！「無死満塁を無失点で切り抜けたところから尻上がりに良くなった」",
+      "summary": "オリックスは7日、ロッテとの試合（ZOZOマリン）に6－2で勝利。7日放送のCSフジテレビONE『プロ野球ニュース2026』では、先発・寺西成騎をピックアップ。寺西はこの日6回102球・6安打・6奪三振・1四死球・2失 […]",
+      "link": "https://baseballking.jp/ns/703721/",
+      "pubDate": "2026-08-07T23:10:00.000Z",
+      "source": "BASEBALL KING",
+      "sourceId": "baseballking",
+      "teams": [
+        "buffaloes"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "BASEBALL KING",
+          "sourceId": "baseballking",
+          "link": "https://baseballking.jp/ns/703721/"
+        },
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/a781612355f18cccb0ecb16de6b3228ff413f1c5?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "まさかの”今季絶望”も！？ 長期離脱が確定した選手（4）広島で1番抜擢も…？(ベースボールチャンネル)",
+      "summary": "レギュラーシーズン後半戦に突入した2026年のプロ野球。リーグ優勝をかけて熱戦が続いている中で、今シーズンも各球団でアクシデントが発生しており、早期復帰が難しくなった選手も少なくない。ここでは、今シ",
+      "link": "https://news.yahoo.co.jp/articles/0ee9dc7274f9d725cd61b7ba945374b4070a3f51?source=rss",
+      "pubDate": "2026-08-07T23:02:46.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "carp"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/0ee9dc7274f9d725cd61b7ba945374b4070a3f51?source=rss"
+        }
+      ]
+    },
     {
       "title": "【ヤクルト】松本健吾が１軍合流、出場選手登録はされず９日先発か １日２軍戦先発し５回２失点(日刊スポーツ)",
       "summary": "ヤクルト松本健吾投手（27）が7日、1軍に合流した。今季は開幕ローテーション入りし、ここまで14試合を投げ5勝3敗の防御率3・39。5月17日中日戦以来7登板連続で白星から遠ざかっており、7月19日",
       "link": "https://news.yahoo.co.jp/articles/71a99fa1b245fe3a0bca43dacd82ada4471cdcb7?source=rss",
       "pubDate": "2026-08-07T23:00:01.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
       "teams": [
         "swallows"
       ],
@@ -17,8 +84,8 @@
       ],
       "sources": [
         {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/71a99fa1b245fe3a0bca43dacd82ada4471cdcb7?source=rss"
         }
       ]
@@ -88,16 +155,16 @@
       "summary": "＜阪神2－3中日＞◇7日◇京セラドーム大阪 阪神大山悠輔内野手（31）は移動試合ということもあり、休養目的のベンチスタートだった。 前日6日は佐藤を途中交代させるなど、主力のコンディションを整",
       "link": "https://news.yahoo.co.jp/articles/8b2d183b7e87abc4cc1f8f5121a559e6f29f6ed8?source=rss",
       "pubDate": "2026-08-07T22:53:13.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
       "teams": [
         "tigers"
       ],
       "topics": [],
       "sources": [
         {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/8b2d183b7e87abc4cc1f8f5121a559e6f29f6ed8?source=rss"
         }
       ]
@@ -107,16 +174,16 @@
       "summary": "＜阪神2－3中日＞◇7日◇京セラドーム大阪 阪神近本光司外野手（31）が9試合連続安打を放った。 初回、中日先発高橋宏の初球、154キロのストレートを捉えて中前打。走者として相手バッテリーにプ",
       "link": "https://news.yahoo.co.jp/articles/c0553b53887a43fab80aa16289965e21d1a6dc74?source=rss",
       "pubDate": "2026-08-07T22:52:39.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
       "teams": [
         "tigers"
       ],
       "topics": [],
       "sources": [
         {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/c0553b53887a43fab80aa16289965e21d1a6dc74?source=rss"
         }
       ]
@@ -137,11 +204,6 @@
           "name": "BASEBALL KING",
           "sourceId": "baseballking",
           "link": "https://baseballking.jp/ns/703711/"
-        },
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/09750f8cffb0313850884b64a69c0af9417515a6?source=rss"
         }
       ]
     },
@@ -161,11 +223,6 @@
           "name": "BASEBALL KING",
           "sourceId": "baseballking",
           "link": "https://baseballking.jp/ns/703709/"
-        },
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/bd97845942c637edf9fe4bb92e87f8f635c5c417?source=rss"
         }
       ]
     },
@@ -185,26 +242,26 @@
           "name": "BASEBALL KING",
           "sourceId": "baseballking",
           "link": "https://baseballking.jp/ns/703705/"
-        },
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/592815f0dd5713229d8baf10f0d9b12d11ae7145?source=rss"
         }
       ]
     },
     {
-      "title": "最後は華麗なグラブトス！ DeNAの“主砲”が9回2死から超好守 1点差ゲームの最後を締める",
-      "summary": "横浜DeNAベイスターズの牧秀悟内野手は7日、横浜スタジアムで行われた広島東洋カープ戦に「2番・二塁」でスタメン出場。9回に華麗なグラブトスを見せ、1点差での勝利に貢献した。",
-      "link": "https://www.baseballchannel.jp/npb/280325/",
+      "title": "最後は華麗なグラブトス！ DeNAの“主砲”が9回2死から超好守 1点差ゲームの最後を締める(ベースボールチャンネル)",
+      "summary": "横浜DeNAベイスターズの牧秀悟内野手は7日、横浜スタジアムで行われた広島東洋カープ戦に「2番・二塁」でスタメン出場。9回に華麗なグラブトスを見せ、1点差での勝利に貢献した。 DeNAが2-1と",
+      "link": "https://news.yahoo.co.jp/articles/7364612102b0f24defdbb91b9939b3e0410f3880?source=rss",
       "pubDate": "2026-08-07T22:15:21.000Z",
-      "source": "ベースボールチャンネル（プロ野球）",
-      "sourceId": "baseballchannel-npb",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
       "teams": [
         "baystars"
       ],
       "topics": [],
       "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/7364612102b0f24defdbb91b9939b3e0410f3880?source=rss"
+        },
         {
           "name": "ベースボールチャンネル（プロ野球）",
           "sourceId": "baseballchannel-npb",
@@ -253,17 +310,22 @@
       ]
     },
     {
-      "title": "1イニングで好守連発！ ヤクルトの“万能内野手”が2者連続スーパーキャッチ",
-      "summary": "東京ヤクルトスワローズの内山壮真は7日、東京ドームで行われた読売ジャイアンツ戦に「7番・二塁」でスタメン出場。8回にダイビングキャッチから好送球を見せるなど、好守で先発・奥川恭伸を援護した。",
-      "link": "https://www.baseballchannel.jp/npb/280306/",
+      "title": "1イニングで好守連発！ ヤクルトの“万能内野手”が2者連続スーパーキャッチ(ベースボールチャンネル)",
+      "summary": "東京ヤクルトスワローズの内山壮真は7日、東京ドームで行われた読売ジャイアンツ戦に「7番・二塁」でスタメン出場。8回にダイビングキャッチから好送球を見せるなど、好守で先発・奥川恭伸を援護した。 ヤ",
+      "link": "https://news.yahoo.co.jp/articles/744d7fe627b25af8d259554d4817b1ae73a334ea?source=rss",
       "pubDate": "2026-08-07T22:00:11.000Z",
-      "source": "ベースボールチャンネル（プロ野球）",
-      "sourceId": "baseballchannel-npb",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
       "teams": [
         "swallows"
       ],
       "topics": [],
       "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/744d7fe627b25af8d259554d4817b1ae73a334ea?source=rss"
+        },
         {
           "name": "ベースボールチャンネル（プロ野球）",
           "sourceId": "baseballchannel-npb",
@@ -77248,61 +77310,6 @@
           "name": "Yahoo!ニュース スポーツ",
           "sourceId": "yahoo-sports",
           "link": "https://news.yahoo.co.jp/articles/7644d6ee23f89c2c41d6caf85cda4772262b0988?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【DeNA】勝又温史が本拠地１号「原点を思い出したら、調子に乗るとかは…」26戦連続出塁中(日刊スポーツ)",
-      "summary": "＜DeNA12－4ヤクルト＞◇17日◇横浜 DeNAが球団通算4500勝目を3本塁打を含む2桁得点の快勝で飾った。通算成績は4500勝5481敗332分けで、NPBでは11球団目の到達となった。",
-      "link": "https://news.yahoo.co.jp/articles/f666d8bdf4236af7f7b3f6cc207ab7c61ddabd60?source=rss",
-      "pubDate": "2026-07-17T14:36:23.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "baystars"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/f666d8bdf4236af7f7b3f6cc207ab7c61ddabd60?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【DeNA】尾形崇斗、６回３安打２失点で２勝目「汐恩ともいいコミュニケーションが…」(日刊スポーツ)",
-      "summary": "DeNA尾形崇斗投手（27）が6回3安打2失点で今季2勝目を挙げた。5回まで完全投球も、6回1死から四球で出塁を許し3連打で2失点。課題も残したが、先発7試合目でセ・リーグ相手の初勝利をつかんだ。5",
-      "link": "https://news.yahoo.co.jp/articles/96c283223d85db1df1935647c36db271372ec9ba?source=rss",
-      "pubDate": "2026-07-17T14:13:05.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "baystars"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/96c283223d85db1df1935647c36db271372ec9ba?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "巨人―中日、ニッポン放送ショウアップナイター 60周年記念ナイターとして開催(サンケイスポーツ)",
-      "summary": "（セ・リーグ、巨人－中日、15回戦、17日、東京D）17日の巨人―中日15回戦（東京ドーム）は「ニッポン放送ショウアップナイター 60周年記念ナイター」として開催され、江本孟紀氏（78）＝サンケイスポ",
-      "link": "https://news.yahoo.co.jp/articles/dadcd4bad8f8e3945a584d47fe90c1487cf0c2fe?source=rss",
-      "pubDate": "2026-07-17T14:10:00.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/dadcd4bad8f8e3945a584d47fe90c1487cf0c2fe?source=rss"
         }
       ]
     }
