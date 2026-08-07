@@ -1,7 +1,46 @@
 {
-  "generatedAt": "2026-08-07T14:43:50.538Z",
+  "generatedAt": "2026-08-07T15:41:42.727Z",
   "count": 4000,
   "items": [
+    {
+      "title": "巨人はヤクルト・奥川恭伸に零封負け 橋上監督代行「フォークを制球いいところに決められた」(サンケイスポーツ)",
+      "summary": "（セ・リーグ、巨人0－1ヤクルト、17回戦、巨人7勝10敗、7日、東京D）巨人はヤクルト・奥川の前にわずか2安打零封負けを喫した。橋上秀樹監督代行（60）は「なかなか攻略の糸口というかな、チャンスもな",
+      "link": "https://news.yahoo.co.jp/articles/33a303ba20e383344e90ea7434f3263d54587e65?source=rss",
+      "pubDate": "2026-08-07T15:00:00.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "giants",
+        "swallows"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/33a303ba20e383344e90ea7434f3263d54587e65?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "西武・柘植世那、4年ぶり一発に西口監督「いい1本を出してくれた」(サンケイスポーツ)",
+      "summary": "（パ・リーグ、西武2－5ソフトバンク、18回戦、9勝9敗、7日、ベルーナD）西武・柘植世那捕手（29）が4年ぶりの一発を放った。 0-1の五回先頭で打席に入り、先発左腕・松本晴のカットボールを左翼席",
+      "link": "https://news.yahoo.co.jp/articles/098a24b7f9ca56e9598c1bd2f2ceb4e087cff648?source=rss",
+      "pubDate": "2026-08-07T14:41:25.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "lions"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/098a24b7f9ca56e9598c1bd2f2ceb4e087cff648?source=rss"
+        }
+      ]
+    },
     {
       "title": "西武、左腕に9連敗で3位後退 外国人3人と中村剛が上位の超攻撃型オーダーも不発(サンケイスポーツ)",
       "summary": "（パ・リーグ、西武2－5ソフトバンク、18回戦、9勝9敗、7日、ベルーナD）西武は今季4度目の3連敗で3位に後退した。相手投手はいずれも左腕で、左投手が先発した試合は、9連敗となった。 1番・カナリ",
@@ -45,16 +84,16 @@
       "summary": "＜西武2－5ソフトバンク＞◇7日◇ベルーナドーム 起用法で如実に見える立ち位置は「第3捕手」ながら、西武柘植世那捕手（29）はこういう働きが光るから欠かせない戦力だ。 1点を追う5回、ソフトバ",
       "link": "https://news.yahoo.co.jp/articles/e39616cf87a958a212af61e0346c1b65dcad5adf?source=rss",
       "pubDate": "2026-08-07T14:09:28.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
       "teams": [
         "lions"
       ],
       "topics": [],
       "sources": [
         {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/e39616cf87a958a212af61e0346c1b65dcad5adf?source=rss"
         }
       ]
@@ -121,16 +160,16 @@
       "summary": "＜日本ハム3－2楽天＞◇7日◇エスコンフィールド 7回2失点7奪三振と好投した日本ハム達孝太投手（22）だったが、2連勝はならなかった。 0－0の6回2死、楽天黒川に内角の変化球を右翼ポール際",
       "link": "https://news.yahoo.co.jp/articles/95271cadedb26d64fc88d0acc51f9140e1e82295?source=rss",
       "pubDate": "2026-08-07T13:57:12.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
       "teams": [
         "fighters"
       ],
       "topics": [],
       "sources": [
         {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/95271cadedb26d64fc88d0acc51f9140e1e82295?source=rss"
         }
       ]
@@ -253,7 +292,7 @@
     },
     {
       "title": "【阪神】佐藤輝明「ファンの方と一体になってできるイベントなので好き」今年も黒虎ユニで豪快弾(日刊スポーツ)",
-      "summary": "＜阪神2－3中日＞◇7日◇京セラドーム大阪 阪神佐藤輝明内野手（27）が、今夏もダイナマイト打線をけん引する。「TIGERS B－LUCK DYNAMITE SERIES 2026」の初戦。47年",
+      "summary": "＜阪神2－3中日＞◇7日◇京セラドーム大阪 阪神佐藤輝明内野手（27）が、今夏もダイナマイト打線をけん引する。藤村富美男らが率いた大阪タイガース時代の「ダイナマイト打線」をほうふつとさせる、194",
       "link": "https://news.yahoo.co.jp/articles/a35dc7e0a35116b8747c0865acb991b7706b0d14?source=rss",
       "pubDate": "2026-08-07T13:39:57.000Z",
       "source": "日刊スポーツ（Yahoo!ニュース経由）",
@@ -77231,46 +77270,6 @@
           "name": "日刊スポーツ（Yahoo!ニュース経由）",
           "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/9abf179fd7f201636888b92dcf6a7bc2170a4445?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【阪神】乱闘寸前に骨折 因縁カードで１試合３死球 藤川監督がグラウンドに出て緊張走る(日刊スポーツ)",
-      "summary": "＜広島－阪神＞◇17日◇マツダスタジアム 阪神前川右京外野手（23）の死球にマツダスタジアムがざわついた。 7回1死二、三塁から島内颯太郎投手（29）の152キロがもろに背中に当たった。前川は",
-      "link": "https://news.yahoo.co.jp/articles/bc81f4a01fb3aa8a884168c0991a7dd69b110f09?source=rss",
-      "pubDate": "2026-07-17T11:35:30.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "tigers"
-      ],
-      "topics": [
-        "injury"
-      ],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/bc81f4a01fb3aa8a884168c0991a7dd69b110f09?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【阪神】前川右京の右肩に死球直撃のアクシデント、藤川監督も心配そうにベンチを出る(日刊スポーツ)",
-      "summary": "＜広島－阪神＞◇17日◇マツダスタジアム 阪神前川右京外野手（23）にアクシデントが起きた。 3－0で迎えた1死二、三塁。広島島内の153キロ直球が、右肩付近を直撃。前川は痛みをこらえるように",
-      "link": "https://news.yahoo.co.jp/articles/193dd589eed39b9cd899035dc3635e9701007a7f?source=rss",
-      "pubDate": "2026-07-17T11:33:34.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "tigers"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/193dd589eed39b9cd899035dc3635e9701007a7f?source=rss"
         }
       ]
     }
