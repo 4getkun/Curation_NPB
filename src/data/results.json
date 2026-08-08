@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-08T11:50:09.448Z",
+  "generatedAt": "2026-08-08T12:20:38.215Z",
   "teams": {
     "giants": [
       {
@@ -915,6 +915,21 @@
     ],
     "hawks": [
       {
+        "gameNumber": 100,
+        "date": "8月8日",
+        "opponentTeamId": "lions",
+        "opponentText": "西武",
+        "score": "1-2",
+        "ownScore": 1,
+        "opponentScore": 2,
+        "result": "loss",
+        "winningPitcher": "篠原（2-2）",
+        "losingPitcher": "松本裕（4-4）",
+        "savePitcher": "甲斐野（2-2-13）",
+        "venue": "ベルーナドーム",
+        "record": "63-36-1"
+      },
+      {
         "gameNumber": 99,
         "date": "8月7日",
         "opponentTeamId": "lions",
@@ -953,7 +968,7 @@
         "ownScore": 7,
         "opponentScore": 5,
         "result": "win",
-        "winningPitcher": "松本裕（4-3-4）",
+        "winningPitcher": "松本裕（4-3）",
         "losingPitcher": "島本（2-3）",
         "savePitcher": "杉山（1-2-23）",
         "venue": "みずほPayPay",
@@ -1048,21 +1063,6 @@
         "savePitcher": "",
         "venue": "ベルーナドーム",
         "record": "57-33-1"
-      },
-      {
-        "gameNumber": 90,
-        "date": "7月23日",
-        "opponentTeamId": "buffaloes",
-        "opponentText": "オリックス",
-        "score": "6x-5",
-        "ownScore": 6,
-        "opponentScore": 5,
-        "result": "win",
-        "winningPitcher": "杉山（1-2）",
-        "losingPitcher": "",
-        "savePitcher": "",
-        "venue": "みずほPayPay",
-        "record": "56-33-1"
       }
     ],
     "lions": [
@@ -1076,7 +1076,7 @@
         "opponentScore": 1,
         "result": "win",
         "winningPitcher": "篠原（2-2）",
-        "losingPitcher": "",
+        "losingPitcher": "松本裕（4-4）",
         "savePitcher": "甲斐野（2-2-13）",
         "venue": "ベルーナドーム",
         "record": "56-44-3"
@@ -1728,7 +1728,7 @@
         "ownScore": 5,
         "opponentScore": 7,
         "result": "loss",
-        "winningPitcher": "松本裕（4-3-4）",
+        "winningPitcher": "松本裕（4-3）",
         "losingPitcher": "島本（2-3）",
         "savePitcher": "杉山（1-2-23）",
         "venue": "みずほPayPay",
