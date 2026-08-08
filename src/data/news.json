@@ -1,7 +1,78 @@
 {
-  "generatedAt": "2026-08-08T23:16:07.374Z",
+  "generatedAt": "2026-08-08T23:50:12.751Z",
   "count": 4000,
   "items": [
+    {
+      "title": "【DeNA】「劇的すぎて鼻血出そう」 筒香嘉智、ヘルメット放り投げサヨナラ弾に熱狂 「本当に美しい放物線」(スポーティングニュース日本版)",
+      "summary": "横浜DeNAベイスターズの筒香嘉智が放った劇的なサヨナラホームランに、ファンが熱狂した。本人も喜びを爆発させた一撃に、「カッコよすぎる」などと称賛の声が相次いでいる。 8月8日、DeNAは横浜スタジ",
+      "link": "https://news.yahoo.co.jp/articles/cfdfa7ea60dd967ce150a23301a9587fa3011212?source=rss",
+      "pubDate": "2026-08-08T23:46:34.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "baystars"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/cfdfa7ea60dd967ce150a23301a9587fa3011212?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "巨人戦力外→DeNAで“初登板”「食うか食われるか」 元ドラ1右腕が育成契約から歩む復活ロード(Full-Count)",
+      "summary": "■DeNA 4ー3 広島（8日・横浜） ついにCS進出圏内へ突入だ。DeNAは8日、本拠地・横浜スタジアムで行われた広島戦に4-3でサヨナラ勝ち。ヤクルトを抜き5月14日以来86日ぶりの3位に浮上",
+      "link": "https://news.yahoo.co.jp/articles/91e4dc4a07be4c4eeff4808bc13a34d349282e57?source=rss",
+      "pubDate": "2026-08-08T23:40:23.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "baystars"
+      ],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/91e4dc4a07be4c4eeff4808bc13a34d349282e57?source=rss"
+        },
+        {
+          "name": "Full-Count（プロ野球）",
+          "sourceId": "full-count-npb",
+          "link": "https://full-count.jp/2026/08/09/post2001046/"
+        }
+      ]
+    },
+    {
+      "title": "ロッテ・髙橋快秀「ファームでも投げたことのないくらい落ちていた」試行錯誤してきたフォークでプロ初奪三振",
+      "summary": "ロッテの高橋快秀は、プロ初奪三振を磨いてきた“フォークボール”で奪った。 髙橋は25年育成ドラフト2位でロッテに入団し、二軍戦で16試合に登板し、防御率0.00と抜群の安定感を誇り、7月30日に支配下選手登録を勝ち取 […]",
+      "link": "https://baseballking.jp/ns/703801/",
+      "pubDate": "2026-08-08T23:20:04.000Z",
+      "source": "BASEBALL KING",
+      "sourceId": "baseballking",
+      "teams": [
+        "marines"
+      ],
+      "topics": [
+        "draft"
+      ],
+      "sources": [
+        {
+          "name": "BASEBALL KING",
+          "sourceId": "baseballking",
+          "link": "https://baseballking.jp/ns/703801/"
+        },
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/7ed56a29903447ca7bdfc468f1acddc53ae6029d?source=rss"
+        }
+      ]
+    },
     {
       "title": "まさかの”今季絶望”も！？ 長期離脱が確定した選手（3）覚醒目前の”スラッガー候補“だったが(ベースボールチャンネル)",
       "summary": "レギュラーシーズン後半戦に突入した2026年のプロ野球。リーグ優勝をかけて熱戦が続いている中で、今シーズンも各球団でアクシデントが発生しており、早期復帰が難しくなった選手も少なくない。ここでは、今シ",
@@ -44,16 +115,16 @@
       "summary": "＜DeNA4－3広島＞◇8日◇横浜 主将の1発が4時間47分の激闘に終止符を打った。延長12回先頭。DeNA筒香嘉智内野手（34）が打席に向かった。カウント1－1から広島アドゥワの外角高めチェンジ",
       "link": "https://news.yahoo.co.jp/articles/c4c32f53a65a553d20b46309a6455a7c4271a4de?source=rss",
       "pubDate": "2026-08-08T23:00:02.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
       "teams": [
         "baystars"
       ],
       "topics": [],
       "sources": [
         {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/c4c32f53a65a553d20b46309a6455a7c4271a4de?source=rss"
         }
       ]
@@ -76,11 +147,6 @@
           "name": "BASEBALL KING",
           "sourceId": "baseballking",
           "link": "https://baseballking.jp/ns/703799/"
-        },
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/49ab57a67ab21cd4478c4a67df0e98a3a1b4dcee?source=rss"
         }
       ]
     },
@@ -77188,65 +77254,6 @@
           "name": "日刊スポーツ（Yahoo!ニュース経由）",
           "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/60030a2b0ae46dbcb4318d18f1a98e738ac873b8?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【ヤクルト】今季14度目の完封負けで４連敗、借金２に 池山監督「背中を押せる１日を…」(日刊スポーツ)",
-      "summary": "＜DeNA8－0ヤクルト＞◇18日◇横浜 ヤクルトは今季14度目の完封負けで3度目の4連敗となり、借金も最多2に膨らんだ。12失点の前夜に続き、投手陣が乱調。先発松本健は3回まで1安打無失点も4回",
-      "link": "https://news.yahoo.co.jp/articles/70f655501220bb454d00a313bf584b0de9c14a1f?source=rss",
-      "pubDate": "2026-07-18T20:30:01.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "swallows"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/70f655501220bb454d00a313bf584b0de9c14a1f?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【巨人】橋上監督代行「散発と言われる典型」中日涌井に７回まで毎回の12安打を放つも１得点(日刊スポーツ)",
-      "summary": "＜巨人1－5中日＞◇18日◇東京ドーム 1発攻勢に沈み、連勝が3で止まった。巨人ドラフト1位の竹丸和幸投手（24＝鷺宮製作所）は2被弾で7敗目を喫した。立ち上がりは球団タイ記録の7者連続三振を奪う",
-      "link": "https://news.yahoo.co.jp/articles/bfe1de88b3150d9d4d27b99d7807b8601b943614?source=rss",
-      "pubDate": "2026-07-18T20:30:01.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "giants"
-      ],
-      "topics": [
-        "draft"
-      ],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/bfe1de88b3150d9d4d27b99d7807b8601b943614?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "巨人・竹丸 新人左腕プロ野球タイ7連続K記録も6回3失点で7敗目(スポニチアネックス)",
-      "summary": "◇セ・リーグ 巨人1―5中日（2026年7月18日 東京D） 巨人の竹丸が初回の3死目から3回まで7者連続三振を記録した。 新人左腕としては03年の和田毅（ダイエー）以来2人目のプロ野球タイ",
-      "link": "https://news.yahoo.co.jp/articles/ec6aaefa5807d13631361ebbee0fbe77e048dd27?source=rss",
-      "pubDate": "2026-07-18T20:30:00.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "giants"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/ec6aaefa5807d13631361ebbee0fbe77e048dd27?source=rss"
         }
       ]
     }
