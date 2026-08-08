@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-08T15:16:50.231Z",
+  "generatedAt": "2026-08-08T15:52:44.978Z",
   "teams": {
     "giants": [
       {
@@ -307,6 +307,21 @@
     ],
     "carp": [
       {
+        "gameNumber": 97,
+        "date": "8月8日",
+        "opponentTeamId": "baystars",
+        "opponentText": "DeNA",
+        "score": "3-4x",
+        "ownScore": 3,
+        "opponentScore": 4,
+        "result": "loss",
+        "winningPitcher": "馬場（1-0）",
+        "losingPitcher": "アドゥワ（0-2）",
+        "savePitcher": "",
+        "venue": "横浜",
+        "record": "38-55-4"
+      },
+      {
         "gameNumber": 96,
         "date": "8月7日",
         "opponentTeamId": "baystars",
@@ -440,24 +455,24 @@
         "savePitcher": "",
         "venue": "神宮",
         "record": "34-50-4"
-      },
-      {
-        "gameNumber": 87,
-        "date": "7月24日",
-        "opponentTeamId": "swallows",
-        "opponentText": "ヤクルト",
-        "score": "3-5x",
-        "ownScore": 3,
-        "opponentScore": 5,
-        "result": "loss",
-        "winningPitcher": "",
-        "losingPitcher": "菊地（0-1）",
-        "savePitcher": "",
-        "venue": "神宮",
-        "record": "34-49-4"
       }
     ],
     "baystars": [
+      {
+        "gameNumber": 100,
+        "date": "8月8日",
+        "opponentTeamId": "carp",
+        "opponentText": "広島",
+        "score": "4x-3",
+        "ownScore": 4,
+        "opponentScore": 3,
+        "result": "win",
+        "winningPitcher": "馬場（1-0）",
+        "losingPitcher": "アドゥワ（0-2）",
+        "savePitcher": "",
+        "venue": "横浜",
+        "record": "45-52-3"
+      },
       {
         "gameNumber": 99,
         "date": "8月7日",
@@ -592,21 +607,6 @@
         "savePitcher": "",
         "venue": "バンテリンドーム",
         "record": "39-49-3"
-      },
-      {
-        "gameNumber": 90,
-        "date": "7月24日",
-        "opponentTeamId": "dragons",
-        "opponentText": "中日",
-        "score": "2-3x",
-        "ownScore": 2,
-        "opponentScore": 3,
-        "result": "loss",
-        "winningPitcher": "",
-        "losingPitcher": "伊勢（2-2）",
-        "savePitcher": "",
-        "venue": "バンテリンドーム",
-        "record": "38-49-3"
       }
     ],
     "swallows": [
