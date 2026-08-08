@@ -1,22 +1,81 @@
 {
-  "generatedAt": "2026-08-08T05:12:26.309Z",
+  "generatedAt": "2026-08-08T06:02:07.910Z",
   "count": 4000,
   "items": [
     {
-      "title": "【阪神】湯浅京己が２カ月ぶり１軍復帰 右足首ねんざ回復 ブルペンに頼もしい１枚に(日刊スポーツ)",
-      "summary": "＜阪神－中日＞◇8日◇京セラドーム大阪 阪神湯浅京己投手（27）が1軍復帰する。試合前練習に合わせて球場入りした。 6月11日のソフトバンク戦（みずほペイペイドーム）で登板した際に右足首をねん",
-      "link": "https://news.yahoo.co.jp/articles/536c5112b87a08cb1aeacc7d597d4fc5593ab8bb?source=rss",
-      "pubDate": "2026-08-08T05:06:08.000Z",
+      "title": "【ヤクルト】山田哲人２軍オリックス戦で約２カ月ぶり実戦復帰 第２打席に適時打(日刊スポーツ)",
+      "summary": "＜ファーム・リーグ：オリックス－ヤクルト＞◇8日◇杉本商事BS ヤクルト山田哲人内野手（34）が実戦復帰した。 山田は通算1643安打、311本塁打、198盗塁をマークしているプロ16年目。2",
+      "link": "https://news.yahoo.co.jp/articles/f36643ec3afd527fd80ebed216bf8dca22cc98e6?source=rss",
+      "pubDate": "2026-08-08T05:46:41.000Z",
       "source": "Yahoo!ニュース スポーツ",
       "sourceId": "yahoo-sports",
       "teams": [
-        "tigers"
+        "swallows"
       ],
       "topics": [],
       "sources": [
         {
           "name": "Yahoo!ニュース スポーツ",
           "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/f36643ec3afd527fd80ebed216bf8dca22cc98e6?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【巨人】松本剛と石塚裕惺が２試合ぶりに先発出場(スポーツ報知)",
+      "summary": "◆ＪＥＲＡセ・リーグ 巨人―ヤクルト（８日・東京ドーム） 巨人は８日、ヤクルト戦のスタメンを発表した。 前日７日にスタメンを外れた松本剛外野手と石塚裕惺内野手がスタメンに復帰する。 両チー",
+      "link": "https://news.yahoo.co.jp/articles/be6236783f68e7cb6cd0c435288e9e30047ce8e4?source=rss",
+      "pubDate": "2026-08-08T05:25:49.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "giants"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/be6236783f68e7cb6cd0c435288e9e30047ce8e4?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【阪神】遊撃レギュラー候補の小幡竜平が２軍逆戻りへ 再昇格後は８打数ノーヒット(日刊スポーツ)",
+      "summary": "＜阪神－中日＞◇8日◇京セラドーム大阪 阪神小幡竜平内野手（25）が出場選手登録を抹消される見込みになった。 午前中からSGLで行われた2軍残留練習に参加した。7月14日の再昇格後は8打数で安",
+      "link": "https://news.yahoo.co.jp/articles/5dec45fab17b69bd628d5f593e861b8c30cbf48d?source=rss",
+      "pubDate": "2026-08-08T05:15:12.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "tigers"
+      ],
+      "topics": [
+        "roster"
+      ],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/5dec45fab17b69bd628d5f593e861b8c30cbf48d?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【阪神】湯浅京己が２カ月ぶり１軍復帰 右足首ねんざ回復 ブルペンに頼もしい１枚に(日刊スポーツ)",
+      "summary": "＜阪神－中日＞◇8日◇京セラドーム大阪 阪神湯浅京己投手（27）が1軍復帰する。試合前練習に合わせて球場入りした。 6月11日のソフトバンク戦（みずほペイペイドーム）で登板した際に右足首をねん",
+      "link": "https://news.yahoo.co.jp/articles/536c5112b87a08cb1aeacc7d597d4fc5593ab8bb?source=rss",
+      "pubDate": "2026-08-08T05:06:08.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "tigers"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/536c5112b87a08cb1aeacc7d597d4fc5593ab8bb?source=rss"
         }
       ]
@@ -77234,63 +77293,6 @@
           "name": "Yahoo!ニュース スポーツ",
           "sourceId": "yahoo-sports",
           "link": "https://news.yahoo.co.jp/articles/1a690aa0d44f8fba2e603a133c6d9b0a67746bf0?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【中日】サヨナラ負け喫したうえに…井上一樹監督「心配。勘弁してほしい」村松と石伊が死球を受けて途中交代 今季５度目の１安打負け(スポーツ報知)",
-      "summary": "◆ＪＥＲＡセ・リーグ 巨人４×―１中日（１７日・東京ドーム） 打線が今季５度目の１安打負け。押し出し四球の１点のみで、６回４安打１失点と粘投した大野を援護できなかった。斎藤が同点の９回、坂本に３ラ",
-      "link": "https://news.yahoo.co.jp/articles/7aa7945052574f85897e025f01ca9a671f7b8d59?source=rss",
-      "pubDate": "2026-07-17T20:00:14.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "dragons"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/7aa7945052574f85897e025f01ca9a671f7b8d59?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【阪神】森下翔太にキングの風格「オールスターの前に超せたのは良かった」キャリアハイの昨季２３本を早くも上回る２４号２ラン 兄貴分との本塁打王争いが励みに(スポーツ報知)",
-      "summary": "◆ＪＥＲＡセ・リーグ 広島２―４阪神（１７日・マ ツダスタジアム） 阪神・森下がキングの風格を見せつけた。１点リードの５回１死二塁。変則右腕・アドゥワの１４２キロ直球をバックスクリーン左にたたき込",
-      "link": "https://news.yahoo.co.jp/articles/ee24111ae223d817b7ee723176280e18ebe4bb09?source=rss",
-      "pubDate": "2026-07-17T20:00:13.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "tigers"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/ee24111ae223d817b7ee723176280e18ebe4bb09?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【広島】新井貴浩監督、拙攻拙守を嘆く「どうしても厳しくなってしまう」首位・阪神との３連戦初戦を落とす 借金は再び１３に(スポーツ報知)",
-      "summary": "◆ＪＥＲＡセ・リーグ 広島２―４阪神（１７日・マ ツダスタジアム） 攻守ともに要所で流れを手放し、首位・阪神との３連戦初戦を落とした。１点を追う４回２死一、三塁で小園が二ゴロ、３点を追う６回２死一",
-      "link": "https://news.yahoo.co.jp/articles/9508248f475b4ae3655f58046c110c38bbc58262?source=rss",
-      "pubDate": "2026-07-17T20:00:12.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "carp"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/9508248f475b4ae3655f58046c110c38bbc58262?source=rss"
         }
       ]
     }
