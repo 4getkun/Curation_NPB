@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-08T11:17:45.901Z",
+  "generatedAt": "2026-08-08T11:50:09.448Z",
   "teams": {
     "giants": [
       {
@@ -1067,6 +1067,21 @@
     ],
     "lions": [
       {
+        "gameNumber": 103,
+        "date": "8月8日",
+        "opponentTeamId": "hawks",
+        "opponentText": "ソフトバンク",
+        "score": "2-1",
+        "ownScore": 2,
+        "opponentScore": 1,
+        "result": "win",
+        "winningPitcher": "篠原（2-2）",
+        "losingPitcher": "",
+        "savePitcher": "甲斐野（2-2-13）",
+        "venue": "ベルーナドーム",
+        "record": "56-44-3"
+      },
+      {
         "gameNumber": 102,
         "date": "8月7日",
         "opponentTeamId": "hawks",
@@ -1200,21 +1215,6 @@
         "savePitcher": "",
         "venue": "ベルーナドーム",
         "record": "52-39-3"
-      },
-      {
-        "gameNumber": 93,
-        "date": "7月23日",
-        "opponentTeamId": "fighters",
-        "opponentText": "日本ハム",
-        "score": "2-11",
-        "ownScore": 2,
-        "opponentScore": 11,
-        "result": "loss",
-        "winningPitcher": "",
-        "losingPitcher": "隅田（7-6）",
-        "savePitcher": "",
-        "venue": "ベルーナドーム",
-        "record": "52-38-3"
       }
     ],
     "marines": [
