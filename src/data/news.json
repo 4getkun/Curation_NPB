@@ -1,7 +1,26 @@
 {
-  "generatedAt": "2026-08-07T23:53:43.037Z",
+  "generatedAt": "2026-08-08T00:40:57.634Z",
   "count": 4000,
   "items": [
+    {
+      "title": "ヤクルト・内山壮真、超美技連発！山本昌氏「猛打賞くらいの価値」(ニッポン放送)",
+      "summary": "7日に放送された『ニッポン放送ショウアップナイター 巨人－ヤクルト』で解説を務めた山本昌氏が、ヤクルトのセカンド・内山壮真が守備について言及した。 1－0の8回一死走者なしで、巨人・佐々木俊輔が一、",
+      "link": "https://news.yahoo.co.jp/articles/33650468eb5702f0e6c6e62a10442eb30f17ae48?source=rss",
+      "pubDate": "2026-08-08T00:00:07.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "swallows"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/33650468eb5702f0e6c6e62a10442eb30f17ae48?source=rss"
+        }
+      ]
+    },
     {
       "title": "楽天、痛恨の送球エラーでサヨナラ献上…斎藤雅樹氏「ピッチャーが本塁のカバーにもっと早く深くいっていれば…」",
       "summary": "楽天は7日、日本ハムとの試合（エスコンF）に2－3で敗戦。7日放送のCSフジテレビONE『プロ野球ニュース2026』では、9回裏の楽天の守りにズームアップ。一死から2番・有薗直輝をこの日5個目となる死球で歩かせると、3 […]",
@@ -18,11 +37,6 @@
           "name": "BASEBALL KING",
           "sourceId": "baseballking",
           "link": "https://baseballking.jp/ns/703723/"
-        },
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/7b4e845ba6d5c9a19e006560c0070fc1c84fb437?source=rss"
         }
       ]
     },
@@ -42,11 +56,6 @@
           "name": "BASEBALL KING",
           "sourceId": "baseballking",
           "link": "https://baseballking.jp/ns/703721/"
-        },
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/a781612355f18cccb0ecb16de6b3228ff413f1c5?source=rss"
         }
       ]
     },
@@ -77291,25 +77300,6 @@
           "name": "Yahoo!ニュース スポーツ",
           "sourceId": "yahoo-sports",
           "link": "https://news.yahoo.co.jp/articles/3eaecde12b43738634aa98f08fe819c370f9eaff?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "阪神・大山悠輔 今季4度目の猛打賞「チームが勝つためにやっている。勝てたことが良かった」(スポニチアネックス)",
-      "summary": "◇セ・リーグ 阪神4―2広島（2026年7月17日 マツダスタジアム） 阪神・大山が今季4度目の猛打賞で先制、ダメ押しに絡んだ。 4回無死一塁からの左前打で攻撃をつなげ、梅野の先制犠飛を呼び",
-      "link": "https://news.yahoo.co.jp/articles/7644d6ee23f89c2c41d6caf85cda4772262b0988?source=rss",
-      "pubDate": "2026-07-17T16:15:00.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "tigers"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/7644d6ee23f89c2c41d6caf85cda4772262b0988?source=rss"
         }
       ]
     }
