@@ -1,7 +1,73 @@
 {
-  "generatedAt": "2026-08-08T21:17:10.267Z",
+  "generatedAt": "2026-08-08T21:51:48.946Z",
   "count": 4000,
   "items": [
+    {
+      "title": "落合監督の“肝いり選手”より「使えると思います」 腹括ったスカウトの進言…生まれた名球会打者",
+      "summary": "NPB2000安打を放った名選手も発掘した。元中日左腕の米村明氏は、2001年オフから大阪駐在スカウトとして手腕を発揮した。2009年ドラフト会議では5位指名した日本生命・大島洋平外野手の獲得に尽力したが、当時の中日・落合博満監督に進言し、…",
+      "link": "https://full-count.jp/2026/08/09/post2000953/",
+      "pubDate": "2026-08-08T21:50:00.000Z",
+      "source": "Full-Count（プロ野球）",
+      "sourceId": "full-count-npb",
+      "teams": [
+        "dragons"
+      ],
+      "topics": [
+        "draft"
+      ],
+      "sources": [
+        {
+          "name": "Full-Count（プロ野球）",
+          "sourceId": "full-count-npb",
+          "link": "https://full-count.jp/2026/08/09/post2000953/"
+        },
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/849375ba413f70f96ea668fef679b997d3593558?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "セットアッパー松本裕樹が逆転2ラン被弾でソフトバンク逆転負けも…小久保監督は獅子のルーキーたたえる「打った方がすごくないですか」(西スポWEB OTTO!)",
+      "summary": "◆西武2―1ソフトバンク（8日、ベルーナドーム） 想定外の展開に、ソフトバンクファンが陣取った敵地の右翼席が静まりかえった。1点リードの八回2死二塁。絶対的セットアッパーの松本裕樹が西武ドラフト",
+      "link": "https://news.yahoo.co.jp/articles/5f240a1b84f8f5139cdb3f95c440e7f7458f71b9?source=rss",
+      "pubDate": "2026-08-08T21:40:25.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "hawks"
+      ],
+      "topics": [
+        "draft"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/5f240a1b84f8f5139cdb3f95c440e7f7458f71b9?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "「頑張っている姿を見ると『やらないと』と思える」 ソフトバンク谷川原健太、公私で親しい上茶谷大河に引っ張られて先制打含む2安打マーク(西スポWEB OTTO!)",
+      "summary": "◆西武2―1ソフトバンク（8日、ベルーナドーム） ソフトバンクの谷川原健太捕手（29）が7回に先制の適時二塁打を放った。「（先発の）上茶（谷大河）さんも頑張っていたのでなんとか打ててよかった」。",
+      "link": "https://news.yahoo.co.jp/articles/928ec7b23093fd93ad5285d42632d9915ccbaf67?source=rss",
+      "pubDate": "2026-08-08T21:20:10.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "hawks"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/928ec7b23093fd93ad5285d42632d9915ccbaf67?source=rss"
+        }
+      ]
+    },
     {
       "title": "【ソフトバンク】上茶谷大河 ８連勝逃すも７回零封 登板時に〝好プレー〟続出する２つの要因(東スポWEB)",
       "summary": "ソフトバンクは8日の西武戦（ベルーナ）に1―2で逆転負けを喫した。優勝へのマジックナンバーは「35」で足踏み。小久保監督は「こんな試合もあります」と淡々と敗戦を受け入れた。 そんな中で存在感を示",
@@ -64,16 +130,16 @@
       "summary": "＜DeNA4×－3広島＞◇8日◇横浜 広島が延長12回にサヨナラ負けを喫し、4連敗で借金が今季ワーストの17となった。 同点の12回。イニングをまたいだ8番手アドゥワが先頭の筒香にサヨナラ弾を",
       "link": "https://news.yahoo.co.jp/articles/a46c57faf1bc972012fb4fdfdbb4936d1675f8a7?source=rss",
       "pubDate": "2026-08-08T21:00:01.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
       "teams": [
         "carp"
       ],
       "topics": [],
       "sources": [
         {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/a46c57faf1bc972012fb4fdfdbb4936d1675f8a7?source=rss"
         }
       ]
@@ -77192,63 +77258,6 @@
           "name": "Yahoo!ニュース スポーツ",
           "sourceId": "yahoo-sports",
           "link": "https://news.yahoo.co.jp/articles/f43bdfebc3849133bb87654631411a0f076181ee?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【ＤｅＮＡ】林琢真が２カ月ぶり先発起用 右翼フェンス直撃の２点二塁打で応える(カナロコ by 神奈川新聞)",
-      "summary": "ＤｅＮＡの林が２カ月ぶりの先発起用に応えた。四回に先制し、なおも２死一、二塁の好機。フルカウントからヤクルト・松本健の変化球を捉え、あとわずかでホームランという右翼フェンス直撃の２点二塁打を放った。",
-      "link": "https://news.yahoo.co.jp/articles/699c88017a5db6cbaa949f6562236d835617bf59?source=rss",
-      "pubDate": "2026-07-18T14:41:02.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "baystars"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/699c88017a5db6cbaa949f6562236d835617bf59?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【ソフトバンク】近藤健介が右ハムストリング不安も２安打 小久保監督「出ながら治す方向」(東スポWEB)",
-      "summary": "ソフトバンクは18日のロッテ戦（ZOZOマリン）に5―4で辛勝した。2位・西武が敗れたことでゲーム差は「4」に拡大。貯金は今季最多の「20」となった。 リーグ打点トップの背番号3が、この日も貴重",
-      "link": "https://news.yahoo.co.jp/articles/23f42a9621b4ba0538ab50391a76ad0934dcda16?source=rss",
-      "pubDate": "2026-07-18T14:35:16.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "hawks"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/23f42a9621b4ba0538ab50391a76ad0934dcda16?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【DeNA】深沢鳳介、コントロールさえ初完封 母校専大松戸に「後輩たちに負けてられない」(日刊スポーツ)",
-      "summary": "＜DeNA8－0ヤクルト＞◇18日◇横浜 DeNAは投打がかみ合い、ヤクルトに連勝した。ヤクルト戦は2019年以来、7年ぶりとなる6連勝。ゲーム差4まで迫った。先発の深沢鳳介投手（22）が持ち味を",
-      "link": "https://news.yahoo.co.jp/articles/441fb7f547423619e9b55d32d232500bd48df4ab?source=rss",
-      "pubDate": "2026-07-18T14:24:47.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "baystars"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/441fb7f547423619e9b55d32d232500bd48df4ab?source=rss"
         }
       ]
     }
