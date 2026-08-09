@@ -1,7 +1,26 @@
 {
-  "generatedAt": "2026-08-09T16:19:04.796Z",
+  "generatedAt": "2026-08-09T17:01:36.771Z",
   "count": 4000,
   "items": [
+    {
+      "title": "【ソフトバンク】前田悠伍 大阪桐蔭の〝22学年先輩〟中村剛也から称賛「堂々としている」(東スポWEB)",
+      "summary": "ソフトバンクは9日の西武戦（ベルーナ）に5―0で零封勝ちを収め、優勝へのマジックナンバーを「33」に減らした。先発・前田悠伍投手（21）が7回無失点の快投で開幕10連勝を飾った。 名門・大阪桐蔭",
+      "link": "https://news.yahoo.co.jp/articles/29791cf2a35897c64596f7c15841095c8c0546ad?source=rss",
+      "pubDate": "2026-08-09T16:45:31.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "hawks"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/29791cf2a35897c64596f7c15841095c8c0546ad?source=rss"
+        }
+      ]
+    },
     {
       "title": "阪神・工藤泰成 今季4度目の回またぎは指揮官の信頼の証「本当にやらなきゃいけないなと」(スポニチアネックス)",
       "summary": "◇セ・リーグ 阪神1―0中日（2026年8月4日 京セラドーム大阪） 阪神・工藤が、「虎の子の1点」を守り抜いての勝利に大きく貢献した。1点リードの7回だけでなく、8回も任されて2安打無失点。お",
@@ -77244,25 +77263,6 @@
           "name": "Full-Count（プロ野球）",
           "sourceId": "full-count-npb",
           "link": "https://full-count.jp/2026/07/20/post1991743/"
-        }
-      ]
-    },
-    {
-      "title": "【日本ハム】ご飯のお供「たらこ」名産地の古平町へ行ってきました／滝谷美夢のみゆダイアリー(日刊スポーツ)",
-      "summary": "コラム「滝谷美夢のみゆダイアリー」。23年までファイターズガールの中心メンバーとして活躍し、タレント活動、Fビレッジアンバサダーとして挑戦を続ける滝谷美夢（27）のオリジナルコラムです。 ◇",
-      "link": "https://news.yahoo.co.jp/articles/fd878021cce20ba22015210f8aca917c145e1939?source=rss",
-      "pubDate": "2026-07-19T22:00:01.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "fighters"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/fd878021cce20ba22015210f8aca917c145e1939?source=rss"
         }
       ]
     }
