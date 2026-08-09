@@ -1,7 +1,26 @@
 {
-  "generatedAt": "2026-08-08T23:50:12.751Z",
+  "generatedAt": "2026-08-09T00:43:02.614Z",
   "count": 4000,
   "items": [
+    {
+      "title": "【巨人】笹原操希５番起用で勝ち越し打 マリオにちなんだハテナブロックに「素材は一緒なので」(日刊スポーツ)",
+      "summary": "＜巨人8－2ヤクルト＞◇8日◇東京ドーム 巨人笹原操希外野手（22）が今季2度目の5番起用に応えた。 1－1の3回無死二、三塁、ヤクルト高橋の初球真っ直ぐを左中間へ運んだ。「初球真っ直ぐ狙って",
+      "link": "https://news.yahoo.co.jp/articles/9427327cbdb5aa2a56a0febe7803ae3373fed7ad?source=rss",
+      "pubDate": "2026-08-09T00:00:01.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "giants"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/9427327cbdb5aa2a56a0febe7803ae3373fed7ad?source=rss"
+        }
+      ]
+    },
     {
       "title": "【DeNA】「劇的すぎて鼻血出そう」 筒香嘉智、ヘルメット放り投げサヨナラ弾に熱狂 「本当に美しい放物線」(スポーティングニュース日本版)",
       "summary": "横浜DeNAベイスターズの筒香嘉智が放った劇的なサヨナラホームランに、ファンが熱狂した。本人も喜びを爆発させた一撃に、「カッコよすぎる」などと称賛の声が相次いでいる。 8月8日、DeNAは横浜スタジ",
@@ -65,11 +84,6 @@
           "name": "BASEBALL KING",
           "sourceId": "baseballking",
           "link": "https://baseballking.jp/ns/703801/"
-        },
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/7ed56a29903447ca7bdfc468f1acddc53ae6029d?source=rss"
         }
       ]
     },
@@ -77233,27 +77247,6 @@
           "name": "Yahoo!ニュース スポーツ",
           "sourceId": "yahoo-sports",
           "link": "https://news.yahoo.co.jp/articles/24f584697eeb4786cf07a82fcf73f99ffebfe4a2?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【楽天】マルテが入団会見「日本に再び戻ってこられてすごく興奮しています」背番号は「23」(日刊スポーツ)",
-      "summary": "楽天に加入した元中日のジュニオル・マルテ投手（31）が18日、楽天モバイル最強パークで入団会見を行った。背番号は「23」。 中継ぎとして期待される新助っ人は「日本に再び戻ってこられて、すごく興奮",
-      "link": "https://news.yahoo.co.jp/articles/60030a2b0ae46dbcb4318d18f1a98e738ac873b8?source=rss",
-      "pubDate": "2026-07-18T20:30:03.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "eagles"
-      ],
-      "topics": [
-        "draft"
-      ],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/60030a2b0ae46dbcb4318d18f1a98e738ac873b8?source=rss"
         }
       ]
     }
