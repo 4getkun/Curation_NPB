@@ -1,7 +1,66 @@
 {
-  "generatedAt": "2026-08-09T14:05:22.919Z",
+  "generatedAt": "2026-08-09T14:58:11.347Z",
   "count": 4000,
   "items": [
+    {
+      "title": "DeNA・片山皓心がプロ初勝利から2戦2勝 相川監督も激賞の巧みな投球術(サンケイスポーツ)",
+      "summary": "巧みな投球術で相手打線を手玉に取った。DeNAのドラフト4位・片山皓心（ひろみ）投手（27）＝ホンダ＝が自己最長の6回を投げ切り、3安打無失点。プロ初勝利から2戦2勝となり、「打者が直球を張りやすいカ",
+      "link": "https://news.yahoo.co.jp/articles/86163c0cbfdf8c0b420d310f89944bff67deb764?source=rss",
+      "pubDate": "2026-08-09T14:32:43.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "baystars"
+      ],
+      "topics": [
+        "draft"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/86163c0cbfdf8c0b420d310f89944bff67deb764?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【日本ハム】水野達稀「試合前からあるかもと…無理言わんといてくれ」も秘策成功(日刊スポーツ)",
+      "summary": "＜日本ハム1－0楽天＞◇9日◇エスコンフィールド “新庄スペシャル”が、ここぞの場面で見事に決まった。日本ハムが、たった2安打での痛快勝利で、2カードぶりの勝ち越し。「完璧です」と、新庄剛志監督（",
+      "link": "https://news.yahoo.co.jp/articles/553ea1b6ea4cc8f80d4d0c2b6d16f78df0d03764?source=rss",
+      "pubDate": "2026-08-09T14:25:16.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "fighters"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/553ea1b6ea4cc8f80d4d0c2b6d16f78df0d03764?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "「きょうの勝利は大きかった」阪神の近本が会心の1号ソロ 11試合連続安打でチームを牽引(産経新聞)",
+      "summary": "阪神1－0中日（9日、京セラ） 停滞していた試合を打破する会心の一発だった。0－0のまま迎えた六回。阪神は近本が柳の変化球をうまく捉え、右翼席へ運んだ。先制の1号ソロ。「（本塁打は）あくまで結果」と",
+      "link": "https://news.yahoo.co.jp/articles/6bddab953900f27d43dc4cf89dada9c0d746c1a8?source=rss",
+      "pubDate": "2026-08-09T14:05:36.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "tigers"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/6bddab953900f27d43dc4cf89dada9c0d746c1a8?source=rss"
+        }
+      ]
+    },
     {
       "title": "阪神・工藤泰成が7、8回を回跨ぎで無失点 お立ち台にも登場「なんとか0で」(スポニチアネックス)",
       "summary": "◇セ・リーグ 阪神1―0中日（2026年8月4日 京セラドーム大阪） 阪神・工藤泰成投手が、7回、8回を回跨ぎを無失点で抑えた。チームの1―0勝利に貢献した。お立ち台にも登場し、笑顔を見せた。",
@@ -83,16 +142,16 @@
       "summary": "＜DeNA3－0広島＞◇8日◇横浜 DeNAが広島に完封勝ちで、今季4度目の同一カード3連勝を決めた。8月は通算7勝1敗。セ界ではベイスターズが夏の主役になっている。 ハマの主砲が2夜連続で試",
       "link": "https://news.yahoo.co.jp/articles/ff6a8ce814a7f5367e57d03cf5dfedfe46197056?source=rss",
       "pubDate": "2026-08-09T13:38:45.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
       "teams": [
         "baystars"
       ],
       "topics": [],
       "sources": [
         {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/ff6a8ce814a7f5367e57d03cf5dfedfe46197056?source=rss"
         }
       ]
@@ -102,16 +161,16 @@
       "summary": "＜阪神1－0中日＞◇8日◇京セラドーム大阪 中日は10安打を放ちながら無得点に終わり、今季10度目の完封負けを喫した。連勝は「5」でストップ。借金は14に逆戻りした。 5月29日オリックス戦以",
       "link": "https://news.yahoo.co.jp/articles/7682248bf42e6c1336eecc05341a67b8b9947b10?source=rss",
       "pubDate": "2026-08-09T13:36:58.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
       "teams": [
         "dragons"
       ],
       "topics": [],
       "sources": [
         {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/7682248bf42e6c1336eecc05341a67b8b9947b10?source=rss"
         }
       ]
@@ -161,8 +220,8 @@
       "summary": "＜DeNA3－0広島＞◇9日◇横浜 DeNAドラフト4位の片山皓心投手（27＝Honda）が2勝目を挙げた。3度目の1軍登板で広島とは初対戦。2回に2四球と安打で1死満塁のピンチを背負ったが石原、",
       "link": "https://news.yahoo.co.jp/articles/10f2e39424d7d2a2e0d0d7d62efac4eea01d0d32?source=rss",
       "pubDate": "2026-08-09T13:29:04.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
       "teams": [
         "baystars"
       ],
@@ -171,8 +230,8 @@
       ],
       "sources": [
         {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/10f2e39424d7d2a2e0d0d7d62efac4eea01d0d32?source=rss"
         }
       ]
@@ -201,16 +260,16 @@
       "summary": "＜阪神1－0中日＞◇9日◇京セラドーム大阪 阪神岩崎優投手（35）が球団単独2位の131セーブを挙げた。 1－0で迎えた9回、4番手で登板。岡林を空振り三振。代打阿部を中飛。福永を三ゴロに打ち",
       "link": "https://news.yahoo.co.jp/articles/a48ec4eeaa22e6a99610f02aa02e97d90e4b7e31?source=rss",
       "pubDate": "2026-08-09T13:24:51.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
       "teams": [
         "tigers"
       ],
       "topics": [],
       "sources": [
         {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/a48ec4eeaa22e6a99610f02aa02e97d90e4b7e31?source=rss"
         }
       ]
@@ -220,16 +279,16 @@
       "summary": "＜阪神1－0中日＞◇9日◇京セラドーム大阪 阪神が意地を示した。耐えて、しのいで、薄氷を踏むような1－0勝利。負ければ巨人に首位を明け渡す試合で踏ん張った。連敗を2で止め、11日からの首位攻防戦に",
       "link": "https://news.yahoo.co.jp/articles/fedcd5f5d3df50ed9aafaa42e7a5480ee3ae4997?source=rss",
       "pubDate": "2026-08-09T13:24:12.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
       "teams": [
         "tigers"
       ],
       "topics": [],
       "sources": [
         {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/fedcd5f5d3df50ed9aafaa42e7a5480ee3ae4997?source=rss"
         }
       ]
@@ -239,16 +298,16 @@
       "summary": "＜DeNA3－0広島＞◇8日◇横浜 今季11度目のゼロ封負けで2度目の5連敗を喫し、借金が今季ワースト18となった。打線はDeNA先発片山の前に走者を出しながら、あと1本が出なかった。2回1死満塁",
       "link": "https://news.yahoo.co.jp/articles/ce2be63622f399226f0f7f19b9fc505f139251fa?source=rss",
       "pubDate": "2026-08-09T13:23:09.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
       "teams": [
         "carp"
       ],
       "topics": [],
       "sources": [
         {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/ce2be63622f399226f0f7f19b9fc505f139251fa?source=rss"
         }
       ]
@@ -258,16 +317,16 @@
       "summary": "＜阪神1－0中日＞◇9日◇京セラドーム大阪 虎自慢の「100マイルコンビ」が勝利を手繰り寄せた。阪神木下里都投手（25）と工藤泰成投手（24）が無失点リレー。9回に登板したベテラン岩崎優投手（35",
       "link": "https://news.yahoo.co.jp/articles/9e466cf99782ca03211876e207eb15694993eec0?source=rss",
       "pubDate": "2026-08-09T13:21:49.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
       "teams": [
         "tigers"
       ],
       "topics": [],
       "sources": [
         {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/9e466cf99782ca03211876e207eb15694993eec0?source=rss"
         }
       ]
@@ -77203,65 +77262,6 @@
           "name": "Yahoo!ニュース スポーツ",
           "sourceId": "yahoo-sports",
           "link": "https://news.yahoo.co.jp/articles/eb09a2a721b757d658eac44f562432a60109c812?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "ヤクルト今季3度目の5連敗 深刻な得点力不足…池山監督「またしっかり準備して戦いたい」(スポニチアネックス)",
-      "summary": "◇セ・リーグ ヤクルト1―5DeNA（2026年7月19日 横浜） ヤクルトの吉村が5回6安打5失点と試合をつくれず、今季3度目の5連敗を喫した。 同一カード3連敗も今季5度目で、DeNA戦",
-      "link": "https://news.yahoo.co.jp/articles/fdb73461317bf0539d69890b7f8bfaca96b91aff?source=rss",
-      "pubDate": "2026-07-19T20:30:00.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "swallows"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/fdb73461317bf0539d69890b7f8bfaca96b91aff?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "DeNA片山に桐蔭横浜大時代の恩師・斉藤監督が期待「工藤公康さんのような左腕になってほしい」(スポニチアネックス)",
-      "summary": "◇セ・リーグ DeNA5―1ヤクルト（2026年7月19日 横浜） DeNA・片山は逆境を成長の糧にしてきた。桐蔭横浜大の4年春。エースの座をつかんでプロを意識した時にコロナ禍に見舞われ、春のリ",
-      "link": "https://news.yahoo.co.jp/articles/ee2d694e557c2c82906d4fb4a9203c6cdeb6f3c0?source=rss",
-      "pubDate": "2026-07-19T20:30:00.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "baystars"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/ee2d694e557c2c82906d4fb4a9203c6cdeb6f3c0?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "西武ドラ1小島“サイクル本塁打”達成 1号から最速4本でコンプリート「意識していなかった」(スポニチアネックス)",
-      "summary": "◇パ・リーグ 西武6―3楽天（2026年7月19日 楽天モバイル） 西武のドラフト1位・小島が球史に名を刻んだ。1点を先制した3回、なお1死一、二塁からウレーニャのチェンジアップを右翼席へ。4号",
-      "link": "https://news.yahoo.co.jp/articles/0632cdef19722c2457002b8d5d6a6dece2a22847?source=rss",
-      "pubDate": "2026-07-19T20:30:00.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "lions"
-      ],
-      "topics": [
-        "draft"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/0632cdef19722c2457002b8d5d6a6dece2a22847?source=rss"
         }
       ]
     }
