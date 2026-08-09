@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-09T06:06:07.971Z",
+  "generatedAt": "2026-08-09T07:28:33.497Z",
   "teams": {
     "giants": [
       {
@@ -1371,6 +1371,21 @@
     ],
     "eagles": [
       {
+        "gameNumber": 99,
+        "date": "8月9日",
+        "opponentTeamId": "fighters",
+        "opponentText": "日本ハム",
+        "score": "0-1",
+        "ownScore": 0,
+        "opponentScore": 1,
+        "result": "loss",
+        "winningPitcher": "有原（4-6）",
+        "losingPitcher": "古謝（1-8）",
+        "savePitcher": "",
+        "venue": "エスコンF",
+        "record": "38-60-1"
+      },
+      {
         "gameNumber": 98,
         "date": "8月8日",
         "opponentTeamId": "fighters",
@@ -1499,26 +1514,11 @@
         "ownScore": 3,
         "opponentScore": 4,
         "result": "loss",
-        "winningPitcher": "柳川（3-0）",
+        "winningPitcher": "",
         "losingPitcher": "泰（2-1）",
         "savePitcher": "",
         "venue": "エスコンF",
         "record": "36-53-1"
-      },
-      {
-        "gameNumber": 89,
-        "date": "7月23日",
-        "opponentTeamId": "marines",
-        "opponentText": "ロッテ",
-        "score": "4-2",
-        "ownScore": 4,
-        "opponentScore": 2,
-        "result": "win",
-        "winningPitcher": "九谷（1-0）",
-        "losingPitcher": "",
-        "savePitcher": "藤平（0-1-20）",
-        "venue": "ZOZOマリン",
-        "record": "36-52-1"
       }
     ],
     "buffaloes": [
@@ -1675,6 +1675,21 @@
     ],
     "fighters": [
       {
+        "gameNumber": 105,
+        "date": "8月9日",
+        "opponentTeamId": "eagles",
+        "opponentText": "楽天",
+        "score": "1-0",
+        "ownScore": 1,
+        "opponentScore": 0,
+        "result": "win",
+        "winningPitcher": "有原（4-6）",
+        "losingPitcher": "古謝（1-8）",
+        "savePitcher": "",
+        "venue": "エスコンF",
+        "record": "59-46-0"
+      },
+      {
         "gameNumber": 104,
         "date": "8月8日",
         "opponentTeamId": "eagles",
@@ -1808,21 +1823,6 @@
         "savePitcher": "",
         "venue": "エスコンF",
         "record": "54-42-0"
-      },
-      {
-        "gameNumber": 95,
-        "date": "7月25日",
-        "opponentTeamId": "eagles",
-        "opponentText": "楽天",
-        "score": "4x-3",
-        "ownScore": 4,
-        "opponentScore": 3,
-        "result": "win",
-        "winningPitcher": "柳川（3-0）",
-        "losingPitcher": "泰（2-1）",
-        "savePitcher": "",
-        "venue": "エスコンF",
-        "record": "53-42-0"
       }
     ]
   }
