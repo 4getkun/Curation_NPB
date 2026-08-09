@@ -1,7 +1,26 @@
 {
-  "generatedAt": "2026-08-09T22:17:44.060Z",
+  "generatedAt": "2026-08-09T22:55:46.071Z",
   "count": 4000,
   "items": [
+    {
+      "title": "巨人20歳が“大抜擢”「おおお!!」 米識者が披露した10人…ファン驚愕「慧眼すぎる」",
+      "summary": "米識者が予想した、未来の野球日本代表「侍ジャパン」の先発オーダーが話題となっている。米ポッドキャスト番組「WBC Central」の司会を務めるショーン・スプラドリング氏は6日（日本時間7日）、自身のX（旧ツイッター）を更新。「気が早すぎる…",
+      "link": "https://full-count.jp/2026/08/10/post2001268/",
+      "pubDate": "2026-08-09T22:30:00.000Z",
+      "source": "Full-Count（プロ野球）",
+      "sourceId": "full-count-npb",
+      "teams": [
+        "giants"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Full-Count（プロ野球）",
+          "sourceId": "full-count-npb",
+          "link": "https://full-count.jp/2026/08/10/post2001268/"
+        }
+      ]
+    },
     {
       "title": "このまま出番なし…？広島、いまだ1軍出場ゼロの選手（1）衝撃の出番ゼロ！？広島が誇るスラッガーだが(ベースボールチャンネル)",
       "summary": "後半戦に突入している2026年シーズンのプロ野球。今季も主力の故障や不調など、さまざまな要因で選手の入れ替えが行われ、多くの選手が一軍の舞台を経験している。一方で、故障やチーム事情などにより、ここま",
@@ -45,16 +64,16 @@
       "summary": "コラム「滝谷美夢のみゆダイアリー」。23年までファイターズガールの中心メンバーとして活躍し、タレント活動、Fビレッジアンバサダーとして挑戦を続ける滝谷美夢（27）のオリジナルコラムです。",
       "link": "https://news.yahoo.co.jp/articles/525ca91cae95d4af602d8ebce4b10d436e98da1c?source=rss",
       "pubDate": "2026-08-09T22:00:01.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
       "teams": [
         "fighters"
       ],
       "topics": [],
       "sources": [
         {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/525ca91cae95d4af602d8ebce4b10d436e98da1c?source=rss"
         }
       ]
@@ -76,11 +95,6 @@
           "name": "BASEBALL KING",
           "sourceId": "baseballking",
           "link": "https://baseballking.jp/ns/703871/"
-        },
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/6de59be9400806c70c82adb496fefe8e8dcc57b8?source=rss"
         }
       ]
     },
@@ -103,11 +117,6 @@
           "name": "Full-Count（プロ野球）",
           "sourceId": "full-count-npb",
           "link": "https://full-count.jp/2026/08/10/post1998814/"
-        },
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/76fd6af01a527b37398910170b24ae690bde684e?source=rss"
         }
       ]
     },
@@ -127,11 +136,6 @@
           "name": "BASEBALL KING",
           "sourceId": "baseballking",
           "link": "https://baseballking.jp/ns/703860/"
-        },
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/dee4e454850cb25944c6f6858774aceef7a35c1e?source=rss"
         }
       ]
     },
@@ -77226,25 +77230,6 @@
           "name": "Yahoo!ニュース スポーツ",
           "sourceId": "yahoo-sports",
           "link": "https://news.yahoo.co.jp/articles/cc7e59c60a312b495c3970be858fb20019d4ea9a?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "ソフトバンク・栗原陵矢「何とかしようという思いだけでした」 近藤健介に1打点差に迫るタイムリー(スポニチアネックス)",
-      "summary": "◇パ・リーグ ソフトバンク―ロッテ（2026年7月20日 ZOZOマリン） ソフトバンクの4番・栗原陵矢が3―3の5回に勝ち越しタイムリーを放った。1死三塁の場面でロッテ・ジャクソンのカットボー",
-      "link": "https://news.yahoo.co.jp/articles/1bebe7f14f353412a2a99afc2b0d62e7ceda00a4?source=rss",
-      "pubDate": "2026-07-20T10:18:06.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "hawks"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/1bebe7f14f353412a2a99afc2b0d62e7ceda00a4?source=rss"
         }
       ]
     }
