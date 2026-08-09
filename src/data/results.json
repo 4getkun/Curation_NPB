@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-09T14:58:12.679Z",
+  "generatedAt": "2026-08-09T15:25:48.663Z",
   "teams": {
     "giants": [
       {
@@ -147,13 +147,28 @@
         "opponentScore": 1,
         "result": "win",
         "winningPitcher": "竹丸（7-7）",
-        "losingPitcher": "伊原（3-1）",
+        "losingPitcher": "",
         "savePitcher": "",
         "venue": "甲子園",
         "record": "50-39-2"
       }
     ],
     "tigers": [
+      {
+        "gameNumber": 100,
+        "date": "8月9日",
+        "opponentTeamId": "dragons",
+        "opponentText": "中日",
+        "score": "1-0",
+        "ownScore": 1,
+        "opponentScore": 0,
+        "result": "win",
+        "winningPitcher": "木下（3-1）",
+        "losingPitcher": "",
+        "savePitcher": "岩崎（1-2-11）",
+        "venue": "京セラD大阪",
+        "record": "55-44-1"
+      },
       {
         "gameNumber": 99,
         "date": "8月8日",
@@ -288,21 +303,6 @@
         "savePitcher": "",
         "venue": "甲子園",
         "record": "50-40-1"
-      },
-      {
-        "gameNumber": 90,
-        "date": "7月25日",
-        "opponentTeamId": "giants",
-        "opponentText": "巨人",
-        "score": "1-5",
-        "ownScore": 1,
-        "opponentScore": 5,
-        "result": "loss",
-        "winningPitcher": "竹丸（7-7）",
-        "losingPitcher": "伊原（3-1）",
-        "savePitcher": "",
-        "venue": "甲子園",
-        "record": "49-40-1"
       }
     ],
     "carp": [
