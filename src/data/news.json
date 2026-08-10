@@ -1,7 +1,47 @@
 {
-  "generatedAt": "2026-08-10T10:54:33.992Z",
+  "generatedAt": "2026-08-10T11:39:53.348Z",
   "count": 4000,
   "items": [
+    {
+      "title": "このまま出番なし…？楽天、いまだ1軍出場ゼロの選手（3）吉井監督の評価は…？ 1軍の”重要戦力“だったが(ベースボールチャンネル)",
+      "summary": "後半戦に突入している2026年シーズンのプロ野球。今季も主力の故障や不調など、さまざまな要因で選手の入れ替えが行われ、多くの選手が一軍の舞台を経験している。一方で、故障やチーム事情などにより、ここま",
+      "link": "https://news.yahoo.co.jp/articles/2c14914621102f2304990dee778125866c045c04?source=rss",
+      "pubDate": "2026-08-10T11:30:12.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "eagles"
+      ],
+      "topics": [
+        "injury"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/2c14914621102f2304990dee778125866c045c04?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "直近登板で1死も取れず4失点…DeNA、ドミニカ出身の“長身右腕”を登録抹消 今季26試合登板",
+      "summary": "10日のプロ野球公示で、横浜DeNAベイスターズはハンセル・マルセリーノ投手を一軍登録から抹消した。",
+      "link": "https://www.baseballchannel.jp/npb/baystars/281409/",
+      "pubDate": "2026-08-10T10:55:03.000Z",
+      "source": "ベースボールチャンネル（プロ野球）",
+      "sourceId": "baseballchannel-npb",
+      "teams": [],
+      "topics": [
+        "roster"
+      ],
+      "sources": [
+        {
+          "name": "ベースボールチャンネル（プロ野球）",
+          "sourceId": "baseballchannel-npb",
+          "link": "https://www.baseballchannel.jp/npb/baystars/281409/"
+        }
+      ]
+    },
     {
       "title": "【ソフトバンク】モイネロ 11日のロッテ戦で今季初登板「かなり長かった」(東スポWEB)",
       "summary": "ソフトバンクは11日から本拠地でロッテとの3連戦を迎える。そのカード初戦を任されるのが、今季初登板となるリバン・モイネロ投手（30）。昨年パ・リーグMVP左腕が一軍の舞台に戻ってくる。 助っ人は",
@@ -77165,44 +77205,6 @@
           "name": "日刊スポーツ（Yahoo!ニュース経由）",
           "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/aaaa9e60bb8ae4ef6498e8a4bcc7c4467a2fca6e?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【巨人】阪神に並び１２日ぶり同率首位浮上 浦田、松本、中川ら休養で体調管理「橋上流マネジメント」で勝利(スポーツ報知)",
-      "summary": "◆ＪＥＲＡセ・リーグ 巨人３―１広島（２０日・東京ドーム） 巨人が連勝で今季最多貯金「９」となり、阪神と並び１２日ぶりに同率首位に浮上した。 ９日以降、首位・阪神とほぼ同じ勝敗で推移し１差か２",
-      "link": "https://news.yahoo.co.jp/articles/3163b9d1374a3ac413f9843e4f6e46078cf54bad?source=rss",
-      "pubDate": "2026-07-20T14:05:01.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "giants"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/3163b9d1374a3ac413f9843e4f6e46078cf54bad?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "楽天・岸孝之、源田への四球悔やむ「全てはあの四球から始まった」(サンケイスポーツ)",
-      "summary": "（パ・リーグ、楽天4－5西武、16回戦、西武8勝7敗1分、20日、楽天モバイル）楽天先発の岸が6回8安打5失点で3敗目を喫した。二回2死二塁から源田に四球を与えて古賀悠に3ランを被弾。「2死だったので",
-      "link": "https://news.yahoo.co.jp/articles/98966a557d35b17d46b0c729a701410287dd3451?source=rss",
-      "pubDate": "2026-07-20T14:05:00.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "eagles"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/98966a557d35b17d46b0c729a701410287dd3451?source=rss"
         }
       ]
     }
