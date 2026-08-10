@@ -1,7 +1,91 @@
 {
-  "generatedAt": "2026-08-09T23:53:54.764Z",
+  "generatedAt": "2026-08-10T00:44:47.146Z",
   "count": 4000,
   "items": [
+    {
+      "title": "【ヤフコメで話題】「ドラゴンズ残留か移籍か、選手のキャリア選択に注目」「引退後の待遇や現役続行の可能性を考える」 - 元ドラゴンズ選手の進路を巡る議論(Yahoo!ニュース オリジナル THE PAGE)",
+      "summary": "ドラゴンズからソフトバンクに移籍した元選手のキャリア選択について、Yahoo!ニュースのコメント欄で話題になっています。 コメントでは、ドラゴンズに残留していれば生え抜きの功労者としてコーチや解説など",
+      "link": "https://news.yahoo.co.jp/articles/3a7a8579d33edfc421aac0d943da30236e206e0e?source=rss",
+      "pubDate": "2026-08-10T00:21:04.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "dragons"
+      ],
+      "topics": [
+        "trade",
+        "retirement"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/3a7a8579d33edfc421aac0d943da30236e206e0e?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "ロッテ、益田直也の通算250S記念グッズ第2弾を販売",
+      "summary": "ロッテは9日、8月10日12時00分からマリーンズオンラインストアで益田直也投手の通算250セーブ記念グッズ第2弾の販売を開始すると発表した。 益田直也投手は8月4日の埼玉西武戦（ZOZOマリンスタジアム 18時00 […]",
+      "link": "https://baseballking.jp/ns/703907/",
+      "pubDate": "2026-08-10T00:18:13.000Z",
+      "source": "BASEBALL KING",
+      "sourceId": "baseballking",
+      "teams": [
+        "marines"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "BASEBALL KING",
+          "sourceId": "baseballking",
+          "link": "https://baseballking.jp/ns/703907/"
+        },
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/59298bedf1ac688cbd7cc6267f97a0eba65410e2?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【ヤフコメで話題】「阪神二軍の育成・調整力に疑問」「采配や起用法への不満も」 - 首脳陣の戦略と若手育成が議論に(Yahoo!ニュース オリジナル THE PAGE)",
+      "summary": "阪神タイガースの采配や二軍の育成体制について、Yahoo!ニュースのコメント欄で話題になっています。 コメントでは、藤川監督の采配やガルシア選手の起用法に納得できないという声がある一方、代打陣や若手選",
+      "link": "https://news.yahoo.co.jp/articles/d197410cbe642c352b8557e0f288cbf83b0479ca?source=rss",
+      "pubDate": "2026-08-10T00:17:20.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "tigers"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/d197410cbe642c352b8557e0f288cbf83b0479ca?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "新井監督は「全部ブッ壊してから辞めたい」と吐露…いま「広島カープ」で何が起きているのか？(FRIDAY)",
+      "summary": "「カープのファン、そして野球ファンの皆さんを失望させてしまった。もう一度、チーム全員が襟(えり)を正し、死に物狂いで試合に臨んでほしいと思います」 古巣の不祥事に、野球解説者の小早川毅彦氏は落胆する",
+      "link": "https://news.yahoo.co.jp/articles/828fc5a815e6101a5c546f348a4ad17e85dd5759?source=rss",
+      "pubDate": "2026-08-10T00:00:43.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "carp"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/828fc5a815e6101a5c546f348a4ad17e85dd5759?source=rss"
+        }
+      ]
+    },
     {
       "title": "DeNA快進撃は“新アイテム”のおかげ？ 発案者は最強守護神…ナインが実感する効果",
       "summary": "リーグ3位のDeNAは9日、本拠地・横浜スタジアムで行われた広島戦に3-0で勝利し、8月に入ってから7勝1敗（勝率.875）の快進撃を見せている。首位の阪神＆巨人にはまだ8.5ゲーム差があるが、優勝争いに“嵐”を巻き起こしそうな勢いだ。実は…",
@@ -77145,85 +77229,6 @@
           "name": "日刊スポーツ（Yahoo!ニュース経由）",
           "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/c526390fb9cc86e80584d8fc5aadcb99a0bead8a?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【ロッテ】ジャクソン５回４失点で降板 ソフトバンク栗原に勝ち越し打許す(日刊スポーツ)",
-      "summary": "＜ロッテ－ソフトバンク＞◇20日◇ZOZOマリン ロッテの先発アンドレ・ジャクソン投手（30）は5回7安打4失点で降板した。 2点リードの3回に連打と犠打などで1死満塁のピンチを招く。ソフトバ",
-      "link": "https://news.yahoo.co.jp/articles/3275f9362a92da8ebdc8b9e1f50205a16095d029?source=rss",
-      "pubDate": "2026-07-20T10:51:57.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "marines"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/3275f9362a92da8ebdc8b9e1f50205a16095d029?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【日本ハム】新庄監督「そんな断トツいらんねん！」悪送球から失点、失策数12球団最多の60(日刊スポーツ)",
-      "summary": "日本ハムはオリックス戦8連勝ならず。7回まで散発3安打と打線が封じられ、新庄監督は「九里君の投球術と宗君の守備と宗君のバッティングにやられました」と相手をたたえた。守りでは、1回に遊撃を守る水野の悪",
-      "link": "https://news.yahoo.co.jp/articles/afaf967d52440cd0f54b4070062b2634b2659775?source=rss",
-      "pubDate": "2026-07-20T10:36:53.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "fighters"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/afaf967d52440cd0f54b4070062b2634b2659775?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【ヤクルト】西舘昂が１軍合流 １年目にトミー・ジョン手術の24年ドラ１右腕 セデーニョ抹消(日刊スポーツ)",
-      "summary": "ヤクルトの西舘昂汰投手（25）が20日、1軍に合流した。 中日戦（神宮）の試合前練習にも姿をみせ、ダッシュやストレッチ、筋力トレーニングなどで汗を流した。24年に専大から加入したドラフト1位右腕",
-      "link": "https://news.yahoo.co.jp/articles/a449dde982fd45cb3bce442b5db7130aa6a2a3c0?source=rss",
-      "pubDate": "2026-07-20T10:35:45.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "swallows"
-      ],
-      "topics": [
-        "injury",
-        "draft"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/a449dde982fd45cb3bce442b5db7130aa6a2a3c0?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【ロッテ】山口航輝キャリアハイまであと２本に迫る14号本塁打「角さんの為に打てて良かった」(日刊スポーツ)",
-      "summary": "＜ロッテ－ソフトバンク＞◇20日◇ZOZOマリン ロッテ山口航輝外野手（25）が打った瞬間確信弾で追加点を奪った。 1点差にされた直後の3回2死走者無し。山口はソフトバンク大関の145キロ直球",
-      "link": "https://news.yahoo.co.jp/articles/dcc0a7af9fbcf0e380c82f3fa12f4d244f86c53b?source=rss",
-      "pubDate": "2026-07-20T10:33:03.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "marines"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/dcc0a7af9fbcf0e380c82f3fa12f4d244f86c53b?source=rss"
         }
       ]
     }
