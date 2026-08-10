@@ -1,22 +1,300 @@
 {
-  "generatedAt": "2026-08-10T19:26:34.581Z",
+  "generatedAt": "2026-08-10T20:06:42.663Z",
   "count": 4000,
   "items": [
     {
-      "title": "【中日】嶋基宏ヘッドコーチが交通事故 女性けが チームは移動日(日刊スポーツ)",
-      "summary": "中日嶋基宏ヘッドコーチ（41）が10日午後3時20分ごろ、東京・小金井市内で、乗用車を運転中に自転車と衝突する事故を起こした。関係者への取材でわかった。自転車に乗っていた50代の女性は、転倒して足首",
-      "link": "https://news.yahoo.co.jp/articles/8cecaa0f98685de0e9890e7048a7e26435136478?source=rss",
-      "pubDate": "2026-08-10T14:08:47.000Z",
+      "title": "広島・栗林良吏が連敗ストップに意欲「いい形でリリーフにつなげられたら」11日ヤクルト戦先発(スポニチアネックス)",
+      "summary": "11日のヤクルト戦（神宮）に先発する広島・栗林が連敗ストップに意気込んだ。「できることをやるのが一番大事。先制点を与えず、いい形でリリーフにつなげられたら」。 チームは5連敗中で、後半戦は全9試",
+      "link": "https://news.yahoo.co.jp/articles/b896027903632dfb32216fe170953a7e3b0b50e3?source=rss",
+      "pubDate": "2026-08-10T20:05:00.000Z",
       "source": "Yahoo!ニュース スポーツ",
       "sourceId": "yahoo-sports",
       "teams": [
-        "dragons"
+        "carp"
       ],
       "topics": [],
       "sources": [
         {
           "name": "Yahoo!ニュース スポーツ",
           "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/b896027903632dfb32216fe170953a7e3b0b50e3?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "オリックス 11日先発の九里亜蓮が鬼門突破へ気合「しっかりとした投球を」楽天モバイルで今季6戦全敗中(スポニチアネックス)",
+      "summary": "鬼門打破へ挑む。オリックスは11日から楽天3連戦。戦いの舞台となる楽天モバイルでは今季6戦全敗中だ。初戦の先発を託された九里は「前回（3日の対戦では6失点と）やられているので、しっかりとした投球をし",
+      "link": "https://news.yahoo.co.jp/articles/3c05f51fc7f2a556406113e8c11b7dbb2fe8fb70?source=rss",
+      "pubDate": "2026-08-10T20:05:00.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "buffaloes",
+        "eagles"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/3c05f51fc7f2a556406113e8c11b7dbb2fe8fb70?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "巨人・山崎伊織、同郷で同学年の阪神・村上頌樹と負けられない戦い…過去２度は引き分け、首位攻防３連戦の初戦で３度目の決戦(スポーツ報知)",
+      "summary": "巨人は１１日から同率首位の阪神との直接対決３連戦に臨む。初戦の先発は山崎伊織投手（２７）。同学年で同じ兵庫出身、ともに大学日本代表で親交の深い村上頌樹投手（２８）との投げ合いに闘志を燃やした。２戦目",
+      "link": "https://news.yahoo.co.jp/articles/6d73485ed9c24ee1803492feb6df95916f91a249?source=rss",
+      "pubDate": "2026-08-10T20:00:12.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "giants",
+        "tigers"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/6d73485ed9c24ee1803492feb6df95916f91a249?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【西武】「左膝内側側副靱帯損傷」で離脱中の西川愛也が実戦復帰へ １１日のファーム巨人戦に出場見込み(スポーツ報知)",
+      "summary": "「左膝内側側副靱帯損傷」のため出場選手登録を抹消されている西武・西川愛也外野手が、１１日のファーム・巨人戦（ベルーナＤ）で実戦復帰することが１０日、分かった。 この日、北海道・美唄市で行われてい",
+      "link": "https://news.yahoo.co.jp/articles/df5dbed46600b49ee9b04f1542596ba8042a1b7c?source=rss",
+      "pubDate": "2026-08-10T20:00:11.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "lions"
+      ],
+      "topics": [
+        "roster"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/df5dbed46600b49ee9b04f1542596ba8042a1b7c?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【ソフトバンク】モイネロが１１日のロッテ戦で今季初登板「最初から力強く投げていければ」優勝マジック３３…小久保裕紀監督「彼が貯金をつくれば優勝に近づく」(スポーツ報知)",
+      "summary": "ソフトバンクのリバン・モイネロ投手（３０）が１０日、今季第１球から「全開」を宣言した。１１日のロッテ戦（みずほペイペイ）で今季初登板を迎える。キューバ代表で出場したＷＢＣ後に合流が遅れ、左肩の違和感",
+      "link": "https://news.yahoo.co.jp/articles/2d31fbf651a7d89d19fa4fa1e06d05474b03c9f6?source=rss",
+      "pubDate": "2026-08-10T20:00:09.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "hawks"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/2d31fbf651a7d89d19fa4fa1e06d05474b03c9f6?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【阪神】村上頌樹が３１年ぶりの快挙懸けて巨人との首位攻防戦の先陣「自分が粘り強く投げれば勝てる」…山崎伊織にも「個人としてもチームとしても負けたくない」(スポーツ報知)",
+      "summary": "阪神・村上頌樹投手（２８）が１０日、無失点継続での必勝を誓った。１１日の巨人戦（東京Ｄ）に先発する右腕は、同率首位で並ぶライバルに２戦連続で完封勝利を収めている。巨人戦で３戦連続完封なら、１９９５年",
+      "link": "https://news.yahoo.co.jp/articles/005dbbf4860401bfebe7f7698c7326be116c0aea?source=rss",
+      "pubDate": "2026-08-10T20:00:07.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "tigers"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/005dbbf4860401bfebe7f7698c7326be116c0aea?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【オリックス】野手最年長３６歳 西野真弘が１軍合流「もう一度、はい上がるつもりでやってきた」麦谷祐介も３か月ぶり(スポーツ報知)",
+      "summary": "オリックス・西野真弘内野手（３６）が１０日、１軍に再合流した。チームの野手最年長で迎えた今季は２９試合で打率１割８分２厘。本塁打、打点ともになく、７月３日に出場選手登録を抹消されていた。 打ち込",
+      "link": "https://news.yahoo.co.jp/articles/d6838fd3a6a99a2faf983105200dfdd63a31fe86?source=rss",
+      "pubDate": "2026-08-10T20:00:06.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "buffaloes"
+      ],
+      "topics": [
+        "roster"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/d6838fd3a6a99a2faf983105200dfdd63a31fe86?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【阪神】佐藤輝明、巨人との首位攻防３連戦へ「全部勝つつもりでやらないと」巨人山崎伊織攻略なるか(日刊スポーツ)",
+      "summary": "阪神佐藤輝明内野手（27）が宿敵に全勝宣言！ 11日から同率首位、巨人との3連戦（東京ドーム）。「首位攻防なので、そらね、全部勝つつもりでやらないと」。負けられない戦いを前に、気合をみなぎらせた。",
+      "link": "https://news.yahoo.co.jp/articles/0f5b17602e9c296bbf5b0e2ca885097be8c69e9a?source=rss",
+      "pubDate": "2026-08-10T20:00:02.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "tigers"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/0f5b17602e9c296bbf5b0e2ca885097be8c69e9a?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【阪神】森下翔太「相手投手は関係ない。普通にやるだけ」巨人山﨑伊織と今季初対戦も平常心(日刊スポーツ)",
+      "summary": "阪神森下翔太外野手（25）はいつも通りの姿で、巨人に打ち勝つ。 11日の相手先発は今季初対戦となる山﨑伊織投手（27）。「相手投手は関係ない。自分の打撃をすること。普通にやるだけです」と平常心を",
+      "link": "https://news.yahoo.co.jp/articles/1409c4b8ba95aad90368d63d341164dd7a185e1c?source=rss",
+      "pubDate": "2026-08-10T20:00:02.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "tigers"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/1409c4b8ba95aad90368d63d341164dd7a185e1c?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【阪神】村上頌樹、首位攻防第１Rで先陣「負けたくないです」巨人戦３連続完封なら球団初の快挙(日刊スポーツ)",
+      "summary": "阪神村上頌樹投手（28）が快挙に挑む。首位攻防第1ラウンドの11日、同率首位で並ぶ巨人戦（東京ドーム）で先発。球団初となる巨人戦3試合連続完封勝利を目指す。 「大事な試合なので、本当にいい試合が",
+      "link": "https://news.yahoo.co.jp/articles/2a0c9024e1ba3839999b7c9c7873f886bf139464?source=rss",
+      "pubDate": "2026-08-10T20:00:02.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "tigers"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/2a0c9024e1ba3839999b7c9c7873f886bf139464?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【阪神】高橋遥人、チーム内だと石黒似？巨人井上温大との「ハルト対決」制し12勝目狙う(日刊スポーツ)",
+      "summary": "阪神高橋遥人投手（30）が「ハルト対決」に挑む。12勝目をかけて、12日巨人戦（東京ドーム）に先発予定。相手の先発は、ここまで10勝を挙げている井上温大（はると）投手（25）。「めちゃくちゃいいピッ",
+      "link": "https://news.yahoo.co.jp/articles/5d209769cc422246413509774cf6fa1f5160f358?source=rss",
+      "pubDate": "2026-08-10T20:00:02.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "tigers"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/5d209769cc422246413509774cf6fa1f5160f358?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【オリックス】九里亜蓮「引き継いで、後輩たちに見せられるように」引退発表の平野佳寿に「恩返し」の快投へ…８・１１楽天戦(スポーツ報知)",
+      "summary": "オリックス・九里亜蓮投手（３４）が１０日、平野佳寿投手兼投手コーチ（４２）へ「恩返し」の快投を誓った。９日に今季限りでの現役引退を発表した右腕とは、自身がＦＡ加入した２５年から２年間ともにプレー。先",
+      "link": "https://news.yahoo.co.jp/articles/04f41d2d0355174d678dec047b301d84cca6e853?source=rss",
+      "pubDate": "2026-08-10T20:00:02.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "buffaloes"
+      ],
+      "topics": [
+        "retirement"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/04f41d2d0355174d678dec047b301d84cca6e853?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【オリックス】九里亜蓮、前回６失点の楽天戦先発「しっかりとした投球を」平野引退は「寂しい」(日刊スポーツ)",
+      "summary": "オリックス九里亜蓮投手（34）がリベンジを期して11日の楽天戦（楽天モバイル）に先発する。前回3日の楽天戦（東京ドーム）では6回6失点。「前回はやられているので、しっかりとした投球をしないといけない",
+      "link": "https://news.yahoo.co.jp/articles/590e250c0de6f8546fac0eff215598516e394ecf?source=rss",
+      "pubDate": "2026-08-10T20:00:01.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "buffaloes"
+      ],
+      "topics": [
+        "retirement"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/590e250c0de6f8546fac0eff215598516e394ecf?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【西武】眼窩底骨折の渡部聖弥、早期復帰意欲で今後も三塁 離脱中の西川愛也は11日２軍で実戦(日刊スポーツ)",
+      "summary": "西武西口文也監督（53）が10日、若獅子の「ガッツ」をたたえた。 11日からの日本ハム3連戦（エスコンフィールド）に備えてこの日、北海道入り。美唄市内などで夏合宿を行う3軍を視察し、その後報道対",
+      "link": "https://news.yahoo.co.jp/articles/0af2e6719bd07409add4427d081db6112c7acd1f?source=rss",
+      "pubDate": "2026-08-10T19:55:01.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "lions"
+      ],
+      "topics": [
+        "injury"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/0af2e6719bd07409add4427d081db6112c7acd1f?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【中日】嶋基宏ヘッドコーチが交通事故 女性けが チームは移動日(日刊スポーツ)",
+      "summary": "中日嶋基宏ヘッドコーチ（41）が10日午後3時20分ごろ、東京・小金井市内で、乗用車を運転中に自転車と衝突する事故を起こした。関係者への取材でわかった。自転車に乗っていた50代の女性は、転倒して足首",
+      "link": "https://news.yahoo.co.jp/articles/8cecaa0f98685de0e9890e7048a7e26435136478?source=rss",
+      "pubDate": "2026-08-10T14:08:47.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "dragons"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/8cecaa0f98685de0e9890e7048a7e26435136478?source=rss"
         }
       ]
@@ -76934,275 +77212,6 @@
           "name": "Yahoo!ニュース スポーツ",
           "sourceId": "yahoo-sports",
           "link": "https://news.yahoo.co.jp/articles/f3c5d33939645f6102c07b4902292286acad3a50?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "広島・名原典彦「何が何でも1点欲しかった場面…」 逆転許した後の満塁好機に凡退悔いる (スポニチアネックス)",
-      "summary": "◇セ・リーグ 広島1―3巨人（2026年7月20日 東京ドーム） 広島の名原は逆転を許した直後の7回2死満塁での凡退を悔いた。 1ストライクから巨人・井上の148キロ真っすぐを捉えきれず右飛",
-      "link": "https://news.yahoo.co.jp/articles/49a46e5240b621b294faaf5eb7a407b7060ffb24?source=rss",
-      "pubDate": "2026-07-20T20:05:00.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "carp"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/49a46e5240b621b294faaf5eb7a407b7060ffb24?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "広島、頼みのエース・床田寛樹が粘れず… 昨年と同日の自力V消滅 試合数では3試合早く(スポニチアネックス)",
-      "summary": "◇セ・リーグ 広島1―3巨人（2026年7月20日 東京ドーム） 広島は20日の巨人戦に逆転で敗れ、開幕から84試合目にして自力優勝の可能性が初消滅した。打線は初回にサンドロ・ファビアン外野手（",
-      "link": "https://news.yahoo.co.jp/articles/f32576ae0ae1c15444ae8eb382c5c01beb67be5b?source=rss",
-      "pubDate": "2026-07-20T20:05:00.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "carp"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/f32576ae0ae1c15444ae8eb382c5c01beb67be5b?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "オリックス・九里亜蓮 連敗ストッパーはお任せ！今季7勝中、5勝でチーム救う快投(スポニチアネックス)",
-      "summary": "◇パ・リーグ オリックス3―0日本ハム（2026年7月20日 京セラＤ大阪） 連敗ストッパーはまたこの男だった。オリックス・九里が7回を被安打3の無失点で7勝目。チームの連敗を5で止め、日本ハム",
-      "link": "https://news.yahoo.co.jp/articles/976eaba1eb05e1edfe7f14b5cc9b042267ae2367?source=rss",
-      "pubDate": "2026-07-20T20:05:00.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "buffaloes",
-        "fighters"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/976eaba1eb05e1edfe7f14b5cc9b042267ae2367?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "中日・高橋宏斗「次以降が大事」 復活予感させる2勝目、50日ぶりの1軍舞台で躍動 (スポニチアネックス)",
-      "summary": "◇セ・リーグ 中日4―2ヤクルト（2026年7月20日 神宮 ） 中日・高橋宏が8回3安打2失点（自責1）で、4月26日の同戦以来、約3カ月ぶりの2勝目を挙げた。 「1カ月半くらいファームで",
-      "link": "https://news.yahoo.co.jp/articles/239f06541602afcb9045dfe4b0d8b5eee4306f3d?source=rss",
-      "pubDate": "2026-07-20T20:05:00.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "dragons"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/239f06541602afcb9045dfe4b0d8b5eee4306f3d?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "巨人・笹原操希、満塁一掃の逆転Ｖ二塁打で井上温大と初のお立ち台「うれしい。それがうれしいです」(スポーツ報知)",
-      "summary": "◆ＪＥＲＡセ・リーグ 巨人３―１広島（２０日・東京ドーム） 巨人が９連戦最後のカードの初戦を鮮やかな逆転でものにした。１点を追う６回２死満塁で、笹原操希（みさき）外野手（２２）が走者一掃の逆転二塁",
-      "link": "https://news.yahoo.co.jp/articles/2905089cdb5af7fc8013c5e79487b944e48c9a85?source=rss",
-      "pubDate": "2026-07-20T20:00:15.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "giants"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/2905089cdb5af7fc8013c5e79487b944e48c9a85?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【中日】高橋宏斗が帰ってきた！８回２失点で８５日ぶり２勝目「不安だった…大声援の中で投げられてよかった」２軍再調整を経て復活の兆し…井上一樹監督も安堵「１か月半は無駄じゃなかった」(スポーツ報知)",
-      "summary": "◆ＪＥＲＡセ・リーグ ヤクルト２―４中日（２０日・神宮） 悩めるエースに笑顔が戻った。中日・高橋宏が、１か月半ぶりの先発で８回３安打２失点（自責１）と好投し、４月日のヤクルト戦（バンテリンＤ）以",
-      "link": "https://news.yahoo.co.jp/articles/4762b862ddfd8579b6ca818e98384eeba5f38514?source=rss",
-      "pubDate": "2026-07-20T20:00:12.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "dragons"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/4762b862ddfd8579b6ca818e98384eeba5f38514?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【オリックス】九里亜蓮が７回無失点で７勝目「僕から始まった連敗なので」オリ姫デーに３戦連続の中５日で勝率５割復帰 ５勝は連敗ストップの貴重星(スポーツ報知)",
-      "summary": "◆パ・リーグ オリックス―日本ハム（２０日・京セラドーム大阪） オリックス・九里は使命感に満ちていた。「僕から始まった連敗なので」。自身が先発した１４日の楽天戦（楽天モバイル）から５連敗、日本ハム",
-      "link": "https://news.yahoo.co.jp/articles/39cdf000e5e6bd3d60cbb28b3146d9c92a075be8?source=rss",
-      "pubDate": "2026-07-20T20:00:11.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "buffaloes"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/39cdf000e5e6bd3d60cbb28b3146d9c92a075be8?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【広島】ついに自力Ｖの可能性が消滅 ワーストタイの借金１４の惨状 新井貴浩監督「一戦一戦大切に戦うだけ」(スポーツ報知)",
-      "summary": "◆ＪＥＲＡセ・リーグ 巨人３―１広島（２０日・東京ドーム） 広島は自力優勝の可能性が消滅した。 新井監督は「一戦一戦、大切に戦うだけ」と厳しい表情。今季ワーストタイの借金１４に戻った。初回にフ",
-      "link": "https://news.yahoo.co.jp/articles/c542fe9dae053cf9f8e7925858f5ed3ea198b272?source=rss",
-      "pubDate": "2026-07-20T20:00:10.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "carp"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/c542fe9dae053cf9f8e7925858f5ed3ea198b272?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【巨人】笹原操希が走者一掃のＶ二塁打！〝石破前首相そっくり説〟には苦笑「好きにしていただければ」(東スポWEB)",
-      "summary": "巨人・笹原操希外野手（22）が20日の広島戦（東京ドーム）に「7番・右翼」で先発出場。6回に決勝打となる走者一掃の逆転適時二塁打を放った。 0―1の6回二死満塁。笹原が左中間を破る走者一掃の適時",
-      "link": "https://news.yahoo.co.jp/articles/161e2d6d6d11a4e8ab3d59b0ab8f5b178e94722e?source=rss",
-      "pubDate": "2026-07-20T15:50:25.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "giants"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/161e2d6d6d11a4e8ab3d59b0ab8f5b178e94722e?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【ロッテ】引退発表・角中勝也が涙のスピーチ ファンの前で感極まり「ちょっと時間ください…」(東スポWEB)",
-      "summary": "今季限りでの現役引退を発表したロッテ・角中勝也外野手（39）が20日のソフトバンク戦（ZOZOマリン）に「8番・DH」で先発出場した。試合後には球場に詰めかけたファンに向けて言葉を送った。 この",
-      "link": "https://news.yahoo.co.jp/articles/312266b208987e255b88ab20dd3a3eef60186a12?source=rss",
-      "pubDate": "2026-07-20T15:35:23.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "marines"
-      ],
-      "topics": [
-        "retirement"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/312266b208987e255b88ab20dd3a3eef60186a12?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【巨人】森田駿哉がプロ初ホールド 杉内コーチ「右も左も関係なく抑えてくれる。重宝するかも」(東スポWEB)",
-      "summary": "巨人は20日の広島戦（東京ドーム）に3―1で勝利。8回一死一塁から登板した森田駿哉投手（29）がプロ初ホールドを記録した。杉内俊哉投手チーフコーチ（45）は左腕投入の理由を明かした。 8回は2番",
-      "link": "https://news.yahoo.co.jp/articles/9555ac33a025df7471eb92aaa5fc1cb20b1f2de3?source=rss",
-      "pubDate": "2026-07-20T15:35:23.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "giants"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/9555ac33a025df7471eb92aaa5fc1cb20b1f2de3?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "ヤクルト・宮本丈、1軍復帰即スタメンで適時二塁打「目の前の一戦をしっかり戦っていきたい」(サンケイスポーツ)",
-      "summary": "（セ・リーグ、ヤクルト2－4中日、11回戦、中日6勝5敗、20日、神宮）右脇腹の張りから復帰し、約2カ月ぶりに1軍昇格を果たしたヤクルト・宮本が「5番・一塁」で即出場。4点を追う七回2死一、二塁から右",
-      "link": "https://news.yahoo.co.jp/articles/dc747cc294b40accc6010724cf88e1f072c557e9?source=rss",
-      "pubDate": "2026-07-20T15:05:00.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "swallows"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/dc747cc294b40accc6010724cf88e1f072c557e9?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "巨人・森田駿哉、3年目でプロ初ホールド「いいところで投げさせてもらえたので…」(サンケイスポーツ)",
-      "summary": "（セ・リーグ、巨人3－1広島、9回戦、巨人6勝3敗、20日、東京D）巨人の3年目、森田駿哉投手が3―1の八回1死一塁から3番手で登板。打者2人を打ち取り無失点でプロ初ホールドを挙げ「与えられたところで",
-      "link": "https://news.yahoo.co.jp/articles/80e510d0f91dfc5cd1b40df796bfa60787bbd2f4?source=rss",
-      "pubDate": "2026-07-20T14:55:00.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "giants"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/80e510d0f91dfc5cd1b40df796bfa60787bbd2f4?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【巨人】井上温大がキャリアハイ９勝目 初回ソロ被弾も「粘り強く投げようと思って」 尻上がりに状態アップ(スポーツ報知)",
-      "summary": "◆ＪＥＲＡセ・リーグ 巨人３―１広島（２０日・東京ドーム） 巨人の井上温大投手が自身４連勝でキャリアハイ９勝目を挙げた。７回９７球を投げ６安打１失点、８奪三振の力投。「ピンチをつくることが多かった",
-      "link": "https://news.yahoo.co.jp/articles/8cab5247a84d6a3068ffeebee38faf841f45976a?source=rss",
-      "pubDate": "2026-07-20T14:18:54.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "giants"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/8cab5247a84d6a3068ffeebee38faf841f45976a?source=rss"
         }
       ]
     }
