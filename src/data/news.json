@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-11T14:47:48.340Z",
+  "generatedAt": "2026-08-11T15:45:45.387Z",
   "count": 4000,
   "items": [
     {
@@ -42,7 +42,7 @@
     },
     {
       "title": "【オリックス】西川龍馬も西野真弘も「初」を記録「打てなかったら打てなかったで逆に面白いかな…」好打者２人も楽天モバイル初勝利に貢献(スポーツ報知)",
-      "summary": "◆パ・リーグ 楽天９―１オリックス（１１日・楽天モバイル最強パーク宮城） オリックスが今季６戦全敗だった楽天モバイル最強パーク宮城で初勝利をつかんだ。好打者２人も貢献。「打てなかったら打てなかった",
+      "summary": "◆パ・リーグ 楽天１―９オリックス（１１日・楽天モバイル最強パーク宮城） オリックスが今季６戦全敗だった楽天モバイル最強パーク宮城で初勝利をつかんだ。好打者２人も貢献。「打てなかったら打てなかった",
       "link": "https://news.yahoo.co.jp/articles/2a91828cfc7405ec679c1df8b3d7e4b729a22b21?source=rss",
       "pubDate": "2026-08-11T13:38:30.000Z",
       "source": "Yahoo!ニュース スポーツ",
@@ -64,16 +64,16 @@
       "summary": "＜楽天1－9オリックス＞◇11日◇楽天モバイル最強パーク 最下位の楽天は接戦から一転し、4位オリックスに完敗した。8、9回の計7失点が響き、今季100試合目を飾れず、借金は今季ワースト23。チーム",
       "link": "https://news.yahoo.co.jp/articles/74f380071d30410734ca8deb3cded536e433b85b?source=rss",
       "pubDate": "2026-08-11T13:28:51.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
       "teams": [
         "eagles"
       ],
       "topics": [],
       "sources": [
         {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/74f380071d30410734ca8deb3cded536e433b85b?source=rss"
         }
       ]
