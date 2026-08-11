@@ -1,7 +1,26 @@
 {
-  "generatedAt": "2026-08-11T13:49:01.098Z",
+  "generatedAt": "2026-08-11T14:47:48.340Z",
   "count": 4000,
   "items": [
+    {
+      "title": "【日本ハム】五十幡亮汰「常に何でもいいので塁に出ようと」２試合連続で無安打投球投手から安打(日刊スポーツ)",
+      "summary": "＜日本ハム0－1西武＞◇11日◇エスコンフィールド 日本ハム五十幡亮汰外野手（27）が2試合連続で、無安打投球を続ける投手からヒットを放った。先頭の6回、それまで無安打無得点だった西武平良の変化球",
+      "link": "https://news.yahoo.co.jp/articles/77c60cc6d6182b0845d01ddb4d3a3dfb72156c38?source=rss",
+      "pubDate": "2026-08-11T13:51:01.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "fighters"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/77c60cc6d6182b0845d01ddb4d3a3dfb72156c38?source=rss"
+        }
+      ]
+    },
     {
       "title": "【阪神・平田2軍監督語録】 ディベイニーが1安打1打点「好調というより“教頭”くらいやな」(スポニチアネックス)",
       "summary": "◇ファーム・リーグ 阪神6-0オリックス（2026年8月11日 SGL尼崎） 阪神2軍は11日、ファーム・リーグ、オリックス戦（SGL）で快勝をおさめ5連勝を飾った。先発・西勇が5回2安打無失点",
@@ -64,16 +83,16 @@
       "summary": "＜ファーム・リーグ：西武8－2巨人＞◇11日◇ベルーナドーム 巨人田中将大投手（37）が4回6失点で降板した。11安打を許し、「悔しい結果に終わったという感じです」。前回までファーム・リーグで4連",
       "link": "https://news.yahoo.co.jp/articles/6e7c9133aed5d41672ad8103afac59f7beb9ad05?source=rss",
       "pubDate": "2026-08-11T13:19:15.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
       "teams": [
         "giants"
       ],
       "topics": [],
       "sources": [
         {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/6e7c9133aed5d41672ad8103afac59f7beb9ad05?source=rss"
         }
       ]
@@ -83,16 +102,16 @@
       "summary": "＜楽天1－9オリックス＞◇11日◇楽天モバイル最強パーク 楽天荘司康誠投手（25）は1発に泣き、自己最多6勝目に届かなかった。 カーブを有効に使いながら快投した。3回まで5奪三振とオリックス打",
       "link": "https://news.yahoo.co.jp/articles/8c4dbb4875ba93cb09f8ff244c84831094ba1874?source=rss",
       "pubDate": "2026-08-11T13:10:21.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
       "teams": [
         "eagles"
       ],
       "topics": [],
       "sources": [
         {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/8c4dbb4875ba93cb09f8ff244c84831094ba1874?source=rss"
         }
       ]
@@ -77177,26 +77196,6 @@
           "name": "Full-Count（プロ野球）",
           "sourceId": "full-count-npb",
           "link": "https://full-count.jp/2026/07/22/post1993573/"
-        }
-      ]
-    },
-    {
-      "title": "試合が異例の理由でノーゲーム「今日は本当にヤバい」「危ない」 Xトレンド入り…納得と心配の声",
-      "summary": "ロッテ浦和球場で22日に行われたロッテとオリックスとの2軍戦は、酷暑の影響でノーゲームとなった。試合に出場した和田康士朗外野手は体調を崩したと見られ、ベンチにはブルーシートが設置されるアクシデントも起こった。酷暑への対応が叫ばれる中、発生し…",
-      "link": "https://full-count.jp/2026/07/22/post1993516/",
-      "pubDate": "2026-07-22T06:06:13.000Z",
-      "source": "Full-Count（プロ野球）",
-      "sourceId": "full-count-npb",
-      "teams": [
-        "marines",
-        "buffaloes"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Full-Count（プロ野球）",
-          "sourceId": "full-count-npb",
-          "link": "https://full-count.jp/2026/07/22/post1993516/"
         }
       ]
     }
