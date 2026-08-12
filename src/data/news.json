@@ -1,7 +1,27 @@
 {
-  "generatedAt": "2026-08-12T18:12:43.017Z",
+  "generatedAt": "2026-08-12T19:32:39.731Z",
   "count": 4000,
   "items": [
+    {
+      "title": "伝統の一戦ネット裏にいた69歳の大物 中継にバッチリ映り「ホンモノ？」→「私です」 翌日一面に律儀にお礼「私まで写してくださり、ありがとうございます」(THE DIGEST)",
+      "summary": "プロ野球のセ・リーグは、首位を走る阪神タイガースが８月11日から２位の巨人と敵地で激突。森下翔太と佐藤輝明の連日のアベック弾でカード２連勝中だ。首位攻防戦が行なわれている東京ドームに視聴者が仰天する",
+      "link": "https://news.yahoo.co.jp/articles/f7e3eed8fa44fdc80b86ff0af414f3d1f2f0b396?source=rss",
+      "pubDate": "2026-08-12T19:11:00.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "tigers",
+        "giants"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/f7e3eed8fa44fdc80b86ff0af414f3d1f2f0b396?source=rss"
+        }
+      ]
+    },
     {
       "title": "指揮官一問一答 ヤクルト・池山隆寛監督、増田珠の4安打の活躍に「このままけがなく、打撃陣を引っ張っていって」(サンケイスポーツ)",
       "summary": "（セ・リーグ、ヤクルト12－0広島、18回戦、ヤクルト11勝7敗、12日、神宮）ヤクルトが18安打12得点で大勝し、連敗を2でストップした。先発全員安打で5月1日以来となる2桁得点をマーク。神宮では後",
@@ -238,16 +258,16 @@
       "summary": "＜楽天7－2オリックス＞◇12日◇楽天モバイル最強パーク 楽天宗山塁内野手（23）が、今季初の3番起用で1本塁打含む3安打と躍動した。 2点を追う6回に好機を演出した。無死一、二塁から犠打を試",
       "link": "https://news.yahoo.co.jp/articles/794118c881926f90e6e0fe140e5c3c2dc6e8a93d?source=rss",
       "pubDate": "2026-08-12T14:19:25.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
       "teams": [
         "eagles"
       ],
       "topics": [],
       "sources": [
         {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/794118c881926f90e6e0fe140e5c3c2dc6e8a93d?source=rss"
         }
       ]
@@ -257,16 +277,16 @@
       "summary": "＜楽天7－2オリックス＞◇12日◇楽天モバイル最強パーク 楽天が6回にビッグイニングを作り、オリックスに逆転勝ちを収めた。 2点ビハインドの6回。前田健太投手（38）のけん制が流れを変えた。1",
       "link": "https://news.yahoo.co.jp/articles/dd3c99f59de8194d3cfdaf356a785562370f5064?source=rss",
       "pubDate": "2026-08-12T14:18:52.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
       "teams": [
         "eagles"
       ],
       "topics": [],
       "sources": [
         {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/dd3c99f59de8194d3cfdaf356a785562370f5064?source=rss"
         }
       ]
@@ -276,16 +296,16 @@
       "summary": "＜ヤクルト12－0広島＞◇12日◇神宮 指揮官の言葉通りに、流れが変わる一戦になるかもしれない。ヤクルトが18安打12得点で、連敗を「2」で止めた。池山隆寛監督（60）は試合中止となった前日11日",
       "link": "https://news.yahoo.co.jp/articles/afe9412b18f9dd06b27e10c79bfb36283a029dd1?source=rss",
       "pubDate": "2026-08-12T14:18:10.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
       "teams": [
         "swallows"
       ],
       "topics": [],
       "sources": [
         {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/afe9412b18f9dd06b27e10c79bfb36283a029dd1?source=rss"
         }
       ]
@@ -77149,25 +77169,6 @@
           "name": "BASEBALL KING",
           "sourceId": "baseballking",
           "link": "https://baseballking.jp/ns/702215/"
-        }
-      ]
-    },
-    {
-      "title": "【ソフトバンク】９連戦最後〝酷暑のベルーナ〟に２か月前から警戒の声「選手だけでなく…」(東スポWEB)",
-      "summary": "ソフトバンクは23日のオリックス戦（みずほペイペイ）に6―5で劇的なサヨナラ勝利を収めた。同点の9回一死満塁で代打・柳田が中堅の頭上を襲う値千金打。小久保裕紀監督（54）は「ファンが一番期待するとこ",
-      "link": "https://news.yahoo.co.jp/articles/8f79b40d4f344b67e6ef7142fc89bba7e9c2224e?source=rss",
-      "pubDate": "2026-07-23T21:15:45.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "hawks"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/8f79b40d4f344b67e6ef7142fc89bba7e9c2224e?source=rss"
         }
       ]
     }
