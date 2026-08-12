@@ -1,7 +1,26 @@
 {
-  "generatedAt": "2026-08-11T23:11:47.353Z",
+  "generatedAt": "2026-08-12T00:04:40.748Z",
   "count": 4000,
   "items": [
+    {
+      "title": "鉄平氏「状態も上がってきましたね」楽天・宗山塁が4試合連続安打(ニッポン放送)",
+      "summary": "TBCラジオ制作でニッポン放送でも放送された楽天－オリックスで解説を務めた鉄平氏が、楽天・宗山塁について言及した。 宗山はプロ1年目の昨季、122試合に出場して、打率.260、3本塁打、27打点の成",
+      "link": "https://news.yahoo.co.jp/articles/f068d4285880b436edf08524f79fa381ac56f540?source=rss",
+      "pubDate": "2026-08-12T00:00:00.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "eagles"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/f068d4285880b436edf08524f79fa381ac56f540?source=rss"
+        }
+      ]
+    },
     {
       "title": "阪神・森下翔太、衝撃2発で巨人粉砕！「自分の中でも苦しんでいるものがあった」と試行錯誤実らせ単独首位に導く 最短15日に優勝へのマジックナンバー点灯や(サンケイスポーツ)",
       "summary": "（セ・リーグ、巨人1－9阪神、18回戦、阪神11勝7敗、11日、東京D）盆と正月、アーチ競演！！ 阪神は9－1で巨人を圧倒し、単独首位に立った。森下翔太外野手（25）が三、七回にリーグトップを独走する",
@@ -98,11 +117,6 @@
           "name": "ベースボールチャンネル（プロ野球）",
           "sourceId": "baseballchannel-npb",
           "link": "https://www.baseballchannel.jp/npb/281995/"
-        },
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/6436a9210ebf8c58098cbe189a649522ddfad2ea?source=rss"
         }
       ]
     },
@@ -77182,27 +77196,6 @@
           "name": "日刊スポーツ（Yahoo!ニュース経由）",
           "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/15f2c255b70bc6340fcc5d2427c047025c02fb3b?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【中日】初回３点先制も暗転…ドラ１中西聖輝がプロ最短２回５失点、逆転負けで５位浮上持ち越し(日刊スポーツ)",
-      "summary": "＜ヤクルト8－5中日＞◇22日◇神宮 中日は逆転負けを喫し、連勝は「2」で止まった。今季3度目の同一カード3連勝を逃し、5位浮上は持ち越しとなった。 先発のドラフト1位中西聖輝投手（22）は、",
-      "link": "https://news.yahoo.co.jp/articles/636eeabdc34ef796e7431f31f2ff74169ea2c0a6?source=rss",
-      "pubDate": "2026-07-22T12:22:56.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "dragons"
-      ],
-      "topics": [
-        "draft"
-      ],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/636eeabdc34ef796e7431f31f2ff74169ea2c0a6?source=rss"
         }
       ]
     }
