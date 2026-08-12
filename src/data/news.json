@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-12T15:25:49.889Z",
+  "generatedAt": "2026-08-12T16:15:19.890Z",
   "count": 4000,
   "items": [
     {
@@ -448,16 +448,16 @@
       "summary": "＜日本ハム2－5西武＞◇12日◇エスコンフィールド 日本ハムが西武との2、3位直接対決で痛恨の2連敗を喫し、首位ソフトバンクとのゲーム差は、今季最大の9・5に広がった。新庄剛志監督（54）は試合後",
       "link": "https://news.yahoo.co.jp/articles/d9ab3cafa6c5a6fd6605ea5633b6f773246ec79e?source=rss",
       "pubDate": "2026-08-12T13:48:41.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
       "teams": [
         "fighters"
       ],
       "topics": [],
       "sources": [
         {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/d9ab3cafa6c5a6fd6605ea5633b6f773246ec79e?source=rss"
         }
       ]
