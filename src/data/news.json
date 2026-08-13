@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-13T17:25:23.275Z",
+  "generatedAt": "2026-08-13T18:13:47.307Z",
   "count": 4000,
   "items": [
     {
@@ -315,16 +315,16 @@
       "summary": "＜中日1－5DeNA＞◇13日◇バンテリンドーム 中日は2連敗を喫し、3カード連続の勝ち越しを逃した。3位DeNAとのゲーム差は「5」に広がった。 先発の金丸夢斗投手（23）は初回、筒香に先制",
       "link": "https://news.yahoo.co.jp/articles/4d7115071e0ae05d7e323a1fe75d2671ab54ebca?source=rss",
       "pubDate": "2026-08-13T14:10:21.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
       "teams": [
         "dragons"
       ],
       "topics": [],
       "sources": [
         {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/4d7115071e0ae05d7e323a1fe75d2671ab54ebca?source=rss"
         }
       ]
