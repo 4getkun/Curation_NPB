@@ -1,7 +1,98 @@
 {
-  "generatedAt": "2026-08-14T23:09:48.816Z",
+  "generatedAt": "2026-08-14T23:43:17.161Z",
   "count": 4000,
   "items": [
+    {
+      "title": "ソフトバンク・大津が3敗目と10勝目前にして足踏み状態も…斎藤雅樹氏「7回まで投げれたということは価値がある」",
+      "summary": "ソフトバンクは14日、楽天との試合（みずほPayPay）に2－5で敗戦した。 14日放送のCSフジテレビONE『プロ野球ニュース2026』では、先発の大津亮介の投球にズームアップ。番組MCの谷繁元信氏は「後半戦ちょっ […]",
+      "link": "https://baseballking.jp/ns/704334/",
+      "pubDate": "2026-08-14T23:20:00.000Z",
+      "source": "BASEBALL KING",
+      "sourceId": "baseballking",
+      "teams": [
+        "hawks"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "BASEBALL KING",
+          "sourceId": "baseballking",
+          "link": "https://baseballking.jp/ns/704334/"
+        },
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/d943995966fdaa45b1d2d39a58916c76755c5125?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【独占密着】柳川投手“実家の味”をエスコンで！「プロデュース豚丼」に込められた秘話 ファイターズ(STVニュース北海道)",
+      "summary": "１０年ぶりのリーグ優勝へ、勝負の後半戦がスタートしたファイターズ。 エスコンフィールドでの試合観戦、お楽しみのひとつが球場グルメです。 守護神・柳川大晟投手の「思い出の味」が新たに登場！ その開",
+      "link": "https://news.yahoo.co.jp/articles/2acea80263f19da72416ea813a9da8146b12b18e?source=rss",
+      "pubDate": "2026-08-14T23:12:34.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "fighters"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/2acea80263f19da72416ea813a9da8146b12b18e?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "防球ネットへ一直線！阪神、将来の“遊撃手候補”が豪快4号アーチ 高卒3年目が覚醒の兆し【ファーム】",
+      "summary": "阪神タイガースの山田脩也は14日、タマホームスタジアム筑後で行われたファーム・リーグの福岡ソフトバンクホークス戦に「8番・遊撃」で先発出場。7回に今季ファーム第4号となる勝ち越し2ランを放った。",
+      "link": "https://www.baseballchannel.jp/npb/283160/",
+      "pubDate": "2026-08-14T23:10:25.000Z",
+      "source": "ベースボールチャンネル（プロ野球）",
+      "sourceId": "baseballchannel-npb",
+      "teams": [
+        "tigers"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "ベースボールチャンネル（プロ野球）",
+          "sourceId": "baseballchannel-npb",
+          "link": "https://www.baseballchannel.jp/npb/283160/"
+        },
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/0aa04dbeb2b03d4aba8e5d02a1fae8957274f6fc?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "日本ハム、8月防御率4点台と不安定なリリーフ陣に「先発とリリーフで差がある…」とバッサリ",
+      "summary": "日本ハムは14日、オリックスとの試合（京セラD大阪）に2－6で敗戦した。 14日放送のCSフジテレビONE『プロ野球ニュース2026』では、日本ハムのリリーフ陣をピックアップ。8月の日本ハムの投手成績を振り返ると先発 […]",
+      "link": "https://baseballking.jp/ns/704326/",
+      "pubDate": "2026-08-14T23:10:00.000Z",
+      "source": "BASEBALL KING",
+      "sourceId": "baseballking",
+      "teams": [
+        "fighters"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "BASEBALL KING",
+          "sourceId": "baseballking",
+          "link": "https://baseballking.jp/ns/704326/"
+        },
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/b51ac7adf7ce37322e644a2acae1825975309620?source=rss"
+        }
+      ]
+    },
     {
       "title": "中田翔氏「ちょっと心配」昨季最多安打も今季は打率.228の中日・岡林(ニッポン放送)",
       "summary": "東海ラジオ制作でニッポン放送でも放送された中日－巨人で解説を務めた中田翔氏が、中日・岡林勇希について言及した。 岡林は昨季リーグ最多の168安打を放ち最多安打を獲得するなど、長年ドラゴンズ打線を引っ",
@@ -172,11 +263,6 @@
           "name": "BASEBALL KING",
           "sourceId": "baseballking",
           "link": "https://baseballking.jp/ns/704320/"
-        },
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/57ef0ed34e8b0a2d59e7653f9ba7a0cb6c610b15?source=rss"
         }
       ]
     },
@@ -234,11 +320,6 @@
           "name": "BASEBALL KING",
           "sourceId": "baseballking",
           "link": "https://baseballking.jp/ns/704290/"
-        },
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/bc0d46a98a207525ee412fae4344f1195663b9c8?source=rss"
         }
       ]
     },
@@ -77163,82 +77244,6 @@
           "name": "日刊スポーツ（Yahoo!ニュース経由）",
           "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/592bca4a154cfcadeb286661d628a6c2d8c2c1a1?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "「芸能人」板東英二氏アラカルト 「マジカル頭脳パワー！！」で人気、日本アカデミー賞も受賞(日刊スポーツ)",
-      "summary": "元プロ野球の中日ドラゴンズ投手で、タレントとしても活躍した板東英二さんが7月22日、慢性心不全のため、亡くなった。28日、公式サイトで発表された。86歳だった。 プロ野球引退後の板東氏 ◆7",
-      "link": "https://news.yahoo.co.jp/articles/1903b3e45a6abfeebe9c8dc15be62af2e7d653e6?source=rss",
-      "pubDate": "2026-07-28T05:51:35.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "dragons"
-      ],
-      "topics": [
-        "retirement"
-      ],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/1903b3e45a6abfeebe9c8dc15be62af2e7d653e6?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "野々村真が板東英二さんを追悼「テレビに出なくなってから連絡取ることができなくて…」(日刊スポーツ)",
-      "summary": "タレント野々村真（62）が28日、日本テレビ系「情報ライブ ミヤネ屋」（月～金曜午後1時55分）に電話出演。22日に慢性心不全により86歳で亡くなった元プロ野球選手でタレントの板東英二さんをしのんだ",
-      "link": "https://news.yahoo.co.jp/articles/f425f38088306b604f5fb122d271a61734d576dc?source=rss",
-      "pubDate": "2026-07-28T05:43:37.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/f425f38088306b604f5fb122d271a61734d576dc?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "プロ野球選手会とオーナーの初会談、広島松田元オーナー「選手と話ができたのが一番」(日刊スポーツ)",
-      "summary": "日本プロ野球選手会と12球団オーナー会議が28日、都内のホテルで初の公式会談を行った。野球振興くじの導入などが話し合われた。出席した広島の松田元オーナー（75）は「野球振興が一番、主に軟式野球、中学",
-      "link": "https://news.yahoo.co.jp/articles/f909304d054765d68fb7510c4ca51fb75617a723?source=rss",
-      "pubDate": "2026-07-28T05:43:21.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "carp"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/f909304d054765d68fb7510c4ca51fb75617a723?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "板東英二さん、６年半前出演「水ダウ」で衝撃「２億円」発言、強烈存在感「松ぼっくり」事件(日刊スポーツ)",
-      "summary": "元プロ野球選手でタレントの板東英二さんが亡くなったことが28日、明らかになった。86歳、慢性心不全だった。本人の公式サイトで発表された。 プロ野球引退後はタレントとして活躍。近年のテレビ出演では",
-      "link": "https://news.yahoo.co.jp/articles/b878b3dffbab8057502b3f4f39de24459626e4e7?source=rss",
-      "pubDate": "2026-07-28T05:42:47.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [],
-      "topics": [
-        "retirement"
-      ],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/b878b3dffbab8057502b3f4f39de24459626e4e7?source=rss"
         }
       ]
     }
