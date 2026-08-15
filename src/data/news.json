@@ -1,7 +1,28 @@
 {
-  "generatedAt": "2026-08-15T14:44:05.757Z",
+  "generatedAt": "2026-08-15T15:08:48.418Z",
   "count": 4000,
   "items": [
+    {
+      "title": "西武・与座海人が腰椎椎間板ヘルニア手術で長期離脱 自身のSNSで公表(スポニチアネックス)",
+      "summary": "西武の与座海人投手（30）が15日、自身のSNSで腰椎椎間板ヘルニアの手術を受けたと発表した。 与座は「春先から思うように身体が動かず、さまざまなアプローチをしてきましたが改善には至らず、手術を",
+      "link": "https://news.yahoo.co.jp/articles/3211c15982c4c0be25b156c7430a132f65226525?source=rss",
+      "pubDate": "2026-08-15T15:04:25.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "lions"
+      ],
+      "topics": [
+        "injury"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/3211c15982c4c0be25b156c7430a132f65226525?source=rss"
+        }
+      ]
+    },
     {
       "title": "ヤクルト 1番・長岡秀樹が攻撃の起点 先頭打者で3度出塁して3得点「1番打者の役割を果たせた」(スポニチアネックス)",
       "summary": "◇セ・リーグ ヤクルト4―3DeNA（2026年8月15日 神宮） ヤクルトは1番・長岡秀樹内野手（24）が攻撃の起点となった。 3点を先制された直後の初回は左中間二塁打で出塁。これで6日の",
@@ -142,8 +163,8 @@
       "summary": "＜広島5－2阪神＞◇15日◇マツダスタジアム 阪神桐敷拓馬投手（27）は復活の手応えをつかんだ。出場選手登録され、さっそく8回に登板。1死二、三塁とされたが左打者2人を厳しい内角球で空振り三振、一",
       "link": "https://news.yahoo.co.jp/articles/5b9d761335b965bb3778f9bcbe494b320e0acf51?source=rss",
       "pubDate": "2026-08-15T14:02:35.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
       "teams": [
         "tigers"
       ],
@@ -152,8 +173,8 @@
       ],
       "sources": [
         {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/5b9d761335b965bb3778f9bcbe494b320e0acf51?source=rss"
         }
       ]
@@ -163,16 +184,16 @@
       "summary": "＜ヤクルト4－3DeNA＞◇15日◇神宮 DeNAが、リクエスト失敗に泣いた。 3－3の同点で迎えた9回裏。1死一塁から代走モンテルに二盗を許した。タッチした京田陽太内野手の要求にこたえ、相川",
       "link": "https://news.yahoo.co.jp/articles/ceebec5f267fb5f526d6e15eae4e42735312d783?source=rss",
       "pubDate": "2026-08-15T14:01:57.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
       "teams": [
         "baystars"
       ],
       "topics": [],
       "sources": [
         {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/ceebec5f267fb5f526d6e15eae4e42735312d783?source=rss"
         }
       ]
@@ -182,16 +203,16 @@
       "summary": "＜広島5－2阪神＞◇15日◇マツダスタジアム 投打がかみあった広島が首位阪神に連勝した。対阪神戦は8勝8敗1分けの五分。4カードぶりの勝ち越しを決めた。先発斉藤優汰投手（22）が5回3安打4三振2",
       "link": "https://news.yahoo.co.jp/articles/401d79fa88b564af0d60feca5359134b06a44ef1?source=rss",
       "pubDate": "2026-08-15T13:58:24.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
       "teams": [
         "carp"
       ],
       "topics": [],
       "sources": [
         {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/401d79fa88b564af0d60feca5359134b06a44ef1?source=rss"
         }
       ]
@@ -201,16 +222,16 @@
       "summary": "＜広島5－2阪神＞◇15日◇マツダスタジアム 阪神湯浅京己投手（27）が2イニング目に手痛い2ランを浴びた。2－3の5回から大竹を救援。この回は上位3人からアウトを奪ったが、続投した6回にファビア",
       "link": "https://news.yahoo.co.jp/articles/ac40afcaff57b83c4f6a2f86430acb62c5663e65?source=rss",
       "pubDate": "2026-08-15T13:57:32.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
       "teams": [
         "tigers"
       ],
       "topics": [],
       "sources": [
         {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/ac40afcaff57b83c4f6a2f86430acb62c5663e65?source=rss"
         }
       ]
@@ -77263,23 +77284,6 @@
           "name": "Yahoo!ニュース スポーツ",
           "sourceId": "yahoo-sports",
           "link": "https://news.yahoo.co.jp/articles/949bd502b2dda8cd2c90b65ed50c8ee0109c768e?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "「透視能力でもあんの？」辰己の三塁到達に騒然【プロ野球・オールスター戦】“知らぬ間に三塁”の衝撃(Yahoo!ニュース オリジナル THE PAGE)",
-      "summary": "2026年7月29日のプロ野球・オールスター戦で、辰己の走塁に対してチャット内がざわつく場面がありました。 LINE公式オープンチャット「みんなで野球応援」内では、「知らぬ間に辰己が三塁にいた…」「",
-      "link": "https://news.yahoo.co.jp/articles/d5392fea96e52113ef188491051a8f4129c04a16?source=rss",
-      "pubDate": "2026-07-29T10:18:38.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/d5392fea96e52113ef188491051a8f4129c04a16?source=rss"
         }
       ]
     }
