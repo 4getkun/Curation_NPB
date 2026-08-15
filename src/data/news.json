@@ -1,22 +1,179 @@
 {
-  "generatedAt": "2026-08-15T05:13:52.889Z",
+  "generatedAt": "2026-08-15T05:46:55.218Z",
   "count": 4000,
   "items": [
     {
-      "title": "【西武】「今季絶望」のラマルもいい表情でリハビリ中 先輩中村剛也の誕生日に思う、未来の自分(日刊スポーツ)",
-      "summary": "西武ラマル外野手（20）が15日、そこそこのスピードで芝生の上を走ってから、スローイング練習などに精を出した。 「オケムより2クールくらい、遅い感じですね」と明かす。同期入団、同じ育成契約、同じ",
-      "link": "https://news.yahoo.co.jp/articles/47dca6cf56e17c9480c922502e1b1e6d4722e7a8?source=rss",
-      "pubDate": "2026-08-15T04:56:42.000Z",
+      "title": "【巨人】竹丸和幸の150キロ直球が中日村松の右肩に直撃… ブーイング受け直後に被弾(日刊スポーツ)",
+      "summary": "＜中日－巨人＞◇15日◇バンテリンドーム 巨人竹丸和幸投手（24）が中日村松に死球を与え、球場は騒然とした。 初回1死、2番村松への5球目に投じた直球が内角高めに抜けた。150キロの速球が右肩に直",
+      "link": "https://news.yahoo.co.jp/articles/d9a5bae2443d62fa5c92f84285605ba8f08ae56a?source=rss",
+      "pubDate": "2026-08-15T05:46:05.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "giants"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/d9a5bae2443d62fa5c92f84285605ba8f08ae56a?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【中日】村松開人、右肩死球で負傷交代…７月の巨人戦でも同じ箇所に死球、竜党から怒号止まず(日刊スポーツ)",
+      "summary": "＜中日－巨人＞◇15日◇バンテリンドーム 中日村松開人内野手（25）が右肩に死球を受け、負傷交代した。 「2番遊撃」でスタメン出場した第1打席、巨人竹丸の5球目150キロ直球が抜け、避けようと",
+      "link": "https://news.yahoo.co.jp/articles/0fadb17737b6d2af154ea55dc78ec058197ff4cc?source=rss",
+      "pubDate": "2026-08-15T05:40:20.000Z",
       "source": "Yahoo!ニュース スポーツ",
       "sourceId": "yahoo-sports",
       "teams": [
-        "lions"
+        "dragons"
+      ],
+      "topics": [
+        "injury"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/0fadb17737b6d2af154ea55dc78ec058197ff4cc?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "「しっかり振り切った」ソフトバンク柳田悠岐、出場21試合ぶりの本塁打(西スポWEB OTTO!)",
+      "summary": "◆ソフトバンク―楽天（15日、みずほペイペイドーム） 初回にソフトバンク柳田悠岐が久しぶりの一発を放った。 2点を先制された直後、楽天先発・早川隆久の初球まっすぐを豪快に振り抜いた。右翼スタン",
+      "link": "https://news.yahoo.co.jp/articles/e6222bd28d42c53392131af18f813e89d9672ddf?source=rss",
+      "pubDate": "2026-08-15T05:39:55.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "hawks"
       ],
       "topics": [],
       "sources": [
         {
           "name": "Yahoo!ニュース スポーツ",
           "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/e6222bd28d42c53392131af18f813e89d9672ddf?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "楽天・宗山塁が両親の前で先制4号2ラン 1番・中島大輔は初回先頭で3試合連続安打(スポニチアネックス)",
+      "summary": "◇パ・リーグ 楽天―ソフトバンク（2026年8月15日 みずほペイペイD） 楽天・宗山塁内野手（23）が上茶谷から2ランを放ち、3試合連続で先制した。「久しぶりに両親が観戦に来てくれているので、",
+      "link": "https://news.yahoo.co.jp/articles/8c6e1e5bfb5bd7e2e626ac8741ece36acc8d77d1?source=rss",
+      "pubDate": "2026-08-15T05:37:51.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "eagles"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/8c6e1e5bfb5bd7e2e626ac8741ece36acc8d77d1?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【中日】サノーが７月２２日以来のアーチ 村松開人が死球交代の後、左中間へ先制２ラン ８月打率１割台で待望の快音(スポーツ報知)",
+      "summary": "◆ＪＥＲＡセ・リーグ 中日―巨人（１５日・バンテリンドーム） 中日のミゲル・サノー内野手が初回２死一塁で先制の１４号２ランを放った。２ボールから竹丸の高めに浮いたチェンジアップを逃さず、左中間のホ",
+      "link": "https://news.yahoo.co.jp/articles/5440c008752f09f24ee238b14c56ce15ce1c1614?source=rss",
+      "pubDate": "2026-08-15T05:35:55.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "dragons"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/5440c008752f09f24ee238b14c56ce15ce1c1614?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "中日・村松開人、死球で途中交代 初回、巨人・竹丸の150キロ直球が右肩肩甲骨付近を直撃、ベンチで治療も…代走・土田に交代(中日スポーツ)",
+      "summary": "◇15日 中日―巨人（バンテリン） 中日の村松開人内野手が「2番・遊撃」で出場し、初回に巨人先発・竹丸から背中付近に死球を受け、途中交代。好調な打者のアクシデントに場内が騒然となった。 初回1",
+      "link": "https://news.yahoo.co.jp/articles/e3e8c920bf0d4d62502a2fceddcc0311da563442?source=rss",
+      "pubDate": "2026-08-15T05:32:59.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "dragons",
+        "giants"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/e3e8c920bf0d4d62502a2fceddcc0311da563442?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【巨人】先発・竹丸和幸、初回サノーに２ラン浴びる １か月前の前回対戦でも被弾(スポーツ報知)",
+      "summary": "◆ＪＥＲＡセ・リーグ 中日―巨人（１５日・バンテリンドーム） 巨人のドラフト１位・竹丸和幸投手（２４）が初回、サノーに先制２ランを浴びた。 初回１死から村松に死球を与えて迎えた２死一塁。サノー",
+      "link": "https://news.yahoo.co.jp/articles/05d3610c1e5c2b55b22878c7981a7a9373b0266c?source=rss",
+      "pubDate": "2026-08-15T05:32:21.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "giants"
+      ],
+      "topics": [
+        "draft"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/05d3610c1e5c2b55b22878c7981a7a9373b0266c?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【中日】村松開人 背中に死球でベンチへ…そのまま交代 竹丸和幸の１５０キロ直撃 初回からアクシデント(スポーツ報知)",
+      "summary": "◆ＪＥＲＡセ・リーグ 中日―巨人（１５日・バンテリンドーム） 中日・村松開人内野手が初回１死の第１打席で死球を受けた。竹丸の１５０キロが背中に直撃。座り込んで苦悶（くもん）の表情を浮かべると、駆け",
+      "link": "https://news.yahoo.co.jp/articles/5fc82867a5f6cfa2f095d26ae770147a8cc54275?source=rss",
+      "pubDate": "2026-08-15T05:22:43.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "dragons"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/5fc82867a5f6cfa2f095d26ae770147a8cc54275?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【西武】「今季絶望」のラマルもいい表情でリハビリ中 先輩中村剛也の誕生日に思う、未来の自分(日刊スポーツ)",
+      "summary": "西武ラマル外野手（20）が15日、そこそこのスピードで芝生の上を走ってから、スローイング練習などに精を出した。 「オケムより2クールくらい、遅い感じですね」と明かす。同期入団、同じ育成契約、同じ",
+      "link": "https://news.yahoo.co.jp/articles/47dca6cf56e17c9480c922502e1b1e6d4722e7a8?source=rss",
+      "pubDate": "2026-08-15T04:56:42.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "lions"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/47dca6cf56e17c9480c922502e1b1e6d4722e7a8?source=rss"
         }
       ]
@@ -45,8 +202,8 @@
       "summary": "西武杉山遥希投手（20）が15日、1軍練習に合流した。アラン・ワイナンス投手（31）が登録抹消となっており、20日のオリックス戦（ベルーナドーム）で先発する可能性がある。 横浜（神奈川）出身の杉",
       "link": "https://news.yahoo.co.jp/articles/0a6987985b811015c4fd205890067c995e4262f3?source=rss",
       "pubDate": "2026-08-15T04:49:22.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
       "teams": [
         "lions"
       ],
@@ -55,8 +212,8 @@
       ],
       "sources": [
         {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/0a6987985b811015c4fd205890067c995e4262f3?source=rss"
         }
       ]
@@ -77098,156 +77255,6 @@
           "name": "Yahoo!ニュース スポーツ",
           "sourceId": "yahoo-sports",
           "link": "https://news.yahoo.co.jp/articles/eab74a328d32ac6ef647029b840f96a3e18b0181?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【球宴】全セ 佐藤輝明が会心の一発！日本ハム・伊藤の直球を強振で右翼スタンドへ ファンどよめく(スポニチアネックス)",
-      "summary": "◇マイナビオールスターゲーム2026 全セ―全パ（2026年7月28日 東京D） 全セの2番・右翼で先発出場した阪神の佐藤輝明内野手（28）が本塁打を放った。 初回1死で迎えた第1打席。全パ",
-      "link": "https://news.yahoo.co.jp/articles/db7936e642b3879edcc2d76bc373adfa5e7e182a?source=rss",
-      "pubDate": "2026-07-28T09:53:56.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "fighters",
-        "tigers"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/db7936e642b3879edcc2d76bc373adfa5e7e182a?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【球宴】今年の球宴１号はやっぱり阪神・佐藤輝明！ 昨年の第２戦に続く２試合連発(スポーツ報知)",
-      "summary": "◆マイナビオールスターゲーム２０２６ 新型日産キックス ホームランダービー（２８日・東京ドーム） 阪神・佐藤輝明内野手が今年の球宴１号を放った。 初回１死、日本ハム・伊藤大海の１４５キロ直球を",
-      "link": "https://news.yahoo.co.jp/articles/3908e1892315c06eb55660501fd1ead3a78c7f31?source=rss",
-      "pubDate": "2026-07-28T09:52:47.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "tigers",
-        "fighters"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/3908e1892315c06eb55660501fd1ead3a78c7f31?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【球宴】いつもの何倍!?日本ハム新庄監督とレイエスが“デカ帽子”かぶり登場でわく(日刊スポーツ)",
-      "summary": "＜マイナビオールスターゲーム2026：全セ－全パ＞◇28日◇第1戦◇東京ドーム 日本ハムの指揮官、主砲が“デカ帽子”でわかせた。 試合前に1人ずつ呼び込まれながらグラウンドに登場。全パのコーチ",
-      "link": "https://news.yahoo.co.jp/articles/63dbecabcf81faa4eecd61c0c79ff481b303917c?source=rss",
-      "pubDate": "2026-07-28T09:50:56.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "fighters"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/63dbecabcf81faa4eecd61c0c79ff481b303917c?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【球宴隠しマイク】全パ・栗原「普段は打つなと願っている仲間も鼓舞したい」一番の推しは…(スポニチアネックス)",
-      "summary": "◇マイナビオールスターゲーム2026 全セ―全パ（2026年7月28日 東京D） ◎ホームランダービーの打撃投手を同僚の中野に頼んだ全セ・森下。先輩から「今年は絶対に投げない！」と断られ、「置き",
-      "link": "https://news.yahoo.co.jp/articles/30bd0bc2aaf344c3e5a587a6b3aff25d57976fb4?source=rss",
-      "pubDate": "2026-07-28T09:43:05.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/30bd0bc2aaf344c3e5a587a6b3aff25d57976fb4?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【球宴】初出場のロッテ小川龍成「ホームランを打てるようにがんばります」(日刊スポーツ)",
-      "summary": "＜マイナビオールスターゲーム2026：全セ－全パ＞◇28日◇第1戦◇東京ドーム 全パのロッテ小川龍成内野手（28）は初の球宴で選手間の交流を楽しんだ。 練習前から他チームの選手たちと交流。「（",
-      "link": "https://news.yahoo.co.jp/articles/76cebf62c795cdebd99e2bdec3721f8bf38f6b44?source=rss",
-      "pubDate": "2026-07-28T09:41:52.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "marines"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/76cebf62c795cdebd99e2bdec3721f8bf38f6b44?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【球宴】楽天辰己涼介が“ド派手”に登場 昨年の新庄監督ほうふつとさせる「電光サングラス」姿(日刊スポーツ)",
-      "summary": "＜マイナビオールスターゲーム2026：全セ－全パ＞◇28日◇第1戦◇東京ドーム 全パの楽天辰己涼介外野手（29）が“ド派手”に登場した。 試合前の選手紹介で自身の名前がコールされると「電光掲示",
-      "link": "https://news.yahoo.co.jp/articles/ace43c47238fa86f1a308140d173339e341ca8f9?source=rss",
-      "pubDate": "2026-07-28T09:39:47.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "eagles"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/ace43c47238fa86f1a308140d173339e341ca8f9?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【球宴】坂本誠志郎“打撃投手”が大活躍 HRダービーで佐藤輝→森下→佐藤輝→森下“４連投”(日刊スポーツ)",
-      "summary": "＜マイナビオールスターゲーム2026：全セ－全パ＞◇28日◇第1戦◇東京ドーム キャプテンは大忙し！ ホームランダービーが行われ、坂本誠志郎捕手（32）が佐藤輝明内野手（27）、森下翔太外野手",
-      "link": "https://news.yahoo.co.jp/articles/86cf340ff1c308d1cc17d5b17afc8b08341e1e9f?source=rss",
-      "pubDate": "2026-07-28T09:30:11.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/86cf340ff1c308d1cc17d5b17afc8b08341e1e9f?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【球宴】全パ日本ハム万波中正「あの夏」を彷彿とさせる電光掲示直撃弾(日刊スポーツ)",
-      "summary": "＜マイナビオールスターゲーム2026 新型日産キックス ホームランダービー＞◇28日◇東京ドーム ただでは、負けなかった。全パの日本ハム万波中正外野手（26）が、ホームランダービーに登場。初戦で阪",
-      "link": "https://news.yahoo.co.jp/articles/fa45909e22d9210e00459a63fdb9d2bffc5f35a1?source=rss",
-      "pubDate": "2026-07-28T09:28:43.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "fighters"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/fa45909e22d9210e00459a63fdb9d2bffc5f35a1?source=rss"
         }
       ]
     }
