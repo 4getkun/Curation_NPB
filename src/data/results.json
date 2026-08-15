@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-15T11:40:56.587Z",
+  "generatedAt": "2026-08-15T12:12:40.501Z",
   "teams": {
     "giants": [
       {
@@ -155,6 +155,21 @@
     ],
     "tigers": [
       {
+        "gameNumber": 105,
+        "date": "8月15日",
+        "opponentTeamId": "carp",
+        "opponentText": "広島",
+        "score": "2-5",
+        "ownScore": 2,
+        "opponentScore": 5,
+        "result": "loss",
+        "winningPitcher": "",
+        "losingPitcher": "大竹（4-8）",
+        "savePitcher": "",
+        "venue": "マツダ",
+        "record": "58-46-1"
+      },
+      {
         "gameNumber": 104,
         "date": "8月14日",
         "opponentTeamId": "carp",
@@ -288,21 +303,6 @@
         "savePitcher": "",
         "venue": "横浜",
         "record": "53-42-1"
-      },
-      {
-        "gameNumber": 95,
-        "date": "8月4日",
-        "opponentTeamId": "baystars",
-        "opponentText": "DeNA",
-        "score": "0-1",
-        "ownScore": 0,
-        "opponentScore": 1,
-        "result": "loss",
-        "winningPitcher": "尾形（3-2）",
-        "losingPitcher": "村上（8-6）",
-        "savePitcher": "レイノルズ（2-0-6）",
-        "venue": "横浜",
-        "record": "53-41-1"
       }
     ],
     "carp": [
@@ -603,7 +603,7 @@
         "opponentScore": 0,
         "result": "win",
         "winningPitcher": "尾形（3-2）",
-        "losingPitcher": "村上（8-6）",
+        "losingPitcher": "",
         "savePitcher": "レイノルズ（2-0-6）",
         "venue": "横浜",
         "record": "42-51-3"
