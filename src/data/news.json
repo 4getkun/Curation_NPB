@@ -1,7 +1,31 @@
 {
-  "generatedAt": "2026-08-14T23:43:17.161Z",
+  "generatedAt": "2026-08-15T00:30:18.036Z",
   "count": 4000,
   "items": [
+    {
+      "title": "巨人・大城、二塁から激走のホームイン！斎藤雅樹氏「普通だったらストップがかかる」",
+      "summary": "14日にフジテレビONEで放送された『プロ野球ニュース2026』に出演した斎藤雅樹氏が、同日の中日戦で激走した巨人・大城卓三について言及した。 大城は0－0の4回二死一塁で四球と暴投で二塁に進むと、中山礼都のライト前 […]",
+      "link": "https://baseballking.jp/ns/704349/",
+      "pubDate": "2026-08-15T00:00:00.000Z",
+      "source": "BASEBALL KING",
+      "sourceId": "baseballking",
+      "teams": [
+        "giants"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "BASEBALL KING",
+          "sourceId": "baseballking",
+          "link": "https://baseballking.jp/ns/704349/"
+        },
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/488d77082e90ca48240e1deeed92b2c7d99827f1?source=rss"
+        }
+      ]
+    },
     {
       "title": "ソフトバンク・大津が3敗目と10勝目前にして足踏み状態も…斎藤雅樹氏「7回まで投げれたということは価値がある」",
       "summary": "ソフトバンクは14日、楽天との試合（みずほPayPay）に2－5で敗戦した。 14日放送のCSフジテレビONE『プロ野球ニュース2026』では、先発の大津亮介の投球にズームアップ。番組MCの谷繁元信氏は「後半戦ちょっ […]",
@@ -18,11 +42,6 @@
           "name": "BASEBALL KING",
           "sourceId": "baseballking",
           "link": "https://baseballking.jp/ns/704334/"
-        },
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/d943995966fdaa45b1d2d39a58916c76755c5125?source=rss"
         }
       ]
     },
@@ -61,11 +80,6 @@
           "name": "ベースボールチャンネル（プロ野球）",
           "sourceId": "baseballchannel-npb",
           "link": "https://www.baseballchannel.jp/npb/283160/"
-        },
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/0aa04dbeb2b03d4aba8e5d02a1fae8957274f6fc?source=rss"
         }
       ]
     },
@@ -85,11 +99,6 @@
           "name": "BASEBALL KING",
           "sourceId": "baseballking",
           "link": "https://baseballking.jp/ns/704326/"
-        },
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/b51ac7adf7ce37322e644a2acae1825975309620?source=rss"
         }
       ]
     },
@@ -77227,23 +77236,6 @@
           "name": "日刊スポーツ（Yahoo!ニュース経由）",
           "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/a74b11de30f966440ba23690d50a2848a9e51ac7?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "選手会がオーナーと来季からのピッチクロック導入を目指す事で一致 今後はNPBと話し合いへ(日刊スポーツ)",
-      "summary": "NPB（日本プロフェッショナル野球機構）12球団のオーナーと「日本プロ野球選手会」が28日、初めて会談の場を持った。12球団の選手が集まるオールスターに合わせ、都内のホテルで執り行われた。選手はソフ",
-      "link": "https://news.yahoo.co.jp/articles/592bca4a154cfcadeb286661d628a6c2d8c2c1a1?source=rss",
-      "pubDate": "2026-07-28T05:55:41.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/592bca4a154cfcadeb286661d628a6c2d8c2c1a1?source=rss"
         }
       ]
     }
