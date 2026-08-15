@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-15T15:08:48.418Z",
+  "generatedAt": "2026-08-15T15:41:07.332Z",
   "count": 4000,
   "items": [
     {
@@ -123,16 +123,16 @@
       "summary": "＜広島5－2阪神＞◇15日◇マツダスタジアム 阪神森下翔太外野手（26）が41年ぶりの偉業に王手をかけた。初回に29号2ラン。球団の日本人右打者では85年の岡田彰布（35本）、真弓明信（34本）以",
       "link": "https://news.yahoo.co.jp/articles/4f3c6fb6024902b7d92fbb67da5593e760e15e44?source=rss",
       "pubDate": "2026-08-15T14:08:58.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
       "teams": [
         "tigers"
       ],
       "topics": [],
       "sources": [
         {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/4f3c6fb6024902b7d92fbb67da5593e760e15e44?source=rss"
         }
       ]
@@ -142,8 +142,8 @@
       "summary": "西武与座海人投手（30）が腰椎椎間板ヘルニアの手術を受けたことが、15日までに分かった。今季中の実戦登板は絶望的となった。この日、与座本人も自身のSNSで手術を公表し「今シーズンここまでチームに貢献",
       "link": "https://news.yahoo.co.jp/articles/0ddab5b7074afbe427a71a169e9f6c985a0eadcd?source=rss",
       "pubDate": "2026-08-15T14:06:16.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
       "teams": [
         "lions"
       ],
@@ -152,8 +152,8 @@
       ],
       "sources": [
         {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/0ddab5b7074afbe427a71a169e9f6c985a0eadcd?source=rss"
         }
       ]
