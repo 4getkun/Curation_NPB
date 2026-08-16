@@ -1,7 +1,28 @@
 {
-  "generatedAt": "2026-08-16T15:41:50.481Z",
+  "generatedAt": "2026-08-16T16:09:47.276Z",
   "count": 4000,
   "items": [
+    {
+      "title": "巨人・橋上秀樹監督代行、陽岱鋼の引退セレモニーにサプライズ登場「第二の人生、頑張ってほしい」 名古屋でのデーゲーム後、即帰京で実現(サンケイスポーツ)",
+      "summary": "（ファーム・リーグ、巨人2軍9－0オイシックス、16日、ジャイアンツタウン）今季限りでの現役引退を発表しているオイシックス・陽岱鋼外野手（39）の引退セレモニーが試合後に行われ、巨人・橋上秀樹監督代行",
+      "link": "https://news.yahoo.co.jp/articles/130a07640430e05f15d14383a51f14b7d4cc4a57?source=rss",
+      "pubDate": "2026-08-16T15:58:00.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "giants"
+      ],
+      "topics": [
+        "retirement"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/130a07640430e05f15d14383a51f14b7d4cc4a57?source=rss"
+        }
+      ]
+    },
     {
       "title": "フェイエノールト上田が今季初ゴール 1G1Aの活躍も、チームは2−2で痛恨のドロー(theWORLD（ザ・ワールドWeb）)",
       "summary": "現地時間16日に開催されたエールディヴィジの第2節で、日本代表FW上田綺世とDF渡辺剛が所属するフェイエノールトはゴーアヘッド・イーグルスと対戦。試合は2−2のドローに終わった。 フェイエノールトの",
@@ -77295,26 +77316,6 @@
           "name": "ベースボールチャンネル（プロ野球）",
           "sourceId": "baseballchannel-npb",
           "link": "https://www.baseballchannel.jp/npb/baystars/278518/"
-        }
-      ]
-    },
-    {
-      "title": "台湾代表のユニホームを着る誇りとは…「日台の架け橋」陽岱鋼が明かす、異国の地で成功する極意",
-      "summary": "2005年高校生ドラフト1巡目でのプロ入りを果たして以来、数々の栄光を手にし、日台の野球ファンを魅了し続けてきた陽岱鋼外野手は、オイシックスに所属してプロ21年目のシーズンを戦ってきた。しかし、27日に突如として現役引退を表明した。",
-      "link": "https://full-count.jp/2026/07/31/post1997714/",
-      "pubDate": "2026-07-31T08:15:15.000Z",
-      "source": "Full-Count（プロ野球）",
-      "sourceId": "full-count-npb",
-      "teams": [],
-      "topics": [
-        "draft",
-        "retirement"
-      ],
-      "sources": [
-        {
-          "name": "Full-Count（プロ野球）",
-          "sourceId": "full-count-npb",
-          "link": "https://full-count.jp/2026/07/31/post1997714/"
         }
       ]
     }
