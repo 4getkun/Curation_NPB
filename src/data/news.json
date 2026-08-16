@@ -1,7 +1,47 @@
 {
-  "generatedAt": "2026-08-16T14:44:36.773Z",
+  "generatedAt": "2026-08-16T15:09:11.397Z",
   "count": 4000,
   "items": [
+    {
+      "title": "フェイエノールト上田が今季初ゴール 1G1Aの活躍も、チームは2−2で痛恨のドロー(theWORLD（ザ・ワールドWeb）)",
+      "summary": "現地時間16日に開催されたエールディヴィジの第2節で、日本代表FW上田綺世とDF渡辺剛が所属するフェイエノールトはゴーアヘッド・イーグルスと対戦。試合は2−2のドローに終わった。 フェイエノールトの",
+      "link": "https://news.yahoo.co.jp/articles/13548e7fde97f0f1842dba08d35e21d314039b58?source=rss",
+      "pubDate": "2026-08-16T14:54:16.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "eagles"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/13548e7fde97f0f1842dba08d35e21d314039b58?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "オイシックス・陽岱鋼 古巣・巨人との二軍戦で引退セレモニー 橋上監督代行もサプライズ登場「幸せでした」(東スポWEB)",
+      "summary": "今季限りでの現役引退を表明したオイシックス・陽岱鋼外野手（39）が16日、ファーム・リーグの巨人―オイシックス戦（ジャイアンツタウンスタジアム）に「6番・指名打者」で先発出場。試合後には引退セレモニ",
+      "link": "https://news.yahoo.co.jp/articles/5e2b1872cbf452eef5ed7f96a7efa2488d97ee4a?source=rss",
+      "pubDate": "2026-08-16T14:50:25.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "giants"
+      ],
+      "topics": [
+        "retirement"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/5e2b1872cbf452eef5ed7f96a7efa2488d97ee4a?source=rss"
+        }
+      ]
+    },
     {
       "title": "ヤクルト松本健吾が3カ月ぶり6勝目で自腹約束「じゃあ2人一緒に」同期の2番手左腕と決勝弾の長岡秀樹に(スポニチアネックス)",
       "summary": "◇セ・リーグ ヤクルト2―1DeNA（2026年8月16日 神宮） ヤクルトは先発・松本健吾が5回0/3を8安打1失点。5月17日の中日戦以来、実に3カ月ぶりの白星となる6勝目を手にした。",
@@ -77270,48 +77310,6 @@
           "name": "Full-Count（プロ野球）",
           "sourceId": "full-count-npb",
           "link": "https://full-count.jp/2026/07/31/post1997714/"
-        }
-      ]
-    },
-    {
-      "title": "NPBトレード期限終了 9球団が「70」枠埋める…最少は広島の「68」、保有選手100人以上は3球団",
-      "summary": "日本野球機構（NPB）は31日、野球協約に規定される新規選手契約可能期間、および選手契約の譲渡可能期間が同日をもって終了したと発表した。",
-      "link": "https://full-count.jp/2026/07/31/post1997713/",
-      "pubDate": "2026-07-31T08:12:19.000Z",
-      "source": "Full-Count（プロ野球）",
-      "sourceId": "full-count-npb",
-      "teams": [
-        "carp"
-      ],
-      "topics": [
-        "trade"
-      ],
-      "sources": [
-        {
-          "name": "Full-Count（プロ野球）",
-          "sourceId": "full-count-npb",
-          "link": "https://full-count.jp/2026/07/31/post1997713/"
-        }
-      ]
-    },
-    {
-      "title": "現在セパ合わせて3割打者はわずか3人 シーズンを終えた時に3割打者は増加の気配！？",
-      "summary": "前半戦を終えて、セパ合わせて打率3割超えはセ・リーグが打率.319の佐藤輝明（阪神）、パ・リーグは打率.328のレイエス（日本ハム）、.308の近藤健介（ソフトバンク）の3人しかいない。 昨季も3割打者はセ・リーグが […]",
-      "link": "https://baseballking.jp/ns/702863/",
-      "pubDate": "2026-07-31T08:00:00.000Z",
-      "source": "BASEBALL KING",
-      "sourceId": "baseballking",
-      "teams": [
-        "tigers",
-        "fighters",
-        "hawks"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "BASEBALL KING",
-          "sourceId": "baseballking",
-          "link": "https://baseballking.jp/ns/702863/"
         }
       ]
     }
