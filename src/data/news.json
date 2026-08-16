@@ -1,7 +1,50 @@
 {
-  "generatedAt": "2026-08-16T22:08:09.056Z",
+  "generatedAt": "2026-08-16T22:42:54.192Z",
   "count": 4000,
   "items": [
+    {
+      "title": "確信歩きがかっこよすぎる…！巨人、2軍調整中の“育成スラッガー”が豪快アーチ 98キロの緩球を捉えた特大弾",
+      "summary": "読売ジャイアンツのティマは16日、ジャイアンツタウンスタジアムで行われたファーム交流戦のオイシックス新潟アルビレックスBC戦に「4番・指名打者」で先発出場。初回に今季ファーム第9号となる先制2ランを放った。",
+      "link": "https://www.baseballchannel.jp/npb/283663/",
+      "pubDate": "2026-08-16T22:20:01.000Z",
+      "source": "ベースボールチャンネル（プロ野球）",
+      "sourceId": "baseballchannel-npb",
+      "teams": [
+        "giants"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "ベースボールチャンネル（プロ野球）",
+          "sourceId": "baseballchannel-npb",
+          "link": "https://www.baseballchannel.jp/npb/283663/"
+        },
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/ddd48dda923122b66dcd535da620f6b48098e71f?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "巨人次期監督に原辰徳氏の「再々々登板」説が急浮上 橋上秀樹代行は“優勝でも昇格はナシ”、松井秀喜氏も高橋由伸氏も決め手に欠ける理由とは(NEWSポストセブン)",
+      "summary": "シーズン後半戦に入り、各球団が来季の構想を見据えた動きを見せ始めるなか、注目されるのが巨人の動向だ。阿部慎之助監督が長女への暴力問題で5月末に電撃辞任後、橋上秀樹監督代行が指揮を執るが、「次」をめぐ",
+      "link": "https://news.yahoo.co.jp/articles/e6447f70ad0937dea776a32a5700fe466a75b4ad?source=rss",
+      "pubDate": "2026-08-16T22:15:00.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "giants"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/e6447f70ad0937dea776a32a5700fe466a75b4ad?source=rss"
+        }
+      ]
+    },
     {
       "title": "「こんなに出るとは…」 ソフトバンク東浜巨、3カ月ぶりの復帰登板で無失点 右肩違和感乗り越えて「まだゴールじゃない」(西スポWEB OTTO!)",
       "summary": "◆ファーム・リーグ西地区 ソフトバンク1―0阪神（16日、タマスタ筑後） 右肩の違和感を訴えていたソフトバンクの東浜巨投手（36）が3カ月ぶりの公式戦で復活への手応えをつかんだ。先発で3回を3安",
@@ -57,11 +100,6 @@
           "name": "BASEBALL KING",
           "sourceId": "baseballking",
           "link": "https://baseballking.jp/ns/704494/"
-        },
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/52932086b68ef41d26d64988758fe3ec792fc4f7?source=rss"
         }
       ]
     },
@@ -70,16 +108,16 @@
       "summary": "コラム「滝谷美夢のみゆダイアリー」。23年までファイターズガールの中心メンバーとして活躍し、タレント活動、Fビレッジアンバサダーとして挑戦を続ける滝谷美夢（27）のオリジナルコラムです。",
       "link": "https://news.yahoo.co.jp/articles/b7a7bb8f99b6dfe6ca8a271fec1206afe132d2b9?source=rss",
       "pubDate": "2026-08-16T22:00:00.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
       "teams": [
         "fighters"
       ],
       "topics": [],
       "sources": [
         {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/b7a7bb8f99b6dfe6ca8a271fec1206afe132d2b9?source=rss"
         }
       ]
@@ -119,11 +157,6 @@
           "name": "BASEBALL KING",
           "sourceId": "baseballking",
           "link": "https://baseballking.jp/ns/704492/"
-        },
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/e159a177a92999eaa2309637fd21d520d5be6e0b?source=rss"
         }
       ]
     },
@@ -77258,44 +77291,6 @@
           "name": "BASEBALL KING",
           "sourceId": "baseballking",
           "link": "https://baseballking.jp/ns/702264/"
-        }
-      ]
-    },
-    {
-      "title": "これぞ悪球打ち オリックス・西川龍馬がワンバウンドのフォークを捉える 遊飛もベルーナドームざわめく(スポニチアネックス)",
-      "summary": "◇パ・リーグ オリックス―西武（2026年7月31日 ベルーナD） オリックス・西川が代名詞とも言える悪球打ちを披露。敵地・ベルーナドームがどよめきに包まれた。 8回先頭で右腕・森脇に2球で",
-      "link": "https://news.yahoo.co.jp/articles/25dd22ccdb72ea9be9db3fd7cb4ac3f04b9f1552?source=rss",
-      "pubDate": "2026-07-31T12:18:02.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "buffaloes"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/25dd22ccdb72ea9be9db3fd7cb4ac3f04b9f1552?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【阪神】近本光司が途中交代 逃げ切り態勢でも守備につかず 前の打席で自打球当てる(日刊スポーツ)",
-      "summary": "＜ヤクルト－阪神＞◇31日◇神宮 阪神近本光司外野手（31）が7回の守備からベンチに下がった。 直前の打席では、この日2安打目となる貴重な左前打。大山悠輔内野手（31）の右前打で同点のホームイ",
-      "link": "https://news.yahoo.co.jp/articles/fdc525604bdff9a98bb8ded536a55c8eea4063a3?source=rss",
-      "pubDate": "2026-07-31T12:17:29.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "tigers"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/fdc525604bdff9a98bb8ded536a55c8eea4063a3?source=rss"
         }
       ]
     }
