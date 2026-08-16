@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-16T15:09:11.397Z",
+  "generatedAt": "2026-08-16T15:41:50.481Z",
   "count": 4000,
   "items": [
     {
@@ -161,16 +161,16 @@
       "summary": "＜ヤクルト2－1DeNA＞◇16日◇神宮 ヤクルトが4月11～16日以来、4カ月ぶりに今季3度目の4連勝を決めた。5月29～31日楽天戦以来、約2カ月半ぶりの同一カード3連勝。3位タイだったDeN",
       "link": "https://news.yahoo.co.jp/articles/5d820cdf467cb690d2c36ce959b8a188e41ca278?source=rss",
       "pubDate": "2026-08-16T14:12:04.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
       "teams": [
         "swallows"
       ],
       "topics": [],
       "sources": [
         {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/5d820cdf467cb690d2c36ce959b8a188e41ca278?source=rss"
         }
       ]
@@ -180,16 +180,16 @@
       "summary": "＜ヤクルト2－1DeNA＞◇16日◇神宮 ヤクルトが4月11～16日以来、4カ月ぶりに今季3度目の4連勝を決めた。5月29～31日楽天戦以来、約2カ月半ぶりの同一カード3連勝。3位タイだったDeN",
       "link": "https://news.yahoo.co.jp/articles/a11529d246e1db088c201554f1b43b60bfd44e3f?source=rss",
       "pubDate": "2026-08-16T14:11:36.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
       "teams": [
         "swallows"
       ],
       "topics": [],
       "sources": [
         {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/a11529d246e1db088c201554f1b43b60bfd44e3f?source=rss"
         }
       ]
@@ -199,16 +199,16 @@
       "summary": "＜広島1－8阪神＞◇16日◇マツダスタジアム 困ったときのテル様だ。阪神佐藤輝明内野手（27）が一振りで連敗ストップに導いた。初回に先制の28号2ラン。今季対セ初の同一カード3連敗を阻止し、連敗を",
       "link": "https://news.yahoo.co.jp/articles/f1eccc92b8d3e4d0b5f85e309996d6fbe0b38f77?source=rss",
       "pubDate": "2026-08-16T14:10:56.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
       "teams": [
         "tigers"
       ],
       "topics": [],
       "sources": [
         {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/f1eccc92b8d3e4d0b5f85e309996d6fbe0b38f77?source=rss"
         }
       ]
@@ -269,6 +269,11 @@
           "name": "日刊スポーツ（Yahoo!ニュース経由）",
           "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/6c3a53e3673c6bf7b695c6a6c96cdd1386109b7e?source=rss"
+        },
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/03c971928ebf436c6a3ec63a12570ecaa8e2247d?source=rss"
         }
       ]
     },
