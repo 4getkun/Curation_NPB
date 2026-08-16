@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-16T18:10:20.950Z",
+  "generatedAt": "2026-08-16T18:51:45.857Z",
   "count": 4000,
   "items": [
     {
@@ -489,8 +489,8 @@
           "link": "https://news.yahoo.co.jp/articles/6c3a53e3673c6bf7b695c6a6c96cdd1386109b7e?source=rss"
         },
         {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/03c971928ebf436c6a3ec63a12570ecaa8e2247d?source=rss"
         }
       ]
