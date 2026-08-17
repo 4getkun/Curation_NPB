@@ -1,7 +1,26 @@
 {
-  "generatedAt": "2026-08-17T13:57:23.511Z",
+  "generatedAt": "2026-08-17T14:20:40.141Z",
   "count": 4000,
   "items": [
+    {
+      "title": "松坂大輔氏、恩師・渡辺元智さんの死去を悼む「僕にとっては一生、監督さんです」(サンケイスポーツ)",
+      "summary": "プロ野球選手で、横浜高OBの松坂大輔氏（45）が17日、恩師で同校元監督の渡辺元智（わたなべ・もとのり）さんの死去に際し、キャスターを務めるテレビ朝日系「報道ステーション」（月～金曜後9・54）に追悼",
+      "link": "https://news.yahoo.co.jp/articles/1f6722aaa19f7f562aada5cdc801b654f4b0fe81?source=rss",
+      "pubDate": "2026-08-17T14:16:32.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "baystars"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/1f6722aaa19f7f562aada5cdc801b654f4b0fe81?source=rss"
+        }
+      ]
+    },
     {
       "title": "ヤクルト・池山監督 2軍調整中の守護神キハダに期待するのは… 「もっと躍動感、跳びはねてほしい」(スポニチアネックス)",
       "summary": "ヤクルト・池山隆寛監督が、2軍で調整中の助っ人右腕・キハダに「荒々しさ」を求めた。 開幕から守護神を務めて21セーブを挙げるなど、前半戦のチームの躍進を支えたキハダだったが、現在は不振により2軍",
@@ -77288,25 +77307,6 @@
           "name": "ベースボールチャンネル（プロ野球）",
           "sourceId": "baseballchannel-npb",
           "link": "https://www.baseballchannel.jp/npb/278532/"
-        }
-      ]
-    },
-    {
-      "title": "ヤクルト、先発・奥川の交代が裏目に 谷繁氏「もう1イニングいけた」",
-      "summary": "31日にフジテレビONEで放送された『プロ野球ニュース2026』に出演した大矢明彦氏と野村弘樹氏が、同日の阪神戦で6回・99球、4被安打、無失点に抑えたヤクルト先発・奥川恭伸について言及した。 奥川は阪神打線を6回ま […]",
-      "link": "https://baseballking.jp/ns/702335/",
-      "pubDate": "2026-07-31T22:20:00.000Z",
-      "source": "BASEBALL KING",
-      "sourceId": "baseballking",
-      "teams": [
-        "swallows"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "BASEBALL KING",
-          "sourceId": "baseballking",
-          "link": "https://baseballking.jp/ns/702335/"
         }
       ]
     }
