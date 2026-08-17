@@ -1,7 +1,29 @@
 {
-  "generatedAt": "2026-08-17T10:53:09.206Z",
+  "generatedAt": "2026-08-17T11:14:01.725Z",
   "count": 4000,
   "items": [
+    {
+      "title": "アクシデント続出…西武、戦線離脱を強いられている選手（3）たった10日で“登録抹消”…まさかの負傷離脱に(ベースボールチャンネル)",
+      "summary": "2026年シーズンは交流戦優勝を飾るなど、Aクラスに躍進している埼玉西武ライオンズ。しかしながら、勝負の夏場に故障者が続出するアクシデントに見舞われている。ここでは、西武で戦線離脱を強いられ、現在も",
+      "link": "https://news.yahoo.co.jp/articles/14e5f0c82343a43ab6f2b0be8858640fa748c625?source=rss",
+      "pubDate": "2026-08-17T11:02:45.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "lions"
+      ],
+      "topics": [
+        "injury",
+        "roster"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/14e5f0c82343a43ab6f2b0be8858640fa748c625?source=rss"
+        }
+      ]
+    },
     {
       "title": "上重聡アナ、横浜元監督の渡辺元智さん追悼「ニュース見て松坂に」「PLメンバーも気にかけて」(日刊スポーツ)",
       "summary": "フリーアナウンサーの上重聡（46）が17日、日刊スポーツの電話取材に応じ、17日に亡くなった横浜高校元監督の渡辺元智さんを追悼した。 上重アナは「先ほどニュースを見て、松坂（大輔）に連絡をした」",
@@ -77288,25 +77310,6 @@
           "name": "Yahoo!ニュース スポーツ",
           "sourceId": "yahoo-sports",
           "link": "https://news.yahoo.co.jp/articles/38e6624b017d4912817834d5a19c024348939a72?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【DeNA】篠木健太郎、巨人戦初白星へ「気をつけることをはっきりさせながら…」１日先発(日刊スポーツ)",
-      "summary": "DeNA2年目の篠木健太郎投手（24）が巨人戦初勝利を狙う。8月1日の巨人戦（東京ドーム）に先発。7月12日の前回対戦では初回に3四球でピンチを背負い、佐々木に満塁本塁打を浴びた。「初回（走者を）た",
-      "link": "https://news.yahoo.co.jp/articles/fe42f58a07f569748ae6eeb4625ad4328d3a1550?source=rss",
-      "pubDate": "2026-07-31T22:00:01.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "baystars"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/fe42f58a07f569748ae6eeb4625ad4328d3a1550?source=rss"
         }
       ]
     }
