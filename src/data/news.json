@@ -1,7 +1,228 @@
 {
-  "generatedAt": "2026-08-17T06:30:38.368Z",
+  "generatedAt": "2026-08-17T07:41:05.882Z",
   "count": 4000,
   "items": [
+    {
+      "title": "【巨人】浦田俊輔、４か月連続の月間３割超えなるか 打率リーグ３位浮上 相手投手の左右関係なく安定(スポーツ報知)",
+      "summary": "巨人の浦田俊輔内野手は５月以降、コンスタントに結果を残し続けている。 ３、４月を終えて８０打数１６安打で打率２割だったが、徐々に数字を上げ、５月は月間打率３割をマークした。 ６月は打率３割１",
+      "link": "https://news.yahoo.co.jp/articles/8e9cff1a60abf5e1effe471433a16a12a27a8154?source=rss",
+      "pubDate": "2026-08-17T07:34:38.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "giants"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/8e9cff1a60abf5e1effe471433a16a12a27a8154?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "再昇格からわずか2日…阪神の\"育成出身外野手\"が登録抹消 出場機会なく打率.125と苦しむ(ベースボールチャンネル)",
+      "summary": "17日のプロ野球公示で、阪神タイガースは小野寺暖選手を一軍登録から抹消した。 15日に再昇格を果たしたばかりだったが、遠征先の広島東洋カープとの3連戦で出場機会はなく、わずか2日での抹消となった",
+      "link": "https://news.yahoo.co.jp/articles/3e99cb3e7fabb34a7e9b55f7b281f8dcf664fa3b?source=rss",
+      "pubDate": "2026-08-17T07:33:07.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [],
+      "topics": [
+        "roster"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/3e99cb3e7fabb34a7e9b55f7b281f8dcf664fa3b?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【阪神】10勝目懸けて村上頌樹が18日ヤクルト戦先発 ７月MVPの夏男が示す驚異の数字(日刊スポーツ)",
+      "summary": "阪神村上頌樹投手（28）が18日のヤクルト戦（京セラドーム大阪）に先発する。予告先発投手として17日に発表された。 9勝6敗で2年連続3度目の10勝に王手をかけている。2桁勝った23年（10勝）",
+      "link": "https://news.yahoo.co.jp/articles/0245a7edce413d7d2a24e6c8c8f04fdaf7dbc9f7?source=rss",
+      "pubDate": "2026-08-17T07:31:02.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "tigers"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/0245a7edce413d7d2a24e6c8c8f04fdaf7dbc9f7?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "再昇格からわずか2日…阪神の”育成出身外野手”が登録抹消 出場機会なく打率.125と苦しむ",
+      "summary": "17日のプロ野球公示で、阪神タイガースは小野寺暖選手を一軍登録から抹消した。",
+      "link": "https://www.baseballchannel.jp/npb/283785/",
+      "pubDate": "2026-08-17T07:30:04.000Z",
+      "source": "ベースボールチャンネル（プロ野球）",
+      "sourceId": "baseballchannel-npb",
+      "teams": [],
+      "topics": [
+        "roster"
+      ],
+      "sources": [
+        {
+          "name": "ベースボールチャンネル（プロ野球）",
+          "sourceId": "baseballchannel-npb",
+          "link": "https://www.baseballchannel.jp/npb/283785/"
+        }
+      ]
+    },
+    {
+      "title": "楽天戦力外は「当然の結果です」 ロッテ山崎剛の決意…噛み締める“筋肉痛”、新天地は「雰囲気がいい」",
+      "summary": "昨年楽天を戦力外もロッテで支配下を勝ち取った山崎剛。膝の怪我と向き合い、新天地で「雰囲気」の良さを語る30歳の再起への決意とは。",
+      "link": "https://full-count.jp/2026/08/17/post2004446/",
+      "pubDate": "2026-08-17T07:20:19.000Z",
+      "source": "Full-Count（プロ野球）",
+      "sourceId": "full-count-npb",
+      "teams": [
+        "marines"
+      ],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "Full-Count（プロ野球）",
+          "sourceId": "full-count-npb",
+          "link": "https://full-count.jp/2026/08/17/post2004446/"
+        }
+      ]
+    },
+    {
+      "title": "高卒2年目ドラ1が「まじでえぐいな」 初登板で衝撃KKK…中軸翻弄のカーブは「由伸レベル」",
+      "summary": "ソフトバンクの高卒2年目・村上泰斗投手が、15日にみずほPayPayドームで行われた楽天戦でプロ初登板を果たした。将来性溢れる堂々たる3奪三振に、ファンは「伝説のスタートはここですか」「カーブまじでえぐいな。由伸レベルじゃないか？」「バケモ…",
+      "link": "https://full-count.jp/2026/08/17/post2004356/",
+      "pubDate": "2026-08-17T07:16:41.000Z",
+      "source": "Full-Count（プロ野球）",
+      "sourceId": "full-count-npb",
+      "teams": [
+        "hawks"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Full-Count（プロ野球）",
+          "sourceId": "full-count-npb",
+          "link": "https://full-count.jp/2026/08/17/post2004356/"
+        }
+      ]
+    },
+    {
+      "title": "【阪神】ドラフト５位の能登嵩都は１軍デビューお預け 初登録も１日で抹消 小野寺暖も(日刊スポーツ)",
+      "summary": "阪神能登嵩都投手（24）が17日、出場選手登録を抹消された。前日16日に初めて昇格。ブルペンに待機してデビューの期待がかかったが、次の機会を待つことになった。再登録は27日以降。 オイシックスか",
+      "link": "https://news.yahoo.co.jp/articles/ef937938d2ef0e1e69097f7bd7ab59b92cacfb55?source=rss",
+      "pubDate": "2026-08-17T07:15:43.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "tigers"
+      ],
+      "topics": [
+        "roster",
+        "draft"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/ef937938d2ef0e1e69097f7bd7ab59b92cacfb55?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【中日】大野雄大が１８日の広島戦に先発 タイトル争いは「９月の２週目以降です」柳裕也ＶＳ小笠原慎之介からも刺激(スポーツ報知)",
+      "summary": "中日・大野雄大投手が１８日の広島戦（マツダ）に先発する。チーム最多の８勝を挙げているベテラン左腕。１７日はナゴヤ球場で調整した。敵地での対戦は、通算１００勝を達成した５月２日以来。「前回対戦したとき",
+      "link": "https://news.yahoo.co.jp/articles/5ece032f6b7ab20a1703af8ff1a529970cc468ac?source=rss",
+      "pubDate": "2026-08-17T07:13:05.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "dragons"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/5ece032f6b7ab20a1703af8ff1a529970cc468ac?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【中日】桜井頼之介が１軍合流「残り全部勝つ」２か月ぶり白星を目指し広島戦に先発「自分の特長を生かして」(スポーツ報知)",
+      "summary": "中日・桜井頼之介投手が１７日、ナゴヤ球場で１軍の先発陣の練習に合流した。ドラフト２位右腕は、１９日の広島戦（マツダ）で先発が有力。６月２４日以来の登板で同１０日以来の白星を目指し「残りの試合数も少な",
+      "link": "https://news.yahoo.co.jp/articles/b882612d93fdc6b53a3ef1d8c849ecff485ef1ac?source=rss",
+      "pubDate": "2026-08-17T07:10:40.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "dragons"
+      ],
+      "topics": [
+        "draft"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/b882612d93fdc6b53a3ef1d8c849ecff485ef1ac?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "桜井、6月以来の先発へ 中日のルーキー(共同通信)",
+      "summary": "中日のルーキー桜井が18日からの広島3連戦（マツダスタジアム）で久々に1軍で先発する見通しとなった。6月24日に4敗目を喫した後は出場選手登録を外れていた。17日はナゴヤ球場で調整し「まだ2勝なので",
+      "link": "https://news.yahoo.co.jp/articles/64aa7d98e77c8a1f69590e67735f4131331deca8?source=rss",
+      "pubDate": "2026-08-17T07:05:14.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "dragons"
+      ],
+      "topics": [
+        "roster"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/64aa7d98e77c8a1f69590e67735f4131331deca8?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "阪神・能登嵩都、小野寺暖が登録抹消 ともに出場機会なく2軍へ(サンケイスポーツ)",
+      "summary": "NPBは17日、阪神・能登嵩都投手（24）、小野寺暖外野手（28）の出場選手登録抹消を公示した。 昨秋のドラフト会議でオイシックスから5位で入団した能登は、前日16日に1軍初昇格を果たしベンチ入りす",
+      "link": "https://news.yahoo.co.jp/articles/6ae5667947062b05818dc2fc3ece8e5b4762c065?source=rss",
+      "pubDate": "2026-08-17T07:01:41.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "tigers"
+      ],
+      "topics": [
+        "roster",
+        "draft"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/6ae5667947062b05818dc2fc3ece8e5b4762c065?source=rss"
+        }
+      ]
+    },
     {
       "title": "打率5割と好相性のエスコンで区切りの20号狙う ソフトバンク正木智也が規定打席目前 「一日一善」誓う強打の1番打者(西スポWEB OTTO!)",
       "summary": "ソフトバンクの正木智也外野手（26）が得意のエスコンフィールド北海道で区切りの20号アーチを狙う。 16日の楽天戦（みずほペイペイドーム）で4試合ぶりの19号2ラン。20発に王手をかけ「20本を",
@@ -131,16 +352,16 @@
       "summary": "8月17日のプロ野球の出場選手登録と抹消は以下の通り。 【セ・リーグ】 ＜登録＞ なし ＜抹消＞ 阪神 能登嵩都投手 阪神 小野寺暖外野手 DeNA 片山皓心投手 中",
       "link": "https://news.yahoo.co.jp/articles/ba98ab6a5bacad1373800b003e74437f78e7bdb8?source=rss",
       "pubDate": "2026-08-17T06:15:48.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
       "teams": [],
       "topics": [
         "roster"
       ],
       "sources": [
         {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/ba98ab6a5bacad1373800b003e74437f78e7bdb8?source=rss"
         }
       ]
@@ -189,14 +410,14 @@
       "summary": "18日のプロ野球予告先発は以下の通り。 ＜セ・リーグ＞ DeNA尾形崇斗－巨人山崎伊織（横浜＝17時45分） 阪神村上頌樹－ヤクルト吉村貢司郎（京セラドーム大阪＝18時） 広島床田寛",
       "link": "https://news.yahoo.co.jp/articles/66528c073cb1d26593d97d33e690807b56fd7cd5?source=rss",
       "pubDate": "2026-08-17T06:12:29.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
       "teams": [],
       "topics": [],
       "sources": [
         {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/66528c073cb1d26593d97d33e690807b56fd7cd5?source=rss"
         }
       ]
@@ -77085,223 +77306,6 @@
           "name": "Yahoo!ニュース スポーツ",
           "sourceId": "yahoo-sports",
           "link": "https://news.yahoo.co.jp/articles/c664ffa1449b6b609b2b41426e7b8cf838086330?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "阪神・中野拓夢 球団4人目の入団から6年連続100安打 3回に中前打 7回一挙4点猛攻も演出(スポニチアネックス)",
-      "summary": "◇セ・リーグ 阪神4―3ヤクルト（2026年7月31日 神宮） 阪神・中野が今年もしっかりと「大台」をクリアした。第2打席で中前打を放ち、チャンスメーク。これで、6年連続のシーズン100安打達成",
-      "link": "https://news.yahoo.co.jp/articles/7f67e53194a50d721b179b60076d05df23ec25e0?source=rss",
-      "pubDate": "2026-07-31T16:15:00.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "tigers"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/7f67e53194a50d721b179b60076d05df23ec25e0?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "阪神・藤川監督が先発の才木浩人に苦言 2回までに7安打3失点「戦う姿がもっとほしかった」(スポニチアネックス)",
-      "summary": "◇セ・リーグ 阪神4―3ヤクルト（2026年7月31日 神宮） 阪神・藤川監督が、序盤につまずいた才木に苦言を呈した。 「最初にポンポンと取られた投球内容より、表情とか戦う姿がもっとほしかっ",
-      "link": "https://news.yahoo.co.jp/articles/4e0f9ba928c859da6c25a887ce9f023a3bc2fc78?source=rss",
-      "pubDate": "2026-07-31T16:15:00.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "tigers"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/4e0f9ba928c859da6c25a887ce9f023a3bc2fc78?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "阪神・大山悠輔 “元々の居場所”4番で決勝打は24年10月以来 長期ロード“快幕星”導いた(スポニチアネックス)",
-      "summary": "◇セ・リーグ 阪神4―3ヤクルト（2026年7月31日 神宮） 阪神は31日、後半戦スタートとなるヤクルト戦（神宮）に4―3で逆転勝ちを収めた。殊勲は、5月31日ロッテ戦以来の4番に座った大山悠",
-      "link": "https://news.yahoo.co.jp/articles/9288cc8460174b2aa5a06648a4e0cb2d6328099d?source=rss",
-      "pubDate": "2026-07-31T16:15:00.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "tigers"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/9288cc8460174b2aa5a06648a4e0cb2d6328099d?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "阪神・佐藤輝明がチーム36イニングぶりの適時打 今季7試合目の3番で逆転劇呼んだ(スポニチアネックス)",
-      "summary": "◇セ・リーグ 阪神4―3ヤクルト（2026年7月31日 神宮） 痛烈な当たりが一塁線を破った。後半戦開幕で佐藤輝が阪神に勝利の流れを引き寄せた。2点差で迎えた7回2死一、二塁。気持ちはしっかり集",
-      "link": "https://news.yahoo.co.jp/articles/d21fb2b7a4ce07155df2419a7729c6c57a089b69?source=rss",
-      "pubDate": "2026-07-31T16:15:00.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "tigers"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/d21fb2b7a4ce07155df2419a7729c6c57a089b69?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "阪神・森下翔太 開幕から92試合目で初めて先発外れるもしっかり“仕事” 代打出場で四球選ぶ (スポニチアネックス)",
-      "summary": "◇セ・リーグ 阪神4―3ヤクルト（2026年7月31日 神宮） 阪神・森下が開幕から92試合目で初めて先発を外れたが、7回1死一塁で代打登場し、四球を選んで逆転勝利に貢献した。 球宴第1戦は",
-      "link": "https://news.yahoo.co.jp/articles/a22b35fb53cc6b16d0ba80305c2df44b9c0ef33e?source=rss",
-      "pubDate": "2026-07-31T16:15:00.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "tigers"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/a22b35fb53cc6b16d0ba80305c2df44b9c0ef33e?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "阪神・近本光司が7回にチャンス広げる一打「逆転につながって良かった」(スポニチアネックス)",
-      "summary": "◇セ・リーグ 阪神4―3ヤクルト（2026年7月31日 神宮） 阪神・近本が初回先頭で中前打し、一挙4点を挙げた7回にも1死一、二塁から左前打を放ち、好機を広げて後続の快打を呼び込んだ。 「",
-      "link": "https://news.yahoo.co.jp/articles/b96be599172744162024053d49fa2640e59ba28e?source=rss",
-      "pubDate": "2026-07-31T16:15:00.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "tigers"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/b96be599172744162024053d49fa2640e59ba28e?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "ヤクルト・長岡秀樹「早めに仕掛けようと思っていた」初球を右翼席へ 自身初の先頭打者本塁打(サンケイスポーツ)",
-      "summary": "（セ・リーグ、ヤクルト3－4阪神、13回戦、阪神8勝5敗、31日、神宮）ヤクルト・長岡秀樹内野手（24）が7年目で初となる先頭打者本塁打を放った。才木に対し「追い込まれたらきついピッチャーなので、早め",
-      "link": "https://news.yahoo.co.jp/articles/112c3112e516ad1d845ce646678d1e0d59ae0561?source=rss",
-      "pubDate": "2026-07-31T15:49:00.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "swallows"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/112c3112e516ad1d845ce646678d1e0d59ae0561?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【巨人】松本剛７７７日ぶり移籍後１号 「ホームラン打ちたい」七夕お願いかなった(東スポWEB)",
-      "summary": "巨人の松本剛外野手（32）が31日のDeNA戦（東京ドーム）で、移籍後初本塁打となる1号ソロを放った。 球宴明けのリーグ戦再開初戦に快音が響いた。初回1死走者なしで迎えた第1打席、DeNA先発・",
-      "link": "https://news.yahoo.co.jp/articles/b1da0a07e2762f231f01d5a36600131a10709d85?source=rss",
-      "pubDate": "2026-07-31T15:45:26.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "giants"
-      ],
-      "topics": [
-        "trade"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/b1da0a07e2762f231f01d5a36600131a10709d85?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "巨人・ハワード7回無失点、約4カ月ぶり復帰登板で移籍後初勝利(サンケイスポーツ)",
-      "summary": "（セ・リーグ、巨人6－0DeNA、14回戦、巨人11勝3敗、31日、東京D）巨人のスペンサー・ハワード投手（30）が右アキレス腱（けん）炎を負った4月4日のDeNA戦（東京ドーム）以来、約4カ月ぶりの",
-      "link": "https://news.yahoo.co.jp/articles/2fdb9199fa0cb7aeae4cd66fe2312cab1fd69a24?source=rss",
-      "pubDate": "2026-07-31T15:38:00.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "giants"
-      ],
-      "topics": [
-        "trade"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/2fdb9199fa0cb7aeae4cd66fe2312cab1fd69a24?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【巨人】鈴木大和が支配下契約 西武にトレード移籍の若林楽人＆田中将ら集う「道民会」最中に吉報(東スポWEB)",
-      "summary": "巨人は31日、鈴木大和外野手（27）と支配下選手契約を締結したと発表。若林楽人外野手が金銭トレードで西武に移籍したことに伴い、急きょ空いた支配下枠を登録期限最終日に勝ち取った。背番号は若林が着けてい",
-      "link": "https://news.yahoo.co.jp/articles/bc6bcd0428ab015a45c08b838eab79821ea78824?source=rss",
-      "pubDate": "2026-07-31T15:35:23.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "giants"
-      ],
-      "topics": [
-        "trade"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/bc6bcd0428ab015a45c08b838eab79821ea78824?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【巨人】ハワード快投で移籍後初勝利 杉内コーチが期待「中６日で回ってくれたら」(東スポWEB)",
-      "summary": "巨人のスペンサー・ハワード投手（30）が31日のDeNA戦（東京ドーム）に先発。7回3安打無失点、6奪三振、無死四球と文句なしの快投で楽天から移籍後初勝利を挙げた。 助っ人右腕は右アキレス腱を負",
-      "link": "https://news.yahoo.co.jp/articles/70be4b87b923610f6bfe1c429e909451f626cc72?source=rss",
-      "pubDate": "2026-07-31T15:20:29.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "giants"
-      ],
-      "topics": [
-        "trade"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/70be4b87b923610f6bfe1c429e909451f626cc72?source=rss"
         }
       ]
     }
