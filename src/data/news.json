@@ -1,7 +1,27 @@
 {
-  "generatedAt": "2026-08-16T23:40:01.177Z",
+  "generatedAt": "2026-08-17T00:29:22.599Z",
   "count": 4000,
   "items": [
+    {
+      "title": "【ヤフコメで話題】「ライオンズの応援と投手力が際立つ」「マリーンズの戦力差と課題が浮き彫りに」 - 西武対ロッテ戦の現地観戦をめぐる声(Yahoo!ニュース オリジナル THE PAGE)",
+      "summary": "西武ライオンズ対千葉ロッテマリーンズ戦について、Yahoo!ニュースのコメント欄で話題になっています。 コメントでは、現地観戦したファンからライオンズの応援の熱気や、武内投手を中心とした投手力の高さが",
+      "link": "https://news.yahoo.co.jp/articles/929e794a23804ffcae3c4d777ca9f43a74540b77?source=rss",
+      "pubDate": "2026-08-17T00:25:13.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "lions",
+        "marines"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/929e794a23804ffcae3c4d777ca9f43a74540b77?source=rss"
+        }
+      ]
+    },
     {
       "title": "【石原伸晃】年季の入ったＧ党、阪神打線の“華”に脱帽 「真夏の天王山」観戦(日刊スポーツ)",
       "summary": "東京ドームで巨人－阪神3連戦の初戦を観戦した。 私はもともと日本テレビの記者であり、初めての仕事が巨人担当で長嶋茂雄監督の番組への送迎もさせて頂いたこともあり、年季の入ったジャイアンツファンを自",
@@ -77270,25 +77290,6 @@
           "name": "日刊スポーツ（Yahoo!ニュース経由）",
           "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/b5a47f849f8b889eb58f6eaa91d8e3b97df75956?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【広島】菊池涼介、ベテランの嗅覚で決勝弾「思い切り行っていいと割り切りで」後半戦白星発進(日刊スポーツ)",
-      "summary": "＜広島3－1中日＞◇31日◇マツダスタジアム ベテランが、がっついて決勝弾をもぎ取った。同点の8回1死走者なし。広島菊池涼介内野手（36）は、カウント3－1から中日橋本のフォークに、迷うことなくバ",
-      "link": "https://news.yahoo.co.jp/articles/72dd5ed8f46681f94eaccd65ca80f9eb94cd3dbd?source=rss",
-      "pubDate": "2026-07-31T13:19:49.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "carp"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/72dd5ed8f46681f94eaccd65ca80f9eb94cd3dbd?source=rss"
         }
       ]
     }
