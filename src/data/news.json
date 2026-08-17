@@ -1,22 +1,100 @@
 {
-  "generatedAt": "2026-08-17T10:02:30.693Z",
+  "generatedAt": "2026-08-17T10:53:09.206Z",
   "count": 4000,
   "items": [
     {
-      "title": "【中西清起】阪神佐藤、森下を封じるには？「打たれたから内角いって死球ではダメ」／セ・リーグ展望(日刊スポーツ)",
-      "summary": "野球ファンにとって月曜は特別な日。先週を振り返って、今週に思いをはせる。識者に回顧と展望を聞いた。セ・リーグ編は中西清起氏（64＝日刊スポーツ評論家）。巨人バッテリーの配球について語りました。",
-      "link": "https://news.yahoo.co.jp/articles/c1eba23de92186e1ddb59a20ba041e524e61c579?source=rss",
-      "pubDate": "2026-08-17T09:41:26.000Z",
+      "title": "上重聡アナ、横浜元監督の渡辺元智さん追悼「ニュース見て松坂に」「PLメンバーも気にかけて」(日刊スポーツ)",
+      "summary": "フリーアナウンサーの上重聡（46）が17日、日刊スポーツの電話取材に応じ、17日に亡くなった横浜高校元監督の渡辺元智さんを追悼した。 上重アナは「先ほどニュースを見て、松坂（大輔）に連絡をした」",
+      "link": "https://news.yahoo.co.jp/articles/bc88d01182e82c8667c24b07521a31231989683f?source=rss",
+      "pubDate": "2026-08-17T10:42:23.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "baystars"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/bc88d01182e82c8667c24b07521a31231989683f?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "カープ選手プロデュースメニュー、第５弾が登場！辻大雅のパフェ、佐藤啓介のスムージーなどひんやりメニューも充実(アスリートマガジンWEB)",
+      "summary": "カープは8月18日（火）の中日戦から、『選手プロデュースメニュー〜第5弾〜』を販売開始すると発表した。これまで34商品が登場し、メニューが変わるたびに話題を呼んできた選手プロデュースメニュー。今回は",
+      "link": "https://news.yahoo.co.jp/articles/48028bb312fbace6f392a2532e0975f042fff35b?source=rss",
+      "pubDate": "2026-08-17T10:30:35.000Z",
       "source": "Yahoo!ニュース スポーツ",
       "sourceId": "yahoo-sports",
       "teams": [
-        "tigers"
+        "carp"
       ],
       "topics": [],
       "sources": [
         {
           "name": "Yahoo!ニュース スポーツ",
           "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/48028bb312fbace6f392a2532e0975f042fff35b?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【ソフトバンク】福岡移転後初のリーグ３連覇へ ９月４日からの終盤戦スローガンは「ゼンシン！」に決定(スポーツ報知)",
+      "summary": "ソフトバンクは１７日、９月４日の西武戦（みずほペイペイ）からの終盤戦のスローガンを「ゼンシン！」に決定したことを発表した。 今季スローガンである「全新」を基盤に「全身全霊で、新境地へ」をテーマに",
+      "link": "https://news.yahoo.co.jp/articles/d9858e9033762d277ac803563a3ba66a29a67d4b?source=rss",
+      "pubDate": "2026-08-17T10:29:34.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "hawks"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/d9858e9033762d277ac803563a3ba66a29a67d4b?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "DeNA尾形崇斗「五感が研ぎ澄まされる」…マウンドで浴びる好きな空気 電撃トレードで目指す“究極の姿”",
+      "summary": "電撃トレードでDeNA加入の尾形崇斗。「五感が研ぎ澄まされる」と語る新天地での登板。コーチも驚くパワーと新たな投球術で目指す「究極の姿」とは。",
+      "link": "https://full-count.jp/2026/08/17/post2004601/",
+      "pubDate": "2026-08-17T10:22:40.000Z",
+      "source": "Full-Count（プロ野球）",
+      "sourceId": "full-count-npb",
+      "teams": [
+        "baystars"
+      ],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "Full-Count（プロ野球）",
+          "sourceId": "full-count-npb",
+          "link": "https://full-count.jp/2026/08/17/post2004601/"
+        }
+      ]
+    },
+    {
+      "title": "【中西清起】阪神佐藤、森下を封じるには？「打たれたから内角いって死球ではダメ」／セ・リーグ展望(日刊スポーツ)",
+      "summary": "野球ファンにとって月曜は特別な日。先週を振り返って、今週に思いをはせる。識者に回顧と展望を聞いた。セ・リーグ編は中西清起氏（64＝日刊スポーツ評論家）。巨人バッテリーの配球について語りました。",
+      "link": "https://news.yahoo.co.jp/articles/c1eba23de92186e1ddb59a20ba041e524e61c579?source=rss",
+      "pubDate": "2026-08-17T09:41:26.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "tigers"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/c1eba23de92186e1ddb59a20ba041e524e61c579?source=rss"
         }
       ]
@@ -77229,82 +77307,6 @@
           "name": "日刊スポーツ（Yahoo!ニュース経由）",
           "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/fe42f58a07f569748ae6eeb4625ad4328d3a1550?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【DeNA】相川監督「5回まで抑えられてしまったことが敗因に直結」巨人ハワードを攻略できず(日刊スポーツ)",
-      "summary": "DeNAは巨人に完敗し、自力優勝の可能性が消滅した。相川亮二監督（50）は「まだ、当然諦めるつもりはないです」と前を向いた。 先発の平良は5回2失点で6敗目。初回、松本に先制ソロを献上。0－1の",
-      "link": "https://news.yahoo.co.jp/articles/bbfb497e74cd834676c9ff7431309c16a20b91bb?source=rss",
-      "pubDate": "2026-07-31T22:00:01.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "baystars"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/bbfb497e74cd834676c9ff7431309c16a20b91bb?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "DeNA筒香嘉智は８月が得意、昨年は11試合で３割５分５厘８発 月別本塁打も最多／見どころ(日刊スポーツ)",
-      "summary": "DeNA筒香嘉智は8月に本塁打をよく打つ。昨年は8月途中に1軍に復帰すると、月間11試合の出場で8本塁打含む31打数11安打の打率3割5分5厘。 8月は渡米前の17年に7本塁打の打率3割1分5厘",
-      "link": "https://news.yahoo.co.jp/articles/91d3afae49a2e70ba2303886a4ebb75df5d9a2d9?source=rss",
-      "pubDate": "2026-07-31T22:00:00.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "baystars"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/91d3afae49a2e70ba2303886a4ebb75df5d9a2d9?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【ちょっといい話】日本ハム達孝太、救援登板経験し一歩進んだヘアカラーテクニックも会得(日刊スポーツ)",
-      "summary": "＜日本ハム6－1ロッテ＞◇31日◇エスコンフィールド 日本ハム達孝太投手（22）は“中継ぎ修業”の間、投球だけでなく、ある部分もバージョンアップしていた。7月2日の試合前練習に、黒髪からブリーチし",
-      "link": "https://news.yahoo.co.jp/articles/dc159d81be94f82ea2cefe3350c36eb1fdaefd42?source=rss",
-      "pubDate": "2026-07-31T21:00:02.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "fighters"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/dc159d81be94f82ea2cefe3350c36eb1fdaefd42?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【虎になれ】ブルペン勝負に勝った阪神 でもガルシア先発はどうか(日刊スポーツ)",
-      "summary": "＜ヤクルト3－4阪神＞◇31日◇神宮 プロの厳しさを思い知らされたゲームかもしれない。「いまの野球はブルペン勝負」。広島3連覇監督の緒方孝市（日刊スポーツ評論家）がいつも言うことだ。指揮官・藤川球",
-      "link": "https://news.yahoo.co.jp/articles/45ac5fe6060db090c0576f78cc43d2c69fa5897b?source=rss",
-      "pubDate": "2026-07-31T21:00:00.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "tigers"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/45ac5fe6060db090c0576f78cc43d2c69fa5897b?source=rss"
         }
       ]
     }
