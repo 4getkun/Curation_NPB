@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-18T19:03:57.840Z",
+  "generatedAt": "2026-08-18T19:45:48.792Z",
   "count": 4000,
   "items": [
     {
@@ -341,16 +341,16 @@
       "summary": "＜阪神3－2ヤクルト＞◇18日◇京セラドーム大阪 首位阪神が劇的な勝利を収めた。1点を追う9回、1死から佐藤輝明内野手（27）がヤクルト清水から右中間に29号ソロで同点。続く大山悠輔内野手（31）",
       "link": "https://news.yahoo.co.jp/articles/4383632d6c355e5879dff2bc6b142813f822e9a2?source=rss",
       "pubDate": "2026-08-18T14:20:26.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
       "teams": [
         "tigers"
       ],
       "topics": [],
       "sources": [
         {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/4383632d6c355e5879dff2bc6b142813f822e9a2?source=rss"
         }
       ]
