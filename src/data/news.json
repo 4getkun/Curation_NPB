@@ -1,7 +1,64 @@
 {
-  "generatedAt": "2026-08-18T04:58:08.726Z",
+  "generatedAt": "2026-08-18T05:23:54.949Z",
   "count": 4000,
   "items": [
+    {
+      "title": "【楽天】渡辺佳明の心に残る祖父・元智さんからの教えは「人生の勝利者になれ」１７日に急逝の横浜高名将(スポーツ報知)",
+      "summary": "楽天・渡辺佳明内野手（２９）が１８日、楽天モバイル最強パークでロッテ戦に向けた練習前に取材に対応して、１７日に８１歳で死去した祖父で元横浜高野球部監督の渡辺元智（わたなべ・もとのり）さんへの思いを明",
+      "link": "https://news.yahoo.co.jp/articles/f5f5c764abc15f258457199b433ed969f89a50c1?source=rss",
+      "pubDate": "2026-08-18T05:20:12.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "eagles"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/f5f5c764abc15f258457199b433ed969f89a50c1?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【巨人】坂本勇人、６年ぶりの１軍完走へシーズン最終盤 チームは首位・阪神と２差で残り３６試合(スポーツ報知)",
+      "summary": "巨人・坂本勇人内野手（３７）は、ここまで１軍の全１０７試合にベンチ入りしてチームを支えている。 ２０年目の今季は開幕から一度も戦列を離れることなく、試合終盤の勝負所で存在感を発揮している。５月１",
+      "link": "https://news.yahoo.co.jp/articles/c156530612f9e0f90b7254c667d1970e357962fc?source=rss",
+      "pubDate": "2026-08-18T05:07:42.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "giants"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/c156530612f9e0f90b7254c667d1970e357962fc?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【楽天】渡辺佳明、偉大な祖父に「言葉は交わせなかったんですけど…」渡辺元智さん17日に死去(日刊スポーツ)",
+      "summary": "楽天渡辺佳明内野手（29）が18日、楽天モバイル最強パークの室内練習場で取材に応じた。 17日に祖父で出身校である横浜高の元監督渡辺元智（わたなべ・もとのり）さんが死去。渡辺佳は16日に遠征先の",
+      "link": "https://news.yahoo.co.jp/articles/e0254d0a769a3f7d2cff5b558c13cccfc48df4df?source=rss",
+      "pubDate": "2026-08-18T05:06:17.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "eagles"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/e0254d0a769a3f7d2cff5b558c13cccfc48df4df?source=rss"
+        }
+      ]
+    },
     {
       "title": "「勝つ、勝たないで結構変わってくる」ソフトバンク上沢直之が19日の古巣・日本ハム戦に先発 直近2戦は無失点も「結構紙一重」(西スポWEB OTTO!)",
       "summary": "ソフトバンクの上沢直之投手（32）が19日の日本ハム戦（エスコンフィールド北海道）で今季8勝目をかけて先発する。 大事な上位対決を任された右腕は「リーグ優勝に向けて勝つ、勝てないで結構変わってく",
@@ -26,16 +83,16 @@
       "summary": "＜日本ハム－ソフトバンク＞◇18日◇エスコンフィールド 今季加入した日本ハムのサウリン・ラオ投手（27）が初めて1軍に昇格した。2軍では7試合13回2／3に登板し、防御率2・63。15年に野手とし",
       "link": "https://news.yahoo.co.jp/articles/3f1dbc0083c5d0147acfcc00b887047174e883d0?source=rss",
       "pubDate": "2026-08-18T04:48:17.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
       "teams": [
         "fighters"
       ],
       "topics": [],
       "sources": [
         {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/3f1dbc0083c5d0147acfcc00b887047174e883d0?source=rss"
         }
       ]
@@ -77249,64 +77306,6 @@
           "name": "日刊スポーツ（Yahoo!ニュース経由）",
           "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/5735e385ba098c05918bbf4d05e6e2f5e24e0653?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【西武】林安可の適時二塁打で同点→相手失策で一気に勝ち越し！ なるか連敗ストップ(スポーツ報知)",
-      "summary": "◆パ・リーグ 西武―オリックス（１日・ベルーナドーム） 西武が林安可外野手の一打で同点に追いつき、相手失策で勝ち越しに成功した。 １点を追う７回１死一塁。林安可が山崎の１５４キロ直球を捉えた打",
-      "link": "https://news.yahoo.co.jp/articles/9aaa68a68f650c97a7d0534beff3c0df42ca8d9f?source=rss",
-      "pubDate": "2026-08-01T10:56:47.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "lions"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/9aaa68a68f650c97a7d0534beff3c0df42ca8d9f?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【楽天】後半戦“開幕投手”務めた早川隆久は６回７安打３失点「しっかり反省して次回の登板に」(日刊スポーツ)",
-      "summary": "＜楽天－ソフトバンク＞◇1日◇楽天モバイル最強パーク 後半戦“開幕投手”を務めた楽天早川隆久投手（28）は、白星をつかめなかった。 初回、1番正木を中飛、2番周東を見逃し三振、3番近藤を二ゴロ",
-      "link": "https://news.yahoo.co.jp/articles/5a725fb3ef5763425ccc95762eb00effaabd4907?source=rss",
-      "pubDate": "2026-08-01T10:56:36.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "eagles"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/5a725fb3ef5763425ccc95762eb00effaabd4907?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "中日・細川成也 “球宴本塁打王”の貫禄。今季初の1試合2発で広島圧倒(スポニチアネックス)",
-      "summary": "◇セ・リーグ 中日―広島（2026年8月1日 マツダスタジアム） 中日・細川成也外野手（27）の一発攻勢が光った。まずは初回2死からの打席では左中間へ先制の16号ソロ。先発・斉藤優が投じた初球の",
-      "link": "https://news.yahoo.co.jp/articles/5529ea4c05713152bdad0e5fc2466eb3588ea0dc?source=rss",
-      "pubDate": "2026-08-01T10:51:58.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "dragons",
-        "carp"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/5529ea4c05713152bdad0e5fc2466eb3588ea0dc?source=rss"
         }
       ]
     }
