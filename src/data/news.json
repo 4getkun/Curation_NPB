@@ -1,7 +1,45 @@
 {
-  "generatedAt": "2026-08-18T14:57:52.276Z",
+  "generatedAt": "2026-08-18T15:25:16.583Z",
   "count": 4000,
   "items": [
+    {
+      "title": "【西武】来季残留のカナリオ「これからもずっとファンのみなさまのために…」東京ドーム沸かせる(日刊スポーツ)",
+      "summary": "＜西武7－4オリックス＞◇18日◇東京ドーム 夏の暑さにも負けない熱い試合をライオンズファンに届けた。西武が年に1度の東京ドームでの主催試合で快勝。満員御礼の青く染まった球場を熱狂の渦に包み込んだ",
+      "link": "https://news.yahoo.co.jp/articles/bf589e7c09eb583a4d0c33cd590bebcccd59e7a7?source=rss",
+      "pubDate": "2026-08-18T15:01:10.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "lions"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/bf589e7c09eb583a4d0c33cd590bebcccd59e7a7?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "巨人・井上温大、19日先発 対DeNA戦10勝目狙う(サンケイスポーツ)",
+      "summary": "（セ・リーグ、DeNA4x－3巨人、17回戦、巨人11勝6敗、18日、横浜）巨人・井上温大が得意の相手から自身10勝目を狙う。 19日のDeNA戦は、東と初の投げ合い。「粘り強く投げてくると思う。先",
+      "link": "https://news.yahoo.co.jp/articles/8edc0ccde1426f8395199e55146ced553b0ba1ff?source=rss",
+      "pubDate": "2026-08-18T14:55:00.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "giants"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/8edc0ccde1426f8395199e55146ced553b0ba1ff?source=rss"
+        }
+      ]
+    },
     {
       "title": "【巨人】佐々木俊輔 松本剛が示した〝２番の仕事〟がお手本「自分を犠牲にしてまで…」(東スポWEB)",
       "summary": "巨人の佐々木俊輔外野手（26）が18日のDeNA戦（横浜）に「2番・中堅」で先発出場。チームは3―4と逆転サヨナラ負けを喫したが、4打数2安打1打点と存在感をアピールした。 佐々木は2試合連続「",
@@ -337,16 +375,16 @@
       "summary": "＜楽天6－2ロッテ＞◇18日◇楽天モバイル最強パーク 最下位の楽天は投打がかみ合い、5位ロッテに逆転勝ちを収めた。先発の荘司康誠投手（25）は自己最多＆チームトップタイの6勝目。初回2死一塁から4",
       "link": "https://news.yahoo.co.jp/articles/9ca794ea9f92f62802c31f490c986fc2bce62de3?source=rss",
       "pubDate": "2026-08-18T13:55:23.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
       "teams": [
         "eagles"
       ],
       "topics": [],
       "sources": [
         {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/9ca794ea9f92f62802c31f490c986fc2bce62de3?source=rss"
         }
       ]
@@ -356,16 +394,16 @@
       "summary": "＜阪神3－2ヤクルト＞◇18日◇京セラドーム大阪 阪神桐敷拓馬投手（27）が今季初勝利をつかんだ。 1－2の9回に4番手で登板。ヤクルト先頭伊藤に四球を与えたが、後続を打ち取り、無失点に抑えた",
       "link": "https://news.yahoo.co.jp/articles/a25de3fbd70bb4f6de0b7d08aa891124ef392bfa?source=rss",
       "pubDate": "2026-08-18T13:54:00.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
       "teams": [
         "tigers"
       ],
       "topics": [],
       "sources": [
         {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/a25de3fbd70bb4f6de0b7d08aa891124ef392bfa?source=rss"
         }
       ]
@@ -375,16 +413,16 @@
       "summary": "＜阪神3－2ヤクルト＞◇18日◇京セラドーム大阪 阪神中野拓夢内野手（30）は左足を痛め、4回の守備から途中交代した。「2番二塁」でスタメン出場。守備で着地の際に患部を痛め、試合中に病院受診した。",
       "link": "https://news.yahoo.co.jp/articles/b6f72c349edd62078b07d0e3f7da795ee723d379?source=rss",
       "pubDate": "2026-08-18T13:52:05.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
       "teams": [
         "tigers"
       ],
       "topics": [],
       "sources": [
         {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/b6f72c349edd62078b07d0e3f7da795ee723d379?source=rss"
         }
       ]
@@ -77282,44 +77320,6 @@
           "name": "Yahoo!ニュース スポーツ",
           "sourceId": "yahoo-sports",
           "link": "https://news.yahoo.co.jp/articles/049559f760349857c6969a9d3455ebd11bccd5ef?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "オリックス 今季5度目の借金生活に 3カード連続負け越しの敵地で今季20の負け越し(スポニチアネックス)",
-      "summary": "◇パ・リーグ オリックス1―5西武（2026年8月2日 ベルーナドーム） オリックスが球宴明け最初のカードで負け越し、今季5度目の借金生活に。苦手のビジター球場では3カード連続負け越しで、今季通",
-      "link": "https://news.yahoo.co.jp/articles/8773baf7b8df91b82f6f0c3752c8defd0110dfbd?source=rss",
-      "pubDate": "2026-08-02T10:51:33.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "buffaloes"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/8773baf7b8df91b82f6f0c3752c8defd0110dfbd?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【オリックス】苦手敵地で３カード連続負け越しで再び借金生活へ ３位と７ゲーム差に拡大(日刊スポーツ)",
-      "summary": "＜西武5－1オリックス＞◇1◇ベルーナドーム オリックスが敵地で連敗し、7月23日以来の借金生活に逆戻りした。3位、日本ハムとのゲーム差も7に拡大。Aクラス復帰へ暗雲が漂った。 先発した高島泰",
-      "link": "https://news.yahoo.co.jp/articles/acc8fe3bfce6b4e08a9d2b81731bedfff308438b?source=rss",
-      "pubDate": "2026-08-02T10:51:07.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "buffaloes"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/acc8fe3bfce6b4e08a9d2b81731bedfff308438b?source=rss"
         }
       ]
     }
