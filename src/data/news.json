@@ -1,7 +1,79 @@
 {
-  "generatedAt": "2026-08-18T22:09:26.255Z",
+  "generatedAt": "2026-08-18T22:46:04.736Z",
   "count": 4000,
   "items": [
+    {
+      "title": "逆方向なのにこの飛距離…巨人の”眠れる大砲”が豪快8号3ラン 打った瞬間の確信弾、この日5打点の大暴れ",
+      "summary": "読売ジャイアンツのリチャードは18日、ジャイアンツタウンスタジアムで行われたファーム・リーグのハヤテベンチャーズ静岡戦に「4番・三塁」で先発出場。6回に今季ファーム第8号となる3ラン本塁打を放った。",
+      "link": "https://www.baseballchannel.jp/npb/284276/",
+      "pubDate": "2026-08-18T22:20:13.000Z",
+      "source": "ベースボールチャンネル（プロ野球）",
+      "sourceId": "baseballchannel-npb",
+      "teams": [
+        "giants"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "ベースボールチャンネル（プロ野球）",
+          "sourceId": "baseballchannel-npb",
+          "link": "https://www.baseballchannel.jp/npb/284276/"
+        },
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/5e718e89c0766f172bfe03282d8e4a939ba4b4a2?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "最後は“大の字”に…中日の“忍者”が激走ランニング弾 2安打1盗塁で再昇格へアピール【ファーム】(ベースボールチャンネル)",
+      "summary": "中日ドラゴンズの田中幹也内野手は18日、ファーム交流戦のオイシックス新潟アルビレックスBC戦に「2番・二塁」でスタメン出場。4回にランニング本塁打を放った。 田中は初回の第1打席で四球を選んで出",
+      "link": "https://news.yahoo.co.jp/articles/36818485a32d830818a31d77b0032159f58a3f69?source=rss",
+      "pubDate": "2026-08-18T22:10:06.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "dragons"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/36818485a32d830818a31d77b0032159f58a3f69?source=rss"
+        },
+        {
+          "name": "ベースボールチャンネル（プロ野球）",
+          "sourceId": "baseballchannel-npb",
+          "link": "https://www.baseballchannel.jp/npb/284324/"
+        }
+      ]
+    },
+    {
+      "title": "飛び込んだ後がすごい…ソフトバンクの安打製造機が超美技 捕球直後に見せた“驚きの身のこなし”(ベースボールチャンネル)",
+      "summary": "福岡ソフトバンクホークスの近藤健介は18日、エスコンフィールドHOKKAIDOで行われた北海道日本ハムファイターズ戦に「3番・左翼」で先発出場。攻守にわたって存在感を発揮した。 ソフトバンクが5",
+      "link": "https://news.yahoo.co.jp/articles/52627a541791c66635c56d58f0d9f8f1ae493ae1?source=rss",
+      "pubDate": "2026-08-18T22:10:00.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "hawks"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/52627a541791c66635c56d58f0d9f8f1ae493ae1?source=rss"
+        },
+        {
+          "name": "ベースボールチャンネル（プロ野球）",
+          "sourceId": "baseballchannel-npb",
+          "link": "https://www.baseballchannel.jp/npb/284197/"
+        }
+      ]
+    },
     {
       "title": "巨人U15多摩川ボーイズ、三たび日本一逃す 元G戦士が送る“エール”「高1より一歩先を」(Full-Count)",
       "summary": "日本一へ、あと一歩が遠い。中学硬式野球の日本一を決める「第20回全日本中学野球選手権記念大会 ジャイアンツカップ」は17日、東京ドームで決勝戦が行われ、ボーイズリーグ代表の多摩川ボーイズ（ジャイアン",
@@ -59,11 +131,6 @@
           "name": "BASEBALL KING",
           "sourceId": "baseballking",
           "link": "https://baseballking.jp/ns/704745/"
-        },
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/62d515bcb1c94e5a2e7fb3a4c2282f80ddfe8062?source=rss"
         }
       ]
     },
@@ -83,11 +150,6 @@
           "name": "BASEBALL KING",
           "sourceId": "baseballking",
           "link": "https://baseballking.jp/ns/704742/"
-        },
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/077966b481d4f22a71cdd55e46e6f766d49146e2?source=rss"
         }
       ]
     },
@@ -107,11 +169,6 @@
           "name": "BASEBALL KING",
           "sourceId": "baseballking",
           "link": "https://baseballking.jp/ns/704726/"
-        },
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/0ef89fd014b6db9e35357dd0d0cce9c2e6ee2a1b?source=rss"
         }
       ]
     },
@@ -285,11 +342,6 @@
           "name": "ベースボールチャンネル（プロ野球）",
           "sourceId": "baseballchannel-npb",
           "link": "https://www.baseballchannel.jp/npb/284221/"
-        },
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/8fe5973369c489cb7fbec4d8d0224990eedc3d9a?source=rss"
         }
       ]
     },
@@ -77294,65 +77346,6 @@
           "name": "Yahoo!ニュース スポーツ",
           "sourceId": "yahoo-sports",
           "link": "https://news.yahoo.co.jp/articles/8e7a18f78613f716708b5832f3df054e706a5136?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【データ】工藤泰成が初セーブ 阪神の育成ドラフト出身選手がセーブを挙げたのは２人目(日刊スポーツ)",
-      "summary": "＜ヤクルト3－4阪神＞◇2日◇神宮 阪神が今季4度目の同一カード3連戦3連勝を飾った。前半戦を含めれば4連勝。貯金「13」は今季最多更新で、2位巨人に2ゲーム差をつけた。 ▼阪神工藤が初セーブ",
-      "link": "https://news.yahoo.co.jp/articles/7b58deb5b816ce0cbc9024da917350efad16ba07?source=rss",
-      "pubDate": "2026-08-02T14:22:09.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "tigers"
-      ],
-      "topics": [
-        "draft"
-      ],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/7b58deb5b816ce0cbc9024da917350efad16ba07?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "ヤクルト・荘司宏太「やっぱり1軍で投げないと意味がない」(サンケイスポーツ)",
-      "summary": "（セ・リーグ、ヤクルト－阪神、15回戦、2日、神宮）昨季の新人王がルーキーイヤーの輝きを取り戻すべく、必死に左腕を振っている。ヤクルトの2年目左腕、荘司宏太投手（26）が8月1日の阪神戦（神宮）で約2",
-      "link": "https://news.yahoo.co.jp/articles/1830c5e0f99b91950584a93636ce174251f9f008?source=rss",
-      "pubDate": "2026-08-02T14:00:00.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "swallows"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/1830c5e0f99b91950584a93636ce174251f9f008?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "ヤクルト・池山監督、9回痛恨被弾で3戦連続失点の守護神・キハダの起用法「これからまた相談します」(中日スポーツ)",
-      "summary": "◇2日 ヤクルト3―4阪神（神宮） ヤクルトはあっけない幕切れで4連敗を喫した。同点の9回に登板したキハダが先頭の坂本に決勝被弾。打線は2点ビハインドの4回に追いつき、直後の5回から4投手が無失点",
-      "link": "https://news.yahoo.co.jp/articles/ac9c58b45531c547b9d40e64df0dd8d95e1b05a2?source=rss",
-      "pubDate": "2026-08-02T13:53:28.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "swallows"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/ac9c58b45531c547b9d40e64df0dd8d95e1b05a2?source=rss"
         }
       ]
     }
