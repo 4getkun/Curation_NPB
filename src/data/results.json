@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-18T21:43:15.398Z",
+  "generatedAt": "2026-08-18T22:09:27.305Z",
   "teams": {
     "giants": [
       {
@@ -307,6 +307,21 @@
     ],
     "carp": [
       {
+        "gameNumber": 103,
+        "date": "8月18日",
+        "opponentTeamId": "dragons",
+        "opponentText": "中日",
+        "score": "11-4",
+        "ownScore": 11,
+        "opponentScore": 4,
+        "result": "win",
+        "winningPitcher": "岡本（7-6）",
+        "losingPitcher": "橋本（4-2）",
+        "savePitcher": "",
+        "venue": "マツダ",
+        "record": "41-58-4"
+      },
+      {
         "gameNumber": 102,
         "date": "8月16日",
         "opponentTeamId": "tigers",
@@ -440,21 +455,6 @@
         "savePitcher": "",
         "venue": "マツダ",
         "record": "38-52-4"
-      },
-      {
-        "gameNumber": 93,
-        "date": "8月4日",
-        "opponentTeamId": "giants",
-        "opponentText": "巨人",
-        "score": "4x-3",
-        "ownScore": 4,
-        "opponentScore": 3,
-        "result": "win",
-        "winningPitcher": "遠藤（3-2）",
-        "losingPitcher": "",
-        "savePitcher": "",
-        "venue": "マツダ",
-        "record": "38-51-4"
       }
     ],
     "baystars": [
@@ -739,7 +739,7 @@
         "ownScore": 0,
         "opponentScore": 5,
         "result": "loss",
-        "winningPitcher": "橋本（4-1）",
+        "winningPitcher": "",
         "losingPitcher": "清水（1-1）",
         "savePitcher": "",
         "venue": "バンテリンドーム",
@@ -762,6 +762,21 @@
       }
     ],
     "dragons": [
+      {
+        "gameNumber": 110,
+        "date": "8月18日",
+        "opponentTeamId": "carp",
+        "opponentText": "広島",
+        "score": "4-11",
+        "ownScore": 4,
+        "opponentScore": 11,
+        "result": "loss",
+        "winningPitcher": "岡本（7-6）",
+        "losingPitcher": "橋本（4-2）",
+        "savePitcher": "",
+        "venue": "マツダ",
+        "record": "46-63-1"
+      },
       {
         "gameNumber": 109,
         "date": "8月16日",
@@ -896,21 +911,6 @@
         "savePitcher": "松山（1-2-20）",
         "venue": "京セラD大阪",
         "record": "43-57-1"
-      },
-      {
-        "gameNumber": 100,
-        "date": "8月6日",
-        "opponentTeamId": "swallows",
-        "opponentText": "ヤクルト",
-        "score": "5-0",
-        "ownScore": 5,
-        "opponentScore": 0,
-        "result": "win",
-        "winningPitcher": "橋本（4-1）",
-        "losingPitcher": "清水（1-1）",
-        "savePitcher": "",
-        "venue": "バンテリンドーム",
-        "record": "42-57-1"
       }
     ],
     "hawks": [

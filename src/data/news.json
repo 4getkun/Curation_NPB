@@ -1,7 +1,96 @@
 {
-  "generatedAt": "2026-08-18T21:43:14.404Z",
+  "generatedAt": "2026-08-18T22:09:26.255Z",
   "count": 4000,
   "items": [
+    {
+      "title": "巨人U15多摩川ボーイズ、三たび日本一逃す 元G戦士が送る“エール”「高1より一歩先を」(Full-Count)",
+      "summary": "日本一へ、あと一歩が遠い。中学硬式野球の日本一を決める「第20回全日本中学野球選手権記念大会 ジャイアンツカップ」は17日、東京ドームで決勝戦が行われ、ボーイズリーグ代表の多摩川ボーイズ（ジャイアン",
+      "link": "https://news.yahoo.co.jp/articles/73ef4f1d94ed0b420ce914f9e311da7a413bc0d4?source=rss",
+      "pubDate": "2026-08-18T22:05:00.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "giants"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/73ef4f1d94ed0b420ce914f9e311da7a413bc0d4?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "獲得失敗だった！？中日、期待外れに終わったトレード戦士（1）70登板の左腕も…わずか2年で現役引退(ベースボールチャンネル)",
+      "summary": "プロ野球では、選手がトレードをきっかけに復活を遂げたり、新天地で才能を開花させたりするケースも少なくない。一方で、移籍後も本来の実力を発揮できず、期待された役割を果たせないままチームを離れた選手もい",
+      "link": "https://news.yahoo.co.jp/articles/c228278fc02d0c8d459504cd28ee1854c718f139?source=rss",
+      "pubDate": "2026-08-18T22:00:44.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "dragons"
+      ],
+      "topics": [
+        "trade",
+        "retirement"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/c228278fc02d0c8d459504cd28ee1854c718f139?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "広島・辰見鴻之介が快速で挑む珍記録 辻氏「思い切り警戒される中でスタートを切れる度胸」",
+      "summary": "広島が7回に一挙8得点を奪い、快勝を収めた。18日放送のCSフジテレビONE『プロ野球ニュース』では、代走の切り札として存在感を放つ辰見鴻之介の盗塁記録に注目が集まった。 この日、代走で途中出場した辰見は、きっちり盗 […]",
+      "link": "https://baseballking.jp/ns/704745/",
+      "pubDate": "2026-08-18T22:00:00.000Z",
+      "source": "BASEBALL KING",
+      "sourceId": "baseballking",
+      "teams": [
+        "carp"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "BASEBALL KING",
+          "sourceId": "baseballking",
+          "link": "https://baseballking.jp/ns/704745/"
+        },
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/62d515bcb1c94e5a2e7fb3a4c2282f80ddfe8062?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "DeNAルーキー・宮下朝陽が決めた！ 五十嵐氏が勝負強さを称賛「メンタルのコントロールが上手い」",
+      "summary": "DeNAが劇的サヨナラ。18日放送のCSフジテレビONE『プロ野球ニュース』では、そのサヨナラ打を放った宮下朝陽に注目が集まった。 同点の9回二死満塁。サヨナラの好機で打席に入った宮下は、高めに浮いたスライダーを冷静 […]",
+      "link": "https://baseballking.jp/ns/704742/",
+      "pubDate": "2026-08-18T21:50:00.000Z",
+      "source": "BASEBALL KING",
+      "sourceId": "baseballking",
+      "teams": [
+        "baystars"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "BASEBALL KING",
+          "sourceId": "baseballking",
+          "link": "https://baseballking.jp/ns/704742/"
+        },
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/077966b481d4f22a71cdd55e46e6f766d49146e2?source=rss"
+        }
+      ]
+    },
     {
       "title": "阪神、1点差の9回から劇的結末！ 佐藤輝明が打撃3部門でトップ浮上 五十嵐氏「これを捉える能力の高さ」",
       "summary": "阪神が土壇場の9回に試合をひっくり返し、劇的な勝利を収めた。18日放送のCSフジテレビONE『プロ野球ニュース』では、同点となる29号ソロを放ち、本塁打部門でトップタイに浮上した佐藤輝明について、五十嵐亮太氏が言及した […]",
@@ -48,8 +137,8 @@
       "summary": "＜DeNA4－3巨人＞◇18日◇横浜 DeNAドラフト3位の宮下朝陽内野手（22）がプロ初のサヨナラ打で試合を決めた。同点の9回2死満塁の好機で打席に向かった。 「ここで打ったら、ヒーローだ」",
       "link": "https://news.yahoo.co.jp/articles/63eea601dd9ee2936ff1214654d361bcf62ad5aa?source=rss",
       "pubDate": "2026-08-18T21:30:02.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
       "teams": [
         "baystars"
       ],
@@ -58,8 +147,8 @@
       ],
       "sources": [
         {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/63eea601dd9ee2936ff1214654d361bcf62ad5aa?source=rss"
         }
       ]
@@ -80,11 +169,6 @@
           "name": "BASEBALL KING",
           "sourceId": "baseballking",
           "link": "https://baseballking.jp/ns/704701/"
-        },
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/da0d678eac4c81e273ab01fbd16e0c407e1ca9f0?source=rss"
         }
       ]
     },
@@ -77269,82 +77353,6 @@
           "name": "Yahoo!ニュース スポーツ",
           "sourceId": "yahoo-sports",
           "link": "https://news.yahoo.co.jp/articles/ac9c58b45531c547b9d40e64df0dd8d95e1b05a2?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【ヤクルト】キハダ痛恨の決勝被弾で〝守護神〟剥奪か 池山監督「帰ってまた相談します」(東スポWEB)",
-      "summary": "ヤクルトは2日の阪神戦（神宮）に3―4で敗れ、同一カード3連敗。4位・DeNAに2ゲーム差まで肉薄され、借金は「6」に増えた。 「今後の起用は、これから帰ってまた相談します」と池山隆寛監督（60）",
-      "link": "https://news.yahoo.co.jp/articles/d57439ad4dc9dc4e45c7ef9e29c15085077efac5?source=rss",
-      "pubDate": "2026-08-02T13:50:25.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "swallows"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/d57439ad4dc9dc4e45c7ef9e29c15085077efac5?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【ヤクルト】池山監督「何とも言えないなあ」９回Ｖ弾献上キハダの今後の起用法「これから相談」(日刊スポーツ)",
-      "summary": "＜ヤクルト3－4阪神＞◇2日◇神宮 ヤクルトが後半戦再開後3連敗を喫し、借金は今季ワーストの6となった。3－3で迎えた9回、守護神のホセ・キハダ投手（30）が阪神坂本に痛恨の1発を浴びた。キハダは",
-      "link": "https://news.yahoo.co.jp/articles/12d7e686720279728c5000d2fa49932841d752cb?source=rss",
-      "pubDate": "2026-08-02T13:44:26.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "swallows"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/12d7e686720279728c5000d2fa49932841d752cb?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【広島】新井監督「彼とアキのおかげ」勝利の立役者に挙げたのは逆転弾の秋山翔吾と…／一問一答(日刊スポーツ)",
-      "summary": "＜広島4－3中日＞◇2日◇マツダスタジアム 広島が秋山の逆転3号2ランで中日に逆転勝利した。後半戦最初のカードを勝ち越し、5月9日以来の最下位転落を阻止した。 先発アドゥワは3回5安打2失点。",
-      "link": "https://news.yahoo.co.jp/articles/7258d621af56ac0cbbd53ceb87dbae3787221d0f?source=rss",
-      "pubDate": "2026-08-02T13:43:59.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "carp"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/7258d621af56ac0cbbd53ceb87dbae3787221d0f?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "阪神 藤川監督「まだ始まったばかり」3連投の木下、工藤については多くを語らず 2失策の前川にも言及(スポニチアネックス)",
-      "summary": "◇セ・リーグ 阪神4―3ヤクルト（2026年8月2日 神宮） 阪神がヤクルトに競り勝った。 3-3の9回に先頭・坂本のこの日2本目となる左翼越えソロで、勝ち越しに成功。9回は工藤が締めてプロ",
-      "link": "https://news.yahoo.co.jp/articles/ded82e2abf75b58793c375af6e7a0348a8a93af9?source=rss",
-      "pubDate": "2026-08-02T13:38:33.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "tigers"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/ded82e2abf75b58793c375af6e7a0348a8a93af9?source=rss"
         }
       ]
     }
