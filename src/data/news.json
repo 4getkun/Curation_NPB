@@ -1,7 +1,88 @@
 {
-  "generatedAt": "2026-08-18T02:49:28.394Z",
+  "generatedAt": "2026-08-18T03:33:51.333Z",
   "count": 4000,
   "items": [
+    {
+      "title": "西武23歳は「全部にヒットを打てる」 谷繁元信氏が絶賛…称えた打撃技術「嫌ですね」",
+      "summary": "パーソル パ・リーグTV公式YouTubeチャンネルの「月曜日もパテレ行き」が17日に公開され、ゲストに谷繁元信氏、銀次氏が出演。谷繁氏が選ぶパ・リーグの現役最強打者のひとりに、西武・滝澤夏央内野手の名前を挙げた。",
+      "link": "https://full-count.jp/2026/08/18/post2004849/",
+      "pubDate": "2026-08-18T03:18:00.000Z",
+      "source": "Full-Count（プロ野球）",
+      "sourceId": "full-count-npb",
+      "teams": [
+        "lions"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Full-Count（プロ野球）",
+          "sourceId": "full-count-npb",
+          "link": "https://full-count.jp/2026/08/18/post2004849/"
+        },
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/954a347aee50dbcd5dee331c8174c323c32603a3?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "今季初めてスタメン捕手「噛みしめながらダイヤモンド１周した」郡司裕也選手のヒーローインタビュー(STVニュース北海道)",
+      "summary": "１週間のヒーローインタビューを振り返る「ピックアップヒーローズ」。 きょうは今シーズン初めてスタメンで捕手を務めたファイターズ、この選手のインタビューです。 （郡司裕也選手）「きょうはあまりバッテ",
+      "link": "https://news.yahoo.co.jp/articles/13a1c3e65dcf05a0eefa01d47f87ad4504742812?source=rss",
+      "pubDate": "2026-08-18T03:15:00.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "fighters"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/13a1c3e65dcf05a0eefa01d47f87ad4504742812?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【巨人】実は夏男！？佐々木俊輔が８月出塁率．４３５ 今年も夏場以降に好調 １６日は１か月ぶり２番で３出塁(スポーツ報知)",
+      "summary": "◆ＪＥＲＡセ・リーグ ＤｅＮＡ―巨人（１８日・横浜） 巨人が真夏の４週連続６連戦の３週目を迎えた。佐々木俊輔外野手は今月ここまで打率２割９分７厘、出塁率４割３分５厘と好成績を残している。 今月",
+      "link": "https://news.yahoo.co.jp/articles/a27e468beff6f201afa7c492c1d07e08577be516?source=rss",
+      "pubDate": "2026-08-18T03:14:01.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "giants"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/a27e468beff6f201afa7c492c1d07e08577be516?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "楽天に必要な「ドロドロになるまで」 現状打破へ…OB銀次氏がエール「もっと戦う目を」",
+      "summary": "パーソル パ・リーグTV公式YouTubeチャンネルの「月曜日もパテレ行き」が17日に公開された。ゲストに谷繁元信氏、銀次氏が出演し、楽天にエールを送った。",
+      "link": "https://full-count.jp/2026/08/18/post2004838/",
+      "pubDate": "2026-08-18T03:00:46.000Z",
+      "source": "Full-Count（プロ野球）",
+      "sourceId": "full-count-npb",
+      "teams": [
+        "eagles"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Full-Count（プロ野球）",
+          "sourceId": "full-count-npb",
+          "link": "https://full-count.jp/2026/08/18/post2004838/"
+        }
+      ]
+    },
     {
       "title": "【阪神】今朝丸裕喜が１軍合流 プロ初先発以来となる１軍マウンドへ 高橋遥人、才木浩人、大竹耕太郎が抹消される中、若虎の活躍に注目(スポーツ報知)",
       "summary": "阪神・今朝丸裕喜投手が１８日、１軍に合流した。 ７月１５日の中日戦（バンテリン）でプロ初先発を果たしたが、４回６安打４失点と課題が残る結果に。その後は２軍戦で３試合に先発し、０勝２敗。８月１４日",
@@ -77229,84 +77310,6 @@
           "name": "日刊スポーツ（Yahoo!ニュース経由）",
           "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/08d41d6f8c2ed0164828f309098fa69ca5b13ea1?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【阪神】1軍復帰へ視界良好！前川右京が復帰2戦目でソロアーチ ファームで4番左翼スタメン(日刊スポーツ)",
-      "summary": "＜ファーム・リーグ西地区：阪神－広島＞◇1日◇日鉄鋼板SGLスタジアム尼崎 「右肩甲骨骨折」からの復活を目指す阪神前川右京外野手（23）が復帰後初アーチを放った。3回の第2打席、1ストライクからの",
-      "link": "https://news.yahoo.co.jp/articles/2e3c5e36604ca47b9184160a617ae0b90971bbf2?source=rss",
-      "pubDate": "2026-08-01T10:38:24.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "tigers"
-      ],
-      "topics": [
-        "injury"
-      ],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/2e3c5e36604ca47b9184160a617ae0b90971bbf2?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【巨人】すしレースでMCが大間違い？ タマゴとウニを間違えるアクシデントも勝ったのは…(日刊スポーツ)",
-      "summary": "＜巨人－DeNA＞◇1日◇東京ドーム 大間違い？ 東京ドームの人気イニング間イベント「すしレース」が行われた。混戦のレース展開に、スタジアムMCの高橋大輔氏も混乱した。 好スタートを切ったのは",
-      "link": "https://news.yahoo.co.jp/articles/a84786b9856d2ef4964d931ab33d89af06b34d90?source=rss",
-      "pubDate": "2026-08-01T10:29:44.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "giants"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/a84786b9856d2ef4964d931ab33d89af06b34d90?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【DeNA】牧秀悟が17号ソロで追加点「しっかり捉えることができ」３回終了時点で大量８点リード(日刊スポーツ)",
-      "summary": "＜巨人－DeNA＞◇1日◇東京ドーム DeNA牧秀悟内野手（28）が17号ソロで追加点を挙げた。 4点リードの3回先頭で巨人竹丸のシンカーをすくい上げ、左翼席に運んだ。「しっかり捉えることがで",
-      "link": "https://news.yahoo.co.jp/articles/ce2e7cffd77dae4e3a92dd0c342ce9aa6256265c?source=rss",
-      "pubDate": "2026-08-01T10:27:50.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "baystars"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/ce2e7cffd77dae4e3a92dd0c342ce9aa6256265c?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【ロッテ】新外国人ルケーシー２軍で来日初登板、４回１失点「次は上かなと」サブロー監督(日刊スポーツ)",
-      "summary": "＜ファーム・リーグ東地区：ヤクルト4－3ロッテ＞◇1日◇戸田 ロッテ新外国人のジョーイ・ルケーシー投手（33）が2軍で来日初登板した。ファーム・リーグヤクルト戦（戸田）で先発し4回2安打1失点。",
-      "link": "https://news.yahoo.co.jp/articles/024345a8b443ebdb18439bc66d0f31d909f1b9f1?source=rss",
-      "pubDate": "2026-08-01T10:13:52.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "marines"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/024345a8b443ebdb18439bc66d0f31d909f1b9f1?source=rss"
         }
       ]
     }
