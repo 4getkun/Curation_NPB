@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-18T07:59:03.866Z",
+  "generatedAt": "2026-08-18T08:33:22.659Z",
   "teams": {
     "giants": [
       {
@@ -915,6 +915,21 @@
     ],
     "hawks": [
       {
+        "gameNumber": 108,
+        "date": "8月18日",
+        "opponentTeamId": "fighters",
+        "opponentText": "日本ハム",
+        "score": "7-1",
+        "ownScore": 7,
+        "opponentScore": 1,
+        "result": "win",
+        "winningPitcher": "モイネロ（2-0）",
+        "losingPitcher": "伊藤（8-8）",
+        "savePitcher": "",
+        "venue": "エスコンF",
+        "record": "68-39-1"
+      },
+      {
         "gameNumber": 107,
         "date": "8月16日",
         "opponentTeamId": "eagles",
@@ -1048,21 +1063,6 @@
         "savePitcher": "杉山（1-2-24）",
         "venue": "ベルーナドーム",
         "record": "63-35-1"
-      },
-      {
-        "gameNumber": 98,
-        "date": "8月6日",
-        "opponentTeamId": "fighters",
-        "opponentText": "日本ハム",
-        "score": "2-6",
-        "ownScore": 2,
-        "opponentScore": 6,
-        "result": "loss",
-        "winningPitcher": "堀（3-0）",
-        "losingPitcher": "オスナ（1-2）",
-        "savePitcher": "",
-        "venue": "みずほPayPay",
-        "record": "62-35-1"
       }
     ],
     "lions": [
@@ -1675,6 +1675,21 @@
     ],
     "fighters": [
       {
+        "gameNumber": 112,
+        "date": "8月18日",
+        "opponentTeamId": "hawks",
+        "opponentText": "ソフトバンク",
+        "score": "1-7",
+        "ownScore": 1,
+        "opponentScore": 7,
+        "result": "loss",
+        "winningPitcher": "モイネロ（2-0）",
+        "losingPitcher": "伊藤（8-8）",
+        "savePitcher": "",
+        "venue": "エスコンF",
+        "record": "62-50-0"
+      },
+      {
         "gameNumber": 111,
         "date": "8月16日",
         "opponentTeamId": "buffaloes",
@@ -1808,21 +1823,6 @@
         "savePitcher": "",
         "venue": "エスコンF",
         "record": "58-45-0"
-      },
-      {
-        "gameNumber": 102,
-        "date": "8月6日",
-        "opponentTeamId": "hawks",
-        "opponentText": "ソフトバンク",
-        "score": "6-2",
-        "ownScore": 6,
-        "opponentScore": 2,
-        "result": "win",
-        "winningPitcher": "堀（3-0）",
-        "losingPitcher": "オスナ（1-2）",
-        "savePitcher": "",
-        "venue": "みずほPayPay",
-        "record": "57-45-0"
       }
     ]
   }
