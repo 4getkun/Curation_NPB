@@ -1,7 +1,26 @@
 {
-  "generatedAt": "2026-08-19T05:25:12.409Z",
+  "generatedAt": "2026-08-19T05:52:36.957Z",
   "count": 4000,
   "items": [
+    {
+      "title": "ソフトバンク周東佑京、2シーズンぶり規定打席到達 「すごく大事な1年になる」有言実行の5年契約1年目 5度目盗塁王にもまっしぐら(西スポWEB OTTO!)",
+      "summary": "◆日本ハム―ソフトバンク（19日、エスコンフィールド北海道） ソフトバンクの周東佑京が2シーズンぶり、自身2度目の規定打席（443打席）に到達した。初回に右前打、今季443打席目となる3回の第2",
+      "link": "https://news.yahoo.co.jp/articles/85224fc15db569166612e812e0f89114c440346f?source=rss",
+      "pubDate": "2026-08-19T05:50:28.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "hawks"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/85224fc15db569166612e812e0f89114c440346f?source=rss"
+        }
+      ]
+    },
     {
       "title": "ロッテ ZOZOマリン＆ベルクで「小島のローストビーフ丼風味スナック」販売(スポニチアネックス)",
       "summary": "千葉ロッテマリーンズは19日、ZOZOマリンスタジアムで販売している小島和哉投手（30）のコラボグルメ「小島のローストビーフ丼」について、スーパーマーケットチェーンの株式会社ベルク協力のもと「小島の",
@@ -94,11 +113,6 @@
           "name": "ベースボールチャンネル（プロ野球）",
           "sourceId": "baseballchannel-npb",
           "link": "https://www.baseballchannel.jp/npb/284414/"
-        },
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/c212725d28fe77246e4c36debe95995c2ba405e2?source=rss"
         }
       ]
     },
@@ -77338,25 +77352,6 @@
           "name": "ベースボールチャンネル（プロ野球）",
           "sourceId": "baseballchannel-npb",
           "link": "https://www.baseballchannel.jp/npb/278911/"
-        }
-      ]
-    },
-    {
-      "title": "芝生席へ一直線…巨人の“21歳大砲”が豪快な先制3ラン ファーム第6号で一軍再昇格へ猛アピール",
-      "summary": "読売ジャイアンツのティマは2日、ヨークいわきスタジアムで行われたファーム交流戦10回戦・東北楽天ゴールデンイーグルス戦に「5番・指名打者」で先発出場。初回に今季ファーム第6号となる先制3ラン本塁打を放った。",
-      "link": "https://www.baseballchannel.jp/npb/278889/",
-      "pubDate": "2026-08-02T22:15:31.000Z",
-      "source": "ベースボールチャンネル（プロ野球）",
-      "sourceId": "baseballchannel-npb",
-      "teams": [
-        "giants"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "ベースボールチャンネル（プロ野球）",
-          "sourceId": "baseballchannel-npb",
-          "link": "https://www.baseballchannel.jp/npb/278889/"
         }
       ]
     }
