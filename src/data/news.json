@@ -1,7 +1,125 @@
 {
-  "generatedAt": "2026-08-19T03:38:56.678Z",
+  "generatedAt": "2026-08-19T04:24:37.076Z",
   "count": 4000,
   "items": [
+    {
+      "title": "【ヤフコメで話題】「宮下選手の遊撃手定着に期待」「若手の継続的成長が課題」 - ベイスターズのショート問題と育成方針に注目(Yahoo!ニュース オリジナル THE PAGE)",
+      "summary": "ベイスターズの遊撃手（ショート）問題と宮下選手の起用について、Yahoo!ニュースのコメント欄で話題になっています。 コメントでは、長年課題とされてきた遊撃手のポジションに宮下選手が定着しつつあること",
+      "link": "https://news.yahoo.co.jp/articles/82314d224ce3728fc4e728041b41577808a8e7f1?source=rss",
+      "pubDate": "2026-08-19T04:22:19.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "baystars"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/82314d224ce3728fc4e728041b41577808a8e7f1?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【巨人】阪神との３差は今季セ・リーグ首位と２位の最大差 残り３５試合、逆転Ｖへ踏ん張りどころ(スポーツ報知)",
+      "summary": "◆ＪＥＲＡセ・リーグ ＤｅＮＡ―巨人（１９日・横浜） 巨人は１９日、ＤｅＮＡとの３連戦２戦目に臨む。 １８日の同初戦は９回サヨナラ負け。首位・阪神がヤクルトにサヨナラ勝ちしたため、２位・巨人",
+      "link": "https://news.yahoo.co.jp/articles/cedb5db386a1f5f7bcfa5a44c0e67e25132ee39d?source=rss",
+      "pubDate": "2026-08-19T04:13:02.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "giants",
+        "tigers"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/cedb5db386a1f5f7bcfa5a44c0e67e25132ee39d?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【ハヤテ】元中日の石川翔が退院を報告 脊髄梗塞の後遺症明かす「部分麻痺や排泄機能障害が残っています」(スポーツ報知)",
+      "summary": "５月に「脊髄梗塞（こうそく）」を公表した、プロ野球ファーム・リーグのハヤテベンチャース静岡に所属する元中日・石川翔投手が、退院したことを報告した。１９日に自身のインスタグラムを更新し「今も部分麻痺や",
+      "link": "https://news.yahoo.co.jp/articles/6c698d64d397808a495705c96017fe431105067c?source=rss",
+      "pubDate": "2026-08-19T04:10:37.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "dragons"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/6c698d64d397808a495705c96017fe431105067c?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【巨人】浦田俊輔、リーグ８年ぶりの「３割＆３０盗塁」達成なるか… ５月以降は４か月連続で打率３割超え(スポーツ報知)",
+      "summary": "巨人の浦田俊輔内野手（２３）は１８日までに出場９６試合で打率２割８分７厘、３１盗塁をマークしている。 「打率３割、３０盗塁」を達成すれば、セ・リーグでは２０１８年のヤクルト・山田哲人（打率３割１",
+      "link": "https://news.yahoo.co.jp/articles/9bd258f438d447350e63a84ff1207a5103ede25a?source=rss",
+      "pubDate": "2026-08-19T04:08:46.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "giants"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/9bd258f438d447350e63a84ff1207a5103ede25a?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【阪神】ドラ２谷端将伍が初の１軍合流、負傷した中野拓夢のバックアップ要員か(日刊スポーツ)",
+      "summary": "＜阪神－ヤクルト＞◇19日◇京セラドーム大阪 阪神谷端将伍内野手（22）が初めて1軍に合流した。 ドラフト2位ルーキーは春季キャンプで新人ではただ1人、主力組の宜野座キャンプで過ごした。ファー",
+      "link": "https://news.yahoo.co.jp/articles/b4dcad313b8be12f96768a28186d94411eb71bad?source=rss",
+      "pubDate": "2026-08-19T04:06:25.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "tigers"
+      ],
+      "topics": [
+        "injury",
+        "draft"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/b4dcad313b8be12f96768a28186d94411eb71bad?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【阪神】劇的サヨナラ勝ち導く「及川、湯浅、桐敷。いい継投。素晴らしい活躍」藤川監督ねぎらう(日刊スポーツ)",
+      "summary": "＜阪神－ヤクルト＞◇19日◇京セラドーム大阪 ホームラン2発の劇的な勝利の裏で、リリーフの踏ん張りも光った。 首位の阪神は18日のヤクルト戦で、今季5度目のサヨナラ勝ち。1点を追う9回、1死か",
+      "link": "https://news.yahoo.co.jp/articles/e4f901086f372c6b7c223dbc6aea5dc28494d160?source=rss",
+      "pubDate": "2026-08-19T03:57:17.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "tigers"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/e4f901086f372c6b7c223dbc6aea5dc28494d160?source=rss"
+        }
+      ]
+    },
     {
       "title": "阪神・中野拓夢が球場入り 前日18日に負傷交代で試合中に病院受診(サンケイスポーツ)",
       "summary": "（セ・リーグ、阪神－ヤクルト、17回戦、19日、京セラ）阪神・中野拓夢内野手（30）がヤクルト戦が行われる京セラドームに姿を見せた。前日18日の同戦で左足を負傷し、四回の守備から途中交代。試合中に病院",
@@ -77233,121 +77351,6 @@
           "name": "BASEBALL KING",
           "sourceId": "baseballking",
           "link": "https://baseballking.jp/ns/703098/"
-        }
-      ]
-    },
-    {
-      "title": "阪神・坂本誠志郎、2戦連発＆1試合2発の衝撃 大矢氏絶賛「キャッチャーがこれだけ打てたら」",
-      "summary": "阪神がヤクルトに4－3で勝利。2日放送のCSフジテレビONE『プロ野球ニュース』では、1試合2本塁打をマークした阪神・坂本誠志郎に注目が集まった。 4回に追加点となる一発を放つと、同点で迎えた9回には決勝弾をレフトス […]",
-      "link": "https://baseballking.jp/ns/703080/",
-      "pubDate": "2026-08-02T21:40:00.000Z",
-      "source": "BASEBALL KING",
-      "sourceId": "baseballking",
-      "teams": [
-        "tigers",
-        "swallows"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "BASEBALL KING",
-          "sourceId": "baseballking",
-          "link": "https://baseballking.jp/ns/703080/"
-        }
-      ]
-    },
-    {
-      "title": "西武、ウィンゲンターがNPBタイ記録の18試合連続ホールド 岩本氏「彼の存在は今の順位の原動力の一つ」",
-      "summary": "◆ 齊藤氏も評価「打者をよく見て投げているなと」 西武のウィンゲンターが2日、オリックス戦で8回を無失点で抑え、リーグ新記録・NPBタイ記録となる18試合連続ホールドを記録した。 2日放送のフジテレビONE『プロ野球 […]",
-      "link": "https://baseballking.jp/ns/703060/",
-      "pubDate": "2026-08-02T21:20:00.000Z",
-      "source": "BASEBALL KING",
-      "sourceId": "baseballking",
-      "teams": [
-        "lions"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "BASEBALL KING",
-          "sourceId": "baseballking",
-          "link": "https://baseballking.jp/ns/703060/"
-        }
-      ]
-    },
-    {
-      "title": "子どもの頃はＧ党のＤｅＮＡ右腕、憧れ坂本との顔合わせ実現せずも「楽しかった」プロ初勝利から３連勝 深沢鳳介「自信ついてきた」(スポーツ報知)",
-      "summary": "◆ＪＥＲＡセ・リーグ 巨人１―２ＤｅＮＡ（２日・東京ドーム） プロ初勝利から３連勝。ＤｅＮＡの深沢が結果を積み重ねた。１点ビハインド４回２死一、三塁。石塚を内角高めの１４２キロで見逃し三振に仕留め",
-      "link": "https://news.yahoo.co.jp/articles/b892e5e17ce52bcd22e9c9b8b8cf9192aed94580?source=rss",
-      "pubDate": "2026-08-02T21:10:07.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "baystars"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/b892e5e17ce52bcd22e9c9b8b8cf9192aed94580?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "「新庄体制」終焉なら“流出”がささやかれる日本ハム“2人の主力選手” 投打の柱の去就は？ オーナーも「来季監督は白紙」と明言し…(デイリー新潮)",
-      "summary": "後半戦がスタートし、パ・リーグは首位を快走するソフトバンクをどの球団が追い上げるかが注目される。その筆頭候補とされるのが日本ハムだ。8月2日時点で貯金13の3位につけ、6.5ゲーム差で追いかける。一",
-      "link": "https://news.yahoo.co.jp/articles/1746708cccdc192e8b5093361f7ea0c100293982?source=rss",
-      "pubDate": "2026-08-02T21:06:03.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "fighters"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/1746708cccdc192e8b5093361f7ea0c100293982?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "「相性いい」巨人・平山が２軍復帰後初安打となるタイムリー…１軍で先頭打者弾放った球場で「状態上げていきたい」(スポーツ報知)",
-      "summary": "◆ファーム・リーグ 巨人５―１楽天（２日・ヨークいわきスタジアム） 巨人の平山功太内野手（２２）が２日、ファーム・リーグの楽天戦（いわき）に「１番・右翼」で先発出場し、第４打席で２軍復帰後初安打、",
-      "link": "https://news.yahoo.co.jp/articles/b79d8d5fcd37c08b9062592c0fc5fef08a807b8e?source=rss",
-      "pubDate": "2026-08-02T21:05:08.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "giants"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/b79d8d5fcd37c08b9062592c0fc5fef08a807b8e?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "次は８０球台「アリックス」を…今季初完封の日本ハム・有原航平、復調を支えた動作解析システム(スポーツ報知)",
-      "summary": "◆パ・リーグ 日本ハム３―０ロッテ（２日・エスコンフィールド） 日本ハム・有原航平投手（３３）が最後までマウンドを守り抜いた。９回１００球、３安打無四球で、昨季７月１日の日本ハム戦（東京Ｄ）以来、",
-      "link": "https://news.yahoo.co.jp/articles/ff7132b9cf83acc322be6715ac8df8b2faf72b28?source=rss",
-      "pubDate": "2026-08-02T21:00:13.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "fighters"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/ff7132b9cf83acc322be6715ac8df8b2faf72b28?source=rss"
         }
       ]
     }
