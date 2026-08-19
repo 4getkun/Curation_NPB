@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-19T17:46:32.998Z",
+  "generatedAt": "2026-08-19T18:15:05.488Z",
   "count": 4000,
   "items": [
     {
@@ -432,8 +432,8 @@
       "summary": "＜阪神2－1ヤクルト＞◇19日◇京セラドーム大阪 阪神が2日続けてサヨナラ勝利を収めたのは、チームが結束し、ここから勢いがつくことを予感させた。俗に言う“一丸”で戦っているという印象を受けたからだ",
       "link": "https://news.yahoo.co.jp/articles/2c6afe9e491779716171a4d1e1c3d9c0e0857001?source=rss",
       "pubDate": "2026-08-19T14:26:57.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
       "teams": [
         "tigers",
         "swallows"
@@ -441,8 +441,8 @@
       "topics": [],
       "sources": [
         {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/2c6afe9e491779716171a4d1e1c3d9c0e0857001?source=rss"
         }
       ]
