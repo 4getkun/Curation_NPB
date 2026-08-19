@@ -1,7 +1,66 @@
 {
-  "generatedAt": "2026-08-19T04:24:37.076Z",
+  "generatedAt": "2026-08-19T04:58:30.915Z",
   "count": 4000,
   "items": [
+    {
+      "title": "【西武】長谷川信哉が３軍戦で実戦復帰 第１打席から中前適時打放ち順調ぶりアピール(日刊スポーツ)",
+      "summary": "左有鉤（ゆうこう）骨骨折で離脱中の西武長谷川信哉外野手（24）が19日、3軍練習試合の立正大戦（カーミニークフィールド）で実戦復帰を果たした。 「3番一塁」でスタメン出場。第1打席で中前適時打を",
+      "link": "https://news.yahoo.co.jp/articles/a7666d964ac9b230ffdd333463a26061ad305c59?source=rss",
+      "pubDate": "2026-08-19T04:36:47.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "lions"
+      ],
+      "topics": [
+        "injury"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/a7666d964ac9b230ffdd333463a26061ad305c59?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "ソフトバンク、廣瀨隆太が「8番一塁」 先発は8勝目を狙う上沢直之 敵地で日本ハム戦(西スポWEB OTTO!)",
+      "summary": "◆日本ハム―ソフトバンク（19日、エスコンフィールド北海道） 優勝マジック「27」が点灯しているソフトバンクは3位日本ハムと対戦する。 18日の日本ハム戦（エスコンフィールド）で自己最多の20",
+      "link": "https://news.yahoo.co.jp/articles/9c6abf223ec14e42530960901f23b9aea87ab12f?source=rss",
+      "pubDate": "2026-08-19T04:35:02.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "hawks"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/9c6abf223ec14e42530960901f23b9aea87ab12f?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【巨人】チーム２冠王・ダルベックの「修正力」に期待…過去３０試合以上「２戦連続無安打」なし(スポーツ報知)",
+      "summary": "◆ＪＥＲＡセ・リーグ ＤｅＮＡ―巨人（１９日・横浜） 巨人のボビー・ダルベック内野手（３１）は１８日のＤｅＮＡ戦（横浜）に「４番・一塁」で出場も４打数無安打、４三振。チームも３―４でサヨナラ負けを",
+      "link": "https://news.yahoo.co.jp/articles/26e84beedde72f598a3ad96fee4a72497f98c03e?source=rss",
+      "pubDate": "2026-08-19T04:32:35.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "giants"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/26e84beedde72f598a3ad96fee4a72497f98c03e?source=rss"
+        }
+      ]
+    },
     {
       "title": "【ヤフコメで話題】「宮下選手の遊撃手定着に期待」「若手の継続的成長が課題」 - ベイスターズのショート問題と育成方針に注目(Yahoo!ニュース オリジナル THE PAGE)",
       "summary": "ベイスターズの遊撃手（ショート）問題と宮下選手の起用について、Yahoo!ニュースのコメント欄で話題になっています。 コメントでは、長年課題とされてきた遊撃手のポジションに宮下選手が定着しつつあること",
@@ -84,8 +143,8 @@
       "summary": "＜阪神－ヤクルト＞◇19日◇京セラドーム大阪 阪神谷端将伍内野手（22）が初めて1軍に合流した。 ドラフト2位ルーキーは春季キャンプで新人ではただ1人、主力組の宜野座キャンプで過ごした。ファー",
       "link": "https://news.yahoo.co.jp/articles/b4dcad313b8be12f96768a28186d94411eb71bad?source=rss",
       "pubDate": "2026-08-19T04:06:25.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
       "teams": [
         "tigers"
       ],
@@ -95,8 +154,8 @@
       ],
       "sources": [
         {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/b4dcad313b8be12f96768a28186d94411eb71bad?source=rss"
         }
       ]
@@ -106,16 +165,16 @@
       "summary": "＜阪神－ヤクルト＞◇19日◇京セラドーム大阪 ホームラン2発の劇的な勝利の裏で、リリーフの踏ん張りも光った。 首位の阪神は18日のヤクルト戦で、今季5度目のサヨナラ勝ち。1点を追う9回、1死か",
       "link": "https://news.yahoo.co.jp/articles/e4f901086f372c6b7c223dbc6aea5dc28494d160?source=rss",
       "pubDate": "2026-08-19T03:57:17.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
       "teams": [
         "tigers"
       ],
       "topics": [],
       "sources": [
         {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/e4f901086f372c6b7c223dbc6aea5dc28494d160?source=rss"
         }
       ]
@@ -77294,63 +77353,6 @@
           "name": "BASEBALL KING",
           "sourceId": "baseballking",
           "link": "https://baseballking.jp/ns/703088/"
-        }
-      ]
-    },
-    {
-      "title": "過酷な登板続いた「使い捨て」の日々 長嶋一茂に被弾で大目玉「誰に打たれているんだ！」",
-      "summary": "過酷なフル回転だった。元中日左腕の米村明氏はプロ4年目（1988年）に7勝を挙げてリーグ優勝に貢献した。先発でもリリーフでも投げた。武器のパームボール多投が要因で左肘痛に苦しみながら、登板に関わらず、毎日ブルペンで準備していたという。「僕と…",
-      "link": "https://full-count.jp/2026/08/03/post1998366/",
-      "pubDate": "2026-08-02T21:50:00.000Z",
-      "source": "Full-Count（プロ野球）",
-      "sourceId": "full-count-npb",
-      "teams": [
-        "dragons"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Full-Count（プロ野球）",
-          "sourceId": "full-count-npb",
-          "link": "https://full-count.jp/2026/08/03/post1998366/"
-        }
-      ]
-    },
-    {
-      "title": "阪神・工藤泰成、今季の飛躍を象徴するプロ初セーブ この起用に大矢氏「若い投手を登用して勢いが生まれている」",
-      "summary": "阪神の工藤泰成が1点リードの9回に登板し、無失点で締めてプロ初セーブを挙げた。2日放送のCSフジテレビONE『プロ野球ニュース』では、その堂々たる投球を解説陣が称賛した。 打者2人を内野ゴロに打ち取ると、最後は塩見泰 […]",
-      "link": "https://baseballking.jp/ns/703082/",
-      "pubDate": "2026-08-02T21:50:00.000Z",
-      "source": "BASEBALL KING",
-      "sourceId": "baseballking",
-      "teams": [
-        "tigers"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "BASEBALL KING",
-          "sourceId": "baseballking",
-          "link": "https://baseballking.jp/ns/703082/"
-        }
-      ]
-    },
-    {
-      "title": "【舞洲Heroes】オリックス・堀柊那、打撃向上し「1軍で先発マスクを被りたい」",
-      "summary": "オリックスの高卒3年目の堀柊那捕手が、1年ぶりの1軍での先発マスクを目標に、課題の打撃を磨いている。 「（1軍の）残り試合も50を切りましたから、今年もスタメンで使ってもらえるようにアピールをしたいですね」。いつも笑 […]",
-      "link": "https://baseballking.jp/ns/703098/",
-      "pubDate": "2026-08-02T21:40:00.000Z",
-      "source": "BASEBALL KING",
-      "sourceId": "baseballking",
-      "teams": [
-        "buffaloes"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "BASEBALL KING",
-          "sourceId": "baseballking",
-          "link": "https://baseballking.jp/ns/703098/"
         }
       ]
     }
