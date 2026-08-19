@@ -1,7 +1,27 @@
 {
-  "generatedAt": "2026-08-19T19:21:56.634Z",
+  "generatedAt": "2026-08-19T19:45:58.034Z",
   "count": 4000,
   "items": [
+    {
+      "title": "三冠王・佐藤輝明、米国から注がれ続ける熱視線 9回同点弾に米識者「スーパースターだ」(THE ANSWER)",
+      "summary": "プロ野球・阪神は18日、京セラドーム大阪でヤクルトと対戦し、3-2で勝利した。1点を追う9回に、佐藤輝明内野手が同点ソロ、大山悠輔内野手がサヨナラソロを2者連続で叩き込む劇的な幕切れ。土壇場で試合を",
+      "link": "https://news.yahoo.co.jp/articles/eaec55040042a01caf1b6e729c7eae66fa2c20e7?source=rss",
+      "pubDate": "2026-08-19T19:43:00.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "tigers",
+        "swallows"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/eaec55040042a01caf1b6e729c7eae66fa2c20e7?source=rss"
+        }
+      ]
+    },
     {
       "title": "【オリックス】完全復活へ！ドラフト１位の新人・藤川敦也が右肘トミー・ジョン手術…６月１９日を最後に登板なし 将来のエース候補が大きな決断(スポーツ報知)",
       "summary": "オリックス・藤川敦也投手（１８）が右肘のトミー・ジョン手術を受けたことが１９日、分かった。６月１９日に行われたファーム・リーグの阪神戦（杉本商事ＢＳ）を最後に実戦を離れ、右肘の不調を発症。球団側と話",
@@ -339,16 +359,16 @@
       "summary": "＜楽天5－2ロッテ＞◇19日◇楽天モバイル最強パーク 楽天吉井理人監督（61）がユーモアを交えながら打者陣をたたえた。 吉井監督は先制の1号2ランを放った堀内謙伍捕手（29）に対して「あれはま",
       "link": "https://news.yahoo.co.jp/articles/1ac4eca58f3d976515e5d48673692e33e6db4fb7?source=rss",
       "pubDate": "2026-08-19T14:43:17.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
       "teams": [
         "eagles"
       ],
       "topics": [],
       "sources": [
         {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/1ac4eca58f3d976515e5d48673692e33e6db4fb7?source=rss"
         }
       ]
@@ -358,8 +378,8 @@
       "summary": "＜阪神2－1ヤクルト＞◇19日◇京セラドーム大阪 阪神ドラフト2位ルーキー谷端将伍内野手（22＝日大）がプロ初昇格初スタメンで1軍デビューを果たした。 「7番二塁」で先発。2回1死一塁でプロ初",
       "link": "https://news.yahoo.co.jp/articles/25eba6da7e1742cb8e88e3e3456d5d7062be2de8?source=rss",
       "pubDate": "2026-08-19T14:42:27.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
       "teams": [
         "tigers"
       ],
@@ -368,8 +388,8 @@
       ],
       "sources": [
         {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/25eba6da7e1742cb8e88e3e3456d5d7062be2de8?source=rss"
         }
       ]
@@ -379,8 +399,8 @@
       "summary": "＜阪神2－1ヤクルト＞◇19日◇京セラドーム大阪 前日18日の守備で左足を負傷した阪神中野拓夢内野手（30）が8回、代打で出場した。 結果は空振り三振も、本人は「試合に出れているので。大丈夫だ",
       "link": "https://news.yahoo.co.jp/articles/be837a8d7c6deb5bda5a3e6ef2a87b7e0249da2f?source=rss",
       "pubDate": "2026-08-19T14:41:27.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
       "teams": [
         "tigers"
       ],
@@ -389,8 +409,8 @@
       ],
       "sources": [
         {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/be837a8d7c6deb5bda5a3e6ef2a87b7e0249da2f?source=rss"
         }
       ]
@@ -77401,25 +77421,6 @@
           "name": "日刊スポーツ（Yahoo!ニュース経由）",
           "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/f321e9f4a7a8128b61b998bcce947d44d97db1d0?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【西武】ロッテ益田直也の偉業に同郷の西口監督「努力のたまもの」ロッテ時代の後輩平沢も祝福(日刊スポーツ)",
-      "summary": "＜ロッテ5－3西武＞◇4日◇ZOZOマリン ロッテ益田直也投手（36）が史上5人目、パ・リーグでは2人目となるの通算250セーブを達成した。平成生まれの投手で名球会の入会規定（200勝か250セー",
-      "link": "https://news.yahoo.co.jp/articles/026e2f11310b8558d7a573fec3908ffb3124a9a7?source=rss",
-      "pubDate": "2026-08-04T13:11:30.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "lions"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/026e2f11310b8558d7a573fec3908ffb3124a9a7?source=rss"
         }
       ]
     }
