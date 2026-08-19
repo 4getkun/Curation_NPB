@@ -1,7 +1,27 @@
 {
-  "generatedAt": "2026-08-19T23:11:36.533Z",
+  "generatedAt": "2026-08-19T23:43:07.953Z",
   "count": 4000,
   "items": [
+    {
+      "title": "坂本勇人に「謝ろうかなと思っています」 15日ぶりの出場…橋上監督代行が反省のワケ",
+      "summary": "巨人は19日、横浜スタジアムでDeNAと対戦して0-1で敗れた。坂本勇人内野手が「6番・三塁」で今月4日の広島戦以来15日ぶりの試合出場を果たし、4打数1安打のフル出場。試合後、橋上秀樹監督代行は「坂本選手に謝ろうと思っています」と語った。",
+      "link": "https://full-count.jp/2026/08/20/post2005855/",
+      "pubDate": "2026-08-19T23:25:23.000Z",
+      "source": "Full-Count（プロ野球）",
+      "sourceId": "full-count-npb",
+      "teams": [
+        "giants",
+        "baystars"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Full-Count（プロ野球）",
+          "sourceId": "full-count-npb",
+          "link": "https://full-count.jp/2026/08/20/post2005855/"
+        }
+      ]
+    },
     {
       "title": "1軍復帰が見えない…セ・リーグ、ファームでも苦戦中の注目選手（2）阪神の優勝支えた救援左腕…今季はわずか1試合(ベースボールチャンネル)",
       "summary": "シーズンも終盤に突入しているプロ野球。選手の疲労が溜まりやすい時期だけに、ここからは総力戦で乗り切る必要がある。そんな中、各球団とも本来であれば一軍での活躍が期待されながら、ファームでの結果が伴わな",
@@ -77418,23 +77438,6 @@
           "name": "ベースボールチャンネル（プロ野球）",
           "sourceId": "baseballchannel-npb",
           "link": "https://www.baseballchannel.jp/npb/279269/"
-        }
-      ]
-    },
-    {
-      "title": "W杯で英雄となったカーボベルデ守護神が新天地で熱烈な歓迎 チリ名門のサポーターが大興奮、現地映像が公開(theWORLD（ザ・ワールドWeb）)",
-      "summary": "2026年FIFAワールドカップで躍進を支えたカーボベルデ代表GKボジーニャが、新天地で熱烈な歓迎を受けた。英『THE Sun』が紹介している。 チリの名門クラブであるCSDコロコロへ加入したボジー",
-      "link": "https://news.yahoo.co.jp/articles/5a53a3dbcdab154af716556731955d6f21f65f78?source=rss",
-      "pubDate": "2026-08-04T23:02:50.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/5a53a3dbcdab154af716556731955d6f21f65f78?source=rss"
         }
       ]
     }
