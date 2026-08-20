@@ -1,7 +1,83 @@
 {
-  "generatedAt": "2026-08-20T00:29:31.031Z",
+  "generatedAt": "2026-08-20T01:58:21.673Z",
   "count": 4000,
   "items": [
+    {
+      "title": "【巨人】山城京平が先発 右の長距離砲・竹下徠空が「４番・ＤＨ」…３軍日大戦スタメン(スポーツ報知)",
+      "summary": "◆プロ・アマ交流戦 巨人３軍―日大（２０日・Ｇ球場） 巨人３軍は２０日、東都２部の日大との試合を行う。 巨人のスタメンは以下の通り。 １（三）村山 ２（左）宇都宮 ３（中）萩尾 ４（指",
+      "link": "https://news.yahoo.co.jp/articles/ae346ca63f78a5e62c99af562162cfa8b89b7c52?source=rss",
+      "pubDate": "2026-08-20T01:45:37.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "giants"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/ae346ca63f78a5e62c99af562162cfa8b89b7c52?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【巨人】マタ「前よりも自信がある」20日DeNA戦で５度目の先発マウンド 来日初勝利狙う(日刊スポーツ)",
+      "summary": "巨人ブライアン・マタ投手（27）が、先発する20日のDeNA戦（横浜）で来日初勝利を狙う。 7月16日ヤクルト戦（神宮）以来、約1カ月ぶりとなる5度目の1軍マウンドに向け「2軍でしっかり調整でき",
+      "link": "https://news.yahoo.co.jp/articles/9df15f3fc0602f2292f517e0e8a24b0d095f6313?source=rss",
+      "pubDate": "2026-08-20T01:00:01.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "giants"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/9df15f3fc0602f2292f517e0e8a24b0d095f6313?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "那須川天心さん、26日にZOZOマリンで“凱旋登板” 「スカウトが来ないように制御して投げる」",
+      "summary": "ロッテは26日のソフトバンク戦（ZOZOマリン）に、格闘家の那須川天心さんが来場すると18日に発表した。当日は、スペシャルイベント「マリーンズ夏祭」が開催され、試合前に那須川さんがセレモニアルピッチを行う。",
+      "link": "https://full-count.jp/2026/08/20/post2005917/",
+      "pubDate": "2026-08-20T00:41:20.000Z",
+      "source": "Full-Count（プロ野球）",
+      "sourceId": "full-count-npb",
+      "teams": [
+        "marines"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Full-Count（プロ野球）",
+          "sourceId": "full-count-npb",
+          "link": "https://full-count.jp/2026/08/20/post2005917/"
+        }
+      ]
+    },
+    {
+      "title": "4年連続で販売数1万食突破「ローストビーフ丼」がスナックに ロッテ小島も歓迎「食べながら応援して」",
+      "summary": "ロッテは、ZOZOマリンスタジアムで販売している小島和哉投手のコラボグルメ「小島のローストビーフ丼」を、スーパーマーケットチェーン「ベルク」の協力でスナック菓子として商品化し、販売すると19日に発表した。埼玉県出身で、浦和学院高、早大を経て…",
+      "link": "https://full-count.jp/2026/08/20/post2005910/",
+      "pubDate": "2026-08-20T00:32:12.000Z",
+      "source": "Full-Count（プロ野球）",
+      "sourceId": "full-count-npb",
+      "teams": [
+        "marines"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Full-Count（プロ野球）",
+          "sourceId": "full-count-npb",
+          "link": "https://full-count.jp/2026/08/20/post2005910/"
+        }
+      ]
+    },
     {
       "title": "【ヤフコメで話題】「主力離脱の中で粘り強さが光る」「ネビン・源田らの活躍に期待」 - ライオンズのサヨナラ勝利にファン熱狂(Yahoo!ニュース オリジナル THE PAGE)",
       "summary": "ライオンズのサヨナラ勝利について、Yahoo!ニュースのコメント欄で話題になっています。 故障者が多い中でも粘り強く戦い抜いたライオンズが、9回にネビン選手の同点ホームラン、カナリオ選手の盗塁、源田選",
@@ -75,11 +151,6 @@
           "name": "BASEBALL KING",
           "sourceId": "baseballking",
           "link": "https://baseballking.jp/ns/704824/"
-        },
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/fecb5162da8cfac3f18d29a7287c08339c72c97a?source=rss"
         }
       ]
     },
@@ -77369,80 +77440,6 @@
           "name": "Full-Count（プロ野球）",
           "sourceId": "full-count-npb",
           "link": "https://full-count.jp/2026/08/05/post1999602/"
-        }
-      ]
-    },
-    {
-      "title": "執念でもぎ取ったアウト…！DeNAの“守備職人”が試合を決めるビックプレー 倒れながらも一塁送球",
-      "summary": "横浜DeNAベイスターズの京田陽太は4日、横浜スタジアムで行われた阪神タイガース戦に「8番・遊撃」で先発出場。9回2死二、三塁の場面でイレギュラー性の打球を好捕し、チームを1-0の勝利へ導くビッグプレーを披露した。",
-      "link": "https://www.baseballchannel.jp/npb/279297/",
-      "pubDate": "2026-08-05T02:30:52.000Z",
-      "source": "ベースボールチャンネル（プロ野球）",
-      "sourceId": "baseballchannel-npb",
-      "teams": [
-        "baystars"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "ベースボールチャンネル（プロ野球）",
-          "sourceId": "baseballchannel-npb",
-          "link": "https://www.baseballchannel.jp/npb/279297/"
-        }
-      ]
-    },
-    {
-      "title": "ロッテ・小島和哉が今季4勝目＆益田直也が通算250セーブ 鷹は完封リレーで4連勝…4日のパ結果",
-      "summary": "パーソル パ・リーグ公式戦は4日に2試合が行われた。ロッテは西武に5-3で勝利。ソフトバンクは日本ハムに1-0で勝ち、4連勝を飾った。",
-      "link": "https://full-count.jp/2026/08/05/post1999577/",
-      "pubDate": "2026-08-05T01:26:40.000Z",
-      "source": "Full-Count（プロ野球）",
-      "sourceId": "full-count-npb",
-      "teams": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Full-Count（プロ野球）",
-          "sourceId": "full-count-npb",
-          "link": "https://full-count.jp/2026/08/05/post1999577/"
-        }
-      ]
-    },
-    {
-      "title": "【巨人】橋上監督代行「８月のタイトな日程で…」４週連続６連戦の初戦で痛恨の延長サヨナラ負け(日刊スポーツ)",
-      "summary": "＜広島4－3巨人＞◇4日◇マツダスタジアム 巨人が広島にサヨナラ負けを喫し3連敗を喫した。 4日から4週続けての6連戦となる。正念場の1カ月と捉えていたが延長12回の死闘の末にサヨナラ負け。3",
-      "link": "https://news.yahoo.co.jp/articles/a023f09044593fac70ccaff30f2ad1cbd0726f54?source=rss",
-      "pubDate": "2026-08-05T01:00:03.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "giants"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/a023f09044593fac70ccaff30f2ad1cbd0726f54?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【巨人】杉内投手コーチが７回以降の継投の意図を説明「どっちかは取っておきたかった」(日刊スポーツ)",
-      "summary": "＜広島4－3巨人＞◇4日◇マツダスタジアム 巨人杉内俊哉投手コーチ（45）が、リードを守り切れなかった救援陣に言及した。 3点リードの7回、先発山崎伊織投手（27）が2死満塁のピンチを招き降板",
-      "link": "https://news.yahoo.co.jp/articles/f6b38bb108cfea1b533e7a25bdc702d0ba3b12ee?source=rss",
-      "pubDate": "2026-08-05T01:00:02.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "giants"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/f6b38bb108cfea1b533e7a25bdc702d0ba3b12ee?source=rss"
         }
       ]
     }
