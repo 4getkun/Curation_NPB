@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-20T19:07:46.080Z",
+  "generatedAt": "2026-08-20T19:51:47.282Z",
   "count": 4000,
   "items": [
     {
@@ -324,16 +324,16 @@
       "summary": "＜楽天3－4ロッテ＞◇20日◇楽天モバイル最強パーク 楽天吉井理人監督（61）は若手が凡退した序盤の攻撃を指摘した。 初回にロッテ先発の小島が2連続四球を許すなど苦しんでいた中、この回は無死一",
       "link": "https://news.yahoo.co.jp/articles/828b3f41a1d915479b83ad722ec157056f927765?source=rss",
       "pubDate": "2026-08-20T14:27:59.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
       "teams": [
         "eagles"
       ],
       "topics": [],
       "sources": [
         {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/828b3f41a1d915479b83ad722ec157056f927765?source=rss"
         }
       ]
