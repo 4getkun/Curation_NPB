@@ -1,7 +1,105 @@
 {
-  "generatedAt": "2026-08-20T01:58:21.673Z",
+  "generatedAt": "2026-08-20T02:52:45.343Z",
   "count": 4000,
   "items": [
+    {
+      "title": "【日本ハム】前日に自打球で交代の五十幡亮汰は右足関節打撲 試合前練習に参加せず(日刊スポーツ)",
+      "summary": "日本ハムは20日、19日ソフトバンク戦の5回の打席で自打球が右足首付近に当たり途中交代した五十幡亮汰外野手（27）が、右足関節打撲と診断されたと発表した。試合出場は状態をみて判断する。 前日、負",
+      "link": "https://news.yahoo.co.jp/articles/5cae0d4ecaba598a944fef1e79c23f3c327e4a2a?source=rss",
+      "pubDate": "2026-08-20T02:50:52.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "fighters"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/5cae0d4ecaba598a944fef1e79c23f3c327e4a2a?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【オリックス】ドラ１藤川敦也がトミー・ジョン手術 ４月には宮城、山下が米国で同様の手術受ける(日刊スポーツ)",
+      "summary": "オリックスは20日、ドラフト1位の藤川敦也投手（18＝延岡学園）が19日に佐賀県内の病院で右ひじ内側側副靱帯（じんたい）再建術（通称トミー・ジョン手術）を受けたことを発表した。 同投手は高卒1年",
+      "link": "https://news.yahoo.co.jp/articles/5bbc38c0526133f060712d6c167403fe2079f964?source=rss",
+      "pubDate": "2026-08-20T02:11:19.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "buffaloes"
+      ],
+      "topics": [
+        "injury",
+        "draft"
+      ],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/5bbc38c0526133f060712d6c167403fe2079f964?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【巨人】７回１失点も黒星の井上温大 投げ合ったDeNA東に「ああいう姿が勝つピッチャー」(日刊スポーツ)",
+      "summary": "＜DeNA1－0巨人＞◇19日◇横浜 巨人先発井上温大投手（25）は7回1失点と好投したが、今季7敗目を喫した。24年7月から続いていたDeNA戦の連勝は9で止まった。 “スミ1”が最後まで響",
+      "link": "https://news.yahoo.co.jp/articles/6b0ed5b8271e33b72f8dc8a6e4fc66a430c403c9?source=rss",
+      "pubDate": "2026-08-20T02:00:02.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "giants"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/6b0ed5b8271e33b72f8dc8a6e4fc66a430c403c9?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【ヤクルト】２試合連続１点差の逆転サヨナラ負け…池山監督「いい戦いはしているんですけど…」(日刊スポーツ)",
+      "summary": "＜阪神2－1ヤクルト＞◇19日◇京セラドーム大阪 ヤクルトが2試合連続でサヨナラ負けを喫した。2連敗で、DeNAに抜かれ4位転落となった。 1点リードの9回。ヤクルト広沢優投手（25）がプロ2",
+      "link": "https://news.yahoo.co.jp/articles/82804c577ae51bfbd3884fe8770621b58f7c399a?source=rss",
+      "pubDate": "2026-08-20T02:00:02.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "swallows"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/82804c577ae51bfbd3884fe8770621b58f7c399a?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【巨人】橋上監督代行「ケアも含めて考えていきたい」２戦連続で沈黙の４番ダルベックの復調へ(日刊スポーツ)",
+      "summary": "＜DeNA1－0巨人＞◇19日◇横浜 巨人橋上秀樹監督代行（60）が、ボビー・ダルベック内野手（31）の復調を求めた。 今季12度目の完封負けで2連敗を喫した試合後、「コンディション的なものも",
+      "link": "https://news.yahoo.co.jp/articles/cfaa246b896ad2c488fbc444287fceab2bd77e61?source=rss",
+      "pubDate": "2026-08-20T02:00:01.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "giants"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/cfaa246b896ad2c488fbc444287fceab2bd77e61?source=rss"
+        }
+      ]
+    },
     {
       "title": "【巨人】山城京平が先発 右の長距離砲・竹下徠空が「４番・ＤＨ」…３軍日大戦スタメン(スポーツ報知)",
       "summary": "◆プロ・アマ交流戦 巨人３軍―日大（２０日・Ｇ球場） 巨人３軍は２０日、東都２部の日大との試合を行う。 巨人のスタメンは以下の通り。 １（三）村山 ２（左）宇都宮 ３（中）萩尾 ４（指",
@@ -77340,106 +77438,6 @@
           "name": "日刊スポーツ（Yahoo!ニュース経由）",
           "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/8da11d9332c3c930632a74a717816d3575dc6e8e?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【阪神】チーム４人目「10試合連続」なるか 元山飛優が連続スタメン中 前日は唯一の２安打(日刊スポーツ)",
-      "summary": "＜DeNA－阪神＞◇5日◇横浜 阪神元山飛優内野手（27）が先発出場すれば、移籍後初めて10試合連続のスタメンになる。前日4日の試合まで9試合続けてラインアップに名を連ね、攻守に貢献。4日はチーム",
-      "link": "https://news.yahoo.co.jp/articles/25d1b4558e354a4a6e18410764405d7085c4f0a4?source=rss",
-      "pubDate": "2026-08-05T02:54:55.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "tigers"
-      ],
-      "topics": [
-        "trade"
-      ],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/25d1b4558e354a4a6e18410764405d7085c4f0a4?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【阪神】新加入ガルシアに待望初安打は生まれるか 今季７打数無安打 ４日は好守備に阻まれる(日刊スポーツ)",
-      "summary": "＜DeNA－阪神＞◇5日◇横浜 今季途中に加入した阪神デルミス・ガルシア外野手（28）に待望の初安打は生まれるか。 前日4日のDeNA戦では、0－1の9回2死二、三塁で打席へ。一打同点、逆転の",
-      "link": "https://news.yahoo.co.jp/articles/418bc90a565ce80b991e4e63f6f58be48e14d632?source=rss",
-      "pubDate": "2026-08-05T02:50:56.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "tigers"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/418bc90a565ce80b991e4e63f6f58be48e14d632?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【ソフトバンク】球団、選手会が計400万円を熊本地震義援金として寄付 ５日から募金箱設置(日刊スポーツ)",
-      "summary": "ソフトバンクは5日、熊本地震の被災地支援のため、球団から200万円、ソフトバンク選手会から200万円の計400万円を義援金として福岡県共同募金（赤い羽根）を通じて寄付すると発表した。 またみずほ",
-      "link": "https://news.yahoo.co.jp/articles/cb7f68916a7171f35d6dfc85c07c759a0e7ea3f2?source=rss",
-      "pubDate": "2026-08-05T02:49:17.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "hawks"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/cb7f68916a7171f35d6dfc85c07c759a0e7ea3f2?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "戦力外にいた“お宝” 衝撃数値「.338＆.904」…エース粉砕の驚愕弾が「打球えっぐ」",
-      "summary": "完全覚醒か。ヤクルトのモンテル外野手が4日、バンテリンドームで行われた中日戦で大野雄大投手から2打席連発の大暴れを見せた。打席数は多くないものの、OPS.904と主砲と言える数字を刻む。「スタメンで使って」「えぐいって」と、驚愕アーチに称賛…",
-      "link": "https://full-count.jp/2026/08/05/post1999539/",
-      "pubDate": "2026-08-05T02:35:31.000Z",
-      "source": "Full-Count（プロ野球）",
-      "sourceId": "full-count-npb",
-      "teams": [
-        "swallows"
-      ],
-      "topics": [
-        "trade"
-      ],
-      "sources": [
-        {
-          "name": "Full-Count（プロ野球）",
-          "sourceId": "full-count-npb",
-          "link": "https://full-count.jp/2026/08/05/post1999539/"
-        }
-      ]
-    },
-    {
-      "title": "西武、代打のコルニエルが勝ち越し打 鷹・廣瀬が3号、楽天・前田健は6回2失点…4日のファーム",
-      "summary": "パ・リーグ球団主催のファーム公式戦は4日に4試合が行われた。西武は阪神に2-1で勝利した。1点を追う6回、是澤涼輔捕手の安打を機にチャンスを作ると、仲三優太外野手と代打のフアン・コルニエル内野手の連続適時打で逆転に成功した。投げては、先発の…",
-      "link": "https://full-count.jp/2026/08/05/post1999602/",
-      "pubDate": "2026-08-05T02:32:42.000Z",
-      "source": "Full-Count（プロ野球）",
-      "sourceId": "full-count-npb",
-      "teams": [
-        "lions",
-        "eagles"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Full-Count（プロ野球）",
-          "sourceId": "full-count-npb",
-          "link": "https://full-count.jp/2026/08/05/post1999602/"
         }
       ]
     }
