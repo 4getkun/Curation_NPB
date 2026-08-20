@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-20T17:52:44.686Z",
+  "generatedAt": "2026-08-20T18:19:30.410Z",
   "teams": {
     "giants": [
       {
@@ -307,6 +307,21 @@
     ],
     "carp": [
       {
+        "gameNumber": 105,
+        "date": "8月20日",
+        "opponentTeamId": "dragons",
+        "opponentText": "中日",
+        "score": "2x-1",
+        "ownScore": 2,
+        "opponentScore": 1,
+        "result": "win",
+        "winningPitcher": "森浦（5-2）",
+        "losingPitcher": "アブレウ（1-1）",
+        "savePitcher": "",
+        "venue": "マツダ",
+        "record": "43-58-4"
+      },
+      {
         "gameNumber": 104,
         "date": "8月19日",
         "opponentTeamId": "dragons",
@@ -440,21 +455,6 @@
         "savePitcher": "",
         "venue": "横浜",
         "record": "38-54-4"
-      },
-      {
-        "gameNumber": 95,
-        "date": "8月6日",
-        "opponentTeamId": "giants",
-        "opponentText": "巨人",
-        "score": "7-11",
-        "ownScore": 7,
-        "opponentScore": 11,
-        "result": "loss",
-        "winningPitcher": "",
-        "losingPitcher": "辻（2-2）",
-        "savePitcher": "",
-        "venue": "マツダ",
-        "record": "38-53-4"
       }
     ],
     "baystars": [
@@ -763,6 +763,21 @@
     ],
     "dragons": [
       {
+        "gameNumber": 112,
+        "date": "8月20日",
+        "opponentTeamId": "carp",
+        "opponentText": "広島",
+        "score": "1-2x",
+        "ownScore": 1,
+        "opponentScore": 2,
+        "result": "loss",
+        "winningPitcher": "森浦（5-2）",
+        "losingPitcher": "アブレウ（1-1）",
+        "savePitcher": "",
+        "venue": "マツダ",
+        "record": "46-65-1"
+      },
+      {
         "gameNumber": 111,
         "date": "8月19日",
         "opponentTeamId": "carp",
@@ -896,21 +911,6 @@
         "savePitcher": "岩崎（1-2-11）",
         "venue": "京セラD大阪",
         "record": "44-58-1"
-      },
-      {
-        "gameNumber": 102,
-        "date": "8月8日",
-        "opponentTeamId": "tigers",
-        "opponentText": "阪神",
-        "score": "7-1",
-        "ownScore": 7,
-        "opponentScore": 1,
-        "result": "win",
-        "winningPitcher": "マラー（4-6）",
-        "losingPitcher": "",
-        "savePitcher": "",
-        "venue": "京セラD大阪",
-        "record": "44-57-1"
       }
     ],
     "hawks": [
