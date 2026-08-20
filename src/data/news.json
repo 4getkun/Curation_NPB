@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-20T16:19:06.068Z",
+  "generatedAt": "2026-08-20T16:57:26.154Z",
   "count": 4000,
   "items": [
     {
@@ -500,16 +500,16 @@
       "summary": "＜DeNA3－6巨人＞◇20日◇横浜 DeNA相川亮二監督（50）が、先発の藤浪晋太郎投手（32）を3回途中3失点4四球で降板を決断した。 3回、先頭から2者連続のストレートの四球でピンチを作",
       "link": "https://news.yahoo.co.jp/articles/48e0f16a2843ac1a17a7a2cb8e9be60b3b4ebde3?source=rss",
       "pubDate": "2026-08-20T13:56:41.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
       "teams": [
         "baystars"
       ],
       "topics": [],
       "sources": [
         {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/48e0f16a2843ac1a17a7a2cb8e9be60b3b4ebde3?source=rss"
         }
       ]
@@ -538,16 +538,16 @@
       "summary": "＜楽天3－4ロッテ＞◇20日◇楽天モバイル最強パーク 楽天YG安田捕手（26）が2試合連続3安打と気を吐いた。 好調な打撃はこの日も健在だった。2、4回と左前打を放ち、6回は右前にはじき返した",
       "link": "https://news.yahoo.co.jp/articles/9267e575c14f5ae4633fe75edc273cc38b579e43?source=rss",
       "pubDate": "2026-08-20T13:53:47.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
       "teams": [
         "eagles"
       ],
       "topics": [],
       "sources": [
         {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/9267e575c14f5ae4633fe75edc273cc38b579e43?source=rss"
         }
       ]
