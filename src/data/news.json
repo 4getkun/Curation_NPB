@@ -1,7 +1,26 @@
 {
-  "generatedAt": "2026-08-20T15:01:07.530Z",
+  "generatedAt": "2026-08-20T15:54:23.099Z",
   "count": 4000,
   "items": [
+    {
+      "title": "【巨人】マタが来日初勝利 ウイニングボールはサイン〝マシマシ〟の超豪華仕様「ライデル投手と大城捕手と…」(東スポWEB)",
+      "summary": "巨人のブライアン・マタ投手（27）が20日のDeNA戦（横浜）に先発し、5回80球を投げ、5安打3失点と前回登板（7月16日のヤクルト戦）からの成長を見せた。打線の援護にも恵まれ来日初勝利を挙げた。",
+      "link": "https://news.yahoo.co.jp/articles/dc226827fe0da0c0f8b0d17328ab49aae24f65c7?source=rss",
+      "pubDate": "2026-08-20T15:45:31.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "giants"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/dc226827fe0da0c0f8b0d17328ab49aae24f65c7?source=rss"
+        }
+      ]
+    },
     {
       "title": "首位・阪神、痛恨のセーフティスクイズ失敗 谷沢氏「打球が強すぎましたよね」",
       "summary": "20日にフジテレビONEで放送された『プロ野球ニュース2026』に出演した谷沢健一氏が、同日のヤクルト戦の阪神の4回の攻撃について言及した。 阪神は1－1の4回一死一、三塁で元山飛優は初球スクイズを試みるもファウル、 […]",
@@ -243,7 +262,7 @@
       ]
     },
     {
-      "title": "【ＤｅＮＡ】藤浪晋太郎「内容が良くなかったので、反省して次もう１回やり直したい」今季初勝利はお預け(スポーツ報知)",
+      "title": "【ＤｅＮＡ】藤浪晋太郎「内容が良くなかったので、反省して次もう一回やり直したい」今季初勝利はお預け(スポーツ報知)",
       "summary": "◆ＪＥＲＡセ・リーグ ＤｅＮＡ３―６巨人（２０日・横浜） ＤｅＮＡの藤浪晋太郎投手は２回１／３を投げ４安打３失点、４四球と振るわず。今季３度目の登板でも初勝利を逃し「内容が良くなかったので、反省し",
       "link": "https://news.yahoo.co.jp/articles/7861f42237fa5fb469cb0da17720161d6abc7cbb?source=rss",
       "pubDate": "2026-08-20T13:57:00.000Z",
@@ -572,8 +591,8 @@
       "summary": "＜阪神1－4ヤクルト＞◇20日◇京セラドーム大阪 ヤクルトが接戦を制し連敗を「2」で止めた。高橋奎二投手（29）が中11日で先発。6回8安打1四球5奪三振1失点の粘投で7月10日阪神戦以来、自身5",
       "link": "https://news.yahoo.co.jp/articles/62e7f6b38fa39e3563cb35f3aed0204ad1fd4af6?source=rss",
       "pubDate": "2026-08-20T13:43:19.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
       "teams": [
         "swallows"
       ],
@@ -582,8 +601,8 @@
       ],
       "sources": [
         {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/62e7f6b38fa39e3563cb35f3aed0204ad1fd4af6?source=rss"
         }
       ]
@@ -77444,25 +77463,6 @@
           "name": "Full-Count（プロ野球）",
           "sourceId": "full-count-npb",
           "link": "https://full-count.jp/2026/08/06/post2000340/"
-        }
-      ]
-    },
-    {
-      "title": "【楽天】 岸孝之、通算１７３勝目の権利持って降板 桑田真澄らに並ぶ勝利数へ ７回２安打１失点の好投(スポーツ報知)",
-      "summary": "◆パ・リーグ オリックス―楽天（６日・京セラドーム） 楽天の岸孝之投手がオリックス戦に先発し、７回２安打１失点で降板した。 序盤からストライク先行で投げ込んだ。１４０キロ前後の直球にカーブやチ",
-      "link": "https://news.yahoo.co.jp/articles/32898eb7501bbf6803fa3b87cf3e26d61f3a4a90?source=rss",
-      "pubDate": "2026-08-06T11:35:29.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "eagles"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/32898eb7501bbf6803fa3b87cf3e26d61f3a4a90?source=rss"
         }
       ]
     }

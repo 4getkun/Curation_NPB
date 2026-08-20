@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-20T15:01:08.957Z",
+  "generatedAt": "2026-08-20T15:54:24.266Z",
   "teams": {
     "giants": [
       {
@@ -915,6 +915,21 @@
     ],
     "hawks": [
       {
+        "gameNumber": 110,
+        "date": "8月20日",
+        "opponentTeamId": "fighters",
+        "opponentText": "日本ハム",
+        "score": "5-5",
+        "ownScore": 5,
+        "opponentScore": 5,
+        "result": "draw",
+        "winningPitcher": "",
+        "losingPitcher": "",
+        "savePitcher": "",
+        "venue": "エスコンF",
+        "record": "68-40-2"
+      },
+      {
         "gameNumber": 109,
         "date": "8月19日",
         "opponentTeamId": "fighters",
@@ -1048,21 +1063,6 @@
         "savePitcher": "",
         "venue": "ベルーナドーム",
         "record": "64-36-1"
-      },
-      {
-        "gameNumber": 100,
-        "date": "8月8日",
-        "opponentTeamId": "lions",
-        "opponentText": "西武",
-        "score": "1-2",
-        "ownScore": 1,
-        "opponentScore": 2,
-        "result": "loss",
-        "winningPitcher": "篠原（2-2）",
-        "losingPitcher": "松本裕（4-4）",
-        "savePitcher": "甲斐野（2-2-13）",
-        "venue": "ベルーナドーム",
-        "record": "63-36-1"
       }
     ],
     "lions": [
@@ -1211,7 +1211,7 @@
         "opponentScore": 1,
         "result": "win",
         "winningPitcher": "篠原（2-2）",
-        "losingPitcher": "松本裕（4-4）",
+        "losingPitcher": "",
         "savePitcher": "甲斐野（2-2-13）",
         "venue": "ベルーナドーム",
         "record": "56-44-3"
@@ -1515,7 +1515,7 @@
         "opponentScore": 0,
         "result": "win",
         "winningPitcher": "早川（5-5）",
-        "losingPitcher": "加藤貴（10-2）",
+        "losingPitcher": "",
         "savePitcher": "",
         "venue": "エスコンF",
         "record": "38-59-1"
@@ -1675,6 +1675,21 @@
     ],
     "fighters": [
       {
+        "gameNumber": 114,
+        "date": "8月20日",
+        "opponentTeamId": "hawks",
+        "opponentText": "ソフトバンク",
+        "score": "5-5",
+        "ownScore": 5,
+        "opponentScore": 5,
+        "result": "draw",
+        "winningPitcher": "",
+        "losingPitcher": "",
+        "savePitcher": "",
+        "venue": "エスコンF",
+        "record": "63-50-1"
+      },
+      {
         "gameNumber": 113,
         "date": "8月19日",
         "opponentTeamId": "hawks",
@@ -1808,21 +1823,6 @@
         "savePitcher": "",
         "venue": "エスコンF",
         "record": "59-46-0"
-      },
-      {
-        "gameNumber": 104,
-        "date": "8月8日",
-        "opponentTeamId": "eagles",
-        "opponentText": "楽天",
-        "score": "0-6",
-        "ownScore": 0,
-        "opponentScore": 6,
-        "result": "loss",
-        "winningPitcher": "早川（5-5）",
-        "losingPitcher": "加藤貴（10-2）",
-        "savePitcher": "",
-        "venue": "エスコンF",
-        "record": "58-46-0"
       }
     ]
   }
