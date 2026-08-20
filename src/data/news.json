@@ -1,22 +1,164 @@
 {
-  "generatedAt": "2026-08-20T02:52:45.343Z",
+  "generatedAt": "2026-08-20T03:35:55.974Z",
   "count": 4000,
   "items": [
     {
-      "title": "【日本ハム】前日に自打球で交代の五十幡亮汰は右足関節打撲 試合前練習に参加せず(日刊スポーツ)",
-      "summary": "日本ハムは20日、19日ソフトバンク戦の5回の打席で自打球が右足首付近に当たり途中交代した五十幡亮汰外野手（27）が、右足関節打撲と診断されたと発表した。試合出場は状態をみて判断する。 前日、負",
-      "link": "https://news.yahoo.co.jp/articles/5cae0d4ecaba598a944fef1e79c23f3c327e4a2a?source=rss",
-      "pubDate": "2026-08-20T02:50:52.000Z",
+      "title": "【ソフトバンク】３戦連続失点のオスナの登録を抹消 １９日の日本ハム戦で逆転満塁弾を被弾(スポーツ報知)",
+      "summary": "◆パ・リーグ 日本ハム―ソフトバンク（２０日・エスコンフィールド） ソフトバンクはセットアッパーのロベルト・オスナ投手の出場選手登録を抹消した。１９日の日本ハム戦では３点リードの７回に登板し、水野",
+      "link": "https://news.yahoo.co.jp/articles/d6ee8718d9c194d2882921e6ccad1acef52396eb?source=rss",
+      "pubDate": "2026-08-20T03:32:29.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "hawks"
+      ],
+      "topics": [
+        "roster"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/d6ee8718d9c194d2882921e6ccad1acef52396eb?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【パ公示】（２０日）ソフトバンクが前田悠伍を登録、逆転満塁弾を浴びたオスナを抹消(スポーツ報知)",
+      "summary": "◆パ・リーグ 【出場選手登録】 ▽ソフトバンク 前田悠伍投手 ▽日本ハム 大塚瑠晏内野手 【出場選手登録抹消】 ▽ソフトバンク オスナ投手 ▽日本ハム 細野晴希投手",
+      "link": "https://news.yahoo.co.jp/articles/16794dbcefabaccfb6472c32c1db7a733fa469c8?source=rss",
+      "pubDate": "2026-08-20T03:23:50.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [],
+      "topics": [
+        "roster"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/16794dbcefabaccfb6472c32c1db7a733fa469c8?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【日本ハム】１９日に自打球の五十幡亮汰は「右足関節打撲」抹消なしも試合前練習参加せず、ドラ３・大塚瑠晏が１軍昇格(スポーツ報知)",
+      "summary": "◆パ・リーグ 日本ハム―ソフトバンク（２０日・エスコンフィールド） １９日のソフトバンク戦（エスコン）で負傷交代した日本ハム・五十幡亮汰外野手は「右足関節打撲」と診断された。出場登録は抹消されず、",
+      "link": "https://news.yahoo.co.jp/articles/97902bb72f1eb87c133701feb7959cad241e8ec9?source=rss",
+      "pubDate": "2026-08-20T03:17:40.000Z",
       "source": "Yahoo!ニュース スポーツ",
       "sourceId": "yahoo-sports",
       "teams": [
         "fighters"
+      ],
+      "topics": [
+        "injury"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/97902bb72f1eb87c133701feb7959cad241e8ec9?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【巨人】自力Ｖ消滅危機からの逆転優勝へ「右打者キラー」マタが来日初勝利かけ藤浪晋太郎と先発対決 首位・阪神と４差で残り３４試合(スポーツ報知)",
+      "summary": "◆ＪＥＲＡセ・リーグ ＤｅＮＡ―巨人（２０日・横浜） 巨人は２０日、ＤｅＮＡとの３連戦３戦目に臨む。１８、１９日はともに１点差で敗れて連敗。３タテ阻止に全力で挑む。 先発は来日５度目の先発で初",
+      "link": "https://news.yahoo.co.jp/articles/d2691215d79bdcd72fbe5130c33a89b24bd6a3c6?source=rss",
+      "pubDate": "2026-08-20T03:17:00.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "giants"
       ],
       "topics": [],
       "sources": [
         {
           "name": "Yahoo!ニュース スポーツ",
           "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/d2691215d79bdcd72fbe5130c33a89b24bd6a3c6?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【楽天】ベテラン岸の粘投と安田の猛打でロッテに快勝！今季4勝目の岸は40代で通算10勝目に到達(まるスポ)",
+      "summary": "【楽天 5-2 ロッテ】（8月19日・楽天モバイル 最強パーク宮城） 楽天が苦手ロッテを相手に鮮やかな快勝を収め、2カード連続の勝ち越しを決めた。 2回裏、一死から6番・YG安田が左中間への二塁打",
+      "link": "https://news.yahoo.co.jp/articles/169698db05eab71c3833b7bb8224b62147a6a81b?source=rss",
+      "pubDate": "2026-08-20T03:11:24.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "eagles"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/169698db05eab71c3833b7bb8224b62147a6a81b?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "勝利呼んだ“4番助っ人”…DeNAの救世主が決勝打＆スライディング好捕 2安打1打点(ベースボールチャンネル)",
+      "summary": "横浜DeNAベイスターズのヘラル・エンカーナシオンは19日、横浜スタジアムで行われた読売ジャイアンツ戦に「4番・右翼」で先発出場。攻守にわたる活躍で、1－0の勝利に貢献した。 DeNAは初回、2",
+      "link": "https://news.yahoo.co.jp/articles/333023fbc47532de1aec3a3e2ba3106474a48a97?source=rss",
+      "pubDate": "2026-08-20T03:10:15.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "baystars"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/333023fbc47532de1aec3a3e2ba3106474a48a97?source=rss"
+        },
+        {
+          "name": "ベースボールチャンネル（プロ野球）",
+          "sourceId": "baseballchannel-npb",
+          "link": "https://www.baseballchannel.jp/npb/284675/"
+        }
+      ]
+    },
+    {
+      "title": "【阪神】ルーキー谷端将伍を初スタメン起用 ベストな選択と問われ藤川監督「その通りです」(日刊スポーツ)",
+      "summary": "＜阪神2－1ヤクルト＞◇19日◇京セラドーム大阪 新鮮なルーキーの起用も連覇への追い風となるか。阪神は19日のヤクルト戦で2夜連続で逆転し、連夜の劇的なサヨナラ勝ちを収めた。2位巨人とゲーム差を4",
+      "link": "https://news.yahoo.co.jp/articles/d301c739b31c9d9783bdde4adf31dcfd445a7de7?source=rss",
+      "pubDate": "2026-08-20T03:00:01.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "tigers"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/d301c739b31c9d9783bdde4adf31dcfd445a7de7?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【日本ハム】前日に自打球で交代の五十幡亮汰は右足関節打撲 試合前練習に参加せず(日刊スポーツ)",
+      "summary": "日本ハムは20日、19日ソフトバンク戦の5回の打席で自打球が右足首付近に当たり途中交代した五十幡亮汰外野手（27）が、右足関節打撲と診断されたと発表した。試合出場は状態をみて判断する。 前日、負",
+      "link": "https://news.yahoo.co.jp/articles/5cae0d4ecaba598a944fef1e79c23f3c327e4a2a?source=rss",
+      "pubDate": "2026-08-20T02:50:52.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "fighters"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/5cae0d4ecaba598a944fef1e79c23f3c327e4a2a?source=rss"
         }
       ]
@@ -77305,139 +77447,6 @@
           "name": "Yahoo!ニュース スポーツ",
           "sourceId": "yahoo-sports",
           "link": "https://news.yahoo.co.jp/articles/e77510828c4e59d0ebf4035f112d2f1438db68ef?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "虎は過密日程回避 最大でも7連戦 NPB追加日程発表(スポニチアネックス)",
-      "summary": "日本野球機構（NPB）から追加日程が発表された。今季、直近の7月4日広島戦まで交流戦を含む計12試合が天候不良のため中止となっていた阪神は残るリーグ戦の8試合分は過密日程を回避。9月は現時点で最大7",
-      "link": "https://news.yahoo.co.jp/articles/e19372ee139d14e9438c2e78ac606bb7ac3e6669?source=rss",
-      "pubDate": "2026-08-05T04:16:31.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "tigers"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/e19372ee139d14e9438c2e78ac606bb7ac3e6669?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【巨人】激闘の延長１２回サヨナラ負けの裏で光った３投手のホールド しびれる場面で好投 ブルペンにさらなる厚み(スポーツ報知)",
-      "summary": "◆ＪＥＲＡセ・リーグ 広島４×―３巨人（４日・マツダ） 巨人は４日の広島戦で延長１２回サヨナラ負けを喫した。引き分け目前の１２回２死、マルティネスがファビアンにサヨナラ本塁打を浴びた。 打線が",
-      "link": "https://news.yahoo.co.jp/articles/e607a687a6ab2f11c8b6d37d14d66819aa3d3ef8?source=rss",
-      "pubDate": "2026-08-05T04:15:03.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "giants"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/e607a687a6ab2f11c8b6d37d14d66819aa3d3ef8?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "暑熱対策でファーム・リーグ試合開始時間変更 12時半→14時に(日刊スポーツ)",
-      "summary": "日本野球機構（NPB）は5日、暑熱対策のためファーム・リーグの試合開始時間の変更を発表した。 8月11、12日のヤクルト－楽天（戸田）を12時30分から14時開始に変更。21、22、23日のヤク",
-      "link": "https://news.yahoo.co.jp/articles/630810a97cadd17b1b83ef89820f7d468c958187?source=rss",
-      "pubDate": "2026-08-05T03:58:11.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/630810a97cadd17b1b83ef89820f7d468c958187?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【ロッテ】益田直也、ファンは「家族のような存在」“ロッテ愛”を貫き偉業「本当にうれしい」(日刊スポーツ)",
-      "summary": "＜ロッテ5－3西武＞◇4日◇ZOZOマリン ロッテ益田直也投手（36）が通算250セーブを達成した。 2点リードの9回から登板。わずか8球で西武打線を3者凡退に抑えて悲願の250セーブを達成し",
-      "link": "https://news.yahoo.co.jp/articles/9de6ba4666e08b787058a8a8aedacda67caebb49?source=rss",
-      "pubDate": "2026-08-05T03:46:31.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "marines"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/9de6ba4666e08b787058a8a8aedacda67caebb49?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "佐々木朗希は「本当に良いやつ」、益田直也は「僕の師匠」 日本を離れても…ゲレーロが明かすロッテとの“絆”",
-      "summary": "佐々木朗希の才能を初対面で確信した元ロッテのタイロン・ゲレーロ。師匠と慕う益田直也への熱い想いやNPBで痛感した日米の野球の違いを明かす。",
-      "link": "https://full-count.jp/2026/08/05/post1999589/",
-      "pubDate": "2026-08-05T03:33:57.000Z",
-      "source": "Full-Count（プロ野球）",
-      "sourceId": "full-count-npb",
-      "teams": [
-        "marines"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Full-Count（プロ野球）",
-          "sourceId": "full-count-npb",
-          "link": "https://full-count.jp/2026/08/05/post1999589/"
-        }
-      ]
-    },
-    {
-      "title": "【阪神】紙一重の０－１完封負け「野球ですから。勝負はかける」藤川監督は後ろ向かず(日刊スポーツ)",
-      "summary": "＜DeNA－阪神＞◇5日◇横浜 阪神はあと1歩で今季最長タイ5連勝を逃した。 4日のDeNA戦（横浜）で、打線はDeNA先発の尾形を前に無得点。7回には絶好機をつくった。 先頭の大山悠輔内",
-      "link": "https://news.yahoo.co.jp/articles/7ee83f8c08458dd7371e44c2fae91bde8aa2b544?source=rss",
-      "pubDate": "2026-08-05T03:18:29.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "tigers"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/7ee83f8c08458dd7371e44c2fae91bde8aa2b544?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【阪神】石井大智、１軍復帰へまた前進 負傷後２度目のライブBP登板 経過良好なら実戦復帰も(日刊スポーツ)",
-      "summary": "阪神石井大智投手（28）が5日、兵庫・尼崎市内の2軍施設SGLで負傷後2度目のライブBPに登板した。打者6人相手に28球。1軍復帰に向けて再び前進した。 石井は今年2月に左アキレス腱（けん）断裂",
-      "link": "https://news.yahoo.co.jp/articles/8da11d9332c3c930632a74a717816d3575dc6e8e?source=rss",
-      "pubDate": "2026-08-05T03:11:28.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "tigers"
-      ],
-      "topics": [
-        "injury"
-      ],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/8da11d9332c3c930632a74a717816d3575dc6e8e?source=rss"
         }
       ]
     }
