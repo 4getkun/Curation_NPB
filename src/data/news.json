@@ -1,7 +1,114 @@
 {
-  "generatedAt": "2026-08-21T23:11:41.862Z",
+  "generatedAt": "2026-08-21T23:44:20.673Z",
   "count": 4000,
   "items": [
+    {
+      "title": "プロの半年で「大学4年分以上投げました」 上智大から初のNPB…正木悠馬が“脱・独学”で知った本当の自分(THE ANSWER)",
+      "summary": "昨秋のプロ野球ドラフト会議で、異色のキャリアを歩んできた選手が西武の育成6位指名を受け入団した。米国の高校を卒業し、難関校の上智大から初のプロ野球選手となった正木悠馬投手だ。チーム合流から半年が経ち",
+      "link": "https://news.yahoo.co.jp/articles/a43cb273cc79e725f30d6a27bfa567b902901238?source=rss",
+      "pubDate": "2026-08-21T23:33:00.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "lions"
+      ],
+      "topics": [
+        "draft"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/a43cb273cc79e725f30d6a27bfa567b902901238?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【阪神】「本当に誰なんだよこいつ」 坂本誠志郎がまた本塁打…今月6本目に「そんなホームラン打てたんかい」(スポーティングニュース日本版)",
+      "summary": "阪神タイガースの坂本誠志郎が今月6本目となる一発を放ち、ファンを驚かせている。ホームランを量産するなかで見せた逆方向弾に、「マジで何が起こってんの」「本当に誰なんだよこいつ」など驚嘆の声が相次いだ。",
+      "link": "https://news.yahoo.co.jp/articles/282419ecaed2136d67fdfba69a706e5d41410828?source=rss",
+      "pubDate": "2026-08-21T23:32:02.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "tigers"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/282419ecaed2136d67fdfba69a706e5d41410828?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "楽天のドラ1ルーキーが大乱調…オイシックス戦でまさかの1回7失点 150キロ台連発も6安打3四死球",
+      "summary": "東北楽天ゴールデンイーグルスの藤原聡大投手は21日、森林どりスタジアム泉で行われたオイシックス新潟アルビレックスBCとのファーム・リーグ公式戦に救援登板。1回を投げて6安打、3四死球、7失点と苦しい投球内容となった。",
+      "link": "https://www.baseballchannel.jp/npb/285158/",
+      "pubDate": "2026-08-21T23:27:51.000Z",
+      "source": "ベースボールチャンネル（プロ野球）",
+      "sourceId": "baseballchannel-npb",
+      "teams": [
+        "eagles"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "ベースボールチャンネル（プロ野球）",
+          "sourceId": "baseballchannel-npb",
+          "link": "https://www.baseballchannel.jp/npb/285158/"
+        },
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/b4eb413cf74645fea8163d096c8ef65a7571b810?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "西武・中村剛也の満塁弾で延長制す！佐伯氏「しっかり準備が出来ていて体が動いている証拠」と称賛",
+      "summary": "西武は21日、楽天との試合（楽天モバイル）に6－4で勝利。延長11回に、代打・中村剛也の満塁本塁打が飛び出し、勝ち越しに成功。その後2点差まで迫られるも逃げ切り、勝利した。21日放送のCSフジテレビONE『プロ野球ニュ […]",
+      "link": "https://baseballking.jp/ns/705035/",
+      "pubDate": "2026-08-21T23:20:00.000Z",
+      "source": "BASEBALL KING",
+      "sourceId": "baseballking",
+      "teams": [
+        "lions"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "BASEBALL KING",
+          "sourceId": "baseballking",
+          "link": "https://baseballking.jp/ns/705035/"
+        },
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/61b9c0b3132f055310fbcf9b3e654633eae5532b?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "「6番問題、解決したな」阪神32歳捕手が右中間へ“エグい”打球の一発 8月6本塁打に「マジで何があったんや！？」他球団ファンも驚愕の打棒「こんなに打つん…？」(CoCoKARAnext)",
+      "summary": "阪神は8月21日、横浜スタジアムで行われたDeNA戦に4－1で勝利。9回には「6番・捕手」で先発出場の坂本誠志郎が、2戦連発の8号ソロを右中間席へ放った。 3－1と2点リードで迎えた9回、先頭で",
+      "link": "https://news.yahoo.co.jp/articles/8a678cbf83e5b82d2327d4d4ab88474e7077860c?source=rss",
+      "pubDate": "2026-08-21T23:13:49.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "tigers"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/8a678cbf83e5b82d2327d4d4ab88474e7077860c?source=rss"
+        }
+      ]
+    },
     {
       "title": "日本ハム、リリーフ陣踏ん張れず痛恨のサヨナラ負け…高木氏「上位を狙うにはリリーフの整備が…」",
       "summary": "日本ハムは22日、ロッテとの試合（ZOZOマリン）に3－4で敗戦。先発・北山亘基が7回2失点の粘投で勝ち投手の権利をもって降板も、リリーフ陣が踏ん張ることが出来ずサヨナラ負けを喫した。21日放送のCSフジテレビONE『 […]",
@@ -107,16 +214,16 @@
       "summary": "＜DeNA1－4阪神＞◇21日◇横浜 DeNAが阪神に逆転負けを喫し、カード初戦を落とした。相川亮二監督（50）は「攻撃がなかなか（点を）取れないかたちになってしまった。（先発の）平良はしっかり投",
       "link": "https://news.yahoo.co.jp/articles/3c6e0c93c73f24fe92fad01d10be707d4172054b?source=rss",
       "pubDate": "2026-08-21T23:00:01.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
       "teams": [
         "baystars"
       ],
       "topics": [],
       "sources": [
         {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/3c6e0c93c73f24fe92fad01d10be707d4172054b?source=rss"
         }
       ]
@@ -353,11 +460,6 @@
           "name": "BASEBALL KING",
           "sourceId": "baseballking",
           "link": "https://baseballking.jp/ns/705033/"
-        },
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/767e159667a7ccedb8ac65800d4df716fc5dde45?source=rss"
         }
       ]
     },
@@ -77443,101 +77545,6 @@
           "name": "日刊スポーツ（Yahoo!ニュース経由）",
           "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/9a5f39faa4738fce5ca1d0e9af12d1293c2766c0?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【広島】斉藤優汰 ２者連続を含む３三振で滑り出し 再び得た先発機会で修正した姿を示す(日刊スポーツ)",
-      "summary": "＜DeNA－広島＞◇8日◇横浜 広島斉藤優汰投手（22）が5回2失点と先発の役割を果たした。7月22日巨人戦でプロ初勝利を挙げたが、前回1日中日戦は精彩を欠いて4回5失点。4イニングのうち3イニン",
-      "link": "https://news.yahoo.co.jp/articles/998abfbb25a63f8497f10cb4134dda01e7e2c811?source=rss",
-      "pubDate": "2026-08-08T10:55:41.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "carp"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/998abfbb25a63f8497f10cb4134dda01e7e2c811?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【中日】加藤匠馬が再昇格後初スタメンマスクで先制打「マラーをリードできるように頑張ります」(日刊スポーツ)",
-      "summary": "＜阪神－中日＞◇8日◇京セラドーム大阪 再昇格後初スタメンマスクの中日加藤匠馬捕手（34）が先制打を放ち、約4カ月ぶりの打点を記録した。2回2死一、二塁で阪神伊原の内角カットボールを振り抜くと、打",
-      "link": "https://news.yahoo.co.jp/articles/30412cba8c4da0824b0e0416b17922ea93c49e74?source=rss",
-      "pubDate": "2026-08-08T10:55:08.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "dragons"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/30412cba8c4da0824b0e0416b17922ea93c49e74?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【日本ハム】郡司裕也「自分の防具を今年初めて見ました」今季初めて本職の捕手に (日刊スポーツ)",
-      "summary": "＜日本ハム0－6楽天＞◇8日◇エスコンフィールド 日本ハム郡司裕也捕手（28）が今季初めて本職の捕手を務めた。7回に代打で出場し8回の守備からマスクを被り、3番手孫易磊を2イニング無失点リードした",
-      "link": "https://news.yahoo.co.jp/articles/b5f8c2aea5ba01febf28a57da80a4ab0eeb822a7?source=rss",
-      "pubDate": "2026-08-08T10:54:39.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "fighters"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/b5f8c2aea5ba01febf28a57da80a4ab0eeb822a7?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【ソフトバンク】「足が速いのは生まれつき」周東佑京 快足を飛ばし左翼前二塁打 一気に得点圏(日刊スポーツ)",
-      "summary": "＜西武－ソフトバンク＞◇8日◇ベルーナドーム ソフトバンク周東佑京外野手（30）が快足を飛ばし左翼前二塁打を放った。3回2死走者なし、3ボール1ストライクから西武先発隅田の外角144キロ直球を左翼",
-      "link": "https://news.yahoo.co.jp/articles/e04341ded0d69d052f56a10f618abafe8d01834c?source=rss",
-      "pubDate": "2026-08-08T10:52:11.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "hawks"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/e04341ded0d69d052f56a10f618abafe8d01834c?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【阪神】伊原陵人 味方失策も絡み５回途中５失点で降板 26歳初星を逃す(日刊スポーツ)",
-      "summary": "＜阪神－中日＞◇8日◇京セラドーム大阪 阪神の先発・伊原陵人投手（26）が味方失策も絡み、5回途中5失点で降板した。 2回2死一、二塁から加藤匠馬捕手（34）に先制の左前適時打を許した。続くカ",
-      "link": "https://news.yahoo.co.jp/articles/b9f774aaddf5d47d11dd5d3eff2b7801bab047dd?source=rss",
-      "pubDate": "2026-08-08T10:50:59.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "tigers"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/b9f774aaddf5d47d11dd5d3eff2b7801bab047dd?source=rss"
         }
       ]
     }
