@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-21T16:17:22.499Z",
+  "generatedAt": "2026-08-21T16:57:13.890Z",
   "count": 4000,
   "items": [
     {
@@ -395,16 +395,16 @@
       "summary": "＜楽天4－6西武＞◇21日◇楽天モバイル最強パーク 西武中村剛也内野手（43）が自身通算23本目の満塁本塁打を放った。プロ通算482号本塁打となった。 延長11回2死満塁、代打で登場すると楽",
       "link": "https://news.yahoo.co.jp/articles/ffe5f838219551e5f53f792580bad22922abdea9?source=rss",
       "pubDate": "2026-08-21T14:44:57.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
       "teams": [
         "lions"
       ],
       "topics": [],
       "sources": [
         {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/ffe5f838219551e5f53f792580bad22922abdea9?source=rss"
         }
       ]
