@@ -1,7 +1,29 @@
 {
-  "generatedAt": "2026-08-21T18:18:45.317Z",
+  "generatedAt": "2026-08-21T19:03:34.596Z",
   "count": 4000,
   "items": [
+    {
+      "title": "【オリックス】横山楓が右肘のトミー・ジョン手術 独特フォームで三振量産 救援右腕が完全復活へ決断(スポーツ報知)",
+      "summary": "オリックス・横山楓投手（２８）が右肘の内側側副靱帯再建術（通称トミー・ジョン手術）を受けたことが２１日、分かった。右肘の不調もあり、４月２４日に出場選手登録を抹消。一時は実戦復帰が迫るまで回復してい",
+      "link": "https://news.yahoo.co.jp/articles/91715dcef607b288e843028b6578a01abff75bc7?source=rss",
+      "pubDate": "2026-08-21T19:00:05.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "buffaloes"
+      ],
+      "topics": [
+        "injury",
+        "roster"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/91715dcef607b288e843028b6578a01abff75bc7?source=rss"
+        }
+      ]
+    },
     {
       "title": "阪神の「KKコンビ」不敗神話11連勝 6回・木下里都がテンポよく3人斬り 9回・工藤泰成が締めた3S(スポニチアネックス)",
       "summary": "◇セ・リーグ 阪神4─1DeNA（2026年8月21日 横浜） 阪神・木下と工藤の「KK」コンビが勝利のバトンをつないだ。 「良かったです。（気持ちは）いつもと一緒ですね。ゼロでいくだけなの",
@@ -338,16 +360,16 @@
       "summary": "＜楽天4－6西武＞◇21日◇楽天モバイル最強パーク 西武中村剛也内野手（43）が自身通算23本目の満塁本塁打を放った。 ▼西武中村剛が延長11回に今季1号となる代打満塁本塁打。満塁本塁打は21",
       "link": "https://news.yahoo.co.jp/articles/a516a5fddc4c4593f57eaab4eda25716a929d181?source=rss",
       "pubDate": "2026-08-21T14:51:20.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
       "teams": [
         "lions"
       ],
       "topics": [],
       "sources": [
         {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/a516a5fddc4c4593f57eaab4eda25716a929d181?source=rss"
         }
       ]
@@ -77489,25 +77511,6 @@
           "name": "日刊スポーツ（Yahoo!ニュース経由）",
           "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/a0c49792313f38d1257b74878036967cc092f0de?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "大矢氏「第1打席がすごい明暗を分ける」阪神・佐藤輝明の調子のバロメーター！？",
-      "summary": "7日にフジテレビONEで放送された『プロ野球ニュース2026』に出演した大矢明彦氏と斎藤雅樹氏が、阪神・佐藤輝明について言及した。 佐藤は同日の中日戦、0－0の初回二死三塁の第1打席、先発・髙橋宏斗が1ボール1ストラ […]",
-      "link": "https://baseballking.jp/ns/703702/",
-      "pubDate": "2026-08-08T02:00:00.000Z",
-      "source": "BASEBALL KING",
-      "sourceId": "baseballking",
-      "teams": [
-        "tigers"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "BASEBALL KING",
-          "sourceId": "baseballking",
-          "link": "https://baseballking.jp/ns/703702/"
         }
       ]
     }
