@@ -1,7 +1,88 @@
 {
-  "generatedAt": "2026-08-21T03:26:37.158Z",
+  "generatedAt": "2026-08-21T04:07:48.008Z",
   "count": 4000,
   "items": [
+    {
+      "title": "【ヤフコメで話題】「東海地方に新球団を」「中日ドラゴンズの現状に危機感」 - 地域野球市場の活性化を巡る議論(Yahoo!ニュース オリジナル THE PAGE)",
+      "summary": "中日ドラゴンズの低迷や球団運営への不満を背景に、Yahoo!ニュースのコメント欄で東海地方への新球団設立について話題になっています。 コメントでは、現状の中日ドラゴンズがファンの期待に応えられていない",
+      "link": "https://news.yahoo.co.jp/articles/3879413c085772153b48b087758a94c597930164?source=rss",
+      "pubDate": "2026-08-21T04:03:11.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "dragons"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/3879413c085772153b48b087758a94c597930164?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【巨人】ダルベック、シーズン規定打席到達まで残り「８」 右の助っ人打者で来日１年目の到達なら…ロペス以来球団１３年ぶり(スポーツ報知)",
+      "summary": "巨人のボビー・ダルベック内野手（３１）は１０７試合出場でチーム最多の４３５打席に立っており、シーズン規定の４４３打席まで残り８に迫っている。 打率２割５分６厘で、２０本塁打と６４打点はいずれもチ",
+      "link": "https://news.yahoo.co.jp/articles/f65ac13767691889b3428713fb7bdc6df14fb565?source=rss",
+      "pubDate": "2026-08-21T04:00:04.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "giants"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/f65ac13767691889b3428713fb7bdc6df14fb565?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "DeNA・藤浪晋太郎、1か月ぶり登板で乱調...2軍降格へ このままでは「来季の構想外」危機なのか(J-CASTニュース)",
+      "summary": "同一カード3連勝を狙う試合で、背信投球になってしまった。DeNA・藤浪晋太郎が2026年8月20日のDeNA戦（巨人）で今季最短の3回途中4安打3失点KO。4四球と課題の制球で苦しんだ。 ■「今の",
+      "link": "https://news.yahoo.co.jp/articles/a84c6a3fb343f9548c87a01f0af083d56020d0b3?source=rss",
+      "pubDate": "2026-08-21T04:00:00.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "baystars"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/a84c6a3fb343f9548c87a01f0af083d56020d0b3?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "今季こそスタメン定着へ…！巨人の\"高卒6年目野手\"がスタンド中段へ豪快弾 昇格後2本目と本領発揮(ベースボールチャンネル)",
+      "summary": "読売ジャイアンツの中山礼都選手は20日、敵地・横浜スタジアムで行われた横浜DeNAベイスターズ戦に「6番・右翼」で先発出場。5回にリードを4点に広げる第2号2ランホームランを放った。 5回、2死",
+      "link": "https://news.yahoo.co.jp/articles/01fe3cd68a94ea3da5a2be79462daa52450b5d47?source=rss",
+      "pubDate": "2026-08-21T03:45:02.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "giants"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/01fe3cd68a94ea3da5a2be79462daa52450b5d47?source=rss"
+        },
+        {
+          "name": "ベースボールチャンネル（プロ野球）",
+          "sourceId": "baseballchannel-npb",
+          "link": "https://www.baseballchannel.jp/npb/284934/"
+        }
+      ]
+    },
     {
       "title": "【巨人】「３３分の１１」はカード別最多 ２１日からの広島３連戦はハワード、代木大和、小笠原慎之介が先発予定 逆転Ｖへ首位・阪神と３差(スポーツ報知)",
       "summary": "◆ＪＥＲＡセ・リーグ 巨人―広島（２１日・東京Ｄ） 巨人は２１日から東京Ｄで広島との３連戦に臨む。 ここまで１１０試合で５８勝５０敗２分け貯金８で首位・阪神と３差の２位。 逆転優勝に向け各",
@@ -54,11 +135,6 @@
           "name": "BASEBALL KING",
           "sourceId": "baseballking",
           "link": "https://baseballking.jp/ns/704988/"
-        },
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/52244ac18d1b9af22f3c5a1f7612ee9164d0a6c9?source=rss"
         }
       ]
     },
@@ -67,16 +143,16 @@
       "summary": "ソフトバンク松本晴投手（25）が21日、みずほペイペイドームで行われた投手練習に“秘密兵器”を持ち込んだ。 「ポータブルピッチングマウンド」で投手板と傾斜が再現されている。「最近、遠征用で買いま",
       "link": "https://news.yahoo.co.jp/articles/8d287dadb17e952a74d59b7b0f41b003b1e0721e?source=rss",
       "pubDate": "2026-08-21T03:13:36.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
       "teams": [
         "hawks"
       ],
       "topics": [],
       "sources": [
         {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/8d287dadb17e952a74d59b7b0f41b003b1e0721e?source=rss"
         }
       ]
@@ -77401,86 +77477,6 @@
           "name": "Full-Count（プロ野球）",
           "sourceId": "full-count-npb",
           "link": "https://full-count.jp/2026/08/07/post2000571/"
-        }
-      ]
-    },
-    {
-      "title": "【西武】山田陽翔が体調不良で特例抹消の見込み オフの右肘手術から復帰しここまで４試合登板(日刊スポーツ)",
-      "summary": "西武山田陽翔投手（22）が7日、出場選手登録を抹消されることになった。関係者によると発熱を伴う体調不良で、特例抹消となる見込み。 山田は昨オフに右ひじ手術をし、7月中旬に1軍に合流。ここまで4試",
-      "link": "https://news.yahoo.co.jp/articles/51a1bf20bf83fdaa755daea6c75a17b163ce3976?source=rss",
-      "pubDate": "2026-08-07T07:01:03.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "lions"
-      ],
-      "topics": [
-        "injury",
-        "roster"
-      ],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/51a1bf20bf83fdaa755daea6c75a17b163ce3976?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "鈴木福「世界中の人が笑って暮らせる日」願う 「広島原爆の日」にピースナイターユニホーム(日刊スポーツ)",
-      "summary": "俳優鈴木福（22）が7日までにインスタグラムを更新。8月6日に81回目の「広島原爆の日」を迎え、思いをつづった。 鈴木は、広島カープが「ピースナイター」として開催した主催試合での、背番「86」の",
-      "link": "https://news.yahoo.co.jp/articles/1b50de43162fc17c36a6e7f5bab5213eedf3e7d4?source=rss",
-      "pubDate": "2026-08-07T06:36:41.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "carp"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/1b50de43162fc17c36a6e7f5bab5213eedf3e7d4?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【プレビュー】日本ハムは有薗直輝のバットに注目、同期のドラ1・達孝太を援護できるか、楽天はマッカスカーが打撃好調！元日本ハム・白村明弘氏が解説｜日本ハム×楽天｜プロ野球(DAZN News)",
-      "summary": "8月7日（金）、エスコンフィールド北海道で行われる北海道日本ハムファイターズ対東北楽天ゴールデンイーグルスの試合が行われる。「FRIDAY BASEBALL LIVE」としてDAZNで無料配信（要会員",
-      "link": "https://news.yahoo.co.jp/articles/7c7e87a24787c5b16cd9103703b4d61987ef53f7?source=rss",
-      "pubDate": "2026-08-07T06:36:28.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "fighters",
-        "eagles"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/7c7e87a24787c5b16cd9103703b4d61987ef53f7?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【オリックス】救援左腕・富山凌雅が今季初の１軍合流！ファーム直近５試合は無失点 ２１年は２０ホールドでリーグ制覇に貢献(スポーツ報知)",
-      "summary": "◆パ・リーグ ロッテ―オリックス（７日・ＺＯＺＯマリンスタジアム） オリックス・富山凌雅投手が７日、今季初の１軍合流を果たした。プロ８年目の今季はファーム・リーグで２６試合に登板し、１勝１敗、防御",
-      "link": "https://news.yahoo.co.jp/articles/c38c4839f40b58c687a0da9b0bc5207b890530fe?source=rss",
-      "pubDate": "2026-08-07T06:20:23.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "buffaloes"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/c38c4839f40b58c687a0da9b0bc5207b890530fe?source=rss"
         }
       ]
     }
