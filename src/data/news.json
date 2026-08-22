@@ -1,7 +1,85 @@
 {
-  "generatedAt": "2026-08-22T10:45:33.965Z",
+  "generatedAt": "2026-08-22T11:09:37.387Z",
   "count": 4000,
   "items": [
+    {
+      "title": "このまま出番なし…？オリックス、いまだ1軍出場ゼロの選手（5）待望の実戦復帰…故障がなければレギュラー級！？(ベースボールチャンネル)",
+      "summary": "後半戦に突入している2026年シーズンのプロ野球。今季も主力の故障や不調など、さまざまな要因で選手の入れ替えが行われ、多くの選手が一軍の舞台を経験している。一方で、故障やチーム事情などにより、ここま",
+      "link": "https://news.yahoo.co.jp/articles/2bf27baec8d7927bef6285f1dd49a239bd617478?source=rss",
+      "pubDate": "2026-08-22T11:02:02.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "buffaloes"
+      ],
+      "topics": [
+        "injury"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/2bf27baec8d7927bef6285f1dd49a239bd617478?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "日本ハム・新庄監督 午後6時55分の中止に「仕方ない」 智弁和歌山出身で“予告スクイズ”の細川に期待(スポニチアネックス)",
+      "summary": "◇パ・リーグ 日本ハム―ロッテ（2026年8月22日 ＺＯＺＯマリン） 日本ハム・新庄剛志監督(54)は、予定していたロッテ戦が開始時間を遅らせても天候が回復せず、午後6時55分に中止が決まった",
+      "link": "https://news.yahoo.co.jp/articles/9bedba5794ce854d22a47b3451436ce6ffdd05dc?source=rss",
+      "pubDate": "2026-08-22T10:51:33.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "fighters"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/9bedba5794ce854d22a47b3451436ce6ffdd05dc?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "大矢氏、セの優勝争いは「ジャイアンツがどのくらい頑張るか」、「その一点にかかっていますね」(ニッポン放送)",
+      "summary": "22日に放送された『ニッポン放送ショウアップナイター』で解説を務めた大矢明彦氏が、首位・阪神と2位・巨人のリーグ優勝争いについて展望した。 巨人は同日の広島戦に5－0で勝利し、阪神は横浜スタジアムで",
+      "link": "https://news.yahoo.co.jp/articles/1425b1e183479bcca4419063d04e70885f64792f?source=rss",
+      "pubDate": "2026-08-22T10:46:24.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "giants"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/1425b1e183479bcca4419063d04e70885f64792f?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【巨人】橋上監督代行〝初白星〟代木大和を絶賛 先発候補の台頭に「どんどん自信をつけてもらって」(東スポWEB)",
+      "summary": "巨人は22日の広島戦（東京ドーム）に5―0で快勝。2試合連続の完封勝利を収め、カード勝ち越しを決めた。 プロ初先発の代木大和投手（22）は5回無失点の好投。3回以外は各回で走者を背負ったものの、",
+      "link": "https://news.yahoo.co.jp/articles/9b0fdf6d1deab452982d63e93ddb86518baa8497?source=rss",
+      "pubDate": "2026-08-22T10:45:31.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "giants"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/9b0fdf6d1deab452982d63e93ddb86518baa8497?source=rss"
+        }
+      ]
+    },
     {
       "title": "【日本ハム】新庄ハム“恵みの雨”ゲリラ豪雨で雨天中止、新庄監督「中継ぎの選手が休める」２３日先発は予告通り有原(スポーツ報知)",
       "summary": "◆パ・リーグ ロッテ―日本ハム＝雨天中止＝（２２日・ＺＯＺＯマリン） 日本ハムは６月２日の広島戦（マツダ）以来、今季２度目の雨天中止となった。午後４時３０分頃から急激に雨脚が強まり、午後６時５５分",
@@ -66,16 +144,16 @@
       "summary": "＜巨人5－0広島＞◇22日◇東京ドーム 広島は2試合連続、今季14度目の0封負けで、再び最下位に転落した。プロ初先発の代木に5回無失点に抑えられ、プロ初勝利を献上。新井監督は「球は強いし、適度に荒",
       "link": "https://news.yahoo.co.jp/articles/8064b428735c8c74a8ce175a8fe3e07f26aff641?source=rss",
       "pubDate": "2026-08-22T10:37:31.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
       "teams": [
         "carp"
       ],
       "topics": [],
       "sources": [
         {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/8064b428735c8c74a8ce175a8fe3e07f26aff641?source=rss"
         }
       ]
@@ -85,16 +163,16 @@
       "summary": "＜DeNA－阪神＞◇22日◇横浜 降雨のため、阪神は今季13度目の中止となった。 この日の先発はプロ初勝利を目指す今朝丸裕喜投手（20）だったが、スライドせずに23日は高橋遥人投手（30）が予",
       "link": "https://news.yahoo.co.jp/articles/e2c78a7d94174cc8692fc37d08e2c8a55ba4e246?source=rss",
       "pubDate": "2026-08-22T10:36:35.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
       "teams": [
         "tigers"
       ],
       "topics": [],
       "sources": [
         {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/e2c78a7d94174cc8692fc37d08e2c8a55ba4e246?source=rss"
         }
       ]
@@ -104,16 +182,16 @@
       "summary": "＜巨人5－0広島＞◇22日◇東京ドーム プロ5年目の巨人代木大和投手（22）がプロ初先発で初勝利を挙げた。愛媛から駆けつけた家族が見守る東京ドームで気迫の投球を披露。76球を投げて最速152・1キ",
       "link": "https://news.yahoo.co.jp/articles/ed17f1399fbd22fb11f3049fc936f6e3d067ca21?source=rss",
       "pubDate": "2026-08-22T10:34:59.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
       "teams": [
         "giants"
       ],
       "topics": [],
       "sources": [
         {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/ed17f1399fbd22fb11f3049fc936f6e3d067ca21?source=rss"
         }
       ]
@@ -142,16 +220,16 @@
       "summary": "＜DeNA－阪神＞◇22日◇横浜 阪神今朝丸裕喜投手（20）が雨に泣いた。 7月15日中日戦（バンテリンドーム）以来の先発マウンドに上がる予定だったが、試合直前の大雨で中止に。「やっぱり悔しい",
       "link": "https://news.yahoo.co.jp/articles/290c96d99f6a49ebe7c250fffb04aeecafbd7c87?source=rss",
       "pubDate": "2026-08-22T10:29:11.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
       "teams": [
         "tigers"
       ],
       "topics": [],
       "sources": [
         {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/290c96d99f6a49ebe7c250fffb04aeecafbd7c87?source=rss"
         }
       ]
@@ -77447,83 +77525,6 @@
           "name": "BASEBALL KING",
           "sourceId": "baseballking",
           "link": "https://baseballking.jp/ns/703801/"
-        }
-      ]
-    },
-    {
-      "title": "まさかの”今季絶望”も！？ 長期離脱が確定した選手（3）覚醒目前の”スラッガー候補“だったが(ベースボールチャンネル)",
-      "summary": "レギュラーシーズン後半戦に突入した2026年のプロ野球。リーグ優勝をかけて熱戦が続いている中で、今シーズンも各球団でアクシデントが発生しており、早期復帰が難しくなった選手も少なくない。ここでは、今シ",
-      "link": "https://news.yahoo.co.jp/articles/d3b337e7998fc18a2ed837e69b265c5196d2ff70?source=rss",
-      "pubDate": "2026-08-08T23:00:14.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/d3b337e7998fc18a2ed837e69b265c5196d2ff70?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【ＮＰＢ今日の見どころ】今季最多貯金１１から借金生活突入のヤクルト 巨人に●なら２ケタ貯金から２ケタ借金へ(スポーツ報知)",
-      "summary": "☆巨人―ヤクルト（１４：００・東京ドーム）巨人＝小笠原、ヤクルト＝松本健 ヤクルトは７日に１―０、８日に２―８で巨人との今カードの成績を１勝１敗とした。今季の通算は４５勝５４敗１分けで、借金が９と",
-      "link": "https://news.yahoo.co.jp/articles/fd0a191322c8c2950ec2bba8c1699203c7e20062?source=rss",
-      "pubDate": "2026-08-08T23:00:07.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "swallows",
-        "giants"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/fd0a191322c8c2950ec2bba8c1699203c7e20062?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【DeNA】筒香嘉智「あの景色を見た時に勝てて良かったなって」７年ぶりサヨナラ打＆３位浮上(日刊スポーツ)",
-      "summary": "＜DeNA4－3広島＞◇8日◇横浜 主将の1発が4時間47分の激闘に終止符を打った。延長12回先頭。DeNA筒香嘉智内野手（34）が打席に向かった。カウント1－1から広島アドゥワの外角高めチェンジ",
-      "link": "https://news.yahoo.co.jp/articles/c4c32f53a65a553d20b46309a6455a7c4271a4de?source=rss",
-      "pubDate": "2026-08-08T23:00:02.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "baystars"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/c4c32f53a65a553d20b46309a6455a7c4271a4de?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "DeNA・馬場、勝利を呼び込む好リリーフ 辻発彦氏「いい勝ち星になりましたね」",
-      "summary": "8日にフジテレビONEで放送された『プロ野球ニュース2026』に出演した館山昌平氏と辻発彦氏が、同日の広島戦でリリーフ登板したDeNA・馬場皐輔について言及した。 移籍後初登板となった馬場は、3－3の11回に登板する […]",
-      "link": "https://baseballking.jp/ns/703799/",
-      "pubDate": "2026-08-08T23:00:00.000Z",
-      "source": "BASEBALL KING",
-      "sourceId": "baseballking",
-      "teams": [
-        "baystars"
-      ],
-      "topics": [
-        "trade"
-      ],
-      "sources": [
-        {
-          "name": "BASEBALL KING",
-          "sourceId": "baseballking",
-          "link": "https://baseballking.jp/ns/703799/"
         }
       ]
     }
