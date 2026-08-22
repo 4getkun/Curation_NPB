@@ -1,33 +1,12 @@
 {
-  "generatedAt": "2026-08-22T03:31:31.142Z",
+  "generatedAt": "2026-08-22T04:20:02.475Z",
   "count": 4000,
   "items": [
     {
-      "title": "【巨人】勝負の残り32試合へ大幅入れ替え敢行 キャベッジ再降格、支配下昇格の鈴木大和が１軍へ(日刊スポーツ)",
-      "summary": "＜巨人－広島＞◇22日◇東京ドーム 巨人トレイ・キャベッジ外野手（29）が出場選手登録を抹消された。1軍の試合前練習に姿を見せず、登録抹消が公示された。増田大輝内野手（33）も登録抹消となった。",
-      "link": "https://news.yahoo.co.jp/articles/97da3f50e20485b96d703b48d8e4841c0339fe67?source=rss",
-      "pubDate": "2026-08-22T03:30:02.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "giants"
-      ],
-      "topics": [
-        "roster"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/97da3f50e20485b96d703b48d8e4841c0339fe67?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "ヤクルト山田哲人、ソフトバンク中村晃ら登録 巨人キャベッジら抹消／22日公示(日刊スポーツ)",
-      "summary": "8月22日のプロ野球の出場選手登録と抹消は以下の通り。 【セ・リーグ】 ＜登録＞ 巨人 増田陸内野手 巨人 鈴木大和外野手 広島 玉村昇悟投手 ヤクルト 山田哲人内野手",
-      "link": "https://news.yahoo.co.jp/articles/d349f2d65422a0def508956852b061a0dd63c826?source=rss",
-      "pubDate": "2026-08-22T03:16:50.000Z",
+      "title": "【セパ公示】（２２日）ソフトバンクが中村晃ら登録 ヤクルトが山田哲人を登録、田口麗斗を抹消 (スポーツ報知)",
+      "summary": "◆ＪＥＲＡ セ・リーグ 【出場選手登録】 ▽巨人 増田陸内野手、鈴木大和外野手 ▽広島 玉村昇悟投手 ▽ヤクルト 山田哲人内野手 【出場選手登録抹消】 ▽巨人 増田大輝内野手",
+      "link": "https://news.yahoo.co.jp/articles/6adb48d9ef2198fb37cdecd49bb3a2266d6d58b7?source=rss",
+      "pubDate": "2026-08-22T03:53:23.000Z",
       "source": "Yahoo!ニュース スポーツ",
       "sourceId": "yahoo-sports",
       "teams": [],
@@ -38,6 +17,68 @@
         {
           "name": "Yahoo!ニュース スポーツ",
           "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/6adb48d9ef2198fb37cdecd49bb3a2266d6d58b7?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "期待通りの大活躍…巨人、今世紀最強のドラ1戦士（6）新人37S→54HPで最優秀中継ぎ…右肘痛で“戦線離脱”(ベースボールチャンネル)",
+      "summary": "プロ野球の世界では、ドラフト1位入団の選手には特に大きな期待が寄せられる。一方、その重圧を乗り越え、長年にわたって球界を代表する存在へ成長するのは容易ではない。読売ジャイアンツでも、ドラフト1位から",
+      "link": "https://news.yahoo.co.jp/articles/aa2b08b1dd226d9e82d165bd911c199ced5f5b5f?source=rss",
+      "pubDate": "2026-08-22T03:50:02.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "giants"
+      ],
+      "topics": [
+        "injury",
+        "draft"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/aa2b08b1dd226d9e82d165bd911c199ced5f5b5f?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【巨人】勝負の残り32試合へ大幅入れ替え敢行 キャベッジ再降格、支配下昇格の鈴木大和が１軍へ(日刊スポーツ)",
+      "summary": "＜巨人－広島＞◇22日◇東京ドーム 巨人トレイ・キャベッジ外野手（29）が出場選手登録を抹消された。1軍の試合前練習に姿を見せず、登録抹消が公示された。増田大輝内野手（33）も登録抹消となった。",
+      "link": "https://news.yahoo.co.jp/articles/97da3f50e20485b96d703b48d8e4841c0339fe67?source=rss",
+      "pubDate": "2026-08-22T03:30:02.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "giants"
+      ],
+      "topics": [
+        "roster"
+      ],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/97da3f50e20485b96d703b48d8e4841c0339fe67?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "ヤクルト山田哲人、ソフトバンク中村晃ら登録 巨人キャベッジら抹消／22日公示(日刊スポーツ)",
+      "summary": "8月22日のプロ野球の出場選手登録と抹消は以下の通り。 【セ・リーグ】 ＜登録＞ 巨人 増田陸内野手 巨人 鈴木大和外野手 広島 玉村昇悟投手 ヤクルト 山田哲人内野手",
+      "link": "https://news.yahoo.co.jp/articles/d349f2d65422a0def508956852b061a0dd63c826?source=rss",
+      "pubDate": "2026-08-22T03:16:50.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [],
+      "topics": [
+        "roster"
+      ],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/d349f2d65422a0def508956852b061a0dd63c826?source=rss"
         }
       ]
@@ -77498,44 +77539,6 @@
           "name": "Yahoo!ニュース スポーツ",
           "sourceId": "yahoo-sports",
           "link": "https://news.yahoo.co.jp/articles/02d24effe1dee23fe0867b74bd3af4867ae7624e?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【ソフトバンク】上茶谷大河が７回無失点好投も実らず ８回に松本裕樹が逆転２ラン浴びて黒星(スポーツ報知)",
-      "summary": "◆パ・リーグ 西武２―１ソフトバンク（８日・ベルーナドーム） ソフトバンクが西武に逆転負けした。 先発の上茶谷は７回無失点と好投。打線は谷川原が７回１死二塁で隅田から適時二塁打を放って先制した",
-      "link": "https://news.yahoo.co.jp/articles/6ecd547d5d5c6195943b938e4b0429353f72eb55?source=rss",
-      "pubDate": "2026-08-08T11:39:36.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "hawks"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/6ecd547d5d5c6195943b938e4b0429353f72eb55?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【西武】小島大河が逆転5号2ランで連敗を4で止める 拙攻続く負の流れを振り払う(日刊スポーツ)",
-      "summary": "＜西武2－1ソフトバンク＞◇8日◇ベルーナドーム 西武は小島大河捕手（22）の劇的な一振りで逆転勝ちした。0－1の8回2死二塁、ソフトバンク松本裕から右越えに5号2ランを放った。 充満する嫌な",
-      "link": "https://news.yahoo.co.jp/articles/3fd41df5367c5b4a55909bf5319a02ad1ae31583?source=rss",
-      "pubDate": "2026-08-08T11:38:51.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "lions"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/3fd41df5367c5b4a55909bf5319a02ad1ae31583?source=rss"
         }
       ]
     }
