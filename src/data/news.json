@@ -1,7 +1,28 @@
 {
-  "generatedAt": "2026-08-22T19:13:50.301Z",
+  "generatedAt": "2026-08-22T19:42:08.186Z",
   "count": 4000,
   "items": [
+    {
+      "title": "「すんごいの見たわ」エスコンに登場した筋肉モリモリ男の“キレッキレきつねダンス”に衝撃走る！「一番かわいい」「いろいろ仕上げてきたな」(THE DIGEST)",
+      "summary": "８月22日、エスコンフィールドで「UUUM DAY in Fビレッジ」が開催され、北海道日本ハムファイターズ、オリックス・バファローズ、阪神タイガースでプレーした糸井嘉男氏が“まさかの姿”で登場した",
+      "link": "https://news.yahoo.co.jp/articles/6f21bad1bcce702a6ebf24cfc54cb9da60dae110?source=rss",
+      "pubDate": "2026-08-22T19:14:00.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "fighters",
+        "buffaloes",
+        "tigers"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/6f21bad1bcce702a6ebf24cfc54cb9da60dae110?source=rss"
+        }
+      ]
+    },
     {
       "title": "【西武】古賀悠斗が連勝導く決勝適時二塁打 ネビンの勝負強さ低調の中で大事な５番の仕事果たす(日刊スポーツ)",
       "summary": "＜楽天0－2西武＞◇22日◇楽天モバイル最強パーク 西武古賀悠斗捕手（26）が決勝打を放って、4カード連続勝ち越しに貢献した。「隅田がすごくいい投球をしていたので、勝ちを付けたい気持ちで打席に入り",
@@ -77488,25 +77509,6 @@
           "name": "日刊スポーツ（Yahoo!ニュース経由）",
           "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/8ac0228caea6aadba5b0e4486c3a986582dd84b8?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【セパ公示】（９日）阪神が木浪聖也を登録し立石正広を抹消 西武が山村崇嘉、茶野篤政を登録、若林楽人、林安可を抹消(スポーツ報知)",
-      "summary": "◆ＪＥＲＡ セ・リーグ 【出場選手登録】 ▽阪神 木浪聖也内野手 ▽ＤｅＮＡ 片山皓心投手 【出場選手登録抹消】 ▽阪神 立石正広内野手 ◆パ・リーグ 【出場選手登録】",
-      "link": "https://news.yahoo.co.jp/articles/3dd98d3e97a087ca2fb340d124523d0561e29750?source=rss",
-      "pubDate": "2026-08-09T07:16:01.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [],
-      "topics": [
-        "roster"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/3dd98d3e97a087ca2fb340d124523d0561e29750?source=rss"
         }
       ]
     }
