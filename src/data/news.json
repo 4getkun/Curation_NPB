@@ -1,7 +1,129 @@
 {
-  "generatedAt": "2026-08-22T22:08:39.676Z",
+  "generatedAt": "2026-08-22T22:43:57.103Z",
   "count": 4000,
   "items": [
+    {
+      "title": "巨人・マルティネス、東京D通算50S達成 館山氏「移籍してこれだけの数字を残すのは素晴らしい」",
+      "summary": "22日にフジテレビONEで放送された『プロ野球ニュース2026』に出演した館山昌平氏と片岡篤史氏が、巨人・マルティネスについて言及した。 マルティネスは同日の広島戦、5－0の9回二死満塁の場面に登板し、菊池涼介を左飛 […]",
+      "link": "https://baseballking.jp/ns/705156/",
+      "pubDate": "2026-08-22T22:40:00.000Z",
+      "source": "BASEBALL KING",
+      "sourceId": "baseballking",
+      "teams": [
+        "giants"
+      ],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "BASEBALL KING",
+          "sourceId": "baseballking",
+          "link": "https://baseballking.jp/ns/705156/"
+        },
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/56570755a3333d8a2a60b533f74cb729387a3960?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "ソフトバンク・栗原と近藤が熾烈な打点王争い 館山氏「かなりハイレベルな戦い」",
+      "summary": "22日にフジテレビONEで放送された『プロ野球ニュース2026』に出演した片岡篤史氏と館山昌平氏が、打点王を争うソフトバンク・栗原陵矢と近藤健介について言及した。 現在栗原がリーグトップの91打点、次いで近藤が90打 […]",
+      "link": "https://baseballking.jp/ns/705148/",
+      "pubDate": "2026-08-22T22:30:00.000Z",
+      "source": "BASEBALL KING",
+      "sourceId": "baseballking",
+      "teams": [
+        "hawks"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "BASEBALL KING",
+          "sourceId": "baseballking",
+          "link": "https://baseballking.jp/ns/705148/"
+        },
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/19fabe076b602f97eb860ce266755955ccd1c386?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "初球をいきなりスタンドへ…！広島の苦しむ”ドラ1ルーキー”が先頭打者ホームラン 1軍昇格へ猛アピール(ベースボールチャンネル)",
+      "summary": "広島東洋カープの平川蓮は22日、ほっともっとフィールド神戸で行われたファーム・リーグのオリックス・バファローズ戦に「1番・中堅」で先発出場。初回の第1打席で先頭打者本塁打を放った。 試合開始直後",
+      "link": "https://news.yahoo.co.jp/articles/0545b4a6ecbc03d88f03ba7094cb88a94f12fa96?source=rss",
+      "pubDate": "2026-08-22T22:20:31.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "carp"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/0545b4a6ecbc03d88f03ba7094cb88a94f12fa96?source=rss"
+        },
+        {
+          "name": "ベースボールチャンネル（プロ野球）",
+          "sourceId": "baseballchannel-npb",
+          "link": "https://www.baseballchannel.jp/npb/285407/"
+        }
+      ]
+    },
+    {
+      "title": "巨人・松本剛の打つ時の表情に注目！？館山氏「ボールを打つ前にニヤッとする」、「この表情は状態が良い証拠」",
+      "summary": "22日にフジテレビONEで放送された『プロ野球ニュース2026』に出演した片岡篤史氏と館山昌平氏が、巨人・松本剛について言及した。 松本は同日の広島戦、『6番・レフト』でスタメン出場し、4回に先制の第3号2ランを含む […]",
+      "link": "https://baseballking.jp/ns/705133/",
+      "pubDate": "2026-08-22T22:20:00.000Z",
+      "source": "BASEBALL KING",
+      "sourceId": "baseballking",
+      "teams": [
+        "giants"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "BASEBALL KING",
+          "sourceId": "baseballking",
+          "link": "https://baseballking.jp/ns/705133/"
+        },
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/0d573009dbdb70b69908c6344ae453362dc4f268?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "ヤクルト、リリーフ陣が踏ん張れずサヨナラ負けで4位転落 館山氏「今は絶対的なクローザーがいなくて…」",
+      "summary": "22日にフジテレビONEで放送された『プロ野球ニュース2026』に出演した片岡篤史氏と館山昌平氏が、中日に敗れ4位に転落したヤクルトについて言及した。 ヤクルトは2－3の8回にモンテル、赤羽由紘の適時打で4－3と逆転 […]",
+      "link": "https://baseballking.jp/ns/705137/",
+      "pubDate": "2026-08-22T22:10:00.000Z",
+      "source": "BASEBALL KING",
+      "sourceId": "baseballking",
+      "teams": [
+        "swallows"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "BASEBALL KING",
+          "sourceId": "baseballking",
+          "link": "https://baseballking.jp/ns/705137/"
+        },
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/648520ab48024c6fb133ca7a4406275e5ce16a4e?source=rss"
+        }
+      ]
+    },
     {
       "title": "珍しい“中学部活動”の硬式野球チーム 同じ敷地で6年間…「四六時中一緒にいる」強み(Full-Count)",
       "summary": "同じ仲間たちと6年間、ともに過ごせるからこそのメリットがある。8月11日〜17日に開催された、中学硬式野球の日本一を決める「第20回全日本中学野球選手権記念大会 ジャイアンツカップ」で、青森山田リト",
@@ -45,16 +167,16 @@
       "summary": "巨人は21日が5投手、22日が6投手のリレーで完封勝ち。巨人が同一カード3連戦で3試合連続完封勝ちすれば25年6月27～29日DeNA戦以来だが、広島戦でマークすれば74年8月20～22日以来、2度",
       "link": "https://news.yahoo.co.jp/articles/a3c663434deff25940075769ed21fbb932bd7bd8?source=rss",
       "pubDate": "2026-08-22T22:00:01.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
       "teams": [
         "giants"
       ],
       "topics": [],
       "sources": [
         {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/a3c663434deff25940075769ed21fbb932bd7bd8?source=rss"
         }
       ]
@@ -64,16 +186,16 @@
       "summary": "＜＃lovefighters＞ 日本ハム大ファンのつばきファクトリー谷本安美、元ファイターズガール工藤彩音、タレント花咲楓香が週替わりでコラムに登場します。 ◇ ◇ ◇ 15",
       "link": "https://news.yahoo.co.jp/articles/73e6aedf5231fd0d6d3373e3b42163f7d5d46a4e?source=rss",
       "pubDate": "2026-08-22T22:00:00.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
       "teams": [
         "fighters"
       ],
       "topics": [],
       "sources": [
         {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/73e6aedf5231fd0d6d3373e3b42163f7d5d46a4e?source=rss"
         }
       ]
@@ -77424,101 +77546,6 @@
           "name": "日刊スポーツ（Yahoo!ニュース経由）",
           "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/dc13c07c0388834844a766fb9fa77df9354c877c?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【日本ハム】失恋告白の万波中正「『恋も野球も』なんでそれ直してきてください」ボードに物申す(日刊スポーツ)",
-      "summary": "＜日本ハム1－0楽天＞◇9日◇エスコンフィールド 決勝打を放った日本ハム万波中正外野手（26）が、お立ち台で、恋も野球も欲張り宣言だ。 7月29日の球宴第1戦で大型ビジョンを通じて自身が失恋し",
-      "link": "https://news.yahoo.co.jp/articles/c7fa9681a8a209c16e7fa2b2ee3953033f9287c1?source=rss",
-      "pubDate": "2026-08-09T10:25:32.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "fighters"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/c7fa9681a8a209c16e7fa2b2ee3953033f9287c1?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【阪神】超ビッグマッチの前夜祭 伊藤将司と柳裕也の同門対決「後輩たちは」「負けられない」(日刊スポーツ)",
-      "summary": "＜阪神－中日＞◇9日◇京セラドーム大阪 両先発はともに横浜高のOBだ。 中日柳裕也投手（32）が阪神伊藤将司投手（30）の2学年上。伊藤将にとって親交も深く、敬愛する先輩だ。23年に2度対戦が",
-      "link": "https://news.yahoo.co.jp/articles/488aaf44aa2e01a5c188140ee85875b6d824879a?source=rss",
-      "pubDate": "2026-08-09T10:24:03.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "tigers"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/488aaf44aa2e01a5c188140ee85875b6d824879a?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【ヤクルト】池山監督「もう一度みんなで力を合わせて頑張っていかないと」後半戦１勝８敗(日刊スポーツ)",
-      "summary": "＜巨人7－3ヤクルト＞◇9日◇東京ドーム ヤクルトは連敗で、球宴後の後半戦開幕から3カード連続負け越しで1勝8敗。8月は5度目の逆転負けとなり、借金は今季最多10。4回表にモンテルの犠飛、鈴木叶の",
-      "link": "https://news.yahoo.co.jp/articles/94d17b0d3f1115c030cccbb815840d809cf0b3c0?source=rss",
-      "pubDate": "2026-08-09T10:12:01.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "swallows"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/94d17b0d3f1115c030cccbb815840d809cf0b3c0?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【日本ハム】新庄スペシャル炸裂、２安打勝利呼んだ今季初の作戦に五十畑「迷わず行きました」(日刊スポーツ)",
-      "summary": "＜日本ハム1－0楽天＞◇9日◇エスコンフィールド “新庄スペシャル”が、ここぞの場面で見事に決まった。日本ハムが、たった2安打での痛快勝利で、2カードぶりの勝ち越し。「完璧です」と、新庄剛志監督（",
-      "link": "https://news.yahoo.co.jp/articles/fe4ce0c7c0b9ea0298bd6ac60a24ddedef12f405?source=rss",
-      "pubDate": "2026-08-09T10:11:19.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "fighters"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/fe4ce0c7c0b9ea0298bd6ac60a24ddedef12f405?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【ソフトバンク】近藤健介、自身の33歳バースデー祝う24号ソロ「いいアプローチができた」(日刊スポーツ)",
-      "summary": "ソフトバンク近藤健介外野手（33）が2回に自身の33歳バースデーを祝う24号ソロを放った。2回、先頭で打席に立つと1ストライクから「スライダーに対していいアプローチができた」と、西武武内の2球目スラ",
-      "link": "https://news.yahoo.co.jp/articles/c5d1a5952670d111439e461c1cd17d10b48a922d?source=rss",
-      "pubDate": "2026-08-09T10:05:44.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "hawks"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/c5d1a5952670d111439e461c1cd17d10b48a922d?source=rss"
         }
       ]
     }
