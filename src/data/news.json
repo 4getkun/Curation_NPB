@@ -1,7 +1,26 @@
 {
-  "generatedAt": "2026-08-22T13:48:56.857Z",
+  "generatedAt": "2026-08-22T14:09:19.073Z",
   "count": 4000,
   "items": [
+    {
+      "title": "【西武】古賀悠斗が連勝導く決勝適時二塁打 ネビンの勝負強さ低調の中で大事な５番の仕事果たす(日刊スポーツ)",
+      "summary": "＜楽天0－2西武＞◇22日◇楽天モバイル最強パーク 西武古賀悠斗捕手（26）が決勝打を放って、4カード連続勝ち越しに貢献した。「隅田がすごくいい投球をしていたので、勝ちを付けたい気持ちで打席に入り",
+      "link": "https://news.yahoo.co.jp/articles/7e2400c75ea22a05ad4ae3576bbef8bc2691488b?source=rss",
+      "pubDate": "2026-08-22T13:54:45.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "lions"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/7e2400c75ea22a05ad4ae3576bbef8bc2691488b?source=rss"
+        }
+      ]
+    },
     {
       "title": "【楽天】吉井理人監督、７回無失点の早川隆久に「結果から見たら最高のピッチング」(日刊スポーツ)",
       "summary": "＜楽天0－2西武＞◇22日◇楽天モバイル最強パーク 楽天は散発3安打で西武に完封リレーを決められ、3連敗を喫した。借金は今季最多タイの23となった。 先発の早川隆久投手（28）は7回100球、",
@@ -142,8 +161,8 @@
       "summary": "＜巨人5－0広島＞◇22日◇東京ドーム プロ5年目の巨人代木大和投手（22）がプロ初先発で初勝利を挙げた。愛媛から駆けつけた家族が見守る東京ドームで気迫の投球を披露。76球を投げて最速152・1キ",
       "link": "https://news.yahoo.co.jp/articles/a0294564c99d1977aa8b9e94fc48a056091b2bae?source=rss",
       "pubDate": "2026-08-22T13:13:19.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
       "teams": [
         "giants"
       ],
@@ -152,8 +171,8 @@
       ],
       "sources": [
         {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/a0294564c99d1977aa8b9e94fc48a056091b2bae?source=rss"
         }
       ]
@@ -163,16 +182,16 @@
       "summary": "＜楽天0－2西武＞◇22日◇楽天モバイル最強パーク 楽天早川隆久投手（28）は西武隅田との投手戦で力投も報われなかった。 初回は10球で3者凡退に封じると、4回1死一、二塁では狙い通りに古賀悠",
       "link": "https://news.yahoo.co.jp/articles/13040437850b7d1fb9bd2039734e5b5874e45e44?source=rss",
       "pubDate": "2026-08-22T13:06:13.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
       "teams": [
         "eagles"
       ],
       "topics": [],
       "sources": [
         {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/13040437850b7d1fb9bd2039734e5b5874e45e44?source=rss"
         }
       ]
@@ -77488,27 +77507,6 @@
           "name": "Yahoo!ニュース スポーツ",
           "sourceId": "yahoo-sports",
           "link": "https://news.yahoo.co.jp/articles/3dd98d3e97a087ca2fb340d124523d0561e29750?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【オリックス】21年目の平野佳寿が今季限りで現役引退 日米通算258セーブの42歳(東スポWEB)",
-      "summary": "オリックスは9日、平野佳寿投手（42）の今季限りでの現役引退を発表した。プロ21年目の平野は日米通算258セーブの実績を持ち、昨年4月に史上4人目のNPB通算250セーブを達成していた。近年は精彩を",
-      "link": "https://news.yahoo.co.jp/articles/6cccc2fec759bbbb3de1cec9c1e8141c4590c572?source=rss",
-      "pubDate": "2026-08-09T07:15:42.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "buffaloes"
-      ],
-      "topics": [
-        "retirement"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/6cccc2fec759bbbb3de1cec9c1e8141c4590c572?source=rss"
         }
       ]
     }
