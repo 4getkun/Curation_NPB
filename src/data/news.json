@@ -1,7 +1,52 @@
 {
-  "generatedAt": "2026-08-23T22:09:02.455Z",
+  "generatedAt": "2026-08-23T22:43:58.407Z",
   "count": 4000,
   "items": [
+    {
+      "title": "獲得失敗だった！？中日、期待外れに終わったトレード戦士（6）西武ドラ1の逸材も…ドラゴンズでは出場なく(ベースボールチャンネル)",
+      "summary": "プロ野球では、選手がトレードをきっかけに復活を遂げたり、新天地で才能を開花させたりするケースも少なくない。一方で、移籍後も本来の実力を発揮できず、期待された役割を果たせないままチームを離れた選手もい",
+      "link": "https://news.yahoo.co.jp/articles/a312dbd09971d4127f387f40497539121eb3ad1c?source=rss",
+      "pubDate": "2026-08-23T22:31:16.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "dragons"
+      ],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/a312dbd09971d4127f387f40497539121eb3ad1c?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "引っ張って豪快アーチ…！西武の”ベテランユーティリティ”が4号ソロホームラン 2軍降格後3本塁打(ベースボールチャンネル)",
+      "summary": "埼玉西武ライオンズの外崎修汰は23日、戸田球場で行われたファーム交流戦の東京ヤクルトスワローズ戦に「6番・二塁」で先発出場。9回に今季ファーム第4号となるソロ本塁打を放った。 反撃の口火を切る一",
+      "link": "https://news.yahoo.co.jp/articles/80d74d99f47a325fc3c760d873f9636b67cfb565?source=rss",
+      "pubDate": "2026-08-23T22:20:41.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "lions"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/80d74d99f47a325fc3c760d873f9636b67cfb565?source=rss"
+        },
+        {
+          "name": "ベースボールチャンネル（プロ野球）",
+          "sourceId": "baseballchannel-npb",
+          "link": "https://www.baseballchannel.jp/npb/285482/"
+        }
+      ]
+    },
     {
       "title": "かなりマズイ…プロで伸び悩む元有望株（1）巨人に電撃移籍も…いまだ”出番なし”で…？(ベースボールチャンネル)",
       "summary": "高卒でプロ入りした選手には、将来性への大きな期待が寄せられる。しかし、成長のスピードや環境、故障などさまざまな要因により、その期待に応えられないままキャリアに停滞感が漂うケースも少なくない。ここでは",
@@ -40,11 +85,6 @@
           "name": "BASEBALL KING",
           "sourceId": "baseballking",
           "link": "https://baseballking.jp/ns/705265/"
-        },
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/809b3e26ef26ec13fcf8a5030bf0a125ca7dd227?source=rss"
         }
       ]
     },
@@ -53,16 +93,16 @@
       "summary": "コラム「滝谷美夢のみゆダイアリー」。23年までファイターズガールの中心メンバーとして活躍し、タレント活動、Fビレッジアンバサダーとして挑戦を続ける滝谷美夢（27）のオリジナルコラムです。",
       "link": "https://news.yahoo.co.jp/articles/f8b9e9ee051d1040a5523554d6cc2423fa6bf23c?source=rss",
       "pubDate": "2026-08-23T22:00:00.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
       "teams": [
         "fighters"
       ],
       "topics": [],
       "sources": [
         {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/f8b9e9ee051d1040a5523554d6cc2423fa6bf23c?source=rss"
         }
       ]
@@ -104,11 +144,6 @@
           "name": "BASEBALL KING",
           "sourceId": "baseballking",
           "link": "https://baseballking.jp/ns/705252/"
-        },
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/9e945989e549298bc77491093c93c8186f2831ef?source=rss"
         }
       ]
     },
@@ -130,11 +165,6 @@
           "name": "Full-Count（プロ野球）",
           "sourceId": "full-count-npb",
           "link": "https://full-count.jp/2026/08/24/post2007122/"
-        },
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/1abd31b7bcb642bab93bf32bc7bdb71ba3980830?source=rss"
         }
       ]
     },
@@ -155,11 +185,6 @@
           "name": "BASEBALL KING",
           "sourceId": "baseballking",
           "link": "https://baseballking.jp/ns/705224/"
-        },
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/28814bb39492726815e57cf78e7806f5b95a0ac4?source=rss"
         }
       ]
     },
@@ -77466,44 +77491,6 @@
           "name": "日刊スポーツ（Yahoo!ニュース経由）",
           "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/612775443934fbe1fb94f43d9ec32dcba8674de6?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【ロッテ】えっ？サブロー監督リクエストがまさかの結末 ソフトバンク牧原大成の三塁打を本塁打に(日刊スポーツ)",
-      "summary": "＜ソフトバンク－ロッテ＞◇11日◇みずほペイペイドーム まさかの珍事が起こった。ロッテはサブロー監督（50）のリクエストでソフトバンク牧原大の三塁打を本塁打にアシストしてしまう形になった。 初",
-      "link": "https://news.yahoo.co.jp/articles/8f7d40253b2f12c805f18c4aea5a72f84abfeeaa?source=rss",
-      "pubDate": "2026-08-11T05:46:54.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "marines"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/8f7d40253b2f12c805f18c4aea5a72f84abfeeaa?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "1軍復帰も近い…？！中日の”万能外野手”が復調感じさせる一打 巧みなリストで適時二塁打【ファーム】",
-      "summary": "中日ドラゴンズの上林誠知は11日、ナゴヤ球場で行われたファーム・リーグ中地区17回戦、横浜DeNAベイスターズ戦に「3番・中堅」でスタメン出場。5回に外野フェンスまで運ぶタイムリーツーベースを放った。",
-      "link": "https://www.baseballchannel.jp/npb/281734/",
-      "pubDate": "2026-08-11T05:45:38.000Z",
-      "source": "ベースボールチャンネル（プロ野球）",
-      "sourceId": "baseballchannel-npb",
-      "teams": [
-        "dragons"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "ベースボールチャンネル（プロ野球）",
-          "sourceId": "baseballchannel-npb",
-          "link": "https://www.baseballchannel.jp/npb/281734/"
         }
       ]
     }
