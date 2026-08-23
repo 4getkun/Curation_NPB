@@ -1,22 +1,206 @@
 {
-  "generatedAt": "2026-08-23T02:16:21.858Z",
+  "generatedAt": "2026-08-23T03:26:27.058Z",
   "count": 4000,
   "items": [
     {
-      "title": "【阪神】大竹耕太郎が２軍ソフトバンク戦で６回２安打無失点の快投 26日以降に再登録可能(日刊スポーツ)",
-      "summary": "＜ファームリーグ西地区：阪神0－0ソフトバンク＞◇22日◇SGL 阪神大竹耕太郎投手（31）が2軍ソフトバンク戦で快投した。6回86球を投じて2安打無失点、5奪三振。3回から6回はパーフェクトに抑",
-      "link": "https://news.yahoo.co.jp/articles/67208cd250c655cd03b02e8fd657f255d400244f?source=rss",
-      "pubDate": "2026-08-23T02:14:56.000Z",
+      "title": "【巨人】平山功太「もう１回スタートという気持ちで」待望の１軍合流「強い心を持ってやりたい」(日刊スポーツ)",
+      "summary": "＜巨人－広島＞◇23日◇東京ドーム 巨人平山功太内野手（22）が1軍登録された。 平山は今季4月に支配下登録され、1軍デビューを果たした。存在感を示していたが、左太ももの肉離れで5月23日に登",
+      "link": "https://news.yahoo.co.jp/articles/d68ff8860519cb2697ac27b8075ba6f8f5cd5f09?source=rss",
+      "pubDate": "2026-08-23T03:24:34.000Z",
       "source": "Yahoo!ニュース スポーツ",
       "sourceId": "yahoo-sports",
       "teams": [
-        "tigers"
+        "giants"
+      ],
+      "topics": [
+        "injury",
+        "roster"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/d68ff8860519cb2697ac27b8075ba6f8f5cd5f09?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【巨人】４選手を入れ替え 則本昂大と平山功太を1軍登録 代木大和と笹原操希を抹消(日刊スポーツ)",
+      "summary": "＜巨人－広島＞◇23日◇東京ドーム 巨人則本昂大投手（35）と平山功太内野手（22）が1軍登録された。ともにこの日から1軍に合流し、東京ドームでの試合前練習に参加していた。 則本は今季、1軍9",
+      "link": "https://news.yahoo.co.jp/articles/baf77417a9458f393371b4e9f3ed3d6bd4b890e3?source=rss",
+      "pubDate": "2026-08-23T03:24:11.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "giants"
       ],
       "topics": [],
       "sources": [
         {
           "name": "Yahoo!ニュース スポーツ",
           "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/baf77417a9458f393371b4e9f3ed3d6bd4b890e3?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "西武・武内夏暉が「腰の張り」で先発回避 代役は佐藤爽(スポニチアネックス)",
+      "summary": "◇パ・リーグ 西武－楽天（2026年8月23日 楽天モバイル 最強パーク） 23日の楽天戦に先発予定だった武内夏暉投手（25）が「腰の張り」で先発を回避し、佐藤爽投手（23）に変更された。",
+      "link": "https://news.yahoo.co.jp/articles/e4058f3685051b104043dd15c9e17dd119d3fad7?source=rss",
+      "pubDate": "2026-08-23T03:24:02.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "lions"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/e4058f3685051b104043dd15c9e17dd119d3fad7?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "巨人・平山功太が3カ月ぶりに1軍復帰「自分が優勝させるんだっていう気持ち」(スポニチアネックス)",
+      "summary": "巨人・平山功太内野手が23日、出場選手登録され3カ月ぶりに1軍復帰した。試合前は打撃や走塁練習に加えて右翼でのノック受け「もう自分の長所を出せるのが一番ですけど、ラストチャンスをもらえたと思ってるん",
+      "link": "https://news.yahoo.co.jp/articles/1c6e50004843f3c84e533d7a35667e8315df8777?source=rss",
+      "pubDate": "2026-08-23T03:15:22.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "giants"
+      ],
+      "topics": [
+        "roster"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/1c6e50004843f3c84e533d7a35667e8315df8777?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "巨人・平山功太、則本昂大が1軍合流 平山「自分が優勝させるんだという気持ちで来た」(サンケイスポーツ)",
+      "summary": "（セ・リーグ、巨人－広島、17回戦、23日、東京D）巨人の平山功太外野手（22）が約3か月ぶりに出場選手登録された。則本昂大投手（35）も登録され、22日にプロ初勝利を挙げた代木大和投手（22）、笹原",
+      "link": "https://news.yahoo.co.jp/articles/7aa922eb3c6408882d46b9de8edc4bc6c0bdb122?source=rss",
+      "pubDate": "2026-08-23T03:14:54.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "giants"
+      ],
+      "topics": [
+        "roster"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/7aa922eb3c6408882d46b9de8edc4bc6c0bdb122?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【西武】予告先発が武内夏暉から佐藤爽に変更 背中の張りのため回避(スポーツ報知)",
+      "summary": "◆パ・リーグ 楽天ー西武（２３日・楽天モバイル最強パーク宮城） ＮＰＢは２３日、西武の予告先発が武内夏暉投手から佐藤爽投手に変更になったと発表した。武内の背中の張りのため。 武内は前日２２日の",
+      "link": "https://news.yahoo.co.jp/articles/e9cda8b3b17c53afc25e4c32e46528d19ea92fa2?source=rss",
+      "pubDate": "2026-08-23T03:07:33.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "lions"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/e9cda8b3b17c53afc25e4c32e46528d19ea92fa2?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【巨人】２日間で計８人の入れ替え 則本昂大と平山功太が昇格 前日は増田陸と鈴木大和が出場選手登録(スポーツ報知)",
+      "summary": "◆ＪＥＲＡセ・リーグ 巨人―広島（２３日・東京ドーム） 巨人が４人の入れ替えを行った。則本昂大投手と平山功太内野手が出場選手登録され、代木大和投手と笹原操希外野手が登録を抹消された。前日２２日は増",
+      "link": "https://news.yahoo.co.jp/articles/a6813e6f7979fcc810d9a8a3bf9208eb4ddd10f1?source=rss",
+      "pubDate": "2026-08-23T03:04:22.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "giants"
+      ],
+      "topics": [
+        "roster"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/a6813e6f7979fcc810d9a8a3bf9208eb4ddd10f1?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "獲得失敗だった！？中日、期待外れに終わったトレード戦士（5）前年は自己最多アーチ…移籍後は本塁打ゼロに(ベースボールチャンネル)",
+      "summary": "プロ野球では、選手がトレードをきっかけに復活を遂げたり、新天地で才能を開花させたりするケースも少なくない。一方で、移籍後も本来の実力を発揮できず、期待された役割を果たせないままチームを離れた選手もい",
+      "link": "https://news.yahoo.co.jp/articles/ea68824f4de928f0d0f0e9dd92db57ec053c2412?source=rss",
+      "pubDate": "2026-08-23T03:01:37.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "dragons"
+      ],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/ea68824f4de928f0d0f0e9dd92db57ec053c2412?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "西武・篠原響「三振を取れる=投手の力」 高卒2年目右腕が追い求めるさらなる高み／2年目の命運(週刊ベースボールONLINE)",
+      "summary": "昨年高卒ドラフト5位で入団した篠原響に対して首脳陣から「ものすごいポテンシャルの持ち主」「今後が楽しみ」など早々から賛辞が絶えなかった。とはいえ、勝利が最優先となる一軍の試合で投げるには打球処理、体",
+      "link": "https://news.yahoo.co.jp/articles/99f3b4085e0c51e1e942e1d23480ea547e414629?source=rss",
+      "pubDate": "2026-08-23T03:01:00.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "lions"
+      ],
+      "topics": [
+        "draft"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/99f3b4085e0c51e1e942e1d23480ea547e414629?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【阪神】大竹耕太郎が２軍ソフトバンク戦で６回２安打無失点の快投 26日以降に再登録可能(日刊スポーツ)",
+      "summary": "＜ファームリーグ西地区：阪神0－0ソフトバンク＞◇22日◇SGL 阪神大竹耕太郎投手（31）が2軍ソフトバンク戦で快投した。6回86球を投じて2安打無失点、5奪三振。3回から6回はパーフェクトに抑",
+      "link": "https://news.yahoo.co.jp/articles/67208cd250c655cd03b02e8fd657f255d400244f?source=rss",
+      "pubDate": "2026-08-23T02:14:56.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "tigers"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/67208cd250c655cd03b02e8fd657f255d400244f?source=rss"
         }
       ]
@@ -43,20 +227,20 @@
       ]
     },
     {
-      "title": "オリックス本田仁海を抹消／23日公示(日刊スポーツ)",
-      "summary": "8月23日のプロ野球の出場選手登録と抹消は以下の通り。 【パ・リーグ】 ＜登録＞ なし ＜抹消＞ オリックス 本田仁海投手 ※再登録は9月2日以降 ※11：01現在",
+      "title": "巨人則本昂大、平山功太を登録 ヤクルト増居翔太、オリックス本田仁海ら抹消／23日公示(日刊スポーツ)",
+      "summary": "8月23日のプロ野球の出場選手登録と抹消は以下の通り。 【セ・リーグ】 ＜登録＞ 巨人 則本昂大投手 巨人 平山功太内野手 ＜抹消＞ 巨人 代木大和投手 巨人 笹原操希外",
       "link": "https://news.yahoo.co.jp/articles/37bc70d703167d7b717da2df0f45349a5285d8d5?source=rss",
       "pubDate": "2026-08-23T02:06:16.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
       "teams": [],
       "topics": [
         "roster"
       ],
       "sources": [
         {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/37bc70d703167d7b717da2df0f45349a5285d8d5?source=rss"
         }
       ]
@@ -77359,179 +77543,6 @@
           "name": "Yahoo!ニュース スポーツ",
           "sourceId": "yahoo-sports",
           "link": "https://news.yahoo.co.jp/articles/d68b8913201ddd44faee0a4b5a5c9edaa4b4c74a?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【広島】痛恨の盗塁死、１点追う８回１死一、二塁から辰見鴻之介が三盗失敗で２死一塁から無得点(日刊スポーツ)",
-      "summary": "＜DeNA－広島＞◇8日◇横浜 痛恨の盗塁死で反撃ムードが消沈した。 1点を追う8回1死一、二塁で中軸を迎えた状況で、代走出場していた二走の辰見鴻之介内野手（25）がスタートを切るも、盗塁は失",
-      "link": "https://news.yahoo.co.jp/articles/58c6fe6bd90a113987aec8a4e8af5d2246162b84?source=rss",
-      "pubDate": "2026-08-09T11:22:27.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "carp"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/58c6fe6bd90a113987aec8a4e8af5d2246162b84?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【阪神】２年目右腕・木下里都、自己最速タイの161キロをマーク(日刊スポーツ)",
-      "summary": "＜阪神－中日＞◇9日◇京セラドーム大阪 阪神の2年目右腕・木下里都投手（25）が自己最速タイの161キロをマークした。0－0で迎えた6回、2番手で登板。先頭打者のミゲル・サノー内野手（33）への4",
-      "link": "https://news.yahoo.co.jp/articles/6e9a271e9bf9c51bb90607c991477fe35058995f?source=rss",
-      "pubDate": "2026-08-09T11:18:44.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "tigers"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/6e9a271e9bf9c51bb90607c991477fe35058995f?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "阪神・近本光司が値千金の今季1号 難敵・柳から右翼席へ会心先制ソロ(スポニチアネックス)",
-      "summary": "◇セ・リーグ 阪神─中日（2026年8月9日 京セラドーム） 阪神・近本光司外野手が、今季1号を放った。 6回1死。中日先発・柳の内角カットボールを引っ張ると、打球はそのまま右翼席へと飛び",
-      "link": "https://news.yahoo.co.jp/articles/5a9d9eddb01c35ba6fc062d3ce5a022224d0d743?source=rss",
-      "pubDate": "2026-08-09T11:17:57.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "tigers",
-        "dragons"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/5a9d9eddb01c35ba6fc062d3ce5a022224d0d743?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【ソフトバンク】今季最後のベルーナドームで西武下してＭ３４ 交流戦明けからカード負け越しなし継続 前田悠伍は開幕１０連勝を達成(スポーツ報知)",
-      "summary": "◆パ・リーグ 西武０―５ソフトバンク（９日・ベルーナドーム） ソフトバンクが今季最後のベルーナドームでの試合で西武を下し、優勝マジックを３４に減らした。交流戦明けから、カード負け越しはいまだなし。",
-      "link": "https://news.yahoo.co.jp/articles/0929f7e36071f0f1d06e7c2bfeeb58fdb4d72698?source=rss",
-      "pubDate": "2026-08-09T11:16:41.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "hawks",
-        "lions"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/0929f7e36071f0f1d06e7c2bfeeb58fdb4d72698?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【阪神】６回早くもフォーメーション変更 中野拓夢投入で高寺望夢が左翼 前川右京下げる(日刊スポーツ)",
-      "summary": "＜阪神－中日＞◇9日◇京セラドーム大阪 阪神が0－0の6回から早くもフォーメーションチェンジした。 先発の伊藤将司投手（30）を代えるタイミングで、次の回の先頭にもなる「9番」に中野拓夢内野手",
-      "link": "https://news.yahoo.co.jp/articles/6efa0b911320e960391db6f24f7f2c64ce7d759c?source=rss",
-      "pubDate": "2026-08-09T11:16:21.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "tigers"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/6efa0b911320e960391db6f24f7f2c64ce7d759c?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【ヤクルト】鈴木叶、2ラン放つも反省「まだまだ勉強不足…」再昇格後3度目スタメンマスク(日刊スポーツ)",
-      "summary": "＜巨人7－3ヤクルト＞◇9日◇東京ドーム ヤクルト鈴木叶捕手（20）が今季2号の本塁打を放ったが、反省した。 4回1死二、三塁からモンテル外野手（26）の中犠飛で1点を先制。直後の2死二塁で打",
-      "link": "https://news.yahoo.co.jp/articles/023a8d8636ab0680977aa2cfed72cf18b93d3920?source=rss",
-      "pubDate": "2026-08-09T11:15:35.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "swallows"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/023a8d8636ab0680977aa2cfed72cf18b93d3920?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【巨人】育成内野手・川原田純平が加入後公式戦初安打＆タイムリー…２軍ロッテ戦(スポーツ報知)",
-      "summary": "◆ファーム・リーグ ロッテ５―４巨人（９日・浦安） 巨人の育成・川原田純平内野手が加入後、公式戦初安打＆タイムリーを放った。 「９番・遊撃」で出場。今季ファーム・リーグ１３打席目だった３回１死",
-      "link": "https://news.yahoo.co.jp/articles/e9232208937a6f7663d3375741decba5147019b9?source=rss",
-      "pubDate": "2026-08-09T11:14:58.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "giants"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/e9232208937a6f7663d3375741decba5147019b9?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【広島】新井監督の勝負手ハマらず…０―１の８回に代走・辰見鴻之介が痛恨の三盗失敗 序盤から決定打を欠く ２回１死満塁＆４回２死二塁＆６回１二塁の好機で無得点(スポーツ報知)",
-      "summary": "◆ＪＥＲＡセ・リーグ ＤｅＮＡ―広島（９日・横浜） 広島・新井貴浩監督の勝負手が不発に終わった。０―１の８回１死一、二塁で代走・辰見鴻之介内野手が三盗を試みたが、痛恨のタッチアウト。好機が潰れ、続",
-      "link": "https://news.yahoo.co.jp/articles/ef463b156d3d94dbc0b13e42c822c44caa9685ae?source=rss",
-      "pubDate": "2026-08-09T11:14:57.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "carp"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/ef463b156d3d94dbc0b13e42c822c44caa9685ae?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【巨人】大城卓三「勝ちが付くと先発投手は何よりもというので」東海大相模の後輩・小笠原の白星につなげるタイムリー(スポーツ報知)",
-      "summary": "◆ＪＥＲＡセ・リーグ 巨人７―３ヤクルト（９日・東京ドーム） 巨人・大城卓三捕手が攻守で奮闘し、勝利に貢献した。 ２―３の無死一、二塁。カウント２―１から松本健の外角変化球に食らいつき、右翼線",
-      "link": "https://news.yahoo.co.jp/articles/a7602beb85fd8891fc06ba6fbf5b92dae0cf959b?source=rss",
-      "pubDate": "2026-08-09T11:14:47.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "giants"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/a7602beb85fd8891fc06ba6fbf5b92dae0cf959b?source=rss"
         }
       ]
     }
