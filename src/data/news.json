@@ -1,7 +1,26 @@
 {
-  "generatedAt": "2026-08-23T04:58:04.336Z",
+  "generatedAt": "2026-08-23T05:23:56.367Z",
   "count": 4000,
   "items": [
+    {
+      "title": "巨人、今季２度目の『和製打線』スタメン 大城卓三４番、坂本勇人５番、増田陸７番、平山功太８番(中日スポーツ)",
+      "summary": "◇２３日 巨人―広島（東京ドーム） 巨人は６日の広島戦（マツダ）以来、今季２度目の和製打線で臨む。ほぼ不動の主砲のボビー・ダルベック内野手を控えに回し、６日と同じく大城卓三捕手を４番に据えた。もう",
+      "link": "https://news.yahoo.co.jp/articles/d799adf35110dee3fc04144b8dec515540a6c3b1?source=rss",
+      "pubDate": "2026-08-23T05:03:08.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "giants"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/d799adf35110dee3fc04144b8dec515540a6c3b1?source=rss"
+        }
+      ]
+    },
     {
       "title": "【広島】52年ぶりの屈辱阻止へ 先発は森、１番大盛、５番秋山、モンテロはベンチスタート(日刊スポーツ)",
       "summary": "＜巨人－広島＞◇23日◇東京ドーム 巨人広島17回戦のスタメンが発表された。 広島は森翔平投手（28）が先発を務める。今季はここまで11試合に登板し、1勝3敗、防御率3・27。5日巨人戦は7回",
@@ -45,16 +64,16 @@
       "summary": "＜巨人－広島＞◇23日◇東京ドーム 広島石原慶幸バッテリーコーチ（46）が試合前、30分間にわたって「捕手としての心得」を石原貴規捕手（28）に説いた。 捕手の石原は前日22日巨人戦（東京ドー",
       "link": "https://news.yahoo.co.jp/articles/03e2789cae6c32859dffa27d238c52e876327fbc?source=rss",
       "pubDate": "2026-08-23T04:42:04.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
       "teams": [
         "carp"
       ],
       "topics": [],
       "sources": [
         {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/03e2789cae6c32859dffa27d238c52e876327fbc?source=rss"
         }
       ]
@@ -77521,25 +77540,6 @@
           "name": "Yahoo!ニュース スポーツ",
           "sourceId": "yahoo-sports",
           "link": "https://news.yahoo.co.jp/articles/f97f93594f75e682a86a5f23ae66e936db41cb25?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【阪神】近本光司の１号先制＆決勝ソロで３連敗阻止 同率首位守り11日から巨人と直接対決へ(日刊スポーツ)",
-      "summary": "＜阪神1－0中日＞◇9日◇京セラドーム大阪 阪神が同一カード3連敗を阻止し、巨人との同率首位を守った。1－0の完封勝ちは7月26日巨人戦（東京ドーム）以来となった。 試合は阪神伊藤将司投手（3",
-      "link": "https://news.yahoo.co.jp/articles/46ea59d6d5a13e3145568a399759ef4fee62f9c4?source=rss",
-      "pubDate": "2026-08-09T12:08:03.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "tigers"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/46ea59d6d5a13e3145568a399759ef4fee62f9c4?source=rss"
         }
       ]
     }
