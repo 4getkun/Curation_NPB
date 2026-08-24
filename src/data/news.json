@@ -1,7 +1,86 @@
 {
-  "generatedAt": "2026-08-24T09:33:30.495Z",
+  "generatedAt": "2026-08-24T10:25:39.562Z",
   "count": 4000,
   "items": [
+    {
+      "title": "【巨人】山崎伊織 右肩のコンディション不良で登録を抹消 25日から故障班に合流(日刊スポーツ)",
+      "summary": "巨人山崎伊織投手（27）が24日、右肩のコンディション不良で登録を抹消された。25日ヤクルト戦の先発へ調整していたが、25日から故障班に合流する。村田バッテリーチーフコーチは「検査するのか、日を置い",
+      "link": "https://news.yahoo.co.jp/articles/d65bdb511bc48c471c7f476eac0407d4e871edd9?source=rss",
+      "pubDate": "2026-08-24T10:02:00.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "giants"
+      ],
+      "topics": [
+        "injury"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/d65bdb511bc48c471c7f476eac0407d4e871edd9?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "広島2軍に眠る剛腕「159キロはやばいって」 “新星”に他球団ファン戦慄「NPBにいていいの？」",
+      "summary": "帰ってきた助っ人右腕の剛速球に注目が集まった。今季から広島に加入したフレディ・ターノック投手は22日、敵地で行われたオリックス2軍との試合にリリーフ登板。1回を無安打2奪三振で無失点に抑えた。なかでも興味を引いたのが、右腕が繰り出す155キ…",
+      "link": "https://full-count.jp/2026/08/24/post2007582/",
+      "pubDate": "2026-08-24T09:55:00.000Z",
+      "source": "Full-Count（プロ野球）",
+      "sourceId": "full-count-npb",
+      "teams": [
+        "carp"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Full-Count（プロ野球）",
+          "sourceId": "full-count-npb",
+          "link": "https://full-count.jp/2026/08/24/post2007582/"
+        },
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/56b7641d8ce76dc9b3856e07f0c173ae9b90da18?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "12球団合同トライアウト 11月17日にバンテリンドームで開催(日刊スポーツ)",
+      "summary": "日本プロ野球選手会（理事長：大瀬良大地）は24日、12球団合同トライアウトを11月17日（16時開始）にバンテリンドームで開催すると発表した。昨年に続きエイブルが協賛し、公式名称を「エイブル トライ",
+      "link": "https://news.yahoo.co.jp/articles/9b54f564f9f82411d20e6e4418e2139aebb0d5ee?source=rss",
+      "pubDate": "2026-08-24T09:53:02.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/9b54f564f9f82411d20e6e4418e2139aebb0d5ee?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "「CSをやる意味あるのか？」プロ野球ファイナルSのルール改定に賛否「１位を勝たせたいなら最初からやめたら？」「この条件なら、まあ分かる」(THE DIGEST)",
+      "summary": "日本野球機構（NPB）が８月24日、「2026年 セ・パ クライマックスシリーズについてのお知らせ」と題したリリースを発表。クライマックスシリーズのうちファイナルステージの一部ルールを改定し、特定の",
+      "link": "https://news.yahoo.co.jp/articles/925c632bcb3da4de2956cfc9ce96be21181a93d4?source=rss",
+      "pubDate": "2026-08-24T09:53:00.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/925c632bcb3da4de2956cfc9ce96be21181a93d4?source=rss"
+        }
+      ]
+    },
     {
       "title": "ピカチュウ効果!? ドラゴンズ3連勝 髙橋宏斗投手1か月ぶり 柳裕也投手約3か月ぶりの白星 細川選手へのデッドボールにサノー選手が2ランで“お返し”(CBCテレビ)",
       "summary": "痺れる試合を制してドラゴンズが3連勝です! 夏休み終盤の本拠地3連戦には子どもたちに大人気のキャラクターピカチュウが登場!8月21日（金）、特別な“ポケモンデー”のドームを沸かせたのは主砲・細川成也",
@@ -110,11 +189,6 @@
           "name": "Full-Count（プロ野球）",
           "sourceId": "full-count-npb",
           "link": "https://full-count.jp/2026/08/24/post2007539/"
-        },
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/e7610c60985284beb4679b06c06b32a509cc919a?source=rss"
         }
       ]
     },
@@ -77432,86 +77506,6 @@
           "name": "日刊スポーツ（Yahoo!ニュース経由）",
           "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/c791540d9c33ed9ca53e7728aa5bc3e0b1798fd2?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【阪神】２軍戦で熊本出身の百崎蒼生４号ソロ＆島田海吏３安打 先発の西勇輝５回２安打無失点(日刊スポーツ)",
-      "summary": "＜ファームリーグ西地区：阪神6－0オリックス＞◇11日◇SGL 阪神は投打がかみ合い、オリックスに快勝した。 初回、先頭から連打で無死二、三塁。ドラフト2位谷端将伍内野手（22＝日大）の遊ゴロ",
-      "link": "https://news.yahoo.co.jp/articles/6878f11905efff3056b6882af9d3d605929c1f82?source=rss",
-      "pubDate": "2026-08-11T12:01:32.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "tigers"
-      ],
-      "topics": [
-        "draft"
-      ],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/6878f11905efff3056b6882af9d3d605929c1f82?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【阪神】山田脩也が「山田対決」制す！２軍戦でマルチ安打、仙台育英出身３年目が存在感(日刊スポーツ)",
-      "summary": "＜ファームリーグ西地区：阪神6－0オリックス＞◇11日◇SGL 阪神山田脩也内野手（20）が「山田対決」を制した。 「7番遊撃」で出場。8回、オリックス3番手、山田修義投手（34）の低め136",
-      "link": "https://news.yahoo.co.jp/articles/f2fb9f8c285548433dbfc42b0dc585f3d7521fce?source=rss",
-      "pubDate": "2026-08-11T12:00:19.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "tigers"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/f2fb9f8c285548433dbfc42b0dc585f3d7521fce?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "ドラゴンズとマリオがコラボ 「スーパーマリオブラザーズ40周年」のコラボレーション “マリオ”石伊選手 “クッパ”大野投手の活躍で3連戦白星スタート (CBCテレビ)",
-      "summary": "Aクラス入りが見えてきたドラゴンズ!3位ベイスターズとの3連戦初戦の行方は… 山の日のバンテリンドームは、あの人気ゲーム「スーパーマリオブラザーズ40周年」を記念したコラボレーションで大賑わい!",
-      "link": "https://news.yahoo.co.jp/articles/3832601594cb92b2f12dcb94988034f0256dd28c?source=rss",
-      "pubDate": "2026-08-11T11:55:23.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "dragons"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/3832601594cb92b2f12dcb94988034f0256dd28c?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "このまま出番なし…？阪神、いまだ1軍出場ゼロの選手（6）藤川監督が積極起用も…故障→まさかの”大不振“(ベースボールチャンネル)",
-      "summary": "後半戦に突入している2026年シーズンのプロ野球。今季も主力の故障や不調など、さまざまな要因で選手の入れ替えが行われ、多くの選手が一軍の舞台を経験している。一方で、故障やチーム事情などにより、ここま",
-      "link": "https://news.yahoo.co.jp/articles/76edd184c27992dedcc51b9892e1bab03a759f58?source=rss",
-      "pubDate": "2026-08-11T11:51:05.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "tigers"
-      ],
-      "topics": [
-        "injury"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/76edd184c27992dedcc51b9892e1bab03a759f58?source=rss"
         }
       ]
     }
