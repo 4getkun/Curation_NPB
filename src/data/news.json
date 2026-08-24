@@ -1,7 +1,28 @@
 {
-  "generatedAt": "2026-08-23T23:41:06.570Z",
+  "generatedAt": "2026-08-24T00:31:14.602Z",
   "count": 4000,
   "items": [
+    {
+      "title": "補強期限が過ぎても「何が起こるかわからない」 阪神戦力外→2軍球団入りの26歳が忘れぬ名将の“一言”(THE ANSWER)",
+      "summary": "プロ野球の2軍ファーム・リーグに参加するハヤテで、現在中地区の打点王を争っているのが、今季新加入した26歳の野口恭佑外野手だ。昨オフ阪神を戦力外となり、新天地で目指したのはもちろん、補強期限となる7",
+      "link": "https://news.yahoo.co.jp/articles/4cc3864e943e691adf283cca2541d1cc833dbae0?source=rss",
+      "pubDate": "2026-08-23T23:43:48.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "tigers"
+      ],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/4cc3864e943e691adf283cca2541d1cc833dbae0?source=rss"
+        }
+      ]
+    },
     {
       "title": "最後まで“現役”にこだわった…プロ野球で戦い続けたレジェンド（2）4球団を渡り歩き…諦めなかった”優勝請負人”(ベースボールチャンネル)",
       "summary": "プロ野球の世界だけでなく、スポーツ選手はいつかのタイミングで現役引退を決断する。とはいえ、少しでも長く現役生活を続け、ファンに勇気や希望を与えた選手も数多くいる。競技人生を全う姿は、脳裏に焼き付いて",
@@ -45,16 +66,16 @@
       "summary": "＜中日3－2ヤクルト＞◇23日◇バンテリンドーム ヤクルトは中日戦6連敗を喫し、対戦成績6勝13敗でシーズン負け越しが決まった。 バンテリンドームでは4回中3回目の同一カード3連敗。池山隆寛監",
       "link": "https://news.yahoo.co.jp/articles/1bb3c1460657146470b4bb92bef9d52a9c6faf75?source=rss",
       "pubDate": "2026-08-23T23:00:01.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
       "teams": [
         "swallows"
       ],
       "topics": [],
       "sources": [
         {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/1bb3c1460657146470b4bb92bef9d52a9c6faf75?source=rss"
         }
       ]
@@ -77465,25 +77486,6 @@
           "name": "Yahoo!ニュース スポーツ",
           "sourceId": "yahoo-sports",
           "link": "https://news.yahoo.co.jp/articles/8e3eecbacb58b42f23b9813c43729b920bb3820e?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【阪神】また“天敵”助っ人に…村上頌樹がダルベックに今季３本目のアーチ献上(日刊スポーツ)",
-      "summary": "＜巨人－阪神＞◇11日◇東京ドーム 阪神が“天敵”助っ人にまたやられた。 2点リードで迎えた4回1死。阪神先発の村上頌樹投手（28）がボビー・ダルベック内野手（31）に真ん中低め直球を捉えられ",
-      "link": "https://news.yahoo.co.jp/articles/c2ede82721bd2adec878255dd3c106abc6d1165b?source=rss",
-      "pubDate": "2026-08-11T06:38:54.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "tigers"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/c2ede82721bd2adec878255dd3c106abc6d1165b?source=rss"
         }
       ]
     }
