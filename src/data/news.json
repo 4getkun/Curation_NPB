@@ -1,7 +1,64 @@
 {
-  "generatedAt": "2026-08-24T05:07:31.754Z",
+  "generatedAt": "2026-08-24T05:59:02.964Z",
   "count": 4000,
   "items": [
+    {
+      "title": "【中日2軍】高橋幸佑、大商大との練習試合で先発し5回1失点 7安打許すも要所で粘りみせる(中日スポーツ)",
+      "summary": "◇24日 2軍練習試合 中日―大商大（ナゴヤ球場） 中日の高橋幸佑投手が先発し、5イニングを投げ1失点。7安打されたが要所で粘りをみせた。 3回は左前打と四球で1死一、二塁として、春山に先制の",
+      "link": "https://news.yahoo.co.jp/articles/356b42dbc7aae207bde96bad3233ea52d0e1b677?source=rss",
+      "pubDate": "2026-08-24T05:40:47.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "dragons"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/356b42dbc7aae207bde96bad3233ea52d0e1b677?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "中日、バンテリンドームの2027年度シーズンシート資料のダウンロード開始 継続受付は9月1日～、新規は11月4日～(中日スポーツ)",
+      "summary": "中日ドラゴンズとナゴヤドームは、2027年度シーズンシート資料のダウンロードを、24日午前10時より球団公式ウェブサイト上で開始した。 シーズンシートは、レギュラーシーズン中にバンテリンドームナ",
+      "link": "https://news.yahoo.co.jp/articles/856cfd464ce1351dab9369b732b723d0f0b92ffb?source=rss",
+      "pubDate": "2026-08-24T05:31:27.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "dragons"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/856cfd464ce1351dab9369b732b723d0f0b92ffb?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【ソフトバンク】「令和８年熊本地震」の募金活動結果を発表 １５３７万円３２６５円を被災地へ寄付(スポーツ報知)",
+      "summary": "ソフトバンクは２４日、選手会で行った令和８年熊本地震の被災地支援の募金活動について、８月１６日時点での集計結果を発表した。 １１日のロッテ戦（みずほペイペイ）前には、球場の外で小久保裕紀監督をは",
+      "link": "https://news.yahoo.co.jp/articles/05231140bc85febb99490d9d2c663b1df4c78ad3?source=rss",
+      "pubDate": "2026-08-24T05:08:39.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "hawks"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/05231140bc85febb99490d9d2c663b1df4c78ad3?source=rss"
+        }
+      ]
+    },
     {
       "title": "「第23回みやざきフェニックス・リーグ」は10月7日開幕 参加18チームで全156試合(サンケイスポーツ)",
       "summary": "日本野球機構（NPB）は24日、若手選手の鍛錬の場となる秋季教育リーグ「第23回みやざきフェニックス・リーグ」の開催要項と試合日程を発表した。 今年はNPB12球団に加え、オイシックス、ハヤテ、四国",
@@ -24,16 +81,16 @@
       "summary": "阪神は24日、28日から秋冬の新作グッズを発売すると発表した。 才木浩人投手（27）がファンを公言しているテレビアニメ『アオのハコ』とのコラボグッズをはじめ、「Callaway Golf」や「M",
       "link": "https://news.yahoo.co.jp/articles/dd7dbabf4d759c43ff5c8d976598507e53ace519?source=rss",
       "pubDate": "2026-08-24T04:49:10.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
       "teams": [
         "tigers"
       ],
       "topics": [],
       "sources": [
         {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/dd7dbabf4d759c43ff5c8d976598507e53ace519?source=rss"
         }
       ]
@@ -56,11 +113,6 @@
           "name": "ベースボールチャンネル（プロ野球）",
           "sourceId": "baseballchannel-npb",
           "link": "https://www.baseballchannel.jp/npb/285534/"
-        },
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/ba741d409ae352cb726bc9b242e46265d97c446b?source=rss"
         }
       ]
     },
@@ -149,11 +201,6 @@
           "name": "ベースボールチャンネル（プロ野球）",
           "sourceId": "baseballchannel-npb",
           "link": "https://www.baseballchannel.jp/npb/285539/"
-        },
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/0f0e909393ca3b84b3811b42524d3285561a4540?source=rss"
         }
       ]
     },
@@ -77456,63 +77503,6 @@
           "name": "Full-Count（プロ野球）",
           "sourceId": "full-count-npb",
           "link": "https://full-count.jp/2026/08/11/post2002013/"
-        }
-      ]
-    },
-    {
-      "title": "【楽天】21年ドラ１吉野創士１軍昇格即スタメン「いい状態で呼んでいただいた」１番左翼で出場(日刊スポーツ)",
-      "summary": "＜楽天－オリックス＞◇11日◇楽天モバイル最強パーク 楽天吉野創士外野手（22）が1軍昇格即スタメン出場する。 オリックス戦に「1番左翼」で先発。この日から1軍に合流した21年ドラ1は試合前に",
-      "link": "https://news.yahoo.co.jp/articles/faa53080ea4ef3eacbba22c83fa9b7a0051e4a12?source=rss",
-      "pubDate": "2026-08-11T08:51:50.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "eagles"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/faa53080ea4ef3eacbba22c83fa9b7a0051e4a12?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【楽天】早川隆久ら４選手が熊本地震の被災地支援で募金活動「いち早く復興という願いを込めて」(日刊スポーツ)",
-      "summary": "＜楽天－オリックス＞◇11日◇楽天モバイル最強パーク 楽天はオリックス戦の試合前に令和8年熊本地震の被災地支援で募金活動を行った。 選手会長の早川隆久投手（28）、村林一輝内野手（28）、福岡",
-      "link": "https://news.yahoo.co.jp/articles/c0485f771730555e233869c290d9859d2e272913?source=rss",
-      "pubDate": "2026-08-11T08:50:58.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "eagles"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/c0485f771730555e233869c290d9859d2e272913?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "牧原大成の三塁打→本塁打に吉本球審「ラインに当たっていたので」リクエストはロッテ側からのみ(日刊スポーツ)",
-      "summary": "＜ソフトバンク16－2ロッテ＞◇11日◇みずほペイペイドーム まさかの珍事が起こった。ロッテはサブロー監督（50）のリクエストでソフトバンク牧原大成内野手（33）の三塁打を本塁打にアシストしてしま",
-      "link": "https://news.yahoo.co.jp/articles/93087c143d8b85792e0fb536b89d11441816333b?source=rss",
-      "pubDate": "2026-08-11T08:47:54.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "marines"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/93087c143d8b85792e0fb536b89d11441816333b?source=rss"
         }
       ]
     }
