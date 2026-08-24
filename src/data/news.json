@@ -1,7 +1,26 @@
 {
-  "generatedAt": "2026-08-24T13:27:34.162Z",
+  "generatedAt": "2026-08-24T14:09:18.382Z",
   "count": 4000,
   "items": [
+    {
+      "title": "【中日好き】ドラゴンズ、3連敗からの3連勝。今週は阪神、横浜DeNAとの6連戦(J SPORTS)",
+      "summary": "プロ野球のペナントレースは残り1ヶ月ほど。本稿では8月18～23日の中日ドラゴンズの戦いを振り返り、今週の展望を記したい。",
+      "link": "https://news.yahoo.co.jp/articles/5035222fe09623366431836b747b57ae847f867d?source=rss",
+      "pubDate": "2026-08-24T13:39:27.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "dragons"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/5035222fe09623366431836b747b57ae847f867d?source=rss"
+        }
+      ]
+    },
     {
       "title": "DeNA・深沢、25日の広島戦に中11日で先発「熱中症に注意したい」(サンケイスポーツ)",
       "summary": "5年目のDeNA・深沢が、25日の広島戦に中11日で先発する。初登板となるマツダスタジアムについて「暑いと聞く。熱中症に注意したい」と冷静に語った。7月のプロ初勝利から4戦4勝と好調。前回5月の広島戦",
@@ -77486,25 +77505,6 @@
           "name": "Yahoo!ニュース スポーツ",
           "sourceId": "yahoo-sports",
           "link": "https://news.yahoo.co.jp/articles/4e1a34952987d120978338878f8c74d22bbff88a?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【オリックス】西川龍馬も西野真弘も「初」を記録「打てなかったら打てなかったで逆に面白いかな…」好打者２人も楽天モバイル初勝利に貢献(スポーツ報知)",
-      "summary": "◆パ・リーグ 楽天１―９オリックス（１１日・楽天モバイル最強パーク宮城） オリックスが今季６戦全敗だった楽天モバイル最強パーク宮城で初勝利をつかんだ。好打者２人も貢献。「打てなかったら打てなかった",
-      "link": "https://news.yahoo.co.jp/articles/2a91828cfc7405ec679c1df8b3d7e4b729a22b21?source=rss",
-      "pubDate": "2026-08-11T13:38:30.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "buffaloes"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/2a91828cfc7405ec679c1df8b3d7e4b729a22b21?source=rss"
         }
       ]
     }
