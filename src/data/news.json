@@ -1,7 +1,31 @@
 {
-  "generatedAt": "2026-08-24T23:11:59.903Z",
+  "generatedAt": "2026-08-24T23:42:17.169Z",
   "count": 4000,
   "items": [
+    {
+      "title": "ロッテ・吉川悠斗「結果的にどれくらい抑えられたかが大事」収穫と課題が出た前回登板を経て2度目の先発",
+      "summary": "「良かったと思います」 ロッテの吉川悠斗は今季初登板となった8月18日の楽天戦、一軍の打者を相手に変わらず威力のあるストレートを投げ込んだ。 ストレートは昨年まで140キロ前半だった平均球速は上がり、前回登板の楽天 […]",
+      "link": "https://baseballking.jp/ns/705316/",
+      "pubDate": "2026-08-24T23:35:47.000Z",
+      "source": "BASEBALL KING",
+      "sourceId": "baseballking",
+      "teams": [
+        "marines"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "BASEBALL KING",
+          "sourceId": "baseballking",
+          "link": "https://baseballking.jp/ns/705316/"
+        },
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/72ad26838a571c0fce775e41ebfdefa257a71f84?source=rss"
+        }
+      ]
+    },
     {
       "title": "則本昂大が巨人の窮地救う 25日ヤクルト戦緊急先発「いつでもどこでも投げる準備してきた」 山崎伊織の右肩コンディション不良で(サンケイスポーツ)",
       "summary": "セ・リーグ首位の阪神を3.5ゲーム差で追う2位巨人にアクシデントが発生した。25日のヤクルト戦（神宮）に先発予定だった山崎伊織投手（27）が右肩のコンディション不良のため急きょ登板を回避し、24日に出",
@@ -77496,25 +77520,6 @@
           "name": "Full-Count（プロ野球）",
           "sourceId": "full-count-npb",
           "link": "https://full-count.jp/2026/08/12/post2002116/"
-        }
-      ]
-    },
-    {
-      "title": "弾丸ライナーで一発回答…広島、復活期待の”9年目ドラ1″がファーム6号ソロ 1軍再昇格へ猛アピール",
-      "summary": "広島東洋カープの中村奨成選手は11日、敵地・タマスタ筑後で行われたファーム・リーグ西地区23回戦の福岡ソフトバンクホークス戦に「6番・中堅」で先発出場。一時リードを広げるファーム第6号ソロホームランを放った。",
-      "link": "https://www.baseballchannel.jp/npb/282069/",
-      "pubDate": "2026-08-12T03:10:21.000Z",
-      "source": "ベースボールチャンネル（プロ野球）",
-      "sourceId": "baseballchannel-npb",
-      "teams": [
-        "carp"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "ベースボールチャンネル（プロ野球）",
-          "sourceId": "baseballchannel-npb",
-          "link": "https://www.baseballchannel.jp/npb/282069/"
         }
       ]
     }
