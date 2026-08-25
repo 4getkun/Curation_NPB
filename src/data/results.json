@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T16:05:10.634Z",
+  "generatedAt": "2026-08-25T17:02:15.995Z",
   "teams": {
     "giants": [
       {
@@ -12,7 +12,7 @@
         "opponentScore": 6,
         "result": "win",
         "winningPitcher": "赤星（6-2）",
-        "losingPitcher": "",
+        "losingPitcher": "吉村（4-9）",
         "savePitcher": "マルティネス（3-3-35）",
         "venue": "神宮",
         "record": "61-51-2"
@@ -611,6 +611,21 @@
     ],
     "swallows": [
       {
+        "gameNumber": 112,
+        "date": "8月25日",
+        "opponentTeamId": "giants",
+        "opponentText": "巨人",
+        "score": "6-8",
+        "ownScore": 6,
+        "opponentScore": 8,
+        "result": "loss",
+        "winningPitcher": "赤星（6-2）",
+        "losingPitcher": "吉村（4-9）",
+        "savePitcher": "マルティネス（3-3-35）",
+        "venue": "神宮",
+        "record": "50-61-1"
+      },
+      {
         "gameNumber": 111,
         "date": "8月23日",
         "opponentTeamId": "dragons",
@@ -744,21 +759,6 @@
         "savePitcher": "",
         "venue": "神宮",
         "record": "47-55-1"
-      },
-      {
-        "gameNumber": 102,
-        "date": "8月12日",
-        "opponentTeamId": "carp",
-        "opponentText": "広島",
-        "score": "12-0",
-        "ownScore": 12,
-        "opponentScore": 0,
-        "result": "win",
-        "winningPitcher": "山野（9-3）",
-        "losingPitcher": "",
-        "savePitcher": "",
-        "venue": "神宮",
-        "record": "46-55-1"
       }
     ],
     "dragons": [
