@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T17:51:25.416Z",
+  "generatedAt": "2026-08-25T18:20:09.495Z",
   "count": 4000,
   "items": [
     {
@@ -354,16 +354,16 @@
       "summary": "＜西武3－1日本ハム＞◇25日◇ベルーナドーム 日本ハム水野達稀内野手（26）が西武21回戦（ベルーナドーム）のベンチ入りメンバーから外れた。新庄監督によると、前日24日に体調不良が発覚した模様。",
       "link": "https://news.yahoo.co.jp/articles/c0c8aec067c31930772d87ff77f3bfb8f189c657?source=rss",
       "pubDate": "2026-08-25T14:08:30.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
       "teams": [
         "fighters"
       ],
       "topics": [],
       "sources": [
         {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/c0c8aec067c31930772d87ff77f3bfb8f189c657?source=rss"
         }
       ]
