@@ -1,7 +1,131 @@
 {
-  "generatedAt": "2026-08-25T23:44:32.907Z",
+  "generatedAt": "2026-08-26T00:31:30.064Z",
   "count": 4000,
   "items": [
+    {
+      "title": "【ヤフコメで話題】「ライオンズの接戦力と仲田選手の活躍」「ファイターズの采配や走塁に疑問」 - 西武対日本ハム戦の勝敗を分けた要素に注目(Yahoo!ニュース オリジナル THE PAGE)",
+      "summary": "西武ライオンズ対日本ハムファイターズ戦について、Yahoo!ニュースのコメント欄で話題になっています。 この試合では、ライオンズの仲田選手がスタメン起用で結果を出し、苦労人としての努力や成長に称賛の声",
+      "link": "https://news.yahoo.co.jp/articles/45dd216f4fbf5d38d318a25d8fc6d7452224d925?source=rss",
+      "pubDate": "2026-08-26T00:25:11.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "lions",
+        "fighters"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/45dd216f4fbf5d38d318a25d8fc6d7452224d925?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【ヤフコメで話題】「モイネロ投手の復帰後完封勝利」「首脳陣の起用法と選手管理に注目」 - ソフトバンクの投手運用が話題に(Yahoo!ニュース オリジナル THE PAGE)",
+      "summary": "モイネロ投手の復帰後完封勝利について、Yahoo!ニュースのコメント欄で話題になっています。 コメントでは、ソフトバンクのモイネロ投手が復帰3戦目で完封勝利を挙げたことや、首脳陣が無理をさせず調整期間",
+      "link": "https://news.yahoo.co.jp/articles/e8515272b6abedb308adb0251692391aab4e0d47?source=rss",
+      "pubDate": "2026-08-26T00:21:54.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "hawks"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/e8515272b6abedb308adb0251692391aab4e0d47?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【ヤフコメで話題】「ガルシア選手のスタメン起用に疑問」「終盤戦での“お試し”采配に批判」 - 阪神の打線組み替えを巡る議論(Yahoo!ニュース オリジナル THE PAGE)",
+      "summary": "阪神タイガースのガルシア選手をスタメン起用した采配について、Yahoo!ニュースのコメント欄で話題になっています。 この試合では、左投手の大野雄大投手（中日）に対し、藤川監督がガルシア選手や熊谷選手を",
+      "link": "https://news.yahoo.co.jp/articles/5978c51e2f12f1e8a02ed7f3c3b9d49a029c886d?source=rss",
+      "pubDate": "2026-08-26T00:20:34.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "tigers"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/5978c51e2f12f1e8a02ed7f3c3b9d49a029c886d?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【見どころ解説】勢いに乗る広島打線がDeNAエース東攻略に挑む 前回DeNA打線に好投の鈴木が先発での連勝を目指す(J SPORTS)",
+      "summary": "1イニング打者13人の猛攻で逆転勝利した広島が、2.5ゲーム差とした3位DeNAとの一戦に臨む。",
+      "link": "https://news.yahoo.co.jp/articles/b2fb0bdeebc6ab6a758e55b77d00be88bdbd6d29?source=rss",
+      "pubDate": "2026-08-26T00:00:42.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "carp",
+        "baystars"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/b2fb0bdeebc6ab6a758e55b77d00be88bdbd6d29?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【巨人】山崎伊織が故障班合流 患部の状態は「投げていく度に悪くなっていく感じがした」(日刊スポーツ)",
+      "summary": "巨人山崎伊織投手（27）が25日、故障班に合流した。24日に右肩コンディション不良で登録抹消。今季は開幕前にも同症状を訴え、2度目の離脱となった。 患部の状態に「肩は難しい。前回ほどではないんで",
+      "link": "https://news.yahoo.co.jp/articles/7cc5271bab567f0ad337916da194a7efb989d54a?source=rss",
+      "pubDate": "2026-08-26T00:00:01.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "giants"
+      ],
+      "topics": [
+        "injury",
+        "roster"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/7cc5271bab567f0ad337916da194a7efb989d54a?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "ロッテ・寺地隆成「1打席、1打席無駄にしないようにやっていきたい」再昇格後は5試合連続安打中",
+      "summary": "ロッテの寺地隆成は8月19日に再昇格してから5試合連続で安打を放っている。 寺地は高卒2年目の昨季、116試合に出場して打率.256、5本塁打、33打点、規定打席にも到達し、球団では21世紀以降の高卒2年目選手で最多 […]",
+      "link": "https://baseballking.jp/ns/705396/",
+      "pubDate": "2026-08-26T00:00:00.000Z",
+      "source": "BASEBALL KING",
+      "sourceId": "baseballking",
+      "teams": [
+        "marines"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "BASEBALL KING",
+          "sourceId": "baseballking",
+          "link": "https://baseballking.jp/ns/705396/"
+        },
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/96207bab83d8ed29d730913b4ee3cf2534e322d8?source=rss"
+        }
+      ]
+    },
     {
       "title": "5回に悪夢の8失点…「なぜ横浜DeNAは山本祐大を放出したのか」横浜DeNAが6点を守れず広島に逆転負け…専門家は大阪桐蔭卒4年目の捕手松尾汐恩のリードを問題視(RONSPO)",
       "summary": "横浜DeNAが25日、マツダスタジアムでの広島戦で5回に8失点と大炎上し6点のリードを守れずに7－8で敗れた。現役時代にタイトル獲得経験のある評論家の一人は「キャッチャーのリードが若い。なぜ横浜DeN",
@@ -77447,123 +77571,6 @@
           "name": "Yahoo!ニュース スポーツ",
           "sourceId": "yahoo-sports",
           "link": "https://news.yahoo.co.jp/articles/0fdccc139895bbbf0ac7357221057fa61f1c7cf9?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "ソフトバンク連勝ストップ 9回に代打の柳田、今宮が安打放つも1点及ばず でもマジックは…(西スポWEB OTTO!)",
-      "summary": "◆ソフトバンク3―4ロッテ（13日、みずほペイペイドーム） ソフトバンクの先発、カーター・スチュワートが2回途中、2点を失い、1死満塁で降板。2番手の小林樹斗が完璧な火消しで後続を断った。",
-      "link": "https://news.yahoo.co.jp/articles/4e85a14867b2498a706a1678a5ddb35c9713e494?source=rss",
-      "pubDate": "2026-08-13T12:36:42.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "hawks"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/4e85a14867b2498a706a1678a5ddb35c9713e494?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【阪神】トミー・ジョン手術乗り越えた下村海翔が涙のプロ初勝利 両親の話題に目を潤ませる「入団してから心配ばかりかけていた」…坂本誠志郎の逆転２ランに「飛びはねるような感じで喜んだ」ヒーロー一問一答(スポーツ報知)",
-      "summary": "◆ＪＥＲＡセ・リーグ 巨人２―３阪神（１３日・東京ドーム） 阪神・下村海翔投手が５回４安打２失点で待望のプロ初勝利を挙げた。 ２回無死一塁で、中山に左中間へ先制２ランを浴びたが、その後は粘投。",
-      "link": "https://news.yahoo.co.jp/articles/443ccc6d3cf66626abca934d3bd7f2c4c259c10f?source=rss",
-      "pubDate": "2026-08-13T12:34:57.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "tigers"
-      ],
-      "topics": [
-        "injury"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/443ccc6d3cf66626abca934d3bd7f2c4c259c10f?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "巨人・ハワード、敵地バンテリンドームで初登板へ「早く慣れていきたい」(サンケイスポーツ)",
-      "summary": "（セ・リーグ、巨人ー阪神、20回戦、13日、東京D）14日の中日戦に先発する巨人・ハワードは、キャッチボールなどを行い調整した。楽天から巨人に移籍1年目の今季。右アキレス腱（けん）炎により約4カ月の長",
-      "link": "https://news.yahoo.co.jp/articles/eb79fd043d06f49f5bc06e481dc01389d6f7468f?source=rss",
-      "pubDate": "2026-08-13T12:31:00.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "giants"
-      ],
-      "topics": [
-        "trade"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/eb79fd043d06f49f5bc06e481dc01389d6f7468f?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【１４日の予告先発】中日・高橋宏斗―巨人・ハワード、西武・高橋光成―ロッテ・小島和哉ほか(スポーツ報知)",
-      "summary": "【ＪＥＲＡ セ・リーグ】 ◆中日・高橋宏斗―巨人・ハワード（１８時・バンテリンドーム） ◆ヤクルト・奥川恭伸―ＤｅＮＡ・平良拳太郎（１８時・神宮） ◆広島・森下暢仁―阪神・才木浩人（１８",
-      "link": "https://news.yahoo.co.jp/articles/95af5cf57951c99a1747e785530aacb0ae938a05?source=rss",
-      "pubDate": "2026-08-13T12:30:03.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/95af5cf57951c99a1747e785530aacb0ae938a05?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "「それ以前の問題やね」ソフトバンク小久保監督、右膝の違和感で緊急降板のスチュワートをバッサリ(西スポWEB OTTO!)",
-      "summary": "◆ソフトバンク3―4ロッテ（13日、みずほペイペイドーム） ソフトバンクの連勝が3で止まった。先発のカーター・スチュワート・ジュニアが2回途中2失点で5敗目。打線も3得点と奮わなかった。対象の西",
-      "link": "https://news.yahoo.co.jp/articles/d3ccf2b8cdb487eb74434ffddfe5bd81f920f580?source=rss",
-      "pubDate": "2026-08-13T12:30:02.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "hawks"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/d3ccf2b8cdb487eb74434ffddfe5bd81f920f580?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "巨人、本拠地で首位・阪神に3連敗 宮本和知氏「この3連戦は完敗」(ニッポン放送)",
-      "summary": "13日に放送された『ニッポン放送ショウアップナイター 巨人－阪神』で解説を務めた宮本和知氏が、阪神との3連戦に本拠地・東京ドームで3連敗を喫した巨人について言及した。 巨人は同日の阪神戦に3－4で敗",
-      "link": "https://news.yahoo.co.jp/articles/4be2b63a88e97dece690509ff98b0048093f2aae?source=rss",
-      "pubDate": "2026-08-13T12:27:26.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "giants",
-        "tigers"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/4be2b63a88e97dece690509ff98b0048093f2aae?source=rss"
         }
       ]
     }
