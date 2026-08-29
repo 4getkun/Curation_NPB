@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-29T15:21:37.136Z",
+  "generatedAt": "2026-08-29T18:40:59.663Z",
   "count": 4000,
   "items": [
     {
@@ -64,16 +64,16 @@
       "summary": "＜侍ジャパンU18壮行試合：高校日本代表1－7大学日本代表＞◇29日◇神宮 大学日本代表の小林隼翔内野手（3年＝立大）が、横浜・織田翔希投手（3年＝横浜）から本塁打を放った。2回1死一塁。相手の得",
       "link": "https://news.yahoo.co.jp/articles/941cf4a48a58fd0e1ec50279320596456abe094a?source=rss",
       "pubDate": "2026-08-29T14:15:53.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
       "teams": [
         "baystars"
       ],
       "topics": [],
       "sources": [
         {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/941cf4a48a58fd0e1ec50279320596456abe094a?source=rss"
         }
       ]
@@ -83,16 +83,16 @@
       "summary": "＜侍ジャパンU18壮行試合：高校日本代表1－7大学日本代表＞◇29日◇神宮 先輩侍から大きな教訓を得た。最速157キロを誇る横浜（神奈川）エース織田翔希投手（3年）が、日の丸デビュー戦で厳しさを味",
       "link": "https://news.yahoo.co.jp/articles/013d849825feec55b9761828731fd58decc736ef?source=rss",
       "pubDate": "2026-08-29T14:14:18.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
       "teams": [
         "baystars"
       ],
       "topics": [],
       "sources": [
         {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/013d849825feec55b9761828731fd58decc736ef?source=rss"
         }
       ]
@@ -102,16 +102,16 @@
       "summary": "＜広島1－9ヤクルト＞◇29日◇マツダスタジアム CS遠のく3連敗。広島が投打に精彩を欠いてヤクルトに大敗し、3位DeNAとのゲーム差が4・5に広がった。先発玉村は4回までに96球を要し、7安打3",
       "link": "https://news.yahoo.co.jp/articles/f5d1411aa4b4fdc3c84fe4568039e59c3b4eebd9?source=rss",
       "pubDate": "2026-08-29T14:11:46.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
       "teams": [
         "carp"
       ],
       "topics": [],
       "sources": [
         {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/f5d1411aa4b4fdc3c84fe4568039e59c3b4eebd9?source=rss"
         }
       ]
@@ -225,6 +225,40 @@
           "name": "ベースボールチャンネル（プロ野球）",
           "sourceId": "baseballchannel-npb",
           "link": "https://www.baseballchannel.jp/npb/286325/"
+        }
+      ]
+    },
+    {
+      "title": "当てた？ 当てられた？ プロ野球12球団「与死球・被死球」早見表【2026】",
+      "summary": "プロ野球 最新情報 2026年のプロ野球では、死球の多さがたびたび話題になっている。では、12球団で最も多く相手打者に死球を与えているのはどこなのか。反対に、最も多く死球を受けている球団はどこなのか。 プロ野球はDAZNで全試合配信！ 今す…",
+      "link": "https://www.baseballchannel.jp/npb/286327/",
+      "pubDate": "2026-08-29T14:00:46.000Z",
+      "source": "ベースボールチャンネル（プロ野球）",
+      "sourceId": "baseballchannel-npb",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "ベースボールチャンネル（プロ野球）",
+          "sourceId": "baseballchannel-npb",
+          "link": "https://www.baseballchannel.jp/npb/286327/"
+        }
+      ]
+    },
+    {
+      "title": "2026年は死球が多い？ 過去10年推移＆12球団「当てた・当てられた」ランキング",
+      "summary": "プロ野球 最新情報 2026年のプロ野球では、死球がたびたび話題になっている。では、実際に今季は例年より多いのだろうか。 プロ野球はDAZNで全試合配信！ 今すぐ視聴するならDMM×DAZNホーダイ［PR］ 8月29日終了時点で、12球団の…",
+      "link": "https://www.baseballchannel.jp/npb/286336/",
+      "pubDate": "2026-08-29T14:00:09.000Z",
+      "source": "ベースボールチャンネル（プロ野球）",
+      "sourceId": "baseballchannel-npb",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "ベースボールチャンネル（プロ野球）",
+          "sourceId": "baseballchannel-npb",
+          "link": "https://www.baseballchannel.jp/npb/286336/"
         }
       ]
     },
@@ -77550,44 +77584,6 @@
           "name": "Yahoo!ニュース スポーツ",
           "sourceId": "yahoo-sports",
           "link": "https://news.yahoo.co.jp/articles/7dd73c7852aef7ef7462e7dc6e226f28ee1882ed?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "日本ハム 41歳・宮西尚生が今季初登板 「めっちゃ緊張した」 歴代4位の通算901試合登板(スポニチアネックス)",
-      "summary": "◇パ・リーグ 日本ハム12―4オリックス（2026年8月15日 京セラD） 日本ハムの41歳のベテラン・宮西尚生投手が今季初登板した。 11―2と大量リーグの8回に4番手でマウンドへ。2本の",
-      "link": "https://news.yahoo.co.jp/articles/2fa7d616bcf1e541c309b9e2362b041ebe618776?source=rss",
-      "pubDate": "2026-08-15T10:16:20.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "fighters"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/2fa7d616bcf1e541c309b9e2362b041ebe618776?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【西武】滝沢夏央にアクシデントか ７回表の守備から退く ５回には貴重な同点適時打も(日刊スポーツ)",
-      "summary": "＜西武－ロッテ＞◇15日◇ベルーナドーム 西武滝沢夏央内野手（23）が7回表の守備から退いた。児玉亮涼内野手（28）が三塁に入り、石井一成内野手（32）が二塁に回った。 滝沢はこの日、1番二塁",
-      "link": "https://news.yahoo.co.jp/articles/3edd77ff43ed5408e322f5caf748fda464e60a65?source=rss",
-      "pubDate": "2026-08-15T10:11:53.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "lions"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/3edd77ff43ed5408e322f5caf748fda464e60a65?source=rss"
         }
       ]
     }
