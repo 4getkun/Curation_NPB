@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-30T12:20:52.060Z",
+  "generatedAt": "2026-08-30T16:49:59.765Z",
   "teams": {
     "giants": [
       {
@@ -155,6 +155,21 @@
     ],
     "tigers": [
       {
+        "gameNumber": 117,
+        "date": "8月30日",
+        "opponentTeamId": "giants",
+        "opponentText": "巨人",
+        "score": "3-1",
+        "ownScore": 3,
+        "opponentScore": 1,
+        "result": "win",
+        "winningPitcher": "才木（8-5）",
+        "losingPitcher": "",
+        "savePitcher": "工藤（3-0-8）",
+        "venue": "甲子園",
+        "record": "67-49-1"
+      },
+      {
         "gameNumber": 116,
         "date": "8月29日",
         "opponentTeamId": "giants",
@@ -288,21 +303,6 @@
         "savePitcher": "",
         "venue": "京セラD大阪",
         "record": "61-46-1"
-      },
-      {
-        "gameNumber": 107,
-        "date": "8月18日",
-        "opponentTeamId": "swallows",
-        "opponentText": "ヤクルト",
-        "score": "3x-2",
-        "ownScore": 3,
-        "opponentScore": 2,
-        "result": "win",
-        "winningPitcher": "桐敷（1-2）",
-        "losingPitcher": "",
-        "savePitcher": "",
-        "venue": "京セラD大阪",
-        "record": "60-46-1"
       }
     ],
     "carp": [
@@ -1067,6 +1067,21 @@
     ],
     "lions": [
       {
+        "gameNumber": 121,
+        "date": "8月30日",
+        "opponentTeamId": "eagles",
+        "opponentText": "楽天",
+        "score": "4-1",
+        "ownScore": 4,
+        "opponentScore": 1,
+        "result": "win",
+        "winningPitcher": "武内（10-6）",
+        "losingPitcher": "",
+        "savePitcher": "甲斐野（2-2-19）",
+        "venue": "ベルーナドーム",
+        "record": "69-49-3"
+      },
+      {
         "gameNumber": 120,
         "date": "8月29日",
         "opponentTeamId": "eagles",
@@ -1200,21 +1215,6 @@
         "savePitcher": "",
         "venue": "ベルーナドーム",
         "record": "62-47-3"
-      },
-      {
-        "gameNumber": 111,
-        "date": "8月18日",
-        "opponentTeamId": "buffaloes",
-        "opponentText": "オリックス",
-        "score": "7-4",
-        "ownScore": 7,
-        "opponentScore": 4,
-        "result": "win",
-        "winningPitcher": "平良（9-3）",
-        "losingPitcher": "",
-        "savePitcher": "甲斐野（2-2-16）",
-        "venue": "東京ドーム",
-        "record": "61-47-3"
       }
     ],
     "marines": [
