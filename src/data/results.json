@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-30T22:10:53.569Z",
+  "generatedAt": "2026-08-31T00:40:32.499Z",
   "teams": {
     "giants": [
       {
@@ -1076,7 +1076,7 @@
         "opponentScore": 1,
         "result": "win",
         "winningPitcher": "武内（10-6）",
-        "losingPitcher": "",
+        "losingPitcher": "岸（4-4）",
         "savePitcher": "甲斐野（2-2-19）",
         "venue": "ベルーナドーム",
         "record": "69-49-3"
@@ -1362,7 +1362,7 @@
         "ownScore": 2,
         "opponentScore": 5,
         "result": "loss",
-        "winningPitcher": "岸（4-3）",
+        "winningPitcher": "",
         "losingPitcher": "ロング（1-6）",
         "savePitcher": "",
         "venue": "楽天モバイル",
@@ -1370,6 +1370,21 @@
       }
     ],
     "eagles": [
+      {
+        "gameNumber": 117,
+        "date": "8月30日",
+        "opponentTeamId": "lions",
+        "opponentText": "西武",
+        "score": "1-4",
+        "ownScore": 1,
+        "opponentScore": 4,
+        "result": "loss",
+        "winningPitcher": "武内（10-6）",
+        "losingPitcher": "岸（4-4）",
+        "savePitcher": "甲斐野（2-2-19）",
+        "venue": "ベルーナドーム",
+        "record": "45-71-1"
+      },
       {
         "gameNumber": 116,
         "date": "8月29日",
@@ -1504,21 +1519,6 @@
         "savePitcher": "横山（0-2-29）",
         "venue": "楽天モバイル",
         "record": "43-64-1"
-      },
-      {
-        "gameNumber": 107,
-        "date": "8月19日",
-        "opponentTeamId": "marines",
-        "opponentText": "ロッテ",
-        "score": "5-2",
-        "ownScore": 5,
-        "opponentScore": 2,
-        "result": "win",
-        "winningPitcher": "岸（4-3）",
-        "losingPitcher": "ロング（1-6）",
-        "savePitcher": "",
-        "venue": "楽天モバイル",
-        "record": "43-63-1"
       }
     ],
     "buffaloes": [
