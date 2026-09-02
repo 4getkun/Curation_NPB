@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-02T05:10:55.142Z",
+  "generatedAt": "2026-09-02T09:44:34.430Z",
   "teams": {
     "giants": [
       {
@@ -11,7 +11,7 @@
         "ownScore": 4,
         "opponentScore": 3,
         "result": "win",
-        "winningPitcher": "マルティネス（4-3）",
+        "winningPitcher": "マルティネス（4-3-36）",
         "losingPitcher": "ルイーズ（1-2）",
         "savePitcher": "",
         "venue": "京セラD大阪",
@@ -86,7 +86,7 @@
         "ownScore": 5,
         "opponentScore": 3,
         "result": "win",
-        "winningPitcher": "田中瑛（2-3）",
+        "winningPitcher": "田中瑛（2-3-2）",
         "losingPitcher": "ウォルターズ（1-4）",
         "savePitcher": "マルティネス（3-3-36）",
         "venue": "神宮",
@@ -269,7 +269,7 @@
         "opponentScore": 3,
         "result": "win",
         "winningPitcher": "岩崎（3-3）",
-        "losingPitcher": "レイノルズ（3-1）",
+        "losingPitcher": "レイノルズ（3-1-10）",
         "savePitcher": "工藤（3-0-4）",
         "venue": "横浜",
         "record": "63-47-1"
@@ -467,7 +467,7 @@
         "ownScore": 3,
         "opponentScore": 4,
         "result": "loss",
-        "winningPitcher": "マルティネス（4-3）",
+        "winningPitcher": "マルティネス（4-3-36）",
         "losingPitcher": "ルイーズ（1-2）",
         "savePitcher": "",
         "venue": "京セラD大阪",
@@ -573,7 +573,7 @@
         "opponentScore": 5,
         "result": "loss",
         "winningPitcher": "岩崎（3-3）",
-        "losingPitcher": "レイノルズ（3-1）",
+        "losingPitcher": "レイノルズ（3-1-10）",
         "savePitcher": "工藤（3-0-4）",
         "venue": "横浜",
         "record": "50-59-3"
@@ -694,7 +694,7 @@
         "ownScore": 3,
         "opponentScore": 5,
         "result": "loss",
-        "winningPitcher": "田中瑛（2-3）",
+        "winningPitcher": "田中瑛（2-3-2）",
         "losingPitcher": "ウォルターズ（1-4）",
         "savePitcher": "マルティネス（3-3-36）",
         "venue": "神宮",
@@ -998,7 +998,7 @@
         "ownScore": 5,
         "opponentScore": 6,
         "result": "loss",
-        "winningPitcher": "横山（1-2）",
+        "winningPitcher": "横山（1-2-30）",
         "losingPitcher": "鈴木豪（1-1）",
         "savePitcher": "",
         "venue": "ZOZOマリン",
@@ -1302,7 +1302,7 @@
         "ownScore": 6,
         "opponentScore": 5,
         "result": "win",
-        "winningPitcher": "横山（1-2）",
+        "winningPitcher": "横山（1-2-30）",
         "losingPitcher": "鈴木豪（1-1）",
         "savePitcher": "",
         "venue": "ZOZOマリン",
