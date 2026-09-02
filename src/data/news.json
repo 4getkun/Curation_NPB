@@ -1,7 +1,28 @@
 {
-  "generatedAt": "2026-09-02T17:28:01.432Z",
+  "generatedAt": "2026-09-02T19:57:58.470Z",
   "count": 4000,
   "items": [
+    {
+      "title": "【中日】死球からの復帰戦で死球の村松開人、中島宏之氏の「『ん』と力を…」提言を参考に(日刊スポーツ)",
+      "summary": "＜中日5－4広島＞◇2日◇バンテリンドーム 最下位の中日は7回に逆転して5位の広島を破り、連敗を「5」でストップした。ゲーム差は「2」に縮めた。 右肩甲骨骨折から復帰した村松開人内野手（25）",
+      "link": "https://news.yahoo.co.jp/articles/26e96c1f8167decbb1405fcdeb10b1b3c5ac4556?source=rss",
+      "pubDate": "2026-09-02T19:55:01.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "dragons"
+      ],
+      "topics": [
+        "injury"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/26e96c1f8167decbb1405fcdeb10b1b3c5ac4556?source=rss"
+        }
+      ]
+    },
     {
       "title": "阪神・石井大智 復帰後5度目登板も上々 1回1安打無失点1K(スポニチアネックス)",
       "summary": "◇ファーム・リーグ 阪神5―3日本ハム（2026年9月2日 日鉄鋼板SGLスタジアム尼崎） 阪神・石井は、復帰後5度目の登板を、1回1安打無失点、1奪三振でまとめた。 先頭のエドポロに151",
@@ -218,8 +239,8 @@
       "summary": "ヤクルトは2日、ホセ・キハダ投手（30）が第2子出産立ち会いのため、ベネズエラに一時帰国することになったと発表した。 来日1年目の今季、ここまで41試合に登板し防御率3・86の2勝7敗。この日、",
       "link": "https://news.yahoo.co.jp/articles/448da23be92c21477d11096c3fb09f468cedc6de?source=rss",
       "pubDate": "2026-09-02T15:12:40.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
       "teams": [
         "swallows"
       ],
@@ -228,8 +249,8 @@
       ],
       "sources": [
         {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/448da23be92c21477d11096c3fb09f468cedc6de?source=rss"
         }
       ]
@@ -77629,25 +77650,6 @@
           "name": "Yahoo!ニュース スポーツ",
           "sourceId": "yahoo-sports",
           "link": "https://news.yahoo.co.jp/articles/f6d11a7691af2942ffd0dc83986faf8c33745dfe?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "巨人が10安打で今季最多タイ11点！8回打者14人猛攻10得点 24年6月4日以来1イニング2桁得点(スポニチアネックス)",
-      "summary": "◇セ・リーグ 巨人11―0中日（2026年8月16日 バンテリンD） 巨人打線が10安打で今季最多タイの11点を奪った。1―0の8回には打者14人攻撃で10得点。1イニング2桁得点は24年6月4",
-      "link": "https://news.yahoo.co.jp/articles/95673f1a9f08f4f3104f646c0e93ed7f82e0679c?source=rss",
-      "pubDate": "2026-08-16T20:30:00.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "giants"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/95673f1a9f08f4f3104f646c0e93ed7f82e0679c?source=rss"
         }
       ]
     }
