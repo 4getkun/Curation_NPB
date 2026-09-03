@@ -1,22 +1,139 @@
 {
-  "generatedAt": "2026-09-02T22:16:16.232Z",
+  "generatedAt": "2026-09-03T00:22:57.713Z",
   "count": 4000,
   "items": [
     {
-      "title": "【ソフトバンク】24年ドラ１村上泰斗の元交際相手と知人への暴力報道「当事者間で認識異なる」(日刊スポーツ)",
-      "summary": "ソフトバンク村上泰斗投手（19）がかつて交際していた女性及びその知人に対して暴力を振るったなどの記事を文春オンラインが報じたことに関して2日、球団が対応した。 記事内容についてはすでに村上から球",
-      "link": "https://news.yahoo.co.jp/articles/9cfabdeb546f7c99294f1db837f880f9dd3e7a92?source=rss",
-      "pubDate": "2026-09-02T22:12:18.000Z",
+      "title": "【ヤフコメで話題】「ファイターズ球団のビジターファン・選手へのリスペクト演出」「エスコンフィールドのホスピタリティに称賛」 - パ・リーグの交流と球団文化に注目(Yahoo!ニュース オリジナル THE PAGE)",
+      "summary": "ファイターズ球団によるビジターファンや相手選手へのリスペクトを込めた演出について、Yahoo!ニュースのコメント欄で話題になっています。 エスコンフィールド最終戦で、ソフトバンクファンや熊本で被災した",
+      "link": "https://news.yahoo.co.jp/articles/eee412bb29dfe110164004ee17034f9d4225d80b?source=rss",
+      "pubDate": "2026-09-03T00:20:21.000Z",
       "source": "Yahoo!ニュース スポーツ",
       "sourceId": "yahoo-sports",
       "teams": [
-        "hawks"
+        "fighters"
       ],
       "topics": [],
       "sources": [
         {
           "name": "Yahoo!ニュース スポーツ",
           "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/eee412bb29dfe110164004ee17034f9d4225d80b?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【ヤフコメで話題】「橋上監督代行の采配に賛否」「若手起用と勝利優先のバランス」 - 巨人終盤戦のオーダーに注目集まる(Yahoo!ニュース オリジナル THE PAGE)",
+      "summary": "橋上秀樹監督代行の采配や選手起用について、Yahoo!ニュースのコメント欄で話題になっています。 コメントでは、シーズン終盤にもかかわらず若手や実績の少ない選手を積極的に起用するオーダーや、日替わり打",
+      "link": "https://news.yahoo.co.jp/articles/059ae04a64ac11914104660bbfdae74103a9e920?source=rss",
+      "pubDate": "2026-09-03T00:18:57.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "giants"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/059ae04a64ac11914104660bbfdae74103a9e920?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【ヤフコメで話題】「レイエス選手の去就と大型契約の是非」「敬遠采配やチーム編成への評価」 - 日本ハム・レイエス選手を巡る議論が活発化(Yahoo!ニュース オリジナル THE PAGE)",
+      "summary": "レイエス選手の去就や契約内容、試合での敬遠采配について、Yahoo!ニュースのコメント欄で話題になっています。 レイエス選手は日本ハムで主砲として活躍し、今後の残留や他球団への移籍、特に巨人・阪神など",
+      "link": "https://news.yahoo.co.jp/articles/5151529f09ce8a7afa2a4e7b3e8be437c1ea5fcb?source=rss",
+      "pubDate": "2026-09-03T00:17:11.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "fighters"
+      ],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/5151529f09ce8a7afa2a4e7b3e8be437c1ea5fcb?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "セ・リーグの追加日程を発表 10月4日にヤクルト－広島を実施",
+      "summary": "日本野球機構は2日、2026年度JERA セントラル・リーグ選手権試合の追加試合日程を発表した。 ▼ 追加日程 10月4日（日）ヤクルト－広島（神宮 / 18時00分試合開始） ヤクルト、広島共に現時点では10月4日 […]",
+      "link": "https://baseballking.jp/ns/706079/",
+      "pubDate": "2026-09-02T22:49:55.000Z",
+      "source": "BASEBALL KING",
+      "sourceId": "baseballking",
+      "teams": [
+        "swallows",
+        "carp"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "BASEBALL KING",
+          "sourceId": "baseballking",
+          "link": "https://baseballking.jp/ns/706079/"
+        }
+      ]
+    },
+    {
+      "title": "ロッテ、益田の通算250S達成の名球会ブレザー授与式を9月23日のオリックス戦で実施",
+      "summary": "ロッテは2日、益田直也投手の通算250セーブ達成の名球会ブレザー授与式を、9月23日オリックス戦に行うことになったと発表した。 益田投手は2026年8月4日の西武戦にてNPB通算250セーブを達成。式は通算250セー […]",
+      "link": "https://baseballking.jp/ns/706073/",
+      "pubDate": "2026-09-02T22:36:21.000Z",
+      "source": "BASEBALL KING",
+      "sourceId": "baseballking",
+      "teams": [
+        "marines"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "BASEBALL KING",
+          "sourceId": "baseballking",
+          "link": "https://baseballking.jp/ns/706073/"
+        }
+      ]
+    },
+    {
+      "title": "打った瞬間の確信歩き…！ソフトバンク、不振の“FA戦士”が豪快アーチ 左中間への完璧弾で優勝への切り札に…？",
+      "summary": "福岡ソフトバンクホークスの山川穂高は2日、ナゴヤ球場で行われたファーム交流戦の中日ドラゴンズ戦に「4番・指名打者」で先発出場。6回に今季ファーム第12号となる2ラン本塁打を放った。",
+      "link": "https://www.baseballchannel.jp/npb/287563/",
+      "pubDate": "2026-09-02T22:20:52.000Z",
+      "source": "ベースボールチャンネル（プロ野球）",
+      "sourceId": "baseballchannel-npb",
+      "teams": [
+        "hawks"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "ベースボールチャンネル（プロ野球）",
+          "sourceId": "baseballchannel-npb",
+          "link": "https://www.baseballchannel.jp/npb/287563/"
+        }
+      ]
+    },
+    {
+      "title": "【ソフトバンク】24年ドラ１村上泰斗に暴力報道 元交際相手と知人に 球団は「本人が対応」(日刊スポーツ)",
+      "summary": "ソフトバンク村上泰斗投手（19）がかつて交際していた女性及びその知人に対して暴力を振るったなどの記事を文春オンラインが報じたことに関して2日、球団が対応した。 記事内容についてはすでに村上から球",
+      "link": "https://news.yahoo.co.jp/articles/9cfabdeb546f7c99294f1db837f880f9dd3e7a92?source=rss",
+      "pubDate": "2026-09-02T22:12:18.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "hawks"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/9cfabdeb546f7c99294f1db837f880f9dd3e7a92?source=rss"
         }
       ]
@@ -64,8 +181,8 @@
       "summary": "ヤクルトの先発はルーキーの増居翔太。同投手は6試合登板して1勝止まりも、防御率は2・10、被打率は1割3分4厘と打たれていない。中でも打順別で3番打者に10打数1安打、4番打者に11打数0安打、5番",
       "link": "https://news.yahoo.co.jp/articles/6545a0ff148c1fbe92c60159e86e9c4b5c1ffb22?source=rss",
       "pubDate": "2026-09-02T22:00:01.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
       "teams": [
         "swallows",
         "tigers"
@@ -73,8 +190,8 @@
       "topics": [],
       "sources": [
         {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/6545a0ff148c1fbe92c60159e86e9c4b5c1ffb22?source=rss"
         }
       ]
@@ -95,11 +212,6 @@
           "name": "BASEBALL KING",
           "sourceId": "baseballking",
           "link": "https://baseballking.jp/ns/706064/"
-        },
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/c2291428a676df81d25051cc076985be48b8c2e1?source=rss"
         }
       ]
     },
@@ -138,11 +250,6 @@
           "name": "BASEBALL KING",
           "sourceId": "baseballking",
           "link": "https://baseballking.jp/ns/706058/"
-        },
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/ed4237564d2c266160a15d94b55da8b251526744?source=rss"
         }
       ]
     },
@@ -162,11 +269,6 @@
           "name": "BASEBALL KING",
           "sourceId": "baseballking",
           "link": "https://baseballking.jp/ns/706044/"
-        },
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/c75ec1af07c281d60a7adfca6f67b8f33814a84a?source=rss"
         }
       ]
     },
@@ -186,11 +288,6 @@
           "name": "BASEBALL KING",
           "sourceId": "baseballking",
           "link": "https://baseballking.jp/ns/706001/"
-        },
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/da0134fe12e5cedb555c68be6edf066210268146?source=rss"
         }
       ]
     },
@@ -77559,121 +77656,6 @@
           "name": "Yahoo!ニュース スポーツ",
           "sourceId": "yahoo-sports",
           "link": "https://news.yahoo.co.jp/articles/f3803618fcc637f34d7c79288dda3626eae792c6?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "オリックス・来田が今季3度目の1試合2本塁打 飛躍を予感させる活躍に大矢氏「うまく使って伸ばしていきたい」",
-      "summary": "オリックス・来田涼斗が今季6号、7号目となる1試合2本塁打をマークした。16日放送のCSフジテレビONE『プロ野球ニュース』では、持ち前の長打力を発揮した来田の打撃について、大矢明彦氏が言及した。 大矢氏は、「オリッ […]",
-      "link": "https://baseballking.jp/ns/704481/",
-      "pubDate": "2026-08-16T21:30:00.000Z",
-      "source": "BASEBALL KING",
-      "sourceId": "baseballking",
-      "teams": [
-        "buffaloes"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "BASEBALL KING",
-          "sourceId": "baseballking",
-          "link": "https://baseballking.jp/ns/704481/"
-        }
-      ]
-    },
-    {
-      "title": "西武・武内が9勝目、好投を支えたルーキー小島大河の嗅覚 岩本氏「良いリードをしていた」",
-      "summary": "西武・武内夏暉が7回途中無失点の好投で今季9勝目を挙げ、2ケタ勝利に王手をかけた。16日放送のCSフジテレビONE『プロ野球ニュース』では、武内の好投に加え、バッテリーを組んだルーキー・小島大河のリードにも注目が集まっ […]",
-      "link": "https://baseballking.jp/ns/704463/",
-      "pubDate": "2026-08-16T21:20:00.000Z",
-      "source": "BASEBALL KING",
-      "sourceId": "baseballking",
-      "teams": [
-        "lions"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "BASEBALL KING",
-          "sourceId": "baseballking",
-          "link": "https://baseballking.jp/ns/704463/"
-        }
-      ]
-    },
-    {
-      "title": "【ソフトバンク】鷹打線はなぜ機能する？ 〝変幻自在〟の選手層が支える首位独走(東スポWEB)",
-      "summary": "鷹の歩みは止まらない。ソフトバンクは16日の楽天戦（みずほペイペイ）に6―1で快勝し、連敗を「3」でストップ。2位・西武はロッテ、3位・日本ハムもオリックスにそれぞれ勝ったが、優勝へのマジックナンバ",
-      "link": "https://news.yahoo.co.jp/articles/c1652a9bf5cfb63b9f9ec28f5b6d581b02a9f2bc?source=rss",
-      "pubDate": "2026-08-16T21:15:28.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "hawks"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/c1652a9bf5cfb63b9f9ec28f5b6d581b02a9f2bc?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【西武】助っ人ウィンゲンター〝剛腕〟だけじゃない！ 来季残留で新ルール「伝道師」に名乗り(東スポWEB)",
-      "summary": "NPBの20試合連続ホールド記録保持者でもある西武の剛腕セットアッパー、トレイ・ウィンゲンター投手（32）が、導入方針が決まった新ルールの〝伝道師役〟に名乗りを上げた。チームは16日のロッテ戦（ベル",
-      "link": "https://news.yahoo.co.jp/articles/1e517d2f36979d7c34c47f12b52a8dafb5fb0821?source=rss",
-      "pubDate": "2026-08-16T21:15:28.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "lions"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/1e517d2f36979d7c34c47f12b52a8dafb5fb0821?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "「生涯ハムにいてくれ」爆発した日本ハムの“ドミニカンブラザーズ”にファン心酔 カストロが2か月半ぶり先制弾 レイエスの3試合ぶり安打は25号「ほんと愛してる」(CoCoKARAnext)",
-      "summary": "2か月半ぶりの一発に、ファンから熱い言葉が寄せられた。 日本ハムは8月16日、京セラドーム大阪でオリックスと対戦し、13－7で勝利した。「7番・中堅」で先発したロドルフォ・カストロは、2回一死二",
-      "link": "https://news.yahoo.co.jp/articles/24450ca4f0ad775f882f1fe68e6afa71ca92d585?source=rss",
-      "pubDate": "2026-08-16T21:10:10.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "fighters"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/24450ca4f0ad775f882f1fe68e6afa71ca92d585?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "ソフトバンク、若鷹の躍動で連敗ストップ！庄子のファインプレーに笘篠氏「これは落ちたかと」",
-      "summary": "ソフトバンクが楽天に快勝し、連敗を3で止めた。16日放送のCSフジテレビONE『プロ野球ニュース』では、勝利に貢献した若鷹たちの躍動に注目が集まった。 なかでも攻守に存在感を示したのが庄子雄大だ。打撃では2安打3打点 […]",
-      "link": "https://baseballking.jp/ns/704460/",
-      "pubDate": "2026-08-16T21:10:00.000Z",
-      "source": "BASEBALL KING",
-      "sourceId": "baseballking",
-      "teams": [
-        "hawks",
-        "eagles"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "BASEBALL KING",
-          "sourceId": "baseballking",
-          "link": "https://baseballking.jp/ns/704460/"
         }
       ]
     }
