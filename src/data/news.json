@@ -1,7 +1,86 @@
 {
-  "generatedAt": "2026-09-03T22:12:35.648Z",
+  "generatedAt": "2026-09-04T00:15:25.581Z",
   "count": 4000,
   "items": [
+    {
+      "title": "巨人を導く”スラッガー”に…読売ジャイアンツでシーズン40発を達成した大物（1）巨人一筋20年…輝き続けるレジェンド(ベースボールチャンネル)",
+      "summary": "長い歴史を誇る読売ジャイアンツでは、数多くの強打者が打線の中軸を担ってきた。中でもシーズン40本塁打は、球界を代表するスラッガーであることを示すひとつの勲章といえる。近年では岡本和真が2023年に自",
+      "link": "https://news.yahoo.co.jp/articles/c5d4562c4b84366cd4b08692ae8c9bb9c68a0469?source=rss",
+      "pubDate": "2026-09-04T00:00:03.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "giants"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/c5d4562c4b84366cd4b08692ae8c9bb9c68a0469?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【巨人】ついに帰ってきた…！巨人の“頼れる名手”がフェンス直撃の一打 実戦復帰2戦目で約1カ月半ぶりの安打",
+      "summary": "読売ジャイアンツの門脇誠は3日、ジャイアンツタウンスタジアムで行われたファーム交流戦のオリックス・バファローズ戦に出場。実戦復帰2試合目で復帰後初安打を放ち、一軍復帰へ向けて順調な回復ぶりを示した。",
+      "link": "https://www.baseballchannel.jp/npb/287753/",
+      "pubDate": "2026-09-03T22:20:48.000Z",
+      "source": "ベースボールチャンネル（プロ野球）",
+      "sourceId": "baseballchannel-npb",
+      "teams": [
+        "giants"
+      ],
+      "topics": [
+        "roster"
+      ],
+      "sources": [
+        {
+          "name": "ベースボールチャンネル（プロ野球）",
+          "sourceId": "baseballchannel-npb",
+          "link": "https://www.baseballchannel.jp/npb/287753/"
+        }
+      ]
+    },
+    {
+      "title": "阪神・佐藤輝明が今季4度目の1試合2本塁打！谷沢氏「ヘッドを遅らせて狙わずとも反対に飛ばしている」",
+      "summary": "阪神は3日、ヤクルトとの試合（神宮）に7－4で勝利。3日放送のCSフジテレビONE『プロ野球ニュース2026』では、この日2本塁打の佐藤輝明をピックアップ。解説の谷沢健一氏は「佐藤のバッティングを見ると左ピッチャーの変 […]",
+      "link": "https://baseballking.jp/ns/706124/",
+      "pubDate": "2026-09-03T22:20:00.000Z",
+      "source": "BASEBALL KING",
+      "sourceId": "baseballking",
+      "teams": [
+        "tigers"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "BASEBALL KING",
+          "sourceId": "baseballking",
+          "link": "https://baseballking.jp/ns/706124/"
+        }
+      ]
+    },
+    {
+      "title": "地元ソフトバンク戦中継で日本ハムを「お得意様」と字幕 tvq九州放送が謝罪「配慮を欠いた」(日刊スポーツ)",
+      "summary": "tvq九州放送（通称テレQ、本社福岡市）は4日までに、地元ソフトバンクのプロ野球中継で、対戦相手の日本ハムに配慮を欠いた字幕スーパーを表示したとして、公式サイトに謝罪文を掲載した。 同局は「9月",
+      "link": "https://news.yahoo.co.jp/articles/33488808ecdf6619bb97767f0c4e655ad80e6bb5?source=rss",
+      "pubDate": "2026-09-03T22:17:33.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "fighters",
+        "hawks"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/33488808ecdf6619bb97767f0c4e655ad80e6bb5?source=rss"
+        }
+      ]
+    },
     {
       "title": "ヤクルト・オスナが約2カ月ぶりの1軍で2安打！齊藤明雄氏「打球が速く、強くなったように見えた」",
       "summary": "ヤクルトは3日、阪神との試合（神宮）に4－7で敗戦。3日放送のCSフジテレビONE『プロ野球ニュース2026』ではこの日約2カ月ぶりの1軍復帰で2安打と復活の兆しをみせたオスナにズームアップ。解説の齊藤明雄氏は「まだヤ […]",
@@ -18,11 +97,6 @@
           "name": "BASEBALL KING",
           "sourceId": "baseballking",
           "link": "https://baseballking.jp/ns/706121/"
-        },
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/015b3d0040e950e67a5d712bcbf4129d6f70a62d?source=rss"
         }
       ]
     },
@@ -71,16 +145,16 @@
       "summary": "今季日本ハムのレイエスは北山が登板する試合でよく打つ。北山先発試合のレイエスは19試合で68打数23安打、8本塁打、22打点、打率3割3分8厘で、本塁打と打点は先発投手別最多。 伊藤先発時は5本",
       "link": "https://news.yahoo.co.jp/articles/c53afdd0d72a8fabdc3486619bd8a6a1268e292e?source=rss",
       "pubDate": "2026-09-03T22:00:00.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
       "teams": [
         "fighters"
       ],
       "topics": [],
       "sources": [
         {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/c53afdd0d72a8fabdc3486619bd8a6a1268e292e?source=rss"
         }
       ]
@@ -120,11 +194,6 @@
           "name": "BASEBALL KING",
           "sourceId": "baseballking",
           "link": "https://baseballking.jp/ns/706117/"
-        },
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/43bfc59282d37b874b8b2984831aefa10cb5275d?source=rss"
         }
       ]
     },
@@ -77566,85 +77635,6 @@
           "name": "Yahoo!ニュース スポーツ",
           "sourceId": "yahoo-sports",
           "link": "https://news.yahoo.co.jp/articles/c6a438c0a2663ba15994841d51c994616ff9a35a?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "アクシデント続出…西武、戦線離脱を強いられている選手（3）たった10日で“登録抹消”…まさかの負傷離脱に(ベースボールチャンネル)",
-      "summary": "2026年シーズンは交流戦優勝を飾るなど、Aクラスに躍進している埼玉西武ライオンズ。しかしながら、勝負の夏場に故障者が続出するアクシデントに見舞われている。ここでは、西武で戦線離脱を強いられ、現在も",
-      "link": "https://news.yahoo.co.jp/articles/14e5f0c82343a43ab6f2b0be8858640fa748c625?source=rss",
-      "pubDate": "2026-08-17T11:02:45.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "lions"
-      ],
-      "topics": [
-        "injury",
-        "roster"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/14e5f0c82343a43ab6f2b0be8858640fa748c625?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "上重聡アナ、横浜元監督の渡辺元智さん追悼「ニュース見て松坂に」「PLメンバーも気にかけて」(日刊スポーツ)",
-      "summary": "フリーアナウンサーの上重聡（46）が17日、日刊スポーツの電話取材に応じ、17日に亡くなった横浜高校元監督の渡辺元智さんを追悼した。 上重アナは「先ほどニュースを見て、松坂（大輔）に連絡をした」",
-      "link": "https://news.yahoo.co.jp/articles/bc88d01182e82c8667c24b07521a31231989683f?source=rss",
-      "pubDate": "2026-08-17T10:42:23.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "baystars"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/bc88d01182e82c8667c24b07521a31231989683f?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "カープ選手プロデュースメニュー、第５弾が登場！辻大雅のパフェ、佐藤啓介のスムージーなどひんやりメニューも充実(アスリートマガジンWEB)",
-      "summary": "カープは8月18日（火）の中日戦から、『選手プロデュースメニュー〜第5弾〜』を販売開始すると発表した。これまで34商品が登場し、メニューが変わるたびに話題を呼んできた選手プロデュースメニュー。今回は",
-      "link": "https://news.yahoo.co.jp/articles/48028bb312fbace6f392a2532e0975f042fff35b?source=rss",
-      "pubDate": "2026-08-17T10:30:35.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "carp"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/48028bb312fbace6f392a2532e0975f042fff35b?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【ソフトバンク】福岡移転後初のリーグ３連覇へ ９月４日からの終盤戦スローガンは「ゼンシン！」に決定(スポーツ報知)",
-      "summary": "ソフトバンクは１７日、９月４日の西武戦（みずほペイペイ）からの終盤戦のスローガンを「ゼンシン！」に決定したことを発表した。 今季スローガンである「全新」を基盤に「全身全霊で、新境地へ」をテーマに",
-      "link": "https://news.yahoo.co.jp/articles/d9858e9033762d277ac803563a3ba66a29a67d4b?source=rss",
-      "pubDate": "2026-08-17T10:29:34.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "hawks"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/d9858e9033762d277ac803563a3ba66a29a67d4b?source=rss"
         }
       ]
     }
