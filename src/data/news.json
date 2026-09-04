@@ -1,7 +1,26 @@
 {
-  "generatedAt": "2026-09-04T17:12:20.704Z",
+  "generatedAt": "2026-09-04T19:42:29.360Z",
   "count": 4000,
   "items": [
+    {
+      "title": "柏・ロドリゲス監督 横浜M戦は16歳三井寺警戒「とても魅力的な選手だ」(スポニチアネックス)",
+      "summary": "柏のロドリゲス監督は6日の横浜M戦に向け、16歳の若き才能を警戒した。 指揮官は開幕から5戦2発のMF三井寺を「開幕からインパクトのある素晴らしいパフォーマンスをしている。とても魅力的な選手だ」",
+      "link": "https://news.yahoo.co.jp/articles/8a04861e148d14ac466e77779b74e3ce465de5ad?source=rss",
+      "pubDate": "2026-09-04T19:05:00.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "baystars"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/8a04861e148d14ac466e77779b74e3ce465de5ad?source=rss"
+        }
+      ]
+    },
     {
       "title": "【ヤクルト】高梨裕稔「久しぶりの…」右前腕の肉離れから復帰、約３カ月ぶりで５回１失点(日刊スポーツ)",
       "summary": "＜ヤクルト1－1中日＞◇4日◇神宮 ヤクルトが今季チーム最長4時間57分の戦いの末、引き分けた。対中日の連敗は「6」でストップ。3位DeNAとの差は3ゲームのままで終わった。両チームとも初回に1点",
@@ -86,16 +105,16 @@
       "summary": "＜ヤクルト1－1中日＞◇4日◇神宮 中日は今季最長の4時間57分に及ぶ死闘は延長10回を終えて、雨天によるグラウンドコンディション不良のため、引き分けた。 井上一樹監督（55）は「時間は感じな",
       "link": "https://news.yahoo.co.jp/articles/454b04d17e959e41e52b23bcc0a1a73a3615aac0?source=rss",
       "pubDate": "2026-09-04T15:06:58.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
       "teams": [
         "dragons"
       ],
       "topics": [],
       "sources": [
         {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/454b04d17e959e41e52b23bcc0a1a73a3615aac0?source=rss"
         }
       ]
@@ -181,16 +200,16 @@
       "summary": "＜ヤクルト1－1中日＞◇4日◇神宮 ヤクルトは今季チーム最長4時間57分の戦いの末に1－1で引き分けた。 1点を追う初回に高卒4年目の西村瑠伊斗外野手（22）がプロ初本塁打となる同点ソロ。「大",
       "link": "https://news.yahoo.co.jp/articles/21bb9d3c960d08e20ec740486323c7c0f979818d?source=rss",
       "pubDate": "2026-09-04T14:46:21.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
       "teams": [
         "swallows"
       ],
       "topics": [],
       "sources": [
         {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/21bb9d3c960d08e20ec740486323c7c0f979818d?source=rss"
         }
       ]
@@ -318,16 +337,16 @@
       "summary": "＜ヤクルト1－1中日＞◇4日◇神宮 中日は125試合目で、今季最長の試合時間を更新した。 試合前時点で今季最長だったのは、4月8日DeNA戦（横浜）の4時間44分。この日は試合前から大粒の雨が",
       "link": "https://news.yahoo.co.jp/articles/082cad6ffe257648fb7943f50a4c4727d4f87852?source=rss",
       "pubDate": "2026-09-04T14:09:57.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
       "teams": [
         "dragons"
       ],
       "topics": [],
       "sources": [
         {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/082cad6ffe257648fb7943f50a4c4727d4f87852?source=rss"
         }
       ]
@@ -77602,25 +77621,6 @@
           "name": "Yahoo!ニュース スポーツ",
           "sourceId": "yahoo-sports",
           "link": "https://news.yahoo.co.jp/articles/c2186cc72cca6109733ce1cdb6ed4bea59e14044?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "ロッテ、渡辺俊介氏の「CO-FIELD KIMITSU」アンバサダー委嘱状交付式実施",
-      "summary": "ロッテは18日、君津市と千葉ロッテマリーンズが連携して推進するプロジェクト「CO-FIELD KIMITSU」のアンバサダーに就任した球団OB・渡辺俊介氏について、本日8月18日に君津市主催の委嘱状交付式が行われたと発 […]",
-      "link": "https://baseballking.jp/ns/704671/",
-      "pubDate": "2026-08-18T06:06:24.000Z",
-      "source": "BASEBALL KING",
-      "sourceId": "baseballking",
-      "teams": [
-        "marines"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "BASEBALL KING",
-          "sourceId": "baseballking",
-          "link": "https://baseballking.jp/ns/704671/"
         }
       ]
     }
