@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-06T09:00:02.437Z",
+  "generatedAt": "2026-09-06T12:39:52.382Z",
   "teams": {
     "giants": [
       {
@@ -155,6 +155,21 @@
     ],
     "tigers": [
       {
+        "gameNumber": 122,
+        "date": "9月6日",
+        "opponentTeamId": "baystars",
+        "opponentText": "DeNA",
+        "score": "1-4",
+        "ownScore": 1,
+        "opponentScore": 4,
+        "result": "loss",
+        "winningPitcher": "",
+        "losingPitcher": "大竹（5-9）",
+        "savePitcher": "",
+        "venue": "甲子園",
+        "record": "69-52-1"
+      },
+      {
         "gameNumber": 121,
         "date": "9月5日",
         "opponentTeamId": "baystars",
@@ -288,21 +303,6 @@
         "savePitcher": "松山（1-2-25）",
         "venue": "バンテリンドーム",
         "record": "63-49-1"
-      },
-      {
-        "gameNumber": 112,
-        "date": "8月25日",
-        "opponentTeamId": "dragons",
-        "opponentText": "中日",
-        "score": "2-4",
-        "ownScore": 2,
-        "opponentScore": 4,
-        "result": "loss",
-        "winningPitcher": "",
-        "losingPitcher": "西勇（3-3）",
-        "savePitcher": "",
-        "venue": "バンテリンドーム",
-        "record": "63-48-1"
       }
     ],
     "carp": [
