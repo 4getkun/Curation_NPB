@@ -1,7 +1,22 @@
 {
-  "generatedAt": "2026-09-09T19:20:25.517Z",
+  "generatedAt": "2026-09-09T21:47:10.734Z",
   "teams": {
     "giants": [
+      {
+        "gameNumber": 126,
+        "date": "9月9日",
+        "opponentTeamId": "dragons",
+        "opponentText": "中日",
+        "score": "5-1",
+        "ownScore": 5,
+        "opponentScore": 1,
+        "result": "win",
+        "winningPitcher": "船迫（4-1）",
+        "losingPitcher": "",
+        "savePitcher": "",
+        "venue": "東京ドーム",
+        "record": "68-56-2"
+      },
       {
         "gameNumber": 125,
         "date": "9月8日",
@@ -136,21 +151,6 @@
         "savePitcher": "工藤（3-0-6）",
         "venue": "甲子園",
         "record": "63-52-2"
-      },
-      {
-        "gameNumber": 116,
-        "date": "8月27日",
-        "opponentTeamId": "swallows",
-        "opponentText": "ヤクルト",
-        "score": "9-2",
-        "ownScore": 9,
-        "opponentScore": 2,
-        "result": "win",
-        "winningPitcher": "マタ（2-1）",
-        "losingPitcher": "石川（0-1）",
-        "savePitcher": "",
-        "venue": "神宮",
-        "record": "63-51-2"
       }
     ],
     "tigers": [
@@ -459,6 +459,21 @@
     ],
     "baystars": [
       {
+        "gameNumber": 124,
+        "date": "9月9日",
+        "opponentTeamId": "swallows",
+        "opponentText": "ヤクルト",
+        "score": "9-2",
+        "ownScore": 9,
+        "opponentScore": 2,
+        "result": "win",
+        "winningPitcher": "吉野（1-1）",
+        "losingPitcher": "",
+        "savePitcher": "",
+        "venue": "横浜",
+        "record": "58-63-3"
+      },
+      {
         "gameNumber": 123,
         "date": "9月8日",
         "opponentTeamId": "swallows",
@@ -592,21 +607,6 @@
         "savePitcher": "",
         "venue": "マツダ",
         "record": "51-61-3"
-      },
-      {
-        "gameNumber": 114,
-        "date": "8月26日",
-        "opponentTeamId": "carp",
-        "opponentText": "広島",
-        "score": "2-3",
-        "ownScore": 2,
-        "opponentScore": 3,
-        "result": "loss",
-        "winningPitcher": "",
-        "losingPitcher": "ルイーズ（1-1）",
-        "savePitcher": "",
-        "venue": "マツダ",
-        "record": "50-61-3"
       }
     ],
     "swallows": [
@@ -754,7 +754,7 @@
         "ownScore": 2,
         "opponentScore": 9,
         "result": "loss",
-        "winningPitcher": "マタ（2-1）",
+        "winningPitcher": "",
         "losingPitcher": "石川（0-1）",
         "savePitcher": "",
         "venue": "神宮",
