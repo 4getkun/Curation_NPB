@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-11T11:34:17.532Z",
+  "generatedAt": "2026-09-11T15:21:07.861Z",
   "teams": {
     "giants": [
       {
@@ -915,6 +915,21 @@
     ],
     "hawks": [
       {
+        "gameNumber": 127,
+        "date": "9月11日",
+        "opponentTeamId": "marines",
+        "opponentText": "ロッテ",
+        "score": "11-1",
+        "ownScore": 11,
+        "opponentScore": 1,
+        "result": "win",
+        "winningPitcher": "前田悠（12-0）",
+        "losingPitcher": "石川柊（0-1）",
+        "savePitcher": "",
+        "venue": "みずほPayPay",
+        "record": "79-44-3"
+      },
+      {
         "gameNumber": 126,
         "date": "9月10日",
         "opponentTeamId": "fighters",
@@ -1048,21 +1063,6 @@
         "savePitcher": "杉山（1-2-27）",
         "venue": "京セラD大阪",
         "record": "73-43-2"
-      },
-      {
-        "gameNumber": 117,
-        "date": "8月29日",
-        "opponentTeamId": "buffaloes",
-        "opponentText": "オリックス",
-        "score": "3-4",
-        "ownScore": 3,
-        "opponentScore": 4,
-        "result": "loss",
-        "winningPitcher": "髙島（5-4）",
-        "losingPitcher": "大津（10-4）",
-        "savePitcher": "マチャド（2-1-28）",
-        "venue": "京セラD大阪",
-        "record": "72-43-2"
       }
     ],
     "lions": [
@@ -1219,6 +1219,21 @@
     ],
     "marines": [
       {
+        "gameNumber": 123,
+        "date": "9月11日",
+        "opponentTeamId": "hawks",
+        "opponentText": "ソフトバンク",
+        "score": "1-11",
+        "ownScore": 1,
+        "opponentScore": 11,
+        "result": "loss",
+        "winningPitcher": "前田悠（12-0）",
+        "losingPitcher": "石川柊（0-1）",
+        "savePitcher": "",
+        "venue": "みずほPayPay",
+        "record": "57-63-3"
+      },
+      {
         "gameNumber": 122,
         "date": "9月10日",
         "opponentTeamId": "eagles",
@@ -1352,21 +1367,6 @@
         "savePitcher": "柳川（4-0-21）",
         "venue": "エスコンF",
         "record": "52-59-3"
-      },
-      {
-        "gameNumber": 113,
-        "date": "8月28日",
-        "opponentTeamId": "fighters",
-        "opponentText": "日本ハム",
-        "score": "4-6",
-        "ownScore": 4,
-        "opponentScore": 6,
-        "result": "loss",
-        "winningPitcher": "",
-        "losingPitcher": "小島（5-8）",
-        "savePitcher": "",
-        "venue": "エスコンF",
-        "record": "52-58-3"
       }
     ],
     "eagles": [
@@ -1667,7 +1667,7 @@
         "opponentScore": 3,
         "result": "win",
         "winningPitcher": "髙島（5-4）",
-        "losingPitcher": "大津（10-4）",
+        "losingPitcher": "",
         "savePitcher": "マチャド（2-1-28）",
         "venue": "京セラD大阪",
         "record": "57-60-2"
