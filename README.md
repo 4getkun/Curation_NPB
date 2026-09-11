@@ -10,7 +10,7 @@ Astro + Tailwind CSS で構築し、GitHub Pages の無料枠だけで完結す�
 ## 公開の仕組み(2026-09〜 fourgetkun.com 配下へ移行)
 
 ビルドとデプロイはこれまでどおり GitHub Actions → GitHub Pages で行い、GitHub Pages は「配信元」として残しています。
-利用者向けの公開URLは `https://fourgetkun.com/npb-news/` で、fourgetkun-hub の Worker(`src/npb-news/proxy.js`)が
+利用者向けの公開URLは `https://fourgetkun.com/npb-news/` で、fourgetkun-hub の Worker(`src/pages-proxy/proxy.js`)が
 `/npb-news/*` へのリクエストを `https://4getkun.github.io/Curation_NPB/*` から取得して返すリバースプロキシになっています。
 
 - `astro.config.mjs` の `site` / `base` は公開側(`https://fourgetkun.com` / `/npb-news`)に合わせています。

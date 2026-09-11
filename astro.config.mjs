@@ -9,7 +9,7 @@ import tailwindcss from '@tailwindcss/vite';
 // (https://4getkun.github.io/Curation_NPB/) だが、ここはあくまで「配信元」。
 // 利用者が見るのは fourgetkun.com/npb-news/ で、fourgetkun-hub の Worker が
 // /npb-news/* へのリクエストを GitHub Pages から取ってきて返す(リバースプロキシ。
-// fourgetkun-hub の src/npb-news/proxy.js)。そのため site/base は公開側の
+// fourgetkun-hub の src/pages-proxy/proxy.js)。そのため site/base は公開側の
 // URL に合わせる。GitHub Pages の URL で直接開かれた場合は Base.astro の
 // インラインスクリプトが fourgetkun.com 側へ転送する。
 export default defineConfig({
