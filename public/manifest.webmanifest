@@ -2,8 +2,8 @@
   "name": "Curation NPB - 広告ゼロのNPBニュースまとめ",
   "short_name": "Curation NPB",
   "description": "広告ゼロで読める、NPB(日本プロ野球)12球団の最新ニュース・まとめキュレーションサイト",
-  "start_url": "/Curation_NPB/",
-  "scope": "/Curation_NPB/",
+  "start_url": "./",
+  "scope": "./",
   "display": "standalone",
   "orientation": "portrait-primary",
   "background_color": "#101012",
@@ -11,13 +11,13 @@
   "lang": "ja",
   "icons": [
     {
-      "src": "/Curation_NPB/icons/icon-192.png",
+      "src": "icons/icon-192.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "any maskable"
     },
     {
-      "src": "/Curation_NPB/icons/icon-512.png",
+      "src": "icons/icon-512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any maskable"

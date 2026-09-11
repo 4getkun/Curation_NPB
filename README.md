@@ -3,8 +3,24 @@
 広告ゼロで読める、NPB(日本プロ野球)12球団のニュース・まとめキュレーションサイトです。
 Astro + Tailwind CSS で構築し、GitHub Pages の無料枠だけで完結するように作っています。
 
-- 公開URL(予定): https://4getkun.github.io/Curation_NPB/
+- 公開URL: https://fourgetkun.com/npb-news/ (fourgetkun-hub 配下)
+- 配信元(GitHub Pages): https://4getkun.github.io/Curation_NPB/ — 直接開くと上の公開URLへ自動転送されます
 - リポジトリ: https://github.com/4getkun/Curation_NPB
+
+## 公開の仕組み(2026-09〜 fourgetkun.com 配下へ移行)
+
+ビルドとデプロイはこれまでどおり GitHub Actions → GitHub Pages で行い、GitHub Pages は「配信元」として残しています。
+利用者向けの公開URLは `https://fourgetkun.com/npb-news/` で、fourgetkun-hub の Worker(`src/npb-news/proxy.js`)が
+`/npb-news/*` へのリクエストを `https://4getkun.github.io/Curation_NPB/*` から取得して返すリバースプロキシになっています。
+
+- `astro.config.mjs` の `site` / `base` は公開側(`https://fourgetkun.com` / `/npb-news`)に合わせています。
+  そのため GitHub Pages 上のHTMLを github.io のURLで直接開くとCSS等が読めませんが、`Base.astro` 冒頭の
+  インラインスクリプトが同じページの `fourgetkun.com/npb-news/...` へ即座に転送します(旧URLの共有リンクも生きます)。
+- `fourgetkun.com/Curation_NPB/...` へのアクセスも hub 側で `/npb-news/...` へ301転送します。
+- 30分ごとの自動更新は GitHub Pages 側で完結するため、hub リポジトリへのコミットや Cloudflare 側の再ビルドは発生しません。
+  hub 側のエッジキャッシュは約5分なので、更新の反映は GitHub Pages のデプロイ完了から最大5分ほど遅れます。
+- 以下のセットアップ手順・ローカル確認のURL(`/Curation_NPB/`)は移行前の記述です。ローカル開発は
+  `npm run dev` → `http://localhost:4321/npb-news/` で確認します。
 
 ## 特徴
 
