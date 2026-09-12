@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-12T21:04:25.309Z",
+  "generatedAt": "2026-09-12T23:06:27.844Z",
   "teams": {
     "giants": [
       {
@@ -1067,6 +1067,21 @@
     ],
     "lions": [
       {
+        "gameNumber": 130,
+        "date": "9月12日",
+        "opponentTeamId": "fighters",
+        "opponentText": "日本ハム",
+        "score": "3-3",
+        "ownScore": 3,
+        "opponentScore": 3,
+        "result": "draw",
+        "winningPitcher": "",
+        "losingPitcher": "",
+        "savePitcher": "",
+        "venue": "ベルーナドーム",
+        "record": "73-53-4"
+      },
+      {
         "gameNumber": 129,
         "date": "9月11日",
         "opponentTeamId": "buffaloes",
@@ -1200,21 +1215,6 @@
         "savePitcher": "甲斐野（2-2-19）",
         "venue": "ベルーナドーム",
         "record": "69-49-3"
-      },
-      {
-        "gameNumber": 120,
-        "date": "8月29日",
-        "opponentTeamId": "eagles",
-        "opponentText": "楽天",
-        "score": "1-0",
-        "ownScore": 1,
-        "opponentScore": 0,
-        "result": "win",
-        "winningPitcher": "隅田（9-6）",
-        "losingPitcher": "",
-        "savePitcher": "",
-        "venue": "ベルーナドーム",
-        "record": "68-49-3"
       }
     ],
     "marines": [
@@ -1675,6 +1675,21 @@
     ],
     "fighters": [
       {
+        "gameNumber": 130,
+        "date": "9月12日",
+        "opponentTeamId": "lions",
+        "opponentText": "西武",
+        "score": "3-3",
+        "ownScore": 3,
+        "opponentScore": 3,
+        "result": "draw",
+        "winningPitcher": "",
+        "losingPitcher": "",
+        "savePitcher": "",
+        "venue": "ベルーナドーム",
+        "record": "71-56-3"
+      },
+      {
         "gameNumber": 129,
         "date": "9月10日",
         "opponentTeamId": "hawks",
@@ -1808,21 +1823,6 @@
         "savePitcher": "柳川（4-0-22）",
         "venue": "エスコンF",
         "record": "67-53-1"
-      },
-      {
-        "gameNumber": 120,
-        "date": "8月29日",
-        "opponentTeamId": "marines",
-        "opponentText": "ロッテ",
-        "score": "9-7",
-        "ownScore": 9,
-        "opponentScore": 7,
-        "result": "win",
-        "winningPitcher": "孫（2-1）",
-        "losingPitcher": "",
-        "savePitcher": "柳川（4-0-21）",
-        "venue": "エスコンF",
-        "record": "66-53-1"
       }
     ]
   }
