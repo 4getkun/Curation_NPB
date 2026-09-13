@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-13T21:10:43.184Z",
+  "generatedAt": "2026-09-13T23:15:10.815Z",
   "teams": {
     "giants": [
       {
@@ -163,9 +163,9 @@
         "ownScore": 0,
         "opponentScore": 1,
         "result": "loss",
-        "winningPitcher": "",
+        "winningPitcher": "森博（1-0）",
         "losingPitcher": "木下（4-2）",
-        "savePitcher": "",
+        "savePitcher": "松山（1-3-28）",
         "venue": "甲子園",
         "record": "69-55-1"
       },
@@ -763,6 +763,21 @@
     ],
     "dragons": [
       {
+        "gameNumber": 131,
+        "date": "9月13日",
+        "opponentTeamId": "tigers",
+        "opponentText": "阪神",
+        "score": "1-0",
+        "ownScore": 1,
+        "opponentScore": 0,
+        "result": "win",
+        "winningPitcher": "森博（1-0）",
+        "losingPitcher": "木下（4-2）",
+        "savePitcher": "松山（1-3-28）",
+        "venue": "甲子園",
+        "record": "55-74-2"
+      },
+      {
         "gameNumber": 130,
         "date": "9月12日",
         "opponentTeamId": "swallows",
@@ -896,21 +911,6 @@
         "savePitcher": "",
         "venue": "バンテリンドーム",
         "record": "51-70-1"
-      },
-      {
-        "gameNumber": 121,
-        "date": "8月30日",
-        "opponentTeamId": "baystars",
-        "opponentText": "DeNA",
-        "score": "3-4x",
-        "ownScore": 3,
-        "opponentScore": 4,
-        "result": "loss",
-        "winningPitcher": "",
-        "losingPitcher": "松山（1-3）",
-        "savePitcher": "",
-        "venue": "横浜",
-        "record": "51-69-1"
       }
     ],
     "hawks": [
