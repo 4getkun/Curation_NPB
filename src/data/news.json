@@ -1,22 +1,41 @@
 {
-  "generatedAt": "2026-09-13T23:15:09.678Z",
+  "generatedAt": "2026-09-14T01:15:36.155Z",
   "count": 4000,
   "items": [
     {
-      "title": "【週刊イーグルス】来季の年間シート販売開始 特別な一日を体験できる「THE Gran」登場(日刊スポーツ)",
-      "summary": "＜週刊イーグルス＞ 日刊スポーツ東北版で毎週1回、楽天情報をお届けする「週刊イーグルス」。今回は、2027シーズンの「年間シート販売」情報です。 14日（月）より「2027シーズン年間シート",
-      "link": "https://news.yahoo.co.jp/articles/7799be3f28b98102ba543b90c35c45b45e66235d?source=rss",
-      "pubDate": "2026-09-13T23:00:01.000Z",
+      "title": "【ヤフコメで話題】「阪神の打線不振と采配への疑問」「日本シリーズ進出への危機感」 - 9月の連敗と首脳陣の決断に厳しい声(Yahoo!ニュース オリジナル THE PAGE)",
+      "summary": "阪神タイガースの打線不振と首脳陣の采配について、Yahoo!ニュースのコメント欄で話題になっています。 9月に入り阪神が連敗を重ね、特に得点力不足や9回裏のサヨナラ機での采配（坂本選手への代打起用見送",
+      "link": "https://news.yahoo.co.jp/articles/bc593c3d655d56f160fe79eb277f34dab8d9e392?source=rss",
+      "pubDate": "2026-09-14T00:31:01.000Z",
       "source": "Yahoo!ニュース スポーツ",
       "sourceId": "yahoo-sports",
       "teams": [
-        "eagles"
+        "tigers"
       ],
       "topics": [],
       "sources": [
         {
           "name": "Yahoo!ニュース スポーツ",
           "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/bc593c3d655d56f160fe79eb277f34dab8d9e392?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【週刊イーグルス】来季の年間シート販売開始 特別な一日を体験できる「THE Gran」登場(日刊スポーツ)",
+      "summary": "＜週刊イーグルス＞ 日刊スポーツ東北版で毎週1回、楽天情報をお届けする「週刊イーグルス」。今回は、2027シーズンの「年間シート販売」情報です。 14日（月）より「2027シーズン年間シート",
+      "link": "https://news.yahoo.co.jp/articles/7799be3f28b98102ba543b90c35c45b45e66235d?source=rss",
+      "pubDate": "2026-09-13T23:00:01.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "eagles"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/7799be3f28b98102ba543b90c35c45b45e66235d?source=rss"
         }
       ]
@@ -77557,25 +77576,6 @@
           "name": "Yahoo!ニュース スポーツ",
           "sourceId": "yahoo-sports",
           "link": "https://news.yahoo.co.jp/articles/03a8a010716a5d677eed5dbe4735822f57919c34?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【DeNA】相川監督「当然、いい投球を期待して…」藤浪晋太郎の３回途中KOの背信投球に落胆(日刊スポーツ)",
-      "summary": "＜DeNA3－6巨人＞◇20日◇横浜 DeNA相川亮二監督（50）が、先発の藤浪晋太郎投手（32）を3回途中3失点4四球で降板を決断した。 3回、先頭から2者連続のストレートの四球でピンチを作",
-      "link": "https://news.yahoo.co.jp/articles/e71f655346a5860b1ccfa712f7a36e7f748b8236?source=rss",
-      "pubDate": "2026-08-20T23:43:07.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "baystars"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/e71f655346a5860b1ccfa712f7a36e7f748b8236?source=rss"
         }
       ]
     }
