@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-14T06:30:38.166Z",
+  "generatedAt": "2026-09-14T13:25:54.868Z",
   "teams": {
     "giants": [
       {
@@ -41,7 +41,7 @@
         "ownScore": 5,
         "opponentScore": 3,
         "result": "win",
-        "winningPitcher": "田中瑛（3-3）",
+        "winningPitcher": "田中瑛（3-3-2）",
         "losingPitcher": "吉田（1-4）",
         "savePitcher": "マルティネス（4-3-38）",
         "venue": "東京ドーム",
@@ -146,7 +146,7 @@
         "ownScore": 4,
         "opponentScore": 3,
         "result": "win",
-        "winningPitcher": "マルティネス（4-3）",
+        "winningPitcher": "マルティネス（4-3-36）",
         "losingPitcher": "ルイーズ（1-2）",
         "savePitcher": "",
         "venue": "京セラD大阪",
@@ -154,6 +154,21 @@
       }
     ],
     "tigers": [
+      {
+        "gameNumber": 126,
+        "date": "9月14日",
+        "opponentTeamId": "dragons",
+        "opponentText": "中日",
+        "score": "0-6",
+        "ownScore": 0,
+        "opponentScore": 6,
+        "result": "loss",
+        "winningPitcher": "",
+        "losingPitcher": "伊藤将（2-3）",
+        "savePitcher": "",
+        "venue": "甲子園",
+        "record": "69-56-1"
+      },
       {
         "gameNumber": 125,
         "date": "9月13日",
@@ -288,21 +303,6 @@
         "savePitcher": "工藤（3-0-8）",
         "venue": "甲子園",
         "record": "67-49-1"
-      },
-      {
-        "gameNumber": 116,
-        "date": "8月29日",
-        "opponentTeamId": "giants",
-        "opponentText": "巨人",
-        "score": "4-1",
-        "ownScore": 4,
-        "opponentScore": 1,
-        "result": "win",
-        "winningPitcher": "大竹（5-8）",
-        "losingPitcher": "",
-        "savePitcher": "工藤（3-0-7）",
-        "venue": "甲子園",
-        "record": "66-49-1"
       }
     ],
     "carp": [
@@ -602,7 +602,7 @@
         "ownScore": 3,
         "opponentScore": 4,
         "result": "loss",
-        "winningPitcher": "マルティネス（4-3）",
+        "winningPitcher": "マルティネス（4-3-36）",
         "losingPitcher": "ルイーズ（1-2）",
         "savePitcher": "",
         "venue": "京セラD大阪",
@@ -801,7 +801,7 @@
         "ownScore": 3,
         "opponentScore": 5,
         "result": "loss",
-        "winningPitcher": "田中瑛（3-3）",
+        "winningPitcher": "田中瑛（3-3-2）",
         "losingPitcher": "吉田（1-4）",
         "savePitcher": "マルティネス（4-3-38）",
         "venue": "東京ドーム",
