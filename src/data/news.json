@@ -1,7 +1,43 @@
 {
-  "generatedAt": "2026-09-15T15:18:35.503Z",
+  "generatedAt": "2026-09-15T19:06:32.957Z",
   "count": 4000,
   "items": [
+    {
+      "title": "【西武】西口文也監督の来季続投基本線に 借金42→借金14経て、今季ここまで貯金18と大健闘(日刊スポーツ)",
+      "summary": "西武が西口文也監督（53）の来季の続投を基本線としていることが15日、分かった。シーズン91敗、借金42という歴史的な敗北を喫した24年オフに就任。2年目の今季はシーズン残り11試合となった時点で、",
+      "link": "https://news.yahoo.co.jp/articles/a9b027e5a5e35b613c81f604d3b582f74c31068f?source=rss",
+      "pubDate": "2026-09-15T19:00:01.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "lions"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/a9b027e5a5e35b613c81f604d3b582f74c31068f?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "NPB新コミッショナーに三井物産顧問の飯島彰己氏就任へ 3代続けて財界出身 榊原氏は11月限りで退任(スポニチアネックス)",
+      "summary": "プロ野球の榊原定征コミッショナー（83）が2期目の任期が終了する今年11月限りで退任し、後任には三井物産元社長で現顧問の飯島彰己氏（75）が第16代コミッショナーに就任する見通しであることが15日、",
+      "link": "https://news.yahoo.co.jp/articles/3ed3d12f25bfe79c426ea1c1552a91df4ce8f4f2?source=rss",
+      "pubDate": "2026-09-15T18:00:00.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/3ed3d12f25bfe79c426ea1c1552a91df4ce8f4f2?source=rss"
+        }
+      ]
+    },
     {
       "title": "【日本ハム】西川遥輝「勝ちたかった」1軍復帰で走攻アピールもチーム敗戦悔しがる(日刊スポーツ)",
       "summary": "＜日本ハム6－7ロッテ＞ 5カ月ぶりに1軍復帰した日本ハム西川遥輝外野手（34）が打って走ってアピールした。 2点を追う5回2死から四球で出塁。続く水野の打席の初球で5カ月ぶりの盗塁に成功した",
@@ -83,8 +119,8 @@
       "summary": "＜DeNA13－2巨人＞◇15日◇横浜 DeNAドラフト3位ルーキーの宮下朝陽内野手（22）が15日、出場選手登録を抹消された。 試合後、相川亮二監督（50）は「ちょっと今シーズンはもう難しい",
       "link": "https://news.yahoo.co.jp/articles/dbb3bb7a9d4169fb438dae9eecc7ba3718b48e4c?source=rss",
       "pubDate": "2026-09-15T14:29:31.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
       "teams": [
         "baystars"
       ],
@@ -95,8 +131,8 @@
       ],
       "sources": [
         {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/dbb3bb7a9d4169fb438dae9eecc7ba3718b48e4c?source=rss"
         }
       ]
@@ -123,16 +159,16 @@
       "summary": "＜DeNA13－2巨人＞◇15日◇横浜 DeNA筒香嘉智内野手（34）が、巨人戸郷からNPB通算250号を放ち、チームの7連勝に貢献した。2回、佐野が8号3ランを放った余韻が残る中、右翼席に2者連",
       "link": "https://news.yahoo.co.jp/articles/5261b07bd9e05d7d1377e53ac1f3de6a91b768bd?source=rss",
       "pubDate": "2026-09-15T14:23:58.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
       "teams": [
         "baystars"
       ],
       "topics": [],
       "sources": [
         {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/5261b07bd9e05d7d1377e53ac1f3de6a91b768bd?source=rss"
         }
       ]
@@ -162,16 +198,16 @@
       "summary": "＜DeNA13－2巨人＞◇15日◇横浜 DeNA蝦名達夫外野手（28）が放った5号ソロが、プロ野球の令和10000号という節目となった。7点リードの2回1死、巨人戸郷のスライダーを左翼席に運んだ。",
       "link": "https://news.yahoo.co.jp/articles/c104adccea3b04975aaf312f5c181fd65dfadfee?source=rss",
       "pubDate": "2026-09-15T14:18:20.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
       "teams": [
         "baystars"
       ],
       "topics": [],
       "sources": [
         {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/c104adccea3b04975aaf312f5c181fd65dfadfee?source=rss"
         }
       ]
@@ -200,16 +236,16 @@
       "summary": "＜日本ハム6－7ロッテ＞◇15日◇エスコンフィールド 日本ハムは痛恨の逆転負けを喫し、試合のない16日にソフトバンクがオリックスに勝つと、10年ぶりリーグ優勝の可能性が完全に消滅する。 2回、",
       "link": "https://news.yahoo.co.jp/articles/417dcc515b6df6c3e0e422d41f5b35339e45d929?source=rss",
       "pubDate": "2026-09-15T14:15:22.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
       "teams": [
         "fighters"
       ],
       "topics": [],
       "sources": [
         {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/417dcc515b6df6c3e0e422d41f5b35339e45d929?source=rss"
         }
       ]
@@ -238,16 +274,16 @@
       "summary": "＜オリックス3－5ソフトバンク＞◇15日◇京セラドーム大阪 ソフトバンクの守護神・杉山一樹投手（28）がリーグトップタイの33セーブ目を挙げた。2点リードの9回に登板。オリックス杉本、山中を中飛に",
       "link": "https://news.yahoo.co.jp/articles/5efa6eceab51716e9fb36c75d0235b8df971820f?source=rss",
       "pubDate": "2026-09-15T14:06:07.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
       "teams": [
         "hawks"
       ],
       "topics": [],
       "sources": [
         {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/5efa6eceab51716e9fb36c75d0235b8df971820f?source=rss"
         }
       ]
@@ -276,16 +312,16 @@
       "summary": "＜日本ハム6－7ロッテ＞◇15日◇エスコンフィールド 日本ハムは痛恨の逆転負けで、試合のない16日に、ソフトバンクがオリックスに勝つと、10年ぶりリーグ優勝の可能性が、完全に消滅する。 試合は",
       "link": "https://news.yahoo.co.jp/articles/c95b733dd0f08d298aac318bbb7829ca482650ad?source=rss",
       "pubDate": "2026-09-15T14:04:40.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
       "teams": [
         "fighters"
       ],
       "topics": [],
       "sources": [
         {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/c95b733dd0f08d298aac318bbb7829ca482650ad?source=rss"
         }
       ]
@@ -295,16 +331,16 @@
       "summary": "＜オリックス3－5ソフトバンク＞◇15日◇京セラドーム大阪 ソフトバンク小久保裕紀監督（54）は今年も無事、20年に急死した川村隆史コンディショニングコーチの命日に捧げるウイニングボールを手にした",
       "link": "https://news.yahoo.co.jp/articles/03b889f4454713c68c7e6b9e0ad75b6ec9dc47ef?source=rss",
       "pubDate": "2026-09-15T13:59:59.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
       "teams": [
         "hawks"
       ],
       "topics": [],
       "sources": [
         {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/03b889f4454713c68c7e6b9e0ad75b6ec9dc47ef?source=rss"
         }
       ]
@@ -77470,48 +77506,6 @@
           "name": "Yahoo!ニュース スポーツ",
           "sourceId": "yahoo-sports",
           "link": "https://news.yahoo.co.jp/articles/d7f30a0ba6370e3e727eac44445d12f4846f602f?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【広島】高卒ドラ６西川篤夢 ほろ苦い初スタメン…新井監督「ミスしてもいいから」 (東スポWEB)",
-      "summary": "広島のドラフト6位ルーキー・西川篤夢内野手（18）が21日の巨人戦（東京ドーム）で「9番・遊撃」としてプロ初スタメン出場した。攻守で試練を味わった18歳に、新井監督は前向きな言葉を送った。 西川",
-      "link": "https://news.yahoo.co.jp/articles/bac543e9708c34041f9ad53919338932b906ea92?source=rss",
-      "pubDate": "2026-08-21T13:10:25.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "carp"
-      ],
-      "topics": [
-        "draft"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/bac543e9708c34041f9ad53919338932b906ea92?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【阪神】ルーカスが来日初勝利 藤川監督「5回までよく行ってくれた。3、4回のつもりだった」(日刊スポーツ)",
-      "summary": "＜DeNA1－4阪神＞◇21日◇横浜 阪神が逆転勝ちで連敗を阻止し、首位を堅守した。 腰部の疲労骨折から復活し、約4カ月ぶりの1軍先発となったイーストン・ルーカス投手（31）が5回5安打1失点",
-      "link": "https://news.yahoo.co.jp/articles/4d9067b4413a4dc1cb5684f22074029daa714dae?source=rss",
-      "pubDate": "2026-08-21T13:09:46.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "tigers"
-      ],
-      "topics": [
-        "injury"
-      ],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/4d9067b4413a4dc1cb5684f22074029daa714dae?source=rss"
         }
       ]
     }
