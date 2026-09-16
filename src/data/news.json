@@ -1,22 +1,398 @@
 {
-  "generatedAt": "2026-09-16T18:57:07.195Z",
+  "generatedAt": "2026-09-16T21:49:08.400Z",
   "count": 4000,
   "items": [
     {
-      "title": "【日本ハム】新庄剛志監督に来季続投を要請へ レイエス残留で６年目も全力バックアップ(日刊スポーツ)",
-      "summary": "日本ハムが新庄剛志監督（54）に来季続投を要請する方針を固めたことが16日、複数の関係者の話で分かった。この日は試合がなかったが、首位ソフトバンクがオリックスに勝利したため、日本ハムの優勝の可能性が",
-      "link": "https://news.yahoo.co.jp/articles/fb22256a188dfa7d9d1c048196edc5278dd511a3?source=rss",
-      "pubDate": "2026-09-16T17:00:01.000Z",
+      "title": "【きょうのプロ野球】9月17日の対戦カード・試合開始時間・予告先発投手は？(ベースボールチャンネル)",
+      "summary": "プロ野球は17日、対戦カード・開催球場・試合開始時間・予告先発投手を以下のとおりで行う。 ■セ・リーグ ヤクルト ー DeNA（神宮・18時） 予告先発：奥川恭伸（ヤクルト）、石田裕太郎（DeNA）",
+      "link": "https://news.yahoo.co.jp/articles/4ce0f8181bb6fd8c3e8a45f337de0065483e40d7?source=rss",
+      "pubDate": "2026-09-16T21:31:30.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/4ce0f8181bb6fd8c3e8a45f337de0065483e40d7?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "故障さえなければ…歴代ガラスの天才（6）「ケガがなければ…」のスラッガー(ベースボールチャンネル)",
+      "summary": "プロ野球の世界には、類まれな才能を持ちながら、度重なる故障によってその力を十分に発揮しきれなかった選手たちがいる。万全の状態でプレーを続けていれば、球界を代表する存在になっていたかもしれない。そう思",
+      "link": "https://news.yahoo.co.jp/articles/d1186252ca390c28233459e34487eac8742cb464?source=rss",
+      "pubDate": "2026-09-16T21:30:03.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [],
+      "topics": [
+        "injury"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/d1186252ca390c28233459e34487eac8742cb464?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【巨人２軍】吉川尚輝が逆転Ｖ使者になる 左太もも裏の肉離れから順調に回復…首位ＤｅＮＡと２・５差(スポーツ報知)",
+      "summary": "巨人２軍は１６日、ハードオフ新潟で全体練習を行った。ファーム・リーグ中地区首位のＤｅＮＡとは２・５ゲーム差。ともに残り９戦となり、２５～２７日の直接対決３連戦（Ｇタウン）が最終カードとなる。 「",
+      "link": "https://news.yahoo.co.jp/articles/cf0c00a6f5ebcaa6f4b665890c6b946474165de0?source=rss",
+      "pubDate": "2026-09-16T21:30:01.000Z",
       "source": "Yahoo!ニュース スポーツ",
       "sourceId": "yahoo-sports",
       "teams": [
-        "fighters"
+        "giants"
+      ],
+      "topics": [
+        "injury"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/cf0c00a6f5ebcaa6f4b665890c6b946474165de0?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "パ・リーグ首位打者＆最多安打争いが接戦 解説陣の予想は「数字が動かないとなると…」「天才的なバットコントロールが炸裂するのでは」",
+      "summary": "◆ 高木氏「6厘は近藤だったら上げてきそう」坂口氏「西川があと4本打つのは絶対間違いない」 パ・リーグの首位打者と最多安打のタイトル争いが接戦となっている。打率は日本ハム・レイエスが.313でトップ、ソフトバンク・近藤 […]",
+      "link": "https://baseballking.jp/ns/707248/",
+      "pubDate": "2026-09-16T21:30:00.000Z",
+      "source": "BASEBALL KING",
+      "sourceId": "baseballking",
+      "teams": [
+        "fighters",
+        "hawks"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "BASEBALL KING",
+          "sourceId": "baseballking",
+          "link": "https://baseballking.jp/ns/707248/"
+        },
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/fec57359df630e0654e9da0b769600f2e35e3040?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【ソフトバンク】今年もタイトル争いの主役は鷹戦士 栗原、近藤、周東、前田悠、杉山らに可能性(日刊スポーツ)",
+      "summary": "＜オリックス－ソフトバンク＞◇17日◇京セラドーム大阪 今季最長の8連勝としているソフトバンクが、3年連続22度目の優勝へマジック2とした。 タイトル争いの主役を演じるのも鷹戦士だ。 投手",
+      "link": "https://news.yahoo.co.jp/articles/0874b0b673db3a57dc749825e8df240a30e22d6b?source=rss",
+      "pubDate": "2026-09-16T21:30:00.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "hawks"
       ],
       "topics": [],
       "sources": [
         {
           "name": "Yahoo!ニュース スポーツ",
           "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/0874b0b673db3a57dc749825e8df240a30e22d6b?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "先輩に“まさか”、楽天23歳の行動に驚き「どういうことや」…初体験をアシスト「なかなかの肝っ玉」(スポーティングニュース日本版)",
+      "summary": "東北楽天ゴールデンイーグルスは9月16日、ZOZOマリンスタジアムで千葉ロッテマリーンズと対戦。荘司康誠投手がプロ初完封で8勝目を挙げた。9回の攻撃中には、ベンチでバナナを食べていた宗山塁内野手から声",
+      "link": "https://news.yahoo.co.jp/articles/ed21e98aa5fa47a8a85b90f1c540f906b51cab89?source=rss",
+      "pubDate": "2026-09-16T21:20:25.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "eagles",
+        "marines"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/ed21e98aa5fa47a8a85b90f1c540f906b51cab89?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "白熱するパ・リーグ最多勝争いの行方は？高木氏「分け合うかなという感じがする」「13勝くらいで決まるかな」",
+      "summary": "◆ 12勝で2人、11勝で5人が並ぶ展開「前田悠伍とエスピノーザがあと1勝ずつすれば…」 レギュラーシーズンが残り1か月を切り、パ・リーグの最多勝争いが白熱している。12勝で前田悠伍（ソフトバンク）とエスピノーザ（オリ […]",
+      "link": "https://baseballking.jp/ns/707259/",
+      "pubDate": "2026-09-16T21:20:00.000Z",
+      "source": "BASEBALL KING",
+      "sourceId": "baseballking",
+      "teams": [
+        "hawks"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "BASEBALL KING",
+          "sourceId": "baseballking",
+          "link": "https://baseballking.jp/ns/707259/"
+        },
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/820506c3819c870d02e9b316c578ddf78a0da8fe?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "中村敬斗がELデビュー戦で決勝ゴール！ リヨン初先発で移籍後初弾、2-1勝利に貢献(スポーティングニュース日本版)",
+      "summary": "リヨンの日本代表FW中村敬斗が、UEFAヨーロッパリーグ（EL）デビュー戦でいきなりゴールを決めた。 9月16日に行われた2026/27シーズンのELリーグフェーズ第1節、アンデルレヒト対リヨン。中",
+      "link": "https://news.yahoo.co.jp/articles/c792d4ffce54140b52d781a7ee4e45698ab12f17?source=rss",
+      "pubDate": "2026-09-16T21:15:37.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/c792d4ffce54140b52d781a7ee4e45698ab12f17?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【ソフトバンク】２年連続で存在感増す〝終盤の上沢直之〟８、９月は２年間で無傷の９勝(東スポWEB)",
+      "summary": "背番号10が確かな存在感を示している。ソフトバンクは16日のオリックス戦（京セラ）に延長戦の末、4―0で勝ち切った。ここにきて今季最多を更新する破竹の8連勝で、優勝へのマジックナンバーは「2」。17",
+      "link": "https://news.yahoo.co.jp/articles/0a54d26eeaa8837a4b8a4d1da58b95c5944a66d2?source=rss",
+      "pubDate": "2026-09-16T21:15:32.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "hawks"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/0a54d26eeaa8837a4b8a4d1da58b95c5944a66d2?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "楽天・荘司康誠が規定投球回初到達！リーグトップの155奪三振 佐伯氏「見事な数字」と評価も「三振だけの投手ではないという所を…」",
+      "summary": "◆ プロ初完封で8勝目！高木氏「希望としたら並ぶか、1つ上をいって10勝して」 楽天・荘司康誠が16日、ロッテ戦に先発登板。9回125球・6安打7奪三振無四球無失点とプロ初完封で8勝目を挙げた。 規定投球回に自身初到 […]",
+      "link": "https://baseballking.jp/ns/707250/",
+      "pubDate": "2026-09-16T21:10:00.000Z",
+      "source": "BASEBALL KING",
+      "sourceId": "baseballking",
+      "teams": [
+        "eagles"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "BASEBALL KING",
+          "sourceId": "baseballking",
+          "link": "https://baseballking.jp/ns/707250/"
+        }
+      ]
+    },
+    {
+      "title": "8連勝でM2のソフトバンク、その決定力が際立った10回の攻撃 坂口氏「このイニングだけで強さがわかる」",
+      "summary": "ソフトバンクが延長戦の末に今季最長となる8連勝を飾り、優勝マジックを「2」とした。16日放送のCSフジテレビONE『プロ野球ニュース2026』では、勝ち越しに成功した10回の攻撃にフォーカス。解説陣が、ソフトバンク打線 […]",
+      "link": "https://baseballking.jp/ns/707252/",
+      "pubDate": "2026-09-16T21:00:00.000Z",
+      "source": "BASEBALL KING",
+      "sourceId": "baseballking",
+      "teams": [
+        "hawks"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "BASEBALL KING",
+          "sourceId": "baseballking",
+          "link": "https://baseballking.jp/ns/707252/"
+        }
+      ]
+    },
+    {
+      "title": "【データ】ソフトバンクは急速にマジック減らし、かたや阪神はＭ減らしに苦戦中(日刊スポーツ)",
+      "summary": "＜オリックス－ソフトバンク＞◇17日◇京セラドーム大阪 優勝マジック2のソフトバンクは8日の日本ハム戦から8連勝中。連勝が始まる前の7日時点はM14で、連勝中にマジックが一気に12減った。 こ",
+      "link": "https://news.yahoo.co.jp/articles/d189d5212436670763db09b4c3f9d95e7bb8a3c3?source=rss",
+      "pubDate": "2026-09-16T20:30:01.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "hawks",
+        "tigers"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/d189d5212436670763db09b4c3f9d95e7bb8a3c3?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【楽天】荘司康誠がプロ初完投初完封を達成「棚からぼた餅的な感じで、最後投げさせてもらった」(日刊スポーツ)",
+      "summary": "＜ロッテ0－4楽天＞◇16日◇ZOZOマリン 4年目の楽天荘司康誠投手（25）がプロ初完投初完封を達成した。リーグトップの奪三振数は2位に11個差の155まで伸ばした。 最後までマウンドを守り",
+      "link": "https://news.yahoo.co.jp/articles/ba411e33a4711df9d33271f66abd54c6d19d46ac?source=rss",
+      "pubDate": "2026-09-16T20:00:03.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "eagles"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/ba411e33a4711df9d33271f66abd54c6d19d46ac?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【阪神】小谷野栄一コーチ「８度Ｖ」のキャリアで得た絶対的な方程式「ここでぶれるのは違う」(日刊スポーツ)",
+      "summary": "阪神に急ブレーキがかかった。打線が湿る毎日でついに7連敗。何か打開策はないのか。聞いてみたい人がいた。豊富な優勝経験を持つ小谷野栄一打撃チーフコーチ（45）だ。答えは「必死という言葉がすべて」と、シ",
+      "link": "https://news.yahoo.co.jp/articles/46fc99ca29aa718f438b6ed1f07ecb9b6d5014ce?source=rss",
+      "pubDate": "2026-09-16T20:00:02.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "tigers"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/46fc99ca29aa718f438b6ed1f07ecb9b6d5014ce?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【阪神】チーム苦境も…村上頌樹「去年も交流戦で7連敗…それで優勝」どっしり構える大黒柱(日刊スポーツ)",
+      "summary": "阪神の選手会長・村上頌樹投手（28）が、苦しいチームの現状に頼もしい言葉を発した。 「いいんじゃないですか、気にしなくて。去年も交流戦で7連敗しているじゃないですか、それで優勝しているじゃないで",
+      "link": "https://news.yahoo.co.jp/articles/bee51280874df6b9d4d99f8b2bd9a8e9c05b6631?source=rss",
+      "pubDate": "2026-09-16T20:00:01.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "tigers"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/bee51280874df6b9d4d99f8b2bd9a8e9c05b6631?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【阪神】７連敗も…秦オーナー「相応に評価」「結果を恐れず開き直って」苦しむチームの背中押す(日刊スポーツ)",
+      "summary": "プロ野球の12球団オーナー会議が16日、都内で行われ、出席した阪神秦雅夫オーナー（69）が苦しむチームの背中を押した。「今シーズンを振り返ると、藤川監督以下チーム全員がそれぞれの役割を果たして、結果",
+      "link": "https://news.yahoo.co.jp/articles/90a57f29ebd1d34e0828c5d40718489cdb735905?source=rss",
+      "pubDate": "2026-09-16T20:00:01.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "tigers"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/90a57f29ebd1d34e0828c5d40718489cdb735905?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【巨人】山口寿一オーナー、来季の監督人事について白紙強調「一投一打に全力で集中してほしい」(日刊スポーツ)",
+      "summary": "巨人山口寿一オーナー（69）が来季の監督人事について「全く決めてない」と白紙を強調した。16日、都内でオーナー会議に出席。「優勝争いの真っただ中であって、ともかく、目の前の1試合1試合、一投一打に全",
+      "link": "https://news.yahoo.co.jp/articles/4d3b84fee0c6b191acc1a7e288529e9c8939852d?source=rss",
+      "pubDate": "2026-09-16T19:55:01.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "giants"
+      ],
+      "topics": [
+        "personnel"
+      ],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/4d3b84fee0c6b191acc1a7e288529e9c8939852d?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【楽天】ドラ３繁永晟、約２カ月ぶり適時打含む２安打で勝利に貢献「何とか必死に食らいついて」(日刊スポーツ)",
+      "summary": "＜ロッテ0－4楽天＞◇16日◇ZOZOマリン 楽天ドラフト3位の繁永晟内野手（23）が約2カ月ぶりの適時打含む2安打で勝利に貢献した。 3－0の1回2死二塁。ロッテ毛利の4球目スライダーを中前",
+      "link": "https://news.yahoo.co.jp/articles/f87e4cf40e7236dc2f958034b717a53990257014?source=rss",
+      "pubDate": "2026-09-16T19:55:01.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "eagles"
+      ],
+      "topics": [
+        "draft"
+      ],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/f87e4cf40e7236dc2f958034b717a53990257014?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "発表された11人が「え、やばくない？」 関西初開催の特別試合…ファン反響「行きたい」",
+      "summary": "CSスポーツチャンネル「スカイA」は16日、12月5日に日鉄鋼板SGLスタジアム尼崎（兵庫県尼崎市）で開催される特別試合「THE LAST GAME 2026」の第1弾出場選手11人を発表。豪華な顔ぶれの集結に、SNS上のファンからは絶賛や…",
+      "link": "https://full-count.jp/2026/09/17/post2017023/",
+      "pubDate": "2026-09-16T19:50:00.000Z",
+      "source": "Full-Count（プロ野球）",
+      "sourceId": "full-count-npb",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Full-Count（プロ野球）",
+          "sourceId": "full-count-npb",
+          "link": "https://full-count.jp/2026/09/17/post2017023/"
+        }
+      ]
+    },
+    {
+      "title": "【日本ハム】新庄剛志監督に来季続投を要請へ レイエス残留で６年目も全力バックアップ(日刊スポーツ)",
+      "summary": "日本ハムが新庄剛志監督（54）に来季続投を要請する方針を固めたことが16日、複数の関係者の話で分かった。この日は試合がなかったが、首位ソフトバンクがオリックスに勝利したため、日本ハムの優勝の可能性が",
+      "link": "https://news.yahoo.co.jp/articles/fb22256a188dfa7d9d1c048196edc5278dd511a3?source=rss",
+      "pubDate": "2026-09-16T17:00:01.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "fighters"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/fb22256a188dfa7d9d1c048196edc5278dd511a3?source=rss"
         }
       ]
@@ -77161,372 +77537,6 @@
           "name": "Yahoo!ニュース スポーツ",
           "sourceId": "yahoo-sports",
           "link": "https://news.yahoo.co.jp/articles/73ab326fe9ce192fc6c1a09d7dd7fa1cb8276d1b?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【巨人記録室】ハワード、７月１軍に復帰後は別人！４戦３勝１敗 防御率０・３６(スポーツ報知)",
-      "summary": "◆ＪＥＲＡセ・リーグ 巨人２―０広島（２１日・東京ドーム） 巨人は今季１１度目の完封勝利。８月は４度目で月間４度は昨年６月５度以来。この日は５投手での完封勝利。５人以上の継投で完封勝利は昨年６月２",
-      "link": "https://news.yahoo.co.jp/articles/247d198494dd52cb764fa3b8f0a6e7d8d01935b8?source=rss",
-      "pubDate": "2026-08-21T20:40:04.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "giants"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/247d198494dd52cb764fa3b8f0a6e7d8d01935b8?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【隠しマイク】ヤクルト・池山監督 今の選手はシーズン中にお酒を飲まない人が多い「僕の場合はもう遅い」(スポニチアネックス)",
-      "summary": "◎今の選手はシーズン中にお酒を飲まない人が多いと明かしたヤクルト・池山監督は「そういう考えもあるかと思いながらね。まあ僕の場合はもう遅いんですけど」。体調管理は今も大事にしてくださいね。",
-      "link": "https://news.yahoo.co.jp/articles/284c5a2bea9730f32901142f26c9e67497cd9d04?source=rss",
-      "pubDate": "2026-08-21T20:31:00.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "swallows"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/284c5a2bea9730f32901142f26c9e67497cd9d04?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【巨人評論】１５０キロに満たない直球 打てそうで打てないハワードには理由がある 宮本和知氏が分析(スポーツ報知)",
-      "summary": "◆ＪＥＲＡセ・リーグ 巨人２―０広島（２１日・東京ドーム） 巨人のスペンサー・ハワード投手（３０）が５回３安打無失点で３勝目を挙げた。スポーツ報知評論家の宮本和知氏が、最速は１５０キロに満たないな",
-      "link": "https://news.yahoo.co.jp/articles/bf28be93bf3fdf117077dfe98a1110dcb9e70884?source=rss",
-      "pubDate": "2026-08-21T20:30:04.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "giants"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/bf28be93bf3fdf117077dfe98a1110dcb9e70884?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "巨人、助っ人コンビ躍動で今季11度目完封勝利 ハワード3勝&ライデル33セーブ(スポニチアネックス)",
-      "summary": "◇セ・リーグ 巨人2―0広島（2026年8月21日 東京D） 巨人先発のハワードは今後の登板も考慮して80球の球数制限があった中、5回を73球で3安打無失点にまとめて3勝目。チーム今季11度目の",
-      "link": "https://news.yahoo.co.jp/articles/d2d3d6b352a3c4d315fcd45862af3f21ac1988f9?source=rss",
-      "pubDate": "2026-08-21T20:30:00.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "giants"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/d2d3d6b352a3c4d315fcd45862af3f21ac1988f9?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "西武・おかわり 劇的23年連続弾！延長11回代打決勝、最多23発の満塁弾「本当に打てて良かった」(スポニチアネックス)",
-      "summary": "◇パ・リーグ 西武6―4楽天（2026年8月21日 楽天モバイル） 雨の影響で試合開始時間が30分遅れ、試合終了は午後11時23分。4時間53分の激闘を終え、鳴り物応援もなくなった深夜の仙台に西",
-      "link": "https://news.yahoo.co.jp/articles/0221e0e5b0d3a832b3d996682312c38ef925b41f?source=rss",
-      "pubDate": "2026-08-21T20:30:00.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "lions"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/0221e0e5b0d3a832b3d996682312c38ef925b41f?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "巨人・ダルベック、“4番の仕事”スランプ脱出V打 直近6戦3安打「苦しんだのでその分ホッとした」(スポニチアネックス)",
-      "summary": "◇セ・リーグ 巨人2―0広島（2026年8月21日 東京D） 好不調の波は誰にでもある。来日1年目なら、なおさらだ。巨人の4番を背負うダルベックは「物事を深く考えすぎないように」と割り切り、スラ",
-      "link": "https://news.yahoo.co.jp/articles/5592a949dab71c40ffb50395e761e6600214a19a?source=rss",
-      "pubDate": "2026-08-21T20:30:00.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "giants"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/5592a949dab71c40ffb50395e761e6600214a19a?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "ヤクルト・奥川 また鬼門で…無念8敗 打線も今季16度目の零敗(スポニチアネックス)",
-      "summary": "◇セ・リーグ ヤクルト0―3中日（2026年8月21日 バンテリンD） ヤクルトの奥川がまたもバンテリンドームのマウンドに沈んだ。 6回4安打3失点と粘投も、初回の3失点が響き8敗目。同球場",
-      "link": "https://news.yahoo.co.jp/articles/791eaaa9c372f2274ecc2e6597c33e9abe347a3a?source=rss",
-      "pubDate": "2026-08-21T20:30:00.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "swallows"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/791eaaa9c372f2274ecc2e6597c33e9abe347a3a?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "DeNA 新打線も1点のみで2連敗 先発の平良は6回2失点で粘投 相川監督「あとは打線の問題」(スポニチアネックス)",
-      "summary": "◇セ・リーグ DeNA1―4阪神（2026年8月21日 横浜） DeNAは打線の組み替えが実らず、2連敗を喫した。 勝又を1番、度会を3番に置くオーダーで臨んだが、得点は2回にドラフト3位・",
-      "link": "https://news.yahoo.co.jp/articles/d0235c40f174e37f7a178ad5749a2c00f093494c?source=rss",
-      "pubDate": "2026-08-21T20:30:00.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "baystars"
-      ],
-      "topics": [
-        "draft"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/d0235c40f174e37f7a178ad5749a2c00f093494c?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "ロッテ・山口 プロ初サヨナラ打！4回23号に続き延長10回大仕事「俺がやるぞと思っていた」(スポニチアネックス)",
-      "summary": "◇パ・リーグ ロッテ4―3日本ハム（2026年8月21日 ZOZOマリン） 初めて体験するウオーターシャワーが心地よかった。3―3の延長10回無死一、二塁。ロッテ・山口は清宮虎の155キロを右中",
-      "link": "https://news.yahoo.co.jp/articles/fa9ec2e8f1bf9a0bc7bb025f0f928d5c68c5cdc9?source=rss",
-      "pubDate": "2026-08-21T20:30:00.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "marines"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/fa9ec2e8f1bf9a0bc7bb025f0f928d5c68c5cdc9?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "楽天 4時間53分の激闘の末敗れ2連敗…泰が3四球の乱調、満塁弾浴びる(スポニチアネックス)",
-      "summary": "◇パ・リーグ 楽天4―6西武（2026年8月21日 楽天モバイル） 楽天は降雨の影響で開始が30分遅れた上に今季最長4時間53分の激闘の末、力尽きて2連敗を喫した。 1―2の9回2死二塁でマ",
-      "link": "https://news.yahoo.co.jp/articles/3cd14b8aa103bbbe241106ac06c65e87f278bd1d?source=rss",
-      "pubDate": "2026-08-21T20:30:00.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "eagles"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/3cd14b8aa103bbbe241106ac06c65e87f278bd1d?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "巨人・ハワードは寿司に夢中 「食べログ」で店選び→サーモン３０貫ぺろり「本当は毎食、食べたいんだ」(スポーツ報知)",
-      "summary": "◆ＪＥＲＡセ・リーグ 巨人２―０広島（２１日・東京ドーム） 自分のペースを貫いた。巨人のＳ・ハワード投手（３０）は決して自分を見失わなかった。１―０の５回、この回先頭・石原が１３球粘った末に四球を",
-      "link": "https://news.yahoo.co.jp/articles/d26a765cae42d2ea187d1853cafd7230f0ac61fc?source=rss",
-      "pubDate": "2026-08-21T20:20:04.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "giants"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/d26a765cae42d2ea187d1853cafd7230f0ac61fc?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【巨人】Ｖ争いの強みとなる大城､小林､甲斐､岸田の分厚い捕手陣容「４人とも侍に行くくらいの経験値」(東スポWEB)",
-      "summary": "巨人は21日の広島戦（東京ドーム）に2―0で勝利し、カード初戦を白星で飾った。 先発ハワードは5回無失点の好投でゲームメーク。早めの継投策で6回以降は堀田、赤星、田中瑛、マルティネスが救援し、完",
-      "link": "https://news.yahoo.co.jp/articles/c8ab7d712d7d8b9bc1569fa61a6320fa464214fa?source=rss",
-      "pubDate": "2026-08-21T20:15:31.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "giants"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/c8ab7d712d7d8b9bc1569fa61a6320fa464214fa?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "巨人・大城卓三が打点を挙げれば８連勝！前日４安打に続きしぶとく適時打「気持ちだけで打ちました」(スポーツ報知)",
-      "summary": "◆ＪＥＲＡセ・リーグ 巨人２―０広島（２１日・東京ドーム） 大きな追加点になった。大城のバットがチームに勇気を与えた。１―０の８回２死一、三塁、森下のカットボールをしぶとく中前に運び適時打。「自分",
-      "link": "https://news.yahoo.co.jp/articles/deef6953fabb5a5538667e662258e4797ad02d4b?source=rss",
-      "pubDate": "2026-08-21T20:10:02.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "giants"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/deef6953fabb5a5538667e662258e4797ad02d4b?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【オリックス】曽谷龍平、23日に今季初のソフトバンク戦先発濃厚「勝ちを届けられるように」(日刊スポーツ)",
-      "summary": "23日に今季初めてソフトバンク戦先発が濃厚なオリックス曽谷龍平投手（25）が、意気込みを口にした。 上半身のコンディション不良から8月に戦列復帰したが2連敗中。前回登板後は、残留調整でなく遠征に",
-      "link": "https://news.yahoo.co.jp/articles/21151390143bf18512b420bfce8c3a608b85bfe4?source=rss",
-      "pubDate": "2026-08-21T20:10:00.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "buffaloes"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/21151390143bf18512b420bfce8c3a608b85bfe4?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【ソフトバンク】今季で引退の中村晃が１軍復帰 残り33試合、優勝のピースとして最後の戦いへ(日刊スポーツ)",
-      "summary": "今季限りで現役を引退するソフトバンク中村晃内野手（36）が22日オリックス戦（みずほペイペイドーム）で1軍に復帰する。7月3日に引退会見を行った際に小久保裕紀監督（54）は「まだお疲れさまではない。",
-      "link": "https://news.yahoo.co.jp/articles/510a7068ca661957a67949fe7ef87a12e983fcd3?source=rss",
-      "pubDate": "2026-08-21T20:10:00.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "hawks"
-      ],
-      "topics": [
-        "retirement"
-      ],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/510a7068ca661957a67949fe7ef87a12e983fcd3?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "巨人・堀田賢慎が「自己投資」した２００万円の秘密兵器…購入の裏にメジャー右腕のアドバイス(スポーツ報知)",
-      "summary": "◆ＪＥＲＡセ・リーグ 巨人２―０広島（２１日・東京ドーム） 巨人が鉄壁継投で広島打線を封じ込めて２連勝。カード初戦をものにした。先発のスペンサー・ハワード投手（３０）が５回３安打無失点。６回以降は",
-      "link": "https://news.yahoo.co.jp/articles/af203b5ebebcac70a6d8fdf02765d76473fe0017?source=rss",
-      "pubDate": "2026-08-21T20:05:03.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "giants"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/af203b5ebebcac70a6d8fdf02765d76473fe0017?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "広島・西川篤夢 18歳7カ月でプロ初スタメンも攻守でホロ苦 抜てきに応えられず「悔しい」(スポニチアネックス)",
-      "summary": "◇セ・リーグ 広島0─2巨人（2026年8月21日 東京ドーム） 広島・西川篤夢内野手（18）が21日の巨人戦で「9番・遊撃」でプロ初先発した。2打数無安打で3回のプロ初失策が決勝点につながるな",
-      "link": "https://news.yahoo.co.jp/articles/dc6d30988e5b1f73b81791c500fbcb451c2bf4c3?source=rss",
-      "pubDate": "2026-08-21T20:05:00.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "carp"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/dc6d30988e5b1f73b81791c500fbcb451c2bf4c3?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "広島・森下暢仁 今季最多125球8回2失点の力投も援護なく8敗目 通算1000投球回達成の節目飾れず(スポニチアネックス)",
-      "summary": "◇セ・リーグ 広島0─2巨人（2026年8月21日 東京ドーム） 広島・森下は今季最多125球で8回2失点（自責1）の力投も、援護なく8敗目を喫した。 高卒野手1年目・西川の失策が絡んだ3回",
-      "link": "https://news.yahoo.co.jp/articles/8d6a8b55f3c932d49922224fc225cb24c997aaf2?source=rss",
-      "pubDate": "2026-08-21T20:05:00.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "carp",
-        "giants"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/8d6a8b55f3c932d49922224fc225cb24c997aaf2?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "広島 13度目零敗 18歳西川篤夢を先発抜てきの新井監督「高校卒業して1年目。まだまだこれから」(スポニチアネックス)",
-      "summary": "◇セ・リーグ 広島0─2巨人（2026年8月21日 東京ドーム） 広島は、今季初対戦となったハワードを攻略できなかったのが響き13度目の零敗を喫した。 初回2死二塁で坂倉が見逃し三振に倒れる",
-      "link": "https://news.yahoo.co.jp/articles/30eb4895912073c5016a35e27962112eb4bfceff?source=rss",
-      "pubDate": "2026-08-21T20:05:00.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "carp"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/30eb4895912073c5016a35e27962112eb4bfceff?source=rss"
         }
       ]
     }
