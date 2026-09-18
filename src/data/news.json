@@ -1,7 +1,472 @@
 {
-  "generatedAt": "2026-09-18T00:52:38.967Z",
+  "generatedAt": "2026-09-18T05:20:55.582Z",
   "count": 4000,
   "items": [
+    {
+      "title": "【巨人】吉川尚輝が２か月ぶりに１軍復帰 左太もも裏肉離れから復活 笹原操希も合流(スポーツ報知)",
+      "summary": "◆ＪＥＲＡセ・リーグ 巨人―中日（１８日・東京ドーム） 巨人の吉川尚輝内野手と笹原操希外野手が１８日、１軍に合流した。東京ドームのグラウンドに姿を見せた。 吉川は７月２１日の広島戦（東京Ｄ）の",
+      "link": "https://news.yahoo.co.jp/articles/edadbcb9f1d3eab9b258e5e2e7902b35d06ab3e2?source=rss",
+      "pubDate": "2026-09-18T05:08:20.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "giants"
+      ],
+      "topics": [
+        "injury"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/edadbcb9f1d3eab9b258e5e2e7902b35d06ab3e2?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "ロッテ 22日「TEAM26デー」にゲストOBとのコラボグルメを販売(スポニチアネックス)",
+      "summary": "千葉ロッテマリーンズは18日、22日に開催する「TEAM26デー」のゲストとして来場するOBの橋本将氏、渡辺俊介氏、久保康友氏、塀内久雄氏、内竜也氏とコラボレーションしたグルメを販売すると発表した。",
+      "link": "https://news.yahoo.co.jp/articles/c759900e86be4d7fdf1d92b5d110d01d87b67250?source=rss",
+      "pubDate": "2026-09-18T05:05:46.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "marines"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/c759900e86be4d7fdf1d92b5d110d01d87b67250?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "巨人・吉川尚輝が2カ月ぶりに1軍合流 左太腿裏の肉離れから復帰 チームは浦田が右肘じん帯損傷で離脱(スポニチアネックス)",
+      "summary": "巨人・吉川尚輝内野手（31）が18日、中日戦が行われる東京ドームに合流した。この後、出場選手登録されれば約2カ月ぶりの1軍復帰となる。 チームは不動の「1番・二塁」として打線をけん引してきた浦田",
+      "link": "https://news.yahoo.co.jp/articles/3c1faaa9a305feb3bab75cb99ef45d7c1f9d6d5a?source=rss",
+      "pubDate": "2026-09-18T05:03:27.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "giants"
+      ],
+      "topics": [
+        "injury",
+        "roster"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/3c1faaa9a305feb3bab75cb99ef45d7c1f9d6d5a?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【ロッテ】渡辺俊介氏、久保康友氏らOBとのコラボグルメを販売／9月22日は「TEAM26デー」(週刊ベースボールONLINE)",
+      "summary": "千葉ロッテマリーンズは、9月22日に開催する「TEAM26デー」のゲストとして来場する、マリーンズOBの橋本将氏、渡辺俊介氏、久保康友氏、塀内久雄氏、内竜也氏とコラボレーションしたグルメを販売する。",
+      "link": "https://news.yahoo.co.jp/articles/3ef5318677e4937b985c4371168948173f34c14f?source=rss",
+      "pubDate": "2026-09-18T04:43:00.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "marines"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/3ef5318677e4937b985c4371168948173f34c14f?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "ロッテ、9月22日のオリックス戦でOBコラボグルメを販売",
+      "summary": "ロッテは18日、9月22日のオリックス戦で開催する「TEAM26デー」のゲストとして来場するマリーンズOBの橋本将氏、渡辺俊介氏、久保康友氏、塀内久雄氏、内竜也氏とコラボレーションしたグルメを販売することになったと発表 […]",
+      "link": "https://baseballking.jp/ns/707476/",
+      "pubDate": "2026-09-18T04:08:20.000Z",
+      "source": "BASEBALL KING",
+      "sourceId": "baseballking",
+      "teams": [
+        "marines"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "BASEBALL KING",
+          "sourceId": "baseballking",
+          "link": "https://baseballking.jp/ns/707476/"
+        }
+      ]
+    },
+    {
+      "title": "ソフトバンク３連覇 地元放送局が59歳応援団長タレントの投稿を謝罪「大変軽率で責任を痛感」(日刊スポーツ)",
+      "summary": "KBC九州朝日放送の情報番組「アサデス。」（月～金曜午前6時）の公式Xが18日、プロ野球ソフトバンクの応援隊長を務める、福岡を拠点に活動するタレント西田たかのり（59）の投稿を謝罪した。 「【番",
+      "link": "https://news.yahoo.co.jp/articles/988a419e7d3f15f6ac86146ed80981de8de616d2?source=rss",
+      "pubDate": "2026-09-18T04:03:39.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "hawks"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/988a419e7d3f15f6ac86146ed80981de8de616d2?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【ソフトバンク】満面の笑みで5度宙へ…孫正義オーナーが歓喜の胴上げ 3年連続のリーグ優勝",
+      "summary": "福岡ソフトバンクホークスは17日、京セラドーム大阪で行われたオリックス・バファローズ戦に7-1で勝利し、9連勝でパ・リーグ3連覇を決めた。",
+      "link": "https://www.baseballchannel.jp/npb/290479/",
+      "pubDate": "2026-09-18T03:55:18.000Z",
+      "source": "ベースボールチャンネル（プロ野球）",
+      "sourceId": "baseballchannel-npb",
+      "teams": [
+        "hawks"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "ベースボールチャンネル（プロ野球）",
+          "sourceId": "baseballchannel-npb",
+          "link": "https://www.baseballchannel.jp/npb/290479/"
+        }
+      ]
+    },
+    {
+      "title": "【楽天】吉井理人監督初プロデュースメニュー「おいやんトルティーヤ」19日から販売(日刊スポーツ)",
+      "summary": "楽天は18日、吉井理人監督（61）の初プロデュースメニュー「吉井理人のおいやんトルティーヤ」（1100円 ※追加トッピング パクチー、サルサソース各150円）を19日のソフトバンク戦（楽天モバイル最",
+      "link": "https://news.yahoo.co.jp/articles/d339f66244bd5faea166675465f4b0f412359648?source=rss",
+      "pubDate": "2026-09-18T03:43:41.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "eagles"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/d339f66244bd5faea166675465f4b0f412359648?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【ソフトバンク】小久保裕紀監督が投手起用を大胆ぶっちゃけ「大津を６番手で５連戦は外すと…」(日刊スポーツ)",
+      "summary": "＜オリックス1－7ソフトバンク＞◇17日◇京セラドーム大阪 ソフトバンクの福岡移転後初の3連覇達成を祝したRKB毎日放送の優勝特番「祝！ホークス3連覇！歓喜のタカホーSP！」が18日、放送された。",
+      "link": "https://news.yahoo.co.jp/articles/e4698f5817b78c141739e2f41dca2bb6916fd943?source=rss",
+      "pubDate": "2026-09-18T03:42:22.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "hawks"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/e4698f5817b78c141739e2f41dca2bb6916fd943?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【ソフトバンク】これぞムードメーカー…上茶谷大河がリリーフ陣の記念撮影で中央に 歓喜の笑顔",
+      "summary": "福岡ソフトバンクホークスは17日、京セラドーム大阪で行われたオリックス・バファローズ戦に7-1で勝利。9連勝でパ・リーグ3連覇を決めた。",
+      "link": "https://www.baseballchannel.jp/npb/290469/",
+      "pubDate": "2026-09-18T03:35:09.000Z",
+      "source": "ベースボールチャンネル（プロ野球）",
+      "sourceId": "baseballchannel-npb",
+      "teams": [
+        "hawks"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "ベースボールチャンネル（プロ野球）",
+          "sourceId": "baseballchannel-npb",
+          "link": "https://www.baseballchannel.jp/npb/290469/"
+        }
+      ]
+    },
+    {
+      "title": "優勝後も強いソフトバンク、果たして今年は？18日は試合なし、19日は仙台で楽天戦(日刊スポーツ)",
+      "summary": "ソフトバンクは17日のオリックス戦に勝ち、パ・リーグ3連覇を決めた。翌日となる18日は試合がなく、19日は仙台で楽天戦が組まれている。 優勝を決めると特番などメディア対応が深夜にまで及び、またペ",
+      "link": "https://news.yahoo.co.jp/articles/943e52a50165c51530b288fd5db2268c788ea226?source=rss",
+      "pubDate": "2026-09-18T03:26:16.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "hawks"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/943e52a50165c51530b288fd5db2268c788ea226?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "ソフトバンク３連覇 59歳応援団長タレント試合前の投稿謝罪「優勝目前…浮かれてしまい…」(日刊スポーツ)",
+      "summary": "KBC九州朝日放送の情報番組「アサデス。」（月～金曜午前6時）で、プロ野球ソフトバンクの応援隊長を務める、福岡を拠点に活動するタレント西田たかのり（59）が18日、Xを更新。「この度は私の軽率な言葉",
+      "link": "https://news.yahoo.co.jp/articles/64f887ba9ffce3e5e68408fdf5ed0052995dcf73?source=rss",
+      "pubDate": "2026-09-18T03:16:43.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "hawks"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/64f887ba9ffce3e5e68408fdf5ed0052995dcf73?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "楽天、9月19日のソフトバンク戦から吉井理人監督の初プロデュースメニューを販売",
+      "summary": "楽天は18日、9月19日のソフトバンク戦から吉井理人監督の初プロデュースメニュー「吉井理人のおいやんトルティーヤ」を販売することになったと発表した。 吉井監督の大好きなトマトをはじめ、肉、野菜、チーズ、豆などをトルテ […]",
+      "link": "https://baseballking.jp/ns/707473/",
+      "pubDate": "2026-09-18T03:12:37.000Z",
+      "source": "BASEBALL KING",
+      "sourceId": "baseballking",
+      "teams": [
+        "eagles"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "BASEBALL KING",
+          "sourceId": "baseballking",
+          "link": "https://baseballking.jp/ns/707473/"
+        }
+      ]
+    },
+    {
+      "title": "【ソフトバンク】柳田悠岐「今年ダメならもう終わり！って」３年ぶり100試合超＆２ケタHR(日刊スポーツ)",
+      "summary": "ソフトバンクの福岡移転後初の3連覇達成を祝したFBS福岡放送「夢スポSP ホークス3連覇！このまま日本一へゼンシンやーっ！」が18日、放送された。 番組MC陣から「ケガなく完走できる要因」を問わ",
+      "link": "https://news.yahoo.co.jp/articles/3d760ecae27685dc578967e535ef2b2380f2fdca?source=rss",
+      "pubDate": "2026-09-18T03:08:11.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "hawks"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/3d760ecae27685dc578967e535ef2b2380f2fdca?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "DeNA石田裕太郎が筒香嘉智にかけられた「背中を押してもらう言葉」 背景にある“エース”への期待「もっと勝っていい投手」",
+      "summary": "DeNA石田裕太郎が6回無失点で5勝目。筒香嘉智の「もっと勝ってもいい投手」の期待に応えた。力投の裏にある先輩の言葉と1球へのこだわりを語る。",
+      "link": "https://full-count.jp/2026/09/18/post2018050/",
+      "pubDate": "2026-09-18T03:05:12.000Z",
+      "source": "Full-Count（プロ野球）",
+      "sourceId": "full-count-npb",
+      "teams": [
+        "baystars"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Full-Count（プロ野球）",
+          "sourceId": "full-count-npb",
+          "link": "https://full-count.jp/2026/09/18/post2018050/"
+        }
+      ]
+    },
+    {
+      "title": "【DeNA】石田裕太郎が自己最多の５勝目「僕の中でキーポイント」ヤクルト岩田との16球勝負(日刊スポーツ)",
+      "summary": "＜ヤクルト1－2DeNA＞◇17日◇神宮 DeNAが22年8月以来、4年ぶりの8連勝を飾った。先発の石田裕太郎投手（24）が6回2安打無失点、7奪三振の好投で約2カ月ぶりの白星。自己最多の5勝目を",
+      "link": "https://news.yahoo.co.jp/articles/28db1a858a29e8d5162936a4f5ba53793f52745e?source=rss",
+      "pubDate": "2026-09-18T03:00:03.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "baystars"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/28db1a858a29e8d5162936a4f5ba53793f52745e?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【ロッテ】石垣元気 オフの日には同期とサウナへ プロの生活にも順応(日刊スポーツ)",
+      "summary": "＜ロッテ1－5楽天＞◇17日◇ZOZOマリン ロッテのドラフト1位ルーキー石垣元気投手（19）が1軍デビューを果たした。シーズンが始まって半年。プロに入って壁に当たることも多かったという。「やっぱ",
+      "link": "https://news.yahoo.co.jp/articles/d65b3c73ba24a874cacfc35e98e581c4346cc1bb?source=rss",
+      "pubDate": "2026-09-18T03:00:02.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "marines"
+      ],
+      "topics": [
+        "draft"
+      ],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/d65b3c73ba24a874cacfc35e98e581c4346cc1bb?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【中日】地面すれすれで魅せた…“ユーティリティー”が鮮やかなファインプレー披露 安打性の打球を好捕",
+      "summary": "中日ドラゴンズの板山祐太郎外野手は17日、ナゴヤ球場で行われた埼玉西武ライオンズとのファーム戦に「4番・右翼」でスタメン出場。2回の守備で好守を披露した。",
+      "link": "https://www.baseballchannel.jp/npb/290460/",
+      "pubDate": "2026-09-18T02:55:15.000Z",
+      "source": "ベースボールチャンネル（プロ野球）",
+      "sourceId": "baseballchannel-npb",
+      "teams": [
+        "dragons"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "ベースボールチャンネル（プロ野球）",
+          "sourceId": "baseballchannel-npb",
+          "link": "https://www.baseballchannel.jp/npb/290460/"
+        }
+      ]
+    },
+    {
+      "title": "「今年はもう本当に崖っぷち」西武の2018年ドラ1・松本航が捨てた“先発へのこだわり” 一軍復帰につながった意識の変化【インタビュー】",
+      "summary": "埼玉西武ライオンズの松本航投手が、シーズン終盤に再び一軍で結果を残している。今季はファームで思うような投球ができず、苦しい時間が続いたが、自らの課題と向き合い復調の糸口をつかんだ。「今年はもう本当に崖っぷち」。先発へのこだわりにも変化が生ま…",
+      "link": "https://www.baseballchannel.jp/npb/290410/",
+      "pubDate": "2026-09-18T02:15:24.000Z",
+      "source": "ベースボールチャンネル（プロ野球）",
+      "sourceId": "baseballchannel-npb",
+      "teams": [
+        "lions"
+      ],
+      "topics": [
+        "roster"
+      ],
+      "sources": [
+        {
+          "name": "ベースボールチャンネル（プロ野球）",
+          "sourceId": "baseballchannel-npb",
+          "link": "https://www.baseballchannel.jp/npb/290410/"
+        }
+      ]
+    },
+    {
+      "title": "ロッテ、石川慎吾＆ポランコの一発などで快勝 復帰の鷹アルメンタが無失点…17日ファーム結果",
+      "summary": "パ・リーグ球団主催のファーム公式戦は17日に2試合が行われた。ロッテは楽天に6-2で快勝し、ソフトバンクはオリックスに5-2で勝利した。",
+      "link": "https://full-count.jp/2026/09/18/post2018021/",
+      "pubDate": "2026-09-18T02:02:24.000Z",
+      "source": "Full-Count（プロ野球）",
+      "sourceId": "full-count-npb",
+      "teams": [
+        "marines"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Full-Count（プロ野球）",
+          "sourceId": "full-count-npb",
+          "link": "https://full-count.jp/2026/09/18/post2018021/"
+        }
+      ]
+    },
+    {
+      "title": "阪神・髙橋遥人、打線の援護にも恵まれ14勝目！谷沢氏「らしいピッチングに仕上げました」",
+      "summary": "17日にフジテレビONEで放送された『プロ野球ニュース2026』に出演した谷沢健一氏が、阪神・髙橋遥人について言及した。 髙橋は同日の広島戦に先発し、打線の大量援護にも恵まれ、6回・90球を投げ、5被安打、10奪三振 […]",
+      "link": "https://baseballking.jp/ns/707466/",
+      "pubDate": "2026-09-18T02:00:00.000Z",
+      "source": "BASEBALL KING",
+      "sourceId": "baseballking",
+      "teams": [
+        "tigers"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "BASEBALL KING",
+          "sourceId": "baseballking",
+          "link": "https://baseballking.jp/ns/707466/"
+        }
+      ]
+    },
+    {
+      "title": "ソフトバンクがリーグ3連覇、破竹の9連勝で圧勝 楽天は2か月ぶりの3連勝…17日パ結果",
+      "summary": "パーソル パ・リーグ公式戦は17日に3試合が行われた。ソフトバンクはオリックに7-1で勝利し、今季最長の9連勝で、3年連続22度目のリーグ優勝を決めた。",
+      "link": "https://full-count.jp/2026/09/18/post2018012/",
+      "pubDate": "2026-09-18T01:57:52.000Z",
+      "source": "Full-Count（プロ野球）",
+      "sourceId": "full-count-npb",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Full-Count（プロ野球）",
+          "sourceId": "full-count-npb",
+          "link": "https://full-count.jp/2026/09/18/post2018012/"
+        }
+      ]
+    },
+    {
+      "title": "ロッテ、唐川侑己の引退メモリアルグッズを受注販売「思い出の一つにしていただけたら嬉しい」",
+      "summary": "ロッテは18日、同日の12時00分からマリーンズオンラインストアで今シーズン限りでの現役引退を発表した唐川侑己投手の引退メモリアルグッズの受注販売を行うことになったと発表した。 今回販売される記念グッズは歴代ビジュア […]",
+      "link": "https://baseballking.jp/ns/707460/",
+      "pubDate": "2026-09-18T01:09:02.000Z",
+      "source": "BASEBALL KING",
+      "sourceId": "baseballking",
+      "teams": [
+        "marines"
+      ],
+      "topics": [
+        "retirement"
+      ],
+      "sources": [
+        {
+          "name": "BASEBALL KING",
+          "sourceId": "baseballking",
+          "link": "https://baseballking.jp/ns/707460/"
+        }
+      ]
+    },
+    {
+      "title": "ヤクルト・奥川、プロ7年目で初の規定投球回到達 齊藤明雄氏「自信になって本当のエースになれる」",
+      "summary": "17日にフジテレビONEで放送された『プロ野球ニュース2026』に出演した齊藤明雄氏が、ヤクルト・奥川恭伸について言及した。 奥川は同日のDeNA戦に先発し、9敗目を喫したが、7回・100球を投げ、7被安打、5奪三振 […]",
+      "link": "https://baseballking.jp/ns/706884/",
+      "pubDate": "2026-09-18T01:00:00.000Z",
+      "source": "BASEBALL KING",
+      "sourceId": "baseballking",
+      "teams": [
+        "swallows"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "BASEBALL KING",
+          "sourceId": "baseballking",
+          "link": "https://baseballking.jp/ns/706884/"
+        }
+      ]
+    },
     {
       "title": "【ソフトバンク】小久保監督「まさか大阪で…」秋山幸二氏から「最後の勢いがすごかった」(日刊スポーツ)",
       "summary": "ソフトバンクの福岡移転後初の3連覇達成を祝したRKB毎日放送の優勝特番「祝！ホークス3連覇！歓喜のタカホーSP！」が18日、放送された。小久保裕紀監督（54）がインタビューに登場。元ソフトバンク監督",
@@ -77089,460 +77554,6 @@
           "name": "日刊スポーツ（Yahoo!ニュース経由）",
           "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/f2774ee8ba2a4a24fd35f76c9014eae04e2c554c?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【巨人】マルティネスが246セーブ目「代木のためにもと…」9回2死満塁から打者1人を抑えた(日刊スポーツ)",
-      "summary": "＜巨人5－0広島＞◇22日◇東京ドーム 巨人ライデル・マルティネス投手（29）が5点リードの9回2死満塁から打者1人を抑えて通算246セーブ目を挙げた。3連投となったが「あとアウト1つだったんで、",
-      "link": "https://news.yahoo.co.jp/articles/41d1eb9081b6bd6bf1305e9dc0f5efb08853066f?source=rss",
-      "pubDate": "2026-08-22T10:10:27.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "giants"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/41d1eb9081b6bd6bf1305e9dc0f5efb08853066f?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【ヤクルト】今週３度目サヨナラ負け…10回リランソ押し出し 池山監督「少しハートの弱さが」(日刊スポーツ)",
-      "summary": "＜中日5－4ヤクルト＞◇22日◇バンテリンドーム ヤクルトは、今週3度目のサヨナラ負けを喫した。 8回表に2度目の逆転も、その裏、星が中日細川に同点ソロを被弾。延長10回にヘスス・リランソ投手",
-      "link": "https://news.yahoo.co.jp/articles/cd516fcdbd4933d72c93c245eafeb7346ac3666c?source=rss",
-      "pubDate": "2026-08-22T10:08:50.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "swallows"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/cd516fcdbd4933d72c93c245eafeb7346ac3666c?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【中日】「これは近江の至宝」 土田龍空、“華がある”守備に反響 「この世で一番美しい景色」(スポーティングニュース日本版)",
-      "summary": "中日ドラゴンズの土田龍空が披露した美技にファンが沸いている。ダイビングキャッチから素早い送球でアウトに仕留めた好守に、「センスの塊」「魅せるショート」など称賛の声が寄せられた。 8月22日、中日はバ",
-      "link": "https://news.yahoo.co.jp/articles/3b70d2a4a916ae4f4ca68a2c250065735525f5be?source=rss",
-      "pubDate": "2026-08-22T10:07:05.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "dragons"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/3b70d2a4a916ae4f4ca68a2c250065735525f5be?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【ヤクルト】6番一塁で先発の山田哲人は3の0も…池山監督「ファンも待ち焦がれていたと思う」(日刊スポーツ)",
-      "summary": "＜中日5－4ヤクルト＞◇22日◇バンテリンドーム ヤクルトが2度の逆転も勝利につながらず、サヨナラ負けを喫した。中日戦5連敗で今季6勝12敗、バンテリンドームでも5連敗で2勝9敗となった。 山",
-      "link": "https://news.yahoo.co.jp/articles/30768cbf5dc81b5138a71ad7526e22c74191fb37?source=rss",
-      "pubDate": "2026-08-22T10:06:31.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "swallows"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/30768cbf5dc81b5138a71ad7526e22c74191fb37?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【オリックス】佐藤一が再起の１回０封！「１試合ずつ、１イニングずつ…」初回先頭から４者連続被弾 プロ野球史上初の屈辱を乗り越え(スポーツ報知)",
-      "summary": "◆パ・リーグ ソフトバンク７―１オリックス（２２日・みずほペイペイドーム） オリックス・佐藤一磨投手が再起の１回０封だ。６点ビハインドの８回に登板し、まず近藤から見逃し三振。「まずは１アウトを取り",
-      "link": "https://news.yahoo.co.jp/articles/6f1d1c923675dc9e69766b69b324c6972b54da18?source=rss",
-      "pubDate": "2026-08-22T10:05:48.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "buffaloes"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/6f1d1c923675dc9e69766b69b324c6972b54da18?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "ロッテ―日本ハム戦は雨天中止(スポニチアネックス)",
-      "summary": "◇パ・リーグ ロッテ―日本ハム（2026年8月22日 ＺＯＺＯマリン） ロッテ―日本ハムは雨天によるコンディション不良のため、午後6時55分に中止が発表された。 午後6時開始の予定を遅らせた",
-      "link": "https://news.yahoo.co.jp/articles/0ff12bd6ad9315baee34122fb1577d1eb8e637cb?source=rss",
-      "pubDate": "2026-08-22T09:58:41.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/0ff12bd6ad9315baee34122fb1577d1eb8e637cb?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【巨人】初先発初勝利の代木大和、次回どうなる？杉内コーチ「今年に関しては中継ぎになるかも」(日刊スポーツ)",
-      "summary": "＜巨人5－0広島＞◇22日◇東京ドーム 巨人橋上秀樹監督代行(60）がプロ5年目の代木大和投手（22）を称賛した。プロ初先発で初勝利。76球を投げて最速152・1キロを計測し、5回4安打無失点4奪",
-      "link": "https://news.yahoo.co.jp/articles/b6e499df229d9b1f31904469a641994c22872728?source=rss",
-      "pubDate": "2026-08-22T09:57:58.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "giants"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/b6e499df229d9b1f31904469a641994c22872728?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "中止のプロ野球(共同通信)",
-      "summary": "◇セ・リーグ DeNA―阪神（横浜）＝降雨 ◇パ・リーグ ロッテ―日本ハム（ZOZOマリンスタジアム）＝降雨",
-      "link": "https://news.yahoo.co.jp/articles/8e643f405105baef6563feecabf8673889601ab8?source=rss",
-      "pubDate": "2026-08-22T09:57:02.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "baystars"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/8e643f405105baef6563feecabf8673889601ab8?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【巨人】代木大和 プロ初先発で初勝利！ お立ち台では涙キラリ「何度もくじけそうになりました」(東スポWEB)",
-      "summary": "巨人・代木大和投手（22）が22日の広島戦（東京ドーム）でプロ初先発し、5回4安打無失点の好投。家族が見守る中、プロ初勝利を挙げた。 初回は一死一、二塁のピンチを招いたが、4番・坂倉を併殺打に打",
-      "link": "https://news.yahoo.co.jp/articles/7d43a3dfefdcccb3f814c2e626cc5dedcbe354b2?source=rss",
-      "pubDate": "2026-08-22T09:55:25.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "giants"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/7d43a3dfefdcccb3f814c2e626cc5dedcbe354b2?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【ロッテ】日本ハム戦は雨天中止 試合開始遅らせるも天候回復せず(スポーツ報知)",
-      "summary": "◆パ・リーグ ロッテ―日本ハム（２２日・ＺＯＺＯマリン）＝雨天中止＝ ロッテ―日本ハム戦は急な降雨により試合開始時刻を送らせたが、天候回復が見込めないため中止が決まった。",
-      "link": "https://news.yahoo.co.jp/articles/90dd94a7616c30b371423c02eb82203a94015175?source=rss",
-      "pubDate": "2026-08-22T09:55:24.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "marines"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/90dd94a7616c30b371423c02eb82203a94015175?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【ヤクルト】池山監督「お忘れじゃないですか、というところを」敗戦後コーチ陣に確認したことは(日刊スポーツ)",
-      "summary": "＜中日5－4ヤクルト＞◇22日◇バンテリンドーム ヤクルトが2度の逆転も勝利につながらず、サヨナラ負けを喫した。中日戦5連敗で今季6勝12敗、バンテリンドームでも5連敗で2勝9敗。池山隆寛監督（6",
-      "link": "https://news.yahoo.co.jp/articles/4bf038914e9c171b7e3142bbf525fc9f32aa4cf6?source=rss",
-      "pubDate": "2026-08-22T09:55:00.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "swallows"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/4bf038914e9c171b7e3142bbf525fc9f32aa4cf6?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【広島】新井監督「絞りづらかった」プロ初先発の代木大和に初勝利献上 復帰登板の玉村昇悟には「ゲームをつくってくれた」／一問一答(スポーツ報知)",
-      "summary": "◆ＪＥＲＡセ・リーグ 巨人５―０広島（２２日・東京ドーム） 広島が２試合連続完封負けで連敗。８月の敵地は６戦全敗で、３カード連続の勝ち越しはならなかった。 先発・玉村は６回途中３失点で４敗目。",
-      "link": "https://news.yahoo.co.jp/articles/ee5f2c4d8420ca3053f4d684294ad803002a4f1e?source=rss",
-      "pubDate": "2026-08-22T09:53:49.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "carp"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/ee5f2c4d8420ca3053f4d684294ad803002a4f1e?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【広島】石原貴規が途中交代を命じられた理由 石原慶幸バッテリーコーチ「パスボールはもちろんダメだけど…」(スポーツ報知)",
-      "summary": "◆ＪＥＲＡセ・リーグ 巨人５―０広島（２２日・東京ドーム） 広島・石原慶幸バッテリーコーチが、石原貴規捕手が途中交代となった理由を明かした。「パスボールはもちろんダメだが、捕手は状況判断が必要。そ",
-      "link": "https://news.yahoo.co.jp/articles/5ba719e858430646c2967d83e92425a6111078ef?source=rss",
-      "pubDate": "2026-08-22T09:50:50.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "carp"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/5ba719e858430646c2967d83e92425a6111078ef?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "ヤクルト、リリーフ陣崩れバンテリン5連敗…池山監督は8回同点被弾の星は「欲が出た」サヨナラ押し出しのリランソには「接戦ではハートの弱さがね」とメンタルの弱さ指摘(中日スポーツ)",
-      "summary": "◇22日 中日5x―4ヤクルト（バンテリンドームナゴヤ） ヤクルトは8回に星知弥投手が細川に同点弾を許し、延長10回にヘスス・リランソ投手が押し出し四球を与えてのサヨナラ負け。 池山隆寛監督は",
-      "link": "https://news.yahoo.co.jp/articles/f4f0fbb760c1e8a42fafeaf40ca570d7443d65c8?source=rss",
-      "pubDate": "2026-08-22T09:49:54.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "swallows"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/f4f0fbb760c1e8a42fafeaf40ca570d7443d65c8?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【ヤクルト】今季９度目のサヨナラ負けでバンテリンドーム６連敗 池山隆寛監督「何とか連敗を止められるように」(スポーツ報知)",
-      "summary": "◆ＪＥＲＡセ・リーグ 中日５×―４ヤクルト＝延長１０回（２２日・バンテリンドーム） “鬼門”から抜け出すことができない。同点の１０回１死満塁。この回から登板したリランソが細川に押し出しの四球を与え",
-      "link": "https://news.yahoo.co.jp/articles/915a2b82226a902fb445f9a41cae0717c6138edf?source=rss",
-      "pubDate": "2026-08-22T09:43:18.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "swallows"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/915a2b82226a902fb445f9a41cae0717c6138edf?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "巨人・マルティスが5点リードでも34セーブ目 250Ｓまで残り4へ前進(スポニチアネックス)",
-      "summary": "◇セ・リーグ 巨人5―0広島（2026年8月22日 東京ドーム） 巨人のライデル・マルティネス投手(29)がリーグ最多を独走する今季34セーブ目を挙げて、通算250セーブまで残り4まで前進した。",
-      "link": "https://news.yahoo.co.jp/articles/b3a8365b4a7e26d61d2842ee6adb17bc3c9a5d17?source=rss",
-      "pubDate": "2026-08-22T09:38:20.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "giants"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/b3a8365b4a7e26d61d2842ee6adb17bc3c9a5d17?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【番記者Ｇ戦記】「１６人目の先発」が示した新たな可能性 巨人シーズン先発人数は２０年以降最多(スポーツ報知)",
-      "summary": "◆ＪＥＲＡセ・リーグ 巨人５―０広島（２２日・東京ドーム） 巨人・代木大和投手が５回４安打無失点でプロ初先発初勝利。今季１６人目の先発が、シーズン終盤にチームに新たな可能性を生み出した。 チー",
-      "link": "https://news.yahoo.co.jp/articles/b6cafde0eb20d4b20cf6b007d1cbc6b313fa9c28?source=rss",
-      "pubDate": "2026-08-22T09:37:02.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "giants"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/b6cafde0eb20d4b20cf6b007d1cbc6b313fa9c28?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【巨人】中山礼都が勝利を決定づける一打 代木の初勝利に「自分も頑張らないと」(スポーツ報知)",
-      "summary": "◆ＪＥＲＡセ・リーグ 巨人５―０広島（２２日・広島） 巨人の中山礼都外野手が勝利を決定づける一打を放った。 ２―０の６回、１死満塁のチャンスを作ると、４回に先制２ランを放った松本が押し出し死球",
-      "link": "https://news.yahoo.co.jp/articles/417ad334e56a08006cbf7f29433922d209cd0042?source=rss",
-      "pubDate": "2026-08-22T09:36:13.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "giants"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/417ad334e56a08006cbf7f29433922d209cd0042?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【広島】止まらない貧打…２戦連続零封負けで最下位転落 敵地では４１イニング連続無得点(東スポWEB)",
-      "summary": "広島は22日の巨人戦（東京ドーム）に0―5で敗れ、2試合連続、今季14度目の零封負けを喫した。前カードの中日戦で3連勝した勢いは消え、再び最下位に転落した。 プロ初先発となった巨人の左腕・代木を",
-      "link": "https://news.yahoo.co.jp/articles/cbe6db93df88699ff0695166630994123d40f5be?source=rss",
-      "pubDate": "2026-08-22T09:35:25.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "carp"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/cbe6db93df88699ff0695166630994123d40f5be?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "「最高の打席になった」ソフトバンク近藤健介が10試合ぶり一発に満面の笑み 先制25号ソロで自己最多打点は90に(西スポWEB OTTO!)",
-      "summary": "◆ソフトバンク7―1オリックス（22日、みずほペイペイドーム） ソフトバンクの近藤健介が10試合ぶりの一発で打線を活性化させた。 初回2死、オリックス髙島泰都が投じた低めのツーシームを捉え、右",
-      "link": "https://news.yahoo.co.jp/articles/922e79324d00e3757b84f821974fca941cc64ee1?source=rss",
-      "pubDate": "2026-08-22T09:34:08.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "hawks"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/922e79324d00e3757b84f821974fca941cc64ee1?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【ヤクルト】ドラフト４位左腕の増居翔太が７回３失点も２勝目ならず「先制点、逆転してもらった直後の失点は反省」(スポーツ報知)",
-      "summary": "◆ＪＥＲＡセ・リーグ 中日５×―４ヤクルト＝延長１０回（２２日・バンテリンドーム） ゲームは作った。１軍では最長となる７回を投げて被安打３、３失点。ヤクルトのドラフト４位左腕・増居翔太投手（トヨタ",
-      "link": "https://news.yahoo.co.jp/articles/f6a4a908bf5329f0c748ec4295ab7d30a48a11ee?source=rss",
-      "pubDate": "2026-08-22T09:33:21.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "swallows"
-      ],
-      "topics": [
-        "draft"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/f6a4a908bf5329f0c748ec4295ab7d30a48a11ee?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【DeNA】度会隆輝が三塁、森敬斗が中堅…平均年齢25・6歳と若手起用も雨天中止(日刊スポーツ)",
-      "summary": "＜DeNA－阪神＞◇22日◇横浜 DeNA竹田祐投手（27）が、約3カ月ぶりの1軍マウンドで今季2勝目を目指し、マウンドに上がる予定だったが、雨天中止が決まった。 度会隆輝外野手（23）が、5",
-      "link": "https://news.yahoo.co.jp/articles/e66c6279d43c1a8fdf8b04ce96970cc7a41444fc?source=rss",
-      "pubDate": "2026-08-22T09:30:57.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "baystars"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/e66c6279d43c1a8fdf8b04ce96970cc7a41444fc?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【ロッテ】高野脩汰、23日の日本ハム戦で今季初先発「リリーフの延長で長い回投げられたら」(日刊スポーツ)",
-      "summary": "ロッテ高野脩汰投手（28）が23日の日本ハム戦（ZOZOマリン）で今季初先発する。 今季初先発に「緊張してます。リリーフって投げるかもしれないし投げないかもしれないっていうメンタルでいますけど、",
-      "link": "https://news.yahoo.co.jp/articles/62ad26f5318f254794c06099ec2035651aa6f560?source=rss",
-      "pubDate": "2026-08-22T09:29:28.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "marines"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/62ad26f5318f254794c06099ec2035651aa6f560?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "DeNA－阪神戦は降雨中止 虎今季13度目(サンケイスポーツ)",
-      "summary": "（セ・リーグ、DeNA－阪神＝降雨中止、22日、横浜）試合開始直前から視界を遮るほどの豪雨が降り始め、午後6時15分に試合中止が発表された。試合開始を30分遅らせることを発表していたが、雷が鳴り響くほ",
-      "link": "https://news.yahoo.co.jp/articles/08eec9403bda85336b0dac32490cf009275de36f?source=rss",
-      "pubDate": "2026-08-22T09:28:34.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/08eec9403bda85336b0dac32490cf009275de36f?source=rss"
         }
       ]
     }
