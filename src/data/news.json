@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T17:22:03.032Z",
+  "generatedAt": "2026-09-18T19:46:46.159Z",
   "count": 4000,
   "items": [
     {
@@ -108,16 +108,16 @@
       "summary": "＜巨人2－0中日＞◇18日◇東京ドーム 巨人坂本がミスターを超える通算2472安打を放った。3試合ぶりにスタメン出場すると、両軍無得点の8回先頭、それまで二塁すら踏ませてもらえなかった中日金丸のス",
       "link": "https://news.yahoo.co.jp/articles/2fa1c749007b57520359cf6b0ee97e4be90e3174?source=rss",
       "pubDate": "2026-09-18T14:30:52.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
       "teams": [
         "giants"
       ],
       "topics": [],
       "sources": [
         {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/2fa1c749007b57520359cf6b0ee97e4be90e3174?source=rss"
         }
       ]
@@ -146,16 +146,16 @@
       "summary": "＜DeNA1－3ヤクルト＞◇18日◇横浜 ヤクルトが接戦を制して連敗を「3」で止めた。今季のDeNAとの対戦成績は13勝11敗で、シーズン勝ち越しが決まった。 0－0で試合は進み、均衡がやぶれ",
       "link": "https://news.yahoo.co.jp/articles/0fc0e441df83fc3231514d6a8d6315d5872e0973?source=rss",
       "pubDate": "2026-09-18T14:17:23.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
       "teams": [
         "swallows"
       ],
       "topics": [],
       "sources": [
         {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/0fc0e441df83fc3231514d6a8d6315d5872e0973?source=rss"
         }
       ]
