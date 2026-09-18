@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T09:54:51.710Z",
+  "generatedAt": "2026-09-18T13:56:34.582Z",
   "teams": {
     "giants": [
       {
@@ -155,6 +155,21 @@
     ],
     "tigers": [
       {
+        "gameNumber": 129,
+        "date": "9月18日",
+        "opponentTeamId": "carp",
+        "opponentText": "広島",
+        "score": "2-1",
+        "ownScore": 2,
+        "opponentScore": 1,
+        "result": "win",
+        "winningPitcher": "大竹（6-9）",
+        "losingPitcher": "",
+        "savePitcher": "工藤（3-0-10）",
+        "venue": "甲子園",
+        "record": "71-57-1"
+      },
+      {
         "gameNumber": 128,
         "date": "9月17日",
         "opponentTeamId": "carp",
@@ -288,21 +303,6 @@
         "savePitcher": "工藤（3-0-9）",
         "venue": "神宮",
         "record": "69-50-1"
-      },
-      {
-        "gameNumber": 119,
-        "date": "9月2日",
-        "opponentTeamId": "swallows",
-        "opponentText": "ヤクルト",
-        "score": "3-5",
-        "ownScore": 3,
-        "opponentScore": 5,
-        "result": "loss",
-        "winningPitcher": "",
-        "losingPitcher": "西勇（3-4）",
-        "savePitcher": "",
-        "venue": "神宮",
-        "record": "68-50-1"
       }
     ],
     "carp": [
