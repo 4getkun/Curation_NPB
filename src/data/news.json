@@ -1,7 +1,45 @@
 {
-  "generatedAt": "2026-09-19T14:54:59.247Z",
+  "generatedAt": "2026-09-19T17:32:17.353Z",
   "count": 4000,
   "items": [
+    {
+      "title": "阪神・伊原陵人がシート打撃に登板 2軍残留練習で浜田、小野寺ら相手に5回想定60球(スポニチアネックス)",
+      "summary": "阪神・伊原が5回想定でシート打撃に登板した。19日にSGL尼崎で行われた2軍の残留練習に参加。浜田、小野寺、糸原、福島らを相手に約60球を投げ込んだ。イニング間のインターバルを設けながら実戦を想定し",
+      "link": "https://news.yahoo.co.jp/articles/7130cee5b4266fd2e77f3010938b52ecc6dd24ba?source=rss",
+      "pubDate": "2026-09-19T16:15:00.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "tigers"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/7130cee5b4266fd2e77f3010938b52ecc6dd24ba?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【DeNA】古市尊がプロ初３安打「感覚自体はいいのかなと思いますし、だいぶ落ち着いて打席に」(日刊スポーツ)",
+      "summary": "＜DeNA5－3ヤクルト＞◇19日◇横浜 DeNA古市尊捕手（24）がプロ初の3安打をマークした。 2回に先制の左前打。4回にも左前打を放ち、2点を追う7回先頭でこの日3安打目となる右前打で出",
+      "link": "https://news.yahoo.co.jp/articles/23d40e436fc950519b2b8df215bffd6ed6ffbc3b?source=rss",
+      "pubDate": "2026-09-19T14:54:59.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "baystars"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/23d40e436fc950519b2b8df215bffd6ed6ffbc3b?source=rss"
+        }
+      ]
+    },
     {
       "title": "[NBCS U-16]神村学園と渡り合った聖和学園。推進力と展開力発揮のボランチMF松坂暖太はMFニコロ・バレッラのように(ゲキサカ)",
       "summary": "[9.19 NBCS U-18予選リーグ第1節 聖和学園高 0-1 神村学園高 時之栖うさぎ島5] 強豪と渡り合い、自信をつけた。聖和学園高(宮城)は「NEW BALANCE CHAMPIONSH",
@@ -24,16 +62,16 @@
       "summary": "＜DeNA5－3ヤクルト＞◇19日◇横浜 ヤクルトが逆転負けした。20日も敗れ、DeNAが勝てばクライマックスシリーズ進出の可能性が消滅し、Bクラスが確定する。今季前半戦は首位に立つ期間も長かった",
       "link": "https://news.yahoo.co.jp/articles/6112211b13b4a9d0e9f113a55e1430d66740fa20?source=rss",
       "pubDate": "2026-09-19T14:23:53.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
       "teams": [
         "swallows"
       ],
       "topics": [],
       "sources": [
         {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/6112211b13b4a9d0e9f113a55e1430d66740fa20?source=rss"
         }
       ]
@@ -140,8 +178,8 @@
       "summary": "＜DeNA5－3ヤクルト＞◇19日◇横浜 今季限りで現役を引退するヤクルト石川雅規投手（46）が試合後、サプライズで花束を受け取った。本塁付近でDeNA相川亮二監督（50）がチームを代表して手渡し",
       "link": "https://news.yahoo.co.jp/articles/ccfcb21717ddbe47338a8e676330c2df893527b9?source=rss",
       "pubDate": "2026-09-19T14:01:40.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
       "teams": [
         "swallows"
       ],
@@ -150,8 +188,8 @@
       ],
       "sources": [
         {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/ccfcb21717ddbe47338a8e676330c2df893527b9?source=rss"
         }
       ]
@@ -161,16 +199,16 @@
       "summary": "＜DeNA5－3ヤクルト＞◇19日◇横浜 ヤクルトが終盤に逆転負けした。2点リードの7回。3番手清水昇投手（29）が連打と死球から満塁のピンチを招き、牧の1発で試合をひっくり返された。 清水は",
       "link": "https://news.yahoo.co.jp/articles/c4ffa71959d856f77a83d9597f80c2d23764a46c?source=rss",
       "pubDate": "2026-09-19T13:58:09.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
       "teams": [
         "swallows"
       ],
       "topics": [],
       "sources": [
         {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/c4ffa71959d856f77a83d9597f80c2d23764a46c?source=rss"
         }
       ]
@@ -77472,45 +77510,6 @@
           "name": "Yahoo!ニュース スポーツ",
           "sourceId": "yahoo-sports",
           "link": "https://news.yahoo.co.jp/articles/84c845cbf71f68124dd0776ded7d3bbb7a198d98?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "前日途中交代の広島・石原貴規 石原バッテリーコーチと試合前練習中の三塁側ベンチで約30分間話し込む(スポニチアネックス)",
-      "summary": "◇セ・リーグ 広島―巨人（2026年8月23日 東京ドーム） 試合前練習中の三塁側ベンチで石原と石原バッテリーコーチが約30分間に渡って話し込むシーンがあった。 前日22日の試合では0―2の",
-      "link": "https://news.yahoo.co.jp/articles/33727cb94adcb3915f59a175a4dae374880e62e5?source=rss",
-      "pubDate": "2026-08-23T04:31:15.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "carp"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/33727cb94adcb3915f59a175a4dae374880e62e5?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "巨人 坂本勇人は「5番・三塁」 3カ月ぶり1軍復帰の平山功太「8番・右翼」ダルベックはベンチスタート(スポニチアネックス)",
-      "summary": "◇セ・リーグ 巨人 ― 広島（2026年8月23日 東京D） 巨人・坂本勇人内野手が「5番・三塁」で2試合連続で先発出場する。22日は1打数無安打、2四球で途中交代していた。 また、3カ月ぶ",
-      "link": "https://news.yahoo.co.jp/articles/1cb338808c6d758ee88707124799849b7b7aae5d?source=rss",
-      "pubDate": "2026-08-23T04:22:16.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "giants",
-        "carp"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/1cb338808c6d758ee88707124799849b7b7aae5d?source=rss"
         }
       ]
     }
