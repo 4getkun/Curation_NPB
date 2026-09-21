@@ -1,22 +1,41 @@
 {
-  "generatedAt": "2026-09-21T14:23:33.027Z",
+  "generatedAt": "2026-09-21T19:36:28.736Z",
   "count": 4000,
   "items": [
     {
-      "title": "【中日】本拠地の全69試合終了 新設ホームランウイング効果で本塁打は倍増、打たれた数は…(日刊スポーツ)",
-      "summary": "＜中日10－0広島＞◇21日◇バンテリンドーム 中日は10－0で広島に快勝し、本拠地最終戦を2連勝で締めくくった。 ◇ ◇ ◇ ◇ バンテリンドームでの主催69試合が終了した。チーム本塁打",
-      "link": "https://news.yahoo.co.jp/articles/f8bcf708c5ba84428afc2afcdb9564d822ae3903?source=rss",
-      "pubDate": "2026-09-21T13:16:52.000Z",
+      "title": "オリックス 台風25号の影響で北海道残留危機も回避 予定便が欠航も迅速対応で午前0時頃に東京入り(スポニチアネックス)",
+      "summary": "◇パ・リーグ オリックス3―5日本ハム（2026年9月21日 エスコンF） オリックスが未曾有の危機を回避した。 今季のエスコンフィールドでの最終戦を終え、22日からはZOZOマリンでのロッ",
+      "link": "https://news.yahoo.co.jp/articles/d7ca9105d099312c70ca1975d51d56dac3fc0e95?source=rss",
+      "pubDate": "2026-09-21T15:23:12.000Z",
       "source": "Yahoo!ニュース スポーツ",
       "sourceId": "yahoo-sports",
       "teams": [
-        "dragons"
+        "buffaloes"
       ],
       "topics": [],
       "sources": [
         {
           "name": "Yahoo!ニュース スポーツ",
           "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/d7ca9105d099312c70ca1975d51d56dac3fc0e95?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【中日】本拠地の全69試合終了 新設ホームランウイング効果で本塁打は倍増、打たれた数は…(日刊スポーツ)",
+      "summary": "＜中日10－0広島＞◇21日◇バンテリンドーム 中日は10－0で広島に快勝し、本拠地最終戦を2連勝で締めくくった。 ◇ ◇ ◇ ◇ バンテリンドームでの主催69試合が終了した。チーム本塁打",
+      "link": "https://news.yahoo.co.jp/articles/f8bcf708c5ba84428afc2afcdb9564d822ae3903?source=rss",
+      "pubDate": "2026-09-21T13:16:52.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "dragons"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/f8bcf708c5ba84428afc2afcdb9564d822ae3903?source=rss"
         }
       ]
@@ -77471,25 +77490,6 @@
           "name": "日刊スポーツ（Yahoo!ニュース経由）",
           "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/1f0e6bdcff68e75653dec69072930b783ae61a3e?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【日本ハム】有原航平６回８安打３失点で降板「悔しいです」レイエス２ランで同点直後に失点(日刊スポーツ)",
-      "summary": "＜ロッテ－日本ハム＞◇23日◇エスコンフィールド 日本ハム先発の有原航平投手（34）は、6回8安打3失点で1点ビハインドのまま降板した。 「先制点を許してしまったこと、同点に追いついてもらった",
-      "link": "https://news.yahoo.co.jp/articles/d653c4eb71c42ff4cf55ac344b994fe6c200f584?source=rss",
-      "pubDate": "2026-08-23T11:09:48.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "fighters"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/d653c4eb71c42ff4cf55ac344b994fe6c200f584?source=rss"
         }
       ]
     }
