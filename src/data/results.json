@@ -1,7 +1,22 @@
 {
-  "generatedAt": "2026-09-22T06:24:11.964Z",
+  "generatedAt": "2026-09-22T11:53:23.873Z",
   "teams": {
     "giants": [
+      {
+        "gameNumber": 135,
+        "date": "9月22日",
+        "opponentTeamId": "carp",
+        "opponentText": "広島",
+        "score": "1-2x",
+        "ownScore": 1,
+        "opponentScore": 2,
+        "result": "loss",
+        "winningPitcher": "鈴木（3-2）",
+        "losingPitcher": "赤星（6-4）",
+        "savePitcher": "",
+        "venue": "マツダ",
+        "record": "73-60-2"
+      },
       {
         "gameNumber": 134,
         "date": "9月20日",
@@ -136,21 +151,6 @@
         "savePitcher": "",
         "venue": "東京ドーム",
         "record": "68-56-2"
-      },
-      {
-        "gameNumber": 125,
-        "date": "9月8日",
-        "opponentTeamId": "dragons",
-        "opponentText": "中日",
-        "score": "0-3",
-        "ownScore": 0,
-        "opponentScore": 3,
-        "result": "loss",
-        "winningPitcher": "",
-        "losingPitcher": "戸郷（4-2）",
-        "savePitcher": "",
-        "venue": "東京ドーム",
-        "record": "67-56-2"
       }
     ],
     "tigers": [
@@ -307,6 +307,21 @@
     ],
     "carp": [
       {
+        "gameNumber": 132,
+        "date": "9月22日",
+        "opponentTeamId": "giants",
+        "opponentText": "巨人",
+        "score": "2x-1",
+        "ownScore": 2,
+        "opponentScore": 1,
+        "result": "win",
+        "winningPitcher": "鈴木（3-2）",
+        "losingPitcher": "赤星（6-4）",
+        "savePitcher": "",
+        "venue": "マツダ",
+        "record": "53-74-4"
+      },
+      {
         "gameNumber": 131,
         "date": "9月21日",
         "opponentTeamId": "dragons",
@@ -440,21 +455,6 @@
         "savePitcher": "",
         "venue": "マツダ",
         "record": "49-69-4"
-      },
-      {
-        "gameNumber": 122,
-        "date": "9月11日",
-        "opponentTeamId": "baystars",
-        "opponentText": "DeNA",
-        "score": "1-6",
-        "ownScore": 1,
-        "opponentScore": 6,
-        "result": "loss",
-        "winningPitcher": "中川虎（6-5）",
-        "losingPitcher": "ターノック（0-6）",
-        "savePitcher": "",
-        "venue": "マツダ",
-        "record": "49-68-4"
       }
     ],
     "baystars": [
@@ -603,7 +603,7 @@
         "opponentScore": 1,
         "result": "win",
         "winningPitcher": "中川虎（6-5）",
-        "losingPitcher": "ターノック（0-6）",
+        "losingPitcher": "",
         "savePitcher": "",
         "venue": "マツダ",
         "record": "60-63-3"
