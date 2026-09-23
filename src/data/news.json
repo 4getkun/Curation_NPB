@@ -1,7 +1,89 @@
 {
-  "generatedAt": "2026-09-23T21:48:59.101Z",
-  "count": 3941,
+  "generatedAt": "2026-09-23T22:23:15.352Z",
+  "count": 3937,
   "items": [
+    {
+      "title": "【ヤフコメで話題】「阪神との優勝争いで巨人は崖っぷち」「直接対決が運命を分ける」 - セ・リーグ終盤の行方に注目集まる(Yahoo!ニュース オリジナル THE PAGE)",
+      "summary": "阪神タイガースと読売ジャイアンツの優勝争いについて、Yahoo!ニュースのコメント欄で話題になっています。 コメントでは、残り試合数や直接対決の勝敗が優勝の行方を大きく左右する状況が具体的な数字ととも",
+      "link": "https://news.yahoo.co.jp/articles/12d8685efaeb3284ada8c9fe26bc5761b93856c2?source=rss",
+      "pubDate": "2026-09-23T22:19:51.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "tigers",
+        "giants"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/12d8685efaeb3284ada8c9fe26bc5761b93856c2?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "Bクラスから主力流出！？ 今オフのFA有力候補（1）広島から“衝撃流出”も！？“最注目”の28歳(ベースボールチャンネル)",
+      "summary": "プロ野球界で大きな話題となるのが、フリーエージェント（FA）戦線だ。新たにFA権を取得した選手の去就には大きな注目が集まるが、特にBクラスに沈む球団にとって、主力の流出はチーム再建を進めるうえで大き",
+      "link": "https://news.yahoo.co.jp/articles/59444aa0b695961cbd7e934ac1099f2c95b56a9b?source=rss",
+      "pubDate": "2026-09-23T22:00:10.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "carp"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/59444aa0b695961cbd7e934ac1099f2c95b56a9b?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "楽天前田健太がエスコンフィールドで先発登板 勝利すれば17球場目で現役３位タイに／見どころ(日刊スポーツ)",
+      "summary": "楽天前田健太投手（38）がエスコンフィールドで2度目の先発登板。同球場の登板は5月20日以来。前回は3四球与えるなど乱調で、2回1／3を4失点と勝敗は付かなかった。前田健はこれまで国内の16球場で白",
+      "link": "https://news.yahoo.co.jp/articles/b4642607fc19ddd38008fd0023360e26e60ebfbe?source=rss",
+      "pubDate": "2026-09-23T22:00:01.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "eagles"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/b4642607fc19ddd38008fd0023360e26e60ebfbe?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "退団から4年…“最強助っ人”の近影に「泣いた」 突如登場で騒然「無事に涙腺崩壊」",
+      "summary": "ロッテの益田直也投手が通算250セーブおよび通算800登板を達成し、23日に本拠地で行われたオリックス戦の試合前に、連盟表彰ならびに日本プロ野球名球会ブレザー授与式が開催された。そのなかで突然登場した人物に対し、「無事に涙腺崩壊」との声があ…",
+      "link": "https://full-count.jp/2026/09/24/post2020341/",
+      "pubDate": "2026-09-23T21:54:00.000Z",
+      "source": "Full-Count（プロ野球）",
+      "sourceId": "full-count-npb",
+      "teams": [
+        "marines"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Full-Count（プロ野球）",
+          "sourceId": "full-count-npb",
+          "link": "https://full-count.jp/2026/09/24/post2020341/"
+        },
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/2e2a28ca70be03db2b3ec4537268a794f0786abd?source=rss"
+        }
+      ]
+    },
     {
       "title": "中島引退の裏で…再会した“盟友”「兄弟みたい」 サプライズ登場で「涙腺崩壊した」",
       "summary": "日本ハムは22日、中島卓也内野手の引退セレモニーを実施した。サプライズゲストとして、同じ2008年ドラフト同期でかつて二遊間のライバルであった杉谷拳士氏が登場。ねぎらいの声をかける姿や、自身のX（旧ツイッター）に投稿された2人のオフショット…",
@@ -176,11 +258,6 @@
           "name": "BASEBALL KING",
           "sourceId": "baseballking",
           "link": "https://baseballking.jp/ns/707836/"
-        },
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/73330f405159cd5a23ea47f72a3bcca0e214e85a?source=rss"
         }
       ]
     },
@@ -76241,161 +76318,6 @@
           "name": "Yahoo!ニュース スポーツ",
           "sourceId": "yahoo-sports",
           "link": "https://news.yahoo.co.jp/articles/983ef9a2c19a8bcfb7e4fea0f6db3951ef76e7ea?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "再昇格後18打数1安打…DeNAの”守備職人”が登録抹消 8月は打率.067と快音聞かれず",
-      "summary": "24日のプロ野球公示で、横浜DeNAベイスターズは京田陽太選手を一軍登録から抹消した。",
-      "link": "https://www.baseballchannel.jp/npb/baystars/285605/",
-      "pubDate": "2026-08-24T22:20:49.000Z",
-      "source": "ベースボールチャンネル（プロ野球）",
-      "sourceId": "baseballchannel-npb",
-      "teams": [],
-      "topics": [
-        "roster"
-      ],
-      "sources": [
-        {
-          "name": "ベースボールチャンネル（プロ野球）",
-          "sourceId": "baseballchannel-npb",
-          "link": "https://www.baseballchannel.jp/npb/baystars/285605/"
-        }
-      ]
-    },
-    {
-      "title": "再昇格後18打数1安打…DeNAの\"守備職人\"が登録抹消 8月は打率.067と快音聞かれず(ベースボールチャンネル)",
-      "summary": "24日のプロ野球公示で、横浜DeNAベイスターズは京田陽太選手を一軍登録から抹消した。 6月に足を痛めて登録を外れ、7月31日に再昇格したものの、その後は9試合の出場で18打数1安打と苦しんでい",
-      "link": "https://news.yahoo.co.jp/articles/1f1dd1f85309f42fdf5a177c6eef0b07846bd32c?source=rss",
-      "pubDate": "2026-08-24T22:20:13.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [],
-      "topics": [
-        "roster"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/1f1dd1f85309f42fdf5a177c6eef0b07846bd32c?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【ヤフコメで話題】「CS制度の是非とアドバンテージ拡大」「消化試合減少と興行優先への賛否」 - プロ野球クライマックスシリーズ改革に揺れる声(Yahoo!ニュース オリジナル THE PAGE)",
-      "summary": "プロ野球クライマックスシリーズ（CS）の制度改定について、Yahoo!ニュースのコメント欄で話題になっています。 昨年のセ・リーグで首位と2位のゲーム差が大きく開いたことや、CS進出チームの勝率が5割",
-      "link": "https://news.yahoo.co.jp/articles/a1650ede6668a6037615842c1e8d5dd763a89d05?source=rss",
-      "pubDate": "2026-08-24T22:18:12.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/a1650ede6668a6037615842c1e8d5dd763a89d05?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "まさに”衝撃”…「電撃トレード」で移籍した大物（5）“出場停止”から巨人のクリーンアップに(ベースボールチャンネル)",
-      "summary": "近年のプロ野球では交換トレードが活発化している。今季も5月12日にDeNA・山本祐大とソフトバンク・尾形崇斗、井上朋也による2対1の交換トレードが成立し、大きな話題を呼んだ。球界の歴史を振り返ると、",
-      "link": "https://news.yahoo.co.jp/articles/9075af1a69d88c90291bf6c57a48926b90f3d456?source=rss",
-      "pubDate": "2026-08-24T22:10:50.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "giants"
-      ],
-      "topics": [
-        "trade"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/9075af1a69d88c90291bf6c57a48926b90f3d456?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "森下翔太とサトテル、タイトル争いの行方を占う 専門家が指摘した“我慢”「許されない」",
-      "summary": "阪神の中軸2人のハイレベルなタイトル争いが続いている。セ・リーグ首位の阪神は23日、横浜スタジアムでのDeNA戦に5-3で勝利。森下翔太外野手は、セ・リーグ単独トップに立つ31号を放ち、決勝の2点適時打も記録するなど4安打3打点。同じく4安…",
-      "link": "https://full-count.jp/2026/08/25/post2007370/",
-      "pubDate": "2026-08-24T22:09:00.000Z",
-      "source": "Full-Count（プロ野球）",
-      "sourceId": "full-count-npb",
-      "teams": [
-        "tigers",
-        "baystars"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Full-Count（プロ野球）",
-          "sourceId": "full-count-npb",
-          "link": "https://full-count.jp/2026/08/25/post2007370/"
-        }
-      ]
-    },
-    {
-      "title": "広島２年目の佐々木泰が夏場に好調維持 ７月に入ってから打率３割３分９厘／見どころ(日刊スポーツ)",
-      "summary": "広島佐々木泰内野手（23）は6月までが156打数33安打の打率2割1分2厘も、7月に入ってから112打数38安打の同3割3分9厘。7月以降では福永（中日）の3割1分3厘を抑えて、打率リーグトップ。",
-      "link": "https://news.yahoo.co.jp/articles/480f7a799cbdc403f4002035feb706675ab19ddf?source=rss",
-      "pubDate": "2026-08-24T22:00:01.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "carp"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/480f7a799cbdc403f4002035feb706675ab19ddf?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "西武平良海馬、史上初30セーブの翌年に先発だけで10勝した投手なるか／見どころ(日刊スポーツ)",
-      "summary": "今季9勝の西武平良海馬が、23年以来自身2度目の2桁勝利を狙う。 昨季の平良は抑えを務めて31セーブをマーク。30セーブ以上を記録した翌年に2桁勝利を挙げた投手は、82年30S→83年10勝の斉",
-      "link": "https://news.yahoo.co.jp/articles/7f7c058da781247aff4ba88b42ebf4aeb403f6a9?source=rss",
-      "pubDate": "2026-08-24T22:00:01.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "lions"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/7f7c058da781247aff4ba88b42ebf4aeb403f6a9?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "まさかの”不良債権”…阪神、期待外れのFA戦士（2）エース級が3年間でわずか8勝(ベースボールチャンネル)",
-      "summary": "プロ野球選手にとって、フリーエージェント（FA）権の取得は1つの勲章といえるだろう。移籍市場での阪神タイガースは、的確な戦力拡充を見せている。しかし、過去を振り返ると、補強失敗となった事例も多くある",
-      "link": "https://news.yahoo.co.jp/articles/1e2da2e3dfdfa4671315b7e4a172c65b2fcfc27b?source=rss",
-      "pubDate": "2026-08-24T21:50:54.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "tigers"
-      ],
-      "topics": [
-        "trade"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/1e2da2e3dfdfa4671315b7e4a172c65b2fcfc27b?source=rss"
         }
       ]
     }
