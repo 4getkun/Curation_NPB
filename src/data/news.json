@@ -1,7 +1,51 @@
 {
-  "generatedAt": "2026-09-24T15:32:57.366Z",
-  "count": 3666,
+  "generatedAt": "2026-09-24T19:33:16.234Z",
+  "count": 3661,
   "items": [
+    {
+      "title": "【阪神】西勇輝が今季限りで現役引退 通算１２７勝＆歴代２位の３０６試合連続先発の右腕 １９年にはゴールデン・グラブ賞 顔面神経麻痺、右膝痛乗り越えプロ１８年(スポーツ報知)",
+      "summary": "阪神・西勇輝投手（３５）が、今季限りで現役を引退する意向を固めたことが２４日、分かった。球団もすでに了承しており、功労者として何らかのポストを用意する見通し。プロ１８年目の今季も８試合に登板して３勝",
+      "link": "https://news.yahoo.co.jp/articles/1cf45983c98bb4177732a567aaccecd955e14697?source=rss",
+      "pubDate": "2026-09-24T16:19:26.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "tigers"
+      ],
+      "topics": [
+        "retirement"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/1cf45983c98bb4177732a567aaccecd955e14697?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【阪神】西勇輝が現役引退決断「中途半端な気持ちでやりたくない」最後まで「100％」にこだわり(日刊スポーツ)",
+      "summary": "阪神西勇輝投手（35）が、今季限りでの現役引退を決断したことが24日、分かった。08年ドラフト3位でオリックスに入団し、FA移籍で19年から阪神でプレー。精密なコントロールと投球術を武器に、勝利と数",
+      "link": "https://news.yahoo.co.jp/articles/c1d561b375a6de31e4cd3d1b05345276891e5762?source=rss",
+      "pubDate": "2026-09-24T16:00:02.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "tigers"
+      ],
+      "topics": [
+        "trade",
+        "draft",
+        "retirement"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/c1d561b375a6de31e4cd3d1b05345276891e5762?source=rss"
+        }
+      ]
+    },
     {
       "title": "貧打で完敗、巨人ファン沈痛「完全にトドメを刺された」…遠ざかる宿敵の背中「夢も希望もない」(スポーティングニュース日本版)",
       "summary": "読売ジャイアンツは9月24日、マツダスタジアムで広島東洋カープと対戦。一時は1点差に詰め寄ったが1-3で敗れ、首位・阪神とのゲーム差は2に広がった。投手陣は踏ん張ったものの、わずか6安打1得点と打線が",
@@ -27,16 +71,16 @@
       "summary": "＜日本ハム0－6楽天＞◇24日◇エスコンフィールド 日本ハム新庄剛志監督（54）が本拠地最終戦の楽天戦後、来季の去就について続投を明言した。 ◇ ◇ ◇ 試合後の新庄監督の主",
       "link": "https://news.yahoo.co.jp/articles/7f04532bb14a46df21d1397c35df9887acfe6980?source=rss",
       "pubDate": "2026-09-24T14:48:20.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
       "teams": [
         "fighters"
       ],
       "topics": [],
       "sources": [
         {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/7f04532bb14a46df21d1397c35df9887acfe6980?source=rss"
         }
       ]
@@ -46,16 +90,16 @@
       "summary": "＜日本ハム0－6楽天＞◇24日◇エスコンフィールド 試合後の本拠地最終戦セレモニーで日本ハム選手会長の清宮幸太郎内野手（27）があいさつした。「この1年、いいときも悪いときもありましたが、皆さんの",
       "link": "https://news.yahoo.co.jp/articles/d525a1fde392db42a70108166fe310114c8bea98?source=rss",
       "pubDate": "2026-09-24T14:35:27.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
       "teams": [
         "fighters"
       ],
       "topics": [],
       "sources": [
         {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/d525a1fde392db42a70108166fe310114c8bea98?source=rss"
         }
       ]
@@ -70918,141 +70962,6 @@
           "name": "日刊スポーツ（Yahoo!ニュース経由）",
           "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/b57c08183e2f1146f45ace9fd164c235da889826?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "阪神が止まっても佐藤輝明は止まらない!! 近本級170安打ペースで打率急上昇も「気にしない」(スポニチアネックス)",
-      "summary": "◇セ・リーグ 阪神2―4中日（2026年8月25日 バンテリンD） 阪神は25日の中日戦（バンテリンドーム）に2―4で敗れ、カード初戦を落とした。2得点に終わった打線にあって、4番に座る佐藤輝明",
-      "link": "https://news.yahoo.co.jp/articles/357671be83c077afa179fee45135a7ecff8f3c5a?source=rss",
-      "pubDate": "2026-08-25T16:15:00.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "tigers"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/357671be83c077afa179fee45135a7ecff8f3c5a?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "阪神・大山悠輔 熟練左腕の中日・大野撃ちで3年ぶりの15号アーチも好機での併殺打に悔しさ露わ(スポニチアネックス)",
-      "summary": "◇セ・リーグ 阪神2―4中日（2026年8月25日 バンテリンD） 阪神・大山が23年以来、3年ぶりの15号アーチを放った。 2点ビハインドで迎えた6回1死無走者の3打席目。カウント2―1か",
-      "link": "https://news.yahoo.co.jp/articles/5744e25b55c80ba1ff6a71b8a13824d9b1cd9e27?source=rss",
-      "pubDate": "2026-08-25T16:15:00.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "tigers",
-        "dragons"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/5744e25b55c80ba1ff6a71b8a13824d9b1cd9e27?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "阪神・森下翔太 バットも折られた…得意の竜投攻略ならず悔し無安打 連続試合安打「5」でストップ(スポニチアネックス)",
-      "summary": "◇セ・リーグ 阪神2―4中日（2026年8月25日 バンテリンD） 阪神・森下はこの日は鳴りをひそめた。 8回無死一塁で右飛に倒れるなど、3打数無安打。中日戦は、試合前時点で打率・361とセ",
-      "link": "https://news.yahoo.co.jp/articles/829879ebafbfed8af51cdd281a3c5ffec8065aa1?source=rss",
-      "pubDate": "2026-08-25T16:15:00.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "tigers"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/829879ebafbfed8af51cdd281a3c5ffec8065aa1?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "阪神・伊藤将司 一発を警戒!!“ホームランウイング”設置後初の敵地登板「低めに投げたい」(スポニチアネックス)",
-      "summary": "阪神・伊藤将は一発に警戒を強めた。 26日の中日戦（バンテリンドーム）に先発。25日はショートダッシュなどで調整した。 バンテリンでの先発は今季初めて。新設された「ホームランウイング」に囲ま",
-      "link": "https://news.yahoo.co.jp/articles/6545d90cbded30c8cac71ff83593900f723e04fe?source=rss",
-      "pubDate": "2026-08-25T16:15:00.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "tigers"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/6545d90cbded30c8cac71ff83593900f723e04fe?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "阪神・藤川監督 中日先発・大野の投球術に脱帽「相手が上回った」 マジック点灯かかったゲームで連敗(スポニチアネックス)",
-      "summary": "◇セ・リーグ 阪神2―4中日（2026年8月25日 バンテリンD） 阪神はマジック点灯がかかったゲームで、また勝利できなかった。20日に続いて、これで2連敗。いずれも巨人が勝ったため、仮にタイガ",
-      "link": "https://news.yahoo.co.jp/articles/5ee71704df73adb0a8ea929f3360f70e92e5de0c?source=rss",
-      "pubDate": "2026-08-25T16:15:00.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "tigers",
-        "dragons"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/5ee71704df73adb0a8ea929f3360f70e92e5de0c?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "矢野燿大氏 打たれた阪神・神宮僚介は悲観する内容ではなかった 独特なツーシームの精度UPを(スポニチアネックス)",
-      "summary": "◇セ・リーグ 阪神2―4中日（2026年8月25日 バンテリンD） 【矢野燿大 視点】1点差に迫った6回に登板した神宮は結果的に打たれはしたが、悲観する内容ではなかったように思う。先頭の細川への",
-      "link": "https://news.yahoo.co.jp/articles/a75c7eb643d34349a6e870d37818a115f2548d69?source=rss",
-      "pubDate": "2026-08-25T16:15:00.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "tigers"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/a75c7eb643d34349a6e870d37818a115f2548d69?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【阪神・藤川監督語録】先頭打者への四球に「どれだけ経験があっても起こること。今日はそういう日だった」(スポニチアネックス)",
-      "summary": "◇セ・リーグ 阪神2―4中日（2026年8月25日 バンテリンD） ▼西勇の粘り 先発としての役割を十分に、ゲームをつくってくれたと思う。 ▼先頭打者への四球 そのあたりは（神宮だけでなく）",
-      "link": "https://news.yahoo.co.jp/articles/34c0a40c52a0f496389972f2ede4212665726221?source=rss",
-      "pubDate": "2026-08-25T16:15:00.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "tigers"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/34c0a40c52a0f496389972f2ede4212665726221?source=rss"
         }
       ]
     }
