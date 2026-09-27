@@ -1,7 +1,64 @@
 {
-  "generatedAt": "2026-09-27T14:07:38.079Z",
-  "count": 3436,
+  "generatedAt": "2026-09-27T18:32:14.556Z",
+  "count": 3437,
   "items": [
+    {
+      "title": "まさに”有終の美”…？印象的な引退試合となった選手6人。花道を飾った選手たち",
+      "summary": "2026年レギュラーシーズンも最終盤に入っているプロ野球。今年も複数の大物選手がユニフォームを脱ぐ決断をした。実績を残した選手には引退試合として試合が行なわれることが多いが、その引退試合で印象的な活躍をした選手もいる。そこで今回は、引退試合…",
+      "link": "https://www.baseballchannel.jp/npb/233886/",
+      "pubDate": "2026-09-27T15:00:29.000Z",
+      "source": "ベースボールチャンネル（プロ野球）",
+      "sourceId": "baseballchannel-npb",
+      "teams": [],
+      "topics": [
+        "retirement"
+      ],
+      "sources": [
+        {
+          "name": "ベースボールチャンネル（プロ野球）",
+          "sourceId": "baseballchannel-npb",
+          "link": "https://www.baseballchannel.jp/npb/233886/"
+        }
+      ]
+    },
+    {
+      "title": "ロッテ・高野脩汰、6回1失点で今季4勝目 自己最多タイ8奪三振で先発転向後4戦3勝「先発も楽しいなと思ってやっています」(中日スポーツ)",
+      "summary": "◇27日 ロッテ6―1日本ハム（ZOZOマリン） ロッテ・高野脩汰投手が6イニングを5安打1失点の好投で今季4勝目をマークした。 唯一の失点は3回の進藤のソロ。自己最多タイの8三振も奪った投球",
+      "link": "https://news.yahoo.co.jp/articles/090d6385a756042bd240865e386220891453f0a2?source=rss",
+      "pubDate": "2026-09-27T14:53:46.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "marines"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/090d6385a756042bd240865e386220891453f0a2?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "巨人・泉口友汰、「いつも慎之介さんの『打てよ！』というプレッシャーがえぐい」小笠原先発の試合で再び躍動の3点先制二塁打(中日スポーツ)",
+      "summary": "◇27日 巨人11―0ヤクルト（東京ドーム） 巨人・泉口友汰内野手が再び躍動した。2回2死満塁で、ヤクルト・高橋から右翼フェンス直撃となる走者一掃の先制二塁打。20日のヤクルト戦でも逆転打でお立",
+      "link": "https://news.yahoo.co.jp/articles/fc1975c8e859a5253c224779c759e8b52f55f7aa?source=rss",
+      "pubDate": "2026-09-27T14:36:53.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "giants"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/fc1975c8e859a5253c224779c759e8b52f55f7aa?source=rss"
+        }
+      ]
+    },
     {
       "title": "【巨人】復活のリチャード「そのままクビと思ってた」「楽しかった」“なりすまし”打法で４出塁(スポーツ報知)",
       "summary": "◆ＪＥＲＡセ・リーグ 巨人１１―０ヤクルト（２７日・東京ドーム） 巨人・リチャード内野手（２７）が昇格即スタメンで１安打２打点。「ずっと『１軍で試合したいな』って思いながらファームで試合してたので",
@@ -179,16 +236,16 @@
       "summary": "＜巨人11－0ヤクルト＞◇27日◇東京ドーム 巨人は、今季6度目の2ケタ得点で連敗を2でストップし、逆転優勝へ望みをつないだ。ヤクルト先発左腕の高橋を攻略すべくリチャード内野手（27）を昇格即スタ",
       "link": "https://news.yahoo.co.jp/articles/7b8d24d7714347bd0e6f65090fec07adfc58043c?source=rss",
       "pubDate": "2026-09-27T13:46:08.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
       "teams": [
         "giants"
       ],
       "topics": [],
       "sources": [
         {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/7b8d24d7714347bd0e6f65090fec07adfc58043c?source=rss"
         }
       ]
@@ -217,16 +274,16 @@
       "summary": "＜ロッテ6－1日本ハム＞◇27日◇ZOZOマリン 昨季まで2年連続最多勝の日本ハム先発の有原航平投手（34）は、7勝9敗で今季レギュラーシーズンを終えた。初回から4イニング連続で先頭打者を出塁させ",
       "link": "https://news.yahoo.co.jp/articles/d29f3441507fcf6f0c1229be852943166eeb739b?source=rss",
       "pubDate": "2026-09-27T13:45:26.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
       "teams": [
         "fighters"
       ],
       "topics": [],
       "sources": [
         {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/d29f3441507fcf6f0c1229be852943166eeb739b?source=rss"
         }
       ]
@@ -66602,46 +66659,6 @@
           "name": "日刊スポーツ（Yahoo!ニュース経由）",
           "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/b6675bf0a121c33810a4f2ac40095ac2f2341839?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【西武】流れ変わりうる大ピンチを佐藤隼輔が力強い「逆球」で封じた 西口監督もたたえた大仕事(日刊スポーツ)",
-      "summary": "＜西武8－4楽天＞◇28日◇ベルーナドーム 西武の西口文也監督（53）は勝利し、栗山巧外野手（42）の引退試合に関する質問にこう答えた。 「いよいよあさってに迫っているのでね。その前に負けるわ",
-      "link": "https://news.yahoo.co.jp/articles/5a9d7c01c19133840439a676b3c3381633af6d2f?source=rss",
-      "pubDate": "2026-08-28T14:34:12.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "lions"
-      ],
-      "topics": [
-        "retirement"
-      ],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/5a9d7c01c19133840439a676b3c3381633af6d2f?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【楽天】辰己涼介、自己最多タイ11号で一矢報いる「負けてしまったんで残念」高橋光から３ラン(日刊スポーツ)",
-      "summary": "＜西武8－4楽天＞◇28日◇ベルーナドーム 楽天辰己涼介外野手（29）が自己最多に並ぶ1発で一矢報いた。 4点を追う5回2死一、三塁。西武高橋光成投手（29）の2球目カットボールを強振し、右中",
-      "link": "https://news.yahoo.co.jp/articles/aa286cf664fe21095e37cef3a1b386902403e3df?source=rss",
-      "pubDate": "2026-08-28T14:15:28.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "eagles"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/aa286cf664fe21095e37cef3a1b386902403e3df?source=rss"
         }
       ]
     }
