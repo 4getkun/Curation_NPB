@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-27T21:41:49.941Z",
+  "generatedAt": "2026-09-28T00:04:06.172Z",
   "teams": {
     "giants": [
       {
@@ -142,7 +142,7 @@
         "date": "9月14日",
         "opponentTeamId": "baystars",
         "opponentText": "DeNA",
-        "score": "3-4",
+        "score": "3-4x",
         "ownScore": 3,
         "opponentScore": 4,
         "result": "loss",
