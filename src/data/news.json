@@ -1,7 +1,935 @@
 {
-  "generatedAt": "2026-09-29T00:00:21.679Z",
-  "count": 3448,
+  "generatedAt": "2026-09-29T05:54:06.476Z",
+  "count": 3473,
   "items": [
+    {
+      "title": "【DeNA】10選手に戦力外通告 支配下５投手、外野手１人、育成４選手 ３選手がドラ１(日刊スポーツ)",
+      "summary": "DeNAは29日、井上絢登外野手（26）小園健太投手（23）佐々木千隼投手（32）堀岡隼人投手（28）中川颯投手（27）藤浪晋太郎投手（32）育成の西巻賢二内野手（27）松本隆之介投手（24）小笠原蒼",
+      "link": "https://news.yahoo.co.jp/articles/12bc09a27d87d278510981ef0381a36b2e7c648b?source=rss",
+      "pubDate": "2026-09-29T05:50:30.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "baystars"
+      ],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/12bc09a27d87d278510981ef0381a36b2e7c648b?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "ドラ1を超えた！？ 阪神、同期入団を代表する現役選手（6）一気にエース格へ…大躍進の30歳(ベースボールチャンネル)",
+      "summary": "プロ野球の世界では、ドラフト1位入団の選手には特に大きな期待が寄せられる。しかし、プロ入り後はドラフトでの評価が逆転し、下位指名の選手が主力選手としてチームに欠かせない戦力に成長することも少なくない。",
+      "link": "https://news.yahoo.co.jp/articles/9d76eb9ff599bd9cb6e0908d2454925ae82d4610?source=rss",
+      "pubDate": "2026-09-29T05:50:10.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "tigers"
+      ],
+      "topics": [
+        "draft"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/9d76eb9ff599bd9cb6e0908d2454925ae82d4610?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "DeNAが大量10選手に戦力外通告…小園健太ら“ドラ1右腕3人”が構想外",
+      "summary": "横浜DeNAベイスターズは29日、小園健太投手、藤浪晋太郎投手、佐々木千隼投手、中川颯投手、堀岡隼人投手、井上絢登外野手、育成の松本隆之介投手、近藤大雅捕手、小笠原蒼内野手、西巻賢二内野手の計10選手に対し、2027年シーズンの契約を結ばな…",
+      "link": "https://www.baseballchannel.jp/npb/292203/",
+      "pubDate": "2026-09-29T05:49:05.000Z",
+      "source": "ベースボールチャンネル（プロ野球）",
+      "sourceId": "baseballchannel-npb",
+      "teams": [
+        "baystars"
+      ],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "ベースボールチャンネル（プロ野球）",
+          "sourceId": "baseballchannel-npb",
+          "link": "https://www.baseballchannel.jp/npb/292203/"
+        }
+      ]
+    },
+    {
+      "title": "【DeNA】21年ドラ１の小園健太が戦力外通告 エース候補で期待も５年間１勝 10選手に通告(日刊スポーツ)",
+      "summary": "DeNAは29日、井上絢登外野手（26）小園健太投手（23）佐々木千隼投手（32）堀岡隼人投手（28）中川颯投手（27）藤浪晋太郎投手（32）育成の西巻賢二内野手（27）松本隆之介投手（24）小笠原蒼",
+      "link": "https://news.yahoo.co.jp/articles/7f4cbcbeeab15c99e3c827565bb9cf62e80e8e31?source=rss",
+      "pubDate": "2026-09-29T05:49:01.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "baystars"
+      ],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/7f4cbcbeeab15c99e3c827565bb9cf62e80e8e31?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【巨人】岸田行倫が１カ月半ぶり１軍合流 大城、小林、甲斐も姿見せ捕手４人が試合前練習に参加(日刊スポーツ)",
+      "summary": "＜巨人－広島＞◇29日◇東京ドーム 巨人岸田行倫捕手（29）が1カ月半ぶりに1軍に合流した。試合前練習に姿を見せた。【写真】１カ月半ぶりに１軍合流した巨人岸田 今季はここまで58試合に出場して打率2割",
+      "link": "https://news.yahoo.co.jp/articles/2b17996268541ed84c6cdb87a467c726bf7cffd6?source=rss",
+      "pubDate": "2026-09-29T05:47:11.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "giants"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/2b17996268541ed84c6cdb87a467c726bf7cffd6?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【DeNA】井上絢登が戦力外「自分としてはまだやりきれていない部分がある」現役続行に意欲(日刊スポーツ)",
+      "summary": "DeNAは29日、井上絢登外野手（26）と来季の契約を結ばないことを発表した。井上絢は神奈川・横須賀の球団施設で報道陣の取材に応じ「(現役を)続けられるように頑張りたい。まだ考えてはいないですけど、N",
+      "link": "https://news.yahoo.co.jp/articles/7dd4dc6f32a36aae1fc96836a7debd99b0ff7617?source=rss",
+      "pubDate": "2026-09-29T05:41:39.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "baystars"
+      ],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/7dd4dc6f32a36aae1fc96836a7debd99b0ff7617?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【オリックス】シーモア28日に帰国 退団決定的 昨季３A30発の鳴り物入りも３本塁打と不発(日刊スポーツ)",
+      "summary": "オリックスは29日、ボブ・シーモア内野手（27）が28日に米国へ帰国したことを発表した。同内野手は昨季3Aで30発の鳴り物入りで入団したが、42試合に出場し3本塁打15打点、打率1割5分8厘と不発。7",
+      "link": "https://news.yahoo.co.jp/articles/0ca6fcac3d6abb8289478ab9de2a19a12763a644?source=rss",
+      "pubDate": "2026-09-29T05:35:47.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "buffaloes"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/0ca6fcac3d6abb8289478ab9de2a19a12763a644?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【DeNA】「期待のロマン砲」井上絢登が戦力外通告 昨季2本塁打でブレーク兆しも今季3試合(日刊スポーツ)",
+      "summary": "DeNAは29日、井上絢登外野手（26）小園健太投手（23）佐々木千隼投手（32）堀岡隼人投手（28）中川颯投手（27）藤浪晋太郎投手（32）育成の西巻賢二内野手（27）松本隆之介投手（24）小笠原蒼",
+      "link": "https://news.yahoo.co.jp/articles/49403b81c4c9a3e15d843dc1fc315c0604a6b384?source=rss",
+      "pubDate": "2026-09-29T05:33:01.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "baystars"
+      ],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/49403b81c4c9a3e15d843dc1fc315c0604a6b384?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【DeNA】佐々木千隼が戦力外通告 24年日本一に貢献も今季５試合で防御率0.00(日刊スポーツ)",
+      "summary": "DeNAは29日、井上絢登外野手（26）小園健太投手（23）佐々木千隼投手（32）堀岡隼人投手（28）中川颯投手（27）藤浪晋太郎投手（32）育成の西巻賢二内野手（27）松本隆之介投手（24）小笠原蒼",
+      "link": "https://news.yahoo.co.jp/articles/9a6d2fb9ae4c245d9bf0096feada4a8951586651?source=rss",
+      "pubDate": "2026-09-29T05:31:14.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "baystars"
+      ],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/9a6d2fb9ae4c245d9bf0096feada4a8951586651?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【DeNA】ドラフト1位・小園健太ら10選手に戦力外通告…5年目の今季は1軍登板なし(中日スポーツ)",
+      "summary": "ＤｅＮＡは２９日、支配下登録の６選手と育成契約の４選手の計１０選手に、来季の契約を結ばないことを通知したと発表した。◆DeNA2年目・井上絢登、プロ1号は逆転満塁弾！【動画】 支配下は小園健太投手（２",
+      "link": "https://news.yahoo.co.jp/articles/6d6c35f6a7111f9c9a32524ffcdcfadbaabbff5a?source=rss",
+      "pubDate": "2026-09-29T05:31:10.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "baystars"
+      ],
+      "topics": [
+        "trade",
+        "roster",
+        "draft"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/6d6c35f6a7111f9c9a32524ffcdcfadbaabbff5a?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "中日ドラ2に戦力外通告「少し驚いた」 指名わずか3年で“壊滅”…ファン悲鳴「異常事態」",
+      "summary": "中日ドラゴンズは29日、津田啓史内野手ら6選手に対し、来季の契約を結ばない旨（戦力外通告）を伝えたと発表した。2023年のドラフト2位指名からわずか3年目での通告となり、SNS上のファンの間には大きなショックが広がっている。",
+      "link": "https://full-count.jp/2026/09/29/post2023235/",
+      "pubDate": "2026-09-29T05:30:33.000Z",
+      "source": "Full-Count（プロ野球）",
+      "sourceId": "full-count-npb",
+      "teams": [
+        "dragons"
+      ],
+      "topics": [
+        "trade",
+        "draft"
+      ],
+      "sources": [
+        {
+          "name": "Full-Count（プロ野球）",
+          "sourceId": "full-count-npb",
+          "link": "https://full-count.jp/2026/09/29/post2023235/"
+        },
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/aadee5bd2a26710674dc5c674767036759ec5696?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "ロッテ、10月6日にレギュラーシーズンホーム最終戦セレモニーを実施 挨拶やサインボールの投げ込みなど",
+      "summary": "千葉ロッテマリーンズは、レギュラーシーズンホーム最終戦である10月6日埼玉西武戦(18時00分試合開始)にて、試合終了後にレギュラーシーズンホーム最終戦セレモニーを開催することを発表した。",
+      "link": "https://www.baseballchannel.jp/npb/292200/",
+      "pubDate": "2026-09-29T05:25:24.000Z",
+      "source": "ベースボールチャンネル（プロ野球）",
+      "sourceId": "baseballchannel-npb",
+      "teams": [
+        "marines"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "ベースボールチャンネル（プロ野球）",
+          "sourceId": "baseballchannel-npb",
+          "link": "https://www.baseballchannel.jp/npb/292200/"
+        }
+      ]
+    },
+    {
+      "title": "【中日】柳裕也、右肘クリーニング手術が無事終了 来季キャンプ合流を目指す(日刊スポーツ)",
+      "summary": "中日柳裕也投手（32）が29日までに自身のインスタグラムを更新。右ひじの手術が無事に終了したことを報告した。【写真】スマイル＆ピースで手術終了を報告 病室のベッドで笑顔を見せ、右腕を三角巾で固定。左手",
+      "link": "https://news.yahoo.co.jp/articles/485724716ff56fb8e8d34dbf429877575f82b02c?source=rss",
+      "pubDate": "2026-09-29T05:21:10.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "dragons"
+      ],
+      "topics": [
+        "injury"
+      ],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/485724716ff56fb8e8d34dbf429877575f82b02c?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【阪神】西勇輝が「潮時なのかな」と感じ始めた瞬間「純粋に後輩を応援している自分がいました」(日刊スポーツ)",
+      "summary": "阪神西勇輝投手（35）が29日、兵庫・西宮市内で引退会見を行った。 08年ドラフト3位でオリックスに入団し、FA移籍で19年から阪神でプレー。プロ3年目の11年10月13日から先発マウンドに立ち続け、",
+      "link": "https://news.yahoo.co.jp/articles/d34a62f7472aa825ff2cd16342c59e68ca8086bb?source=rss",
+      "pubDate": "2026-09-29T05:19:07.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "tigers"
+      ],
+      "topics": [
+        "trade",
+        "draft",
+        "retirement"
+      ],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/d34a62f7472aa825ff2cd16342c59e68ca8086bb?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "ロッテ、令和8年台風第25号による被害に対する義援金募金活動を実施 10月1日から6日までの6試合",
+      "summary": "千葉ロッテマリーンズは、社会貢献プロジェクト「MARINES LINKS」の活動の一環として、令和8年台風25号により千葉県内で被災された方々を支援するため、10月1日から6日までの6試合で義援金募金活動を実施することを発表した。",
+      "link": "https://www.baseballchannel.jp/npb/292194/",
+      "pubDate": "2026-09-29T05:15:13.000Z",
+      "source": "ベースボールチャンネル（プロ野球）",
+      "sourceId": "baseballchannel-npb",
+      "teams": [
+        "marines"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "ベースボールチャンネル（プロ野球）",
+          "sourceId": "baseballchannel-npb",
+          "link": "https://www.baseballchannel.jp/npb/292194/"
+        }
+      ]
+    },
+    {
+      "title": "【舞台裏】稲葉篤紀の日本ハム電撃移籍「社長が『金、もらってくるから』って」高田繁氏が明かす(日刊スポーツ)",
+      "summary": "日本ハム、DeNAでGMを歴任した高田繁氏（81）が、YouTube「上原浩治の雑談魂」にゲスト出演。今だから話せる舞台裏を披露した。【写真】高田GMに帽子をかぶせてもらう稲葉篤紀 2004年（平16",
+      "link": "https://news.yahoo.co.jp/articles/78772c086b55466c2f449c3b6b8da86f20a139ed?source=rss",
+      "pubDate": "2026-09-29T05:11:09.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "fighters"
+      ],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/78772c086b55466c2f449c3b6b8da86f20a139ed?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【プロ野球】2026年「戦力外通告」まとめ…",
+      "summary": "◆ 【最終更新日：9月29日】 球団が選手に来季以降は契約を結ばない旨を通達する、いわゆる「戦力外通告」。今年も9月28日から各球団でスタートした。 第1次期間はクライマックスシリーズが開幕する前日の10月9日までと […]",
+      "link": "https://baseballking.jp/ns/708331/",
+      "pubDate": "2026-09-29T05:05:00.000Z",
+      "source": "BASEBALL KING",
+      "sourceId": "baseballking",
+      "teams": [],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "BASEBALL KING",
+          "sourceId": "baseballking",
+          "link": "https://baseballking.jp/ns/708331/"
+        }
+      ]
+    },
+    {
+      "title": "【DeNA】21年ドラ１の小園健太が戦力外「すごい期待をしてもらった分を結果で返せなかった」(日刊スポーツ)",
+      "summary": "DeNAは29日、小園健太投手（23）と来季の契約を結ばないことを発表した。 今後については「今は気持ちの整理がまだできてない状態なので、いろいろ考えたいなっていうのが本音」とし「もちろん野球をやって",
+      "link": "https://news.yahoo.co.jp/articles/9d13308da38df8bc3d05af717cf32aac7b025282?source=rss",
+      "pubDate": "2026-09-29T05:04:00.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "baystars"
+      ],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/9d13308da38df8bc3d05af717cf32aac7b025282?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【DeNA】21年ドラ１小園健太、井上絢登、佐々木千隼、中川颯、藤浪晋太郎ら10選手戦力外(日刊スポーツ)",
+      "summary": "DeNAは29日、井上絢登外野手（26）小園健太投手（23）佐々木千隼投手（32）堀岡隼人投手（28）中川颯投手（27）藤浪晋太郎投手（32）育成の西巻賢二内野手（27）松本隆之介投手（24）小笠原蒼",
+      "link": "https://news.yahoo.co.jp/articles/738c98ff0090f6afa6e3c8261817e26912cbad67?source=rss",
+      "pubDate": "2026-09-29T05:03:45.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "baystars"
+      ],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/738c98ff0090f6afa6e3c8261817e26912cbad67?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【DeNA】センター前には抜けない…“ハマの主砲”が驚異の反応で追いつく→俊足打者を一塁アウト",
+      "summary": "横浜DeNAベイスターズの牧秀悟は28日、横浜スタジアムで行われた広島東洋カープ戦に「2番・二塁」でスタメン出場。5回の二塁守備で、好プレーを披露した。",
+      "link": "https://www.baseballchannel.jp/npb/292126/",
+      "pubDate": "2026-09-29T05:02:01.000Z",
+      "source": "ベースボールチャンネル（プロ野球）",
+      "sourceId": "baseballchannel-npb",
+      "teams": [
+        "baystars"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "ベースボールチャンネル（プロ野球）",
+          "sourceId": "baseballchannel-npb",
+          "link": "https://www.baseballchannel.jp/npb/292126/"
+        }
+      ]
+    },
+    {
+      "title": "DeNA・藤浪晋太郎が戦力外、球団発表 加入2年間で1勝…来季もNPBでのプレー希望",
+      "summary": "DeNAは28日、藤浪晋太郎投手に来季契約を結ばない旨を通知したと発表した。",
+      "link": "https://full-count.jp/2026/09/29/post2022541/",
+      "pubDate": "2026-09-29T05:01:00.000Z",
+      "source": "Full-Count（プロ野球）",
+      "sourceId": "full-count-npb",
+      "teams": [
+        "baystars"
+      ],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "Full-Count（プロ野球）",
+          "sourceId": "full-count-npb",
+          "link": "https://full-count.jp/2026/09/29/post2022541/"
+        }
+      ]
+    },
+    {
+      "title": "DeNA、大量10選手を戦力外 藤浪晋太郎は加入2年間で1勝…2021年ドラ1の小園健太も",
+      "summary": "DeNAは29日、藤浪晋太郎投手や小園健太投手ら10選手と来季の契約を結ばない旨を発表した。",
+      "link": "https://full-count.jp/2026/09/29/post2023352/",
+      "pubDate": "2026-09-29T05:01:00.000Z",
+      "source": "Full-Count（プロ野球）",
+      "sourceId": "full-count-npb",
+      "teams": [
+        "baystars"
+      ],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "Full-Count（プロ野球）",
+          "sourceId": "full-count-npb",
+          "link": "https://full-count.jp/2026/09/29/post2023352/"
+        }
+      ]
+    },
+    {
+      "title": "2軍で打率.270も…3年目で戦力外「悔しい気持ち」 現役続行へ「NPBに行けたら」",
+      "summary": "DeNAは29日、井上絢登外野手に対して来季の契約を結ばない旨を通知したと発表した。横須賀市内の2軍施設で取材に応じた26歳の井上は、感謝と不完全燃焼の悔しさを口にしつつ、「悔しい気持ちでいっぱい。自分のなかでもう一度自分のバッティングを磨…",
+      "link": "https://full-count.jp/2026/09/29/post2023320/",
+      "pubDate": "2026-09-29T05:00:00.000Z",
+      "source": "Full-Count（プロ野球）",
+      "sourceId": "full-count-npb",
+      "teams": [
+        "baystars"
+      ],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "Full-Count（プロ野球）",
+          "sourceId": "full-count-npb",
+          "link": "https://full-count.jp/2026/09/29/post2023320/"
+        }
+      ]
+    },
+    {
+      "title": "2度目の戦力外「覚悟できていた」 育成契約→日本一経験…28歳が「現役続行したい」",
+      "summary": "DeNAは29日、堀岡隼人投手に対して来季の契約を結ばない旨を通知したと発表した。横須賀市内の2軍施設で取材に応じ「分かっていたじゃないですけど、2回目なので、そういうタイミングだし覚悟はできていました」と率直な胸の内を明かした。",
+      "link": "https://full-count.jp/2026/09/29/post2023329/",
+      "pubDate": "2026-09-29T05:00:00.000Z",
+      "source": "Full-Count（プロ野球）",
+      "sourceId": "full-count-npb",
+      "teams": [
+        "baystars"
+      ],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "Full-Count（プロ野球）",
+          "sourceId": "full-count-npb",
+          "link": "https://full-count.jp/2026/09/29/post2023329/"
+        }
+      ]
+    },
+    {
+      "title": "ドラ1入団も1勝…23歳で戦力外「気持ちに応えたかった」 感情整理できず「いろいろ考えたい」",
+      "summary": "DeNAの小園健太投手が29日、横須賀市内の2軍施設で来季の戦力構想から外れていることを通告された。2021年ドラフト1位指名で入団し、背番号「18」を託された期待の星だったが、プロ5年目で戦力外となった。",
+      "link": "https://full-count.jp/2026/09/29/post2023224/",
+      "pubDate": "2026-09-29T05:00:00.000Z",
+      "source": "Full-Count（プロ野球）",
+      "sourceId": "full-count-npb",
+      "teams": [
+        "baystars"
+      ],
+      "topics": [
+        "trade",
+        "draft"
+      ],
+      "sources": [
+        {
+          "name": "Full-Count（プロ野球）",
+          "sourceId": "full-count-npb",
+          "link": "https://full-count.jp/2026/09/29/post2023224/"
+        }
+      ]
+    },
+    {
+      "title": "DeNA佐々木千隼が戦力外「諦めきれない」 16年ドラ1の32歳…今季5登板で「あるかもなと」",
+      "summary": "DeNAは29日、佐々木千隼投手に対し、来季の契約を結ばない旨を通知したと発表した。2016年ドラフト1位でロッテに入団し、2023年オフの現役ドラフトで加入した右腕だったが、今シーズンの1軍登板は5試合のみ。横須賀市内の2軍施設で取材に対…",
+      "link": "https://full-count.jp/2026/09/29/post2023315/",
+      "pubDate": "2026-09-29T05:00:00.000Z",
+      "source": "Full-Count（プロ野球）",
+      "sourceId": "full-count-npb",
+      "teams": [
+        "baystars"
+      ],
+      "topics": [
+        "trade",
+        "draft"
+      ],
+      "sources": [
+        {
+          "name": "Full-Count（プロ野球）",
+          "sourceId": "full-count-npb",
+          "link": "https://full-count.jp/2026/09/29/post2023315/"
+        }
+      ]
+    },
+    {
+      "title": "【阪神】西勇輝がユニホームで引退会見「まだ投げられる。優勝目指すチームのピースとして」(日刊スポーツ)",
+      "summary": "阪神西勇輝投手（35）が29日、兵庫・西宮市内で引退会見を行った。 会見場にはスーツではなく、慣れ親しんだタテジマのユニホーム姿で登場。その理由を明かした。【写真】ユニホームで引退会見に臨んだ阪神西勇",
+      "link": "https://news.yahoo.co.jp/articles/9523cf7da995e403ed515b8123d8fb275752576f?source=rss",
+      "pubDate": "2026-09-29T04:59:48.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "tigers"
+      ],
+      "topics": [
+        "retirement"
+      ],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/9523cf7da995e403ed515b8123d8fb275752576f?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【阪神】「ボロボロまで…」オリ岸田監督＆平野の教えも西勇輝が貫いた「元気な状態で」の美学(日刊スポーツ)",
+      "summary": "阪神西勇輝投手（35）が29日、兵庫・西宮市内で引退会見を行った。 オリックス時代から公私でお世話になっている先輩、オリックス岸田護監督（45）には事前に引退への思いを伝えていた。【写真】伏見寅威とハ",
+      "link": "https://news.yahoo.co.jp/articles/c3a2f8c1cd808a9d788bfd29cb937d5df4805ef1?source=rss",
+      "pubDate": "2026-09-29T04:52:45.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "tigers"
+      ],
+      "topics": [
+        "retirement"
+      ],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/c3a2f8c1cd808a9d788bfd29cb937d5df4805ef1?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【日本ハム】初球をガツン…“開幕4番”のユーティリティーが7号代打満塁弾 プロ初のグランドスラム",
+      "summary": "北海道日本ハムファイターズの郡司裕也は28日、ZOZOマリンスタジアムで行われた千葉ロッテマリーンズ戦の8回に代打として出場。今季7号となる満塁本塁打を放った。",
+      "link": "https://www.baseballchannel.jp/npb/292079/",
+      "pubDate": "2026-09-29T04:50:26.000Z",
+      "source": "ベースボールチャンネル（プロ野球）",
+      "sourceId": "baseballchannel-npb",
+      "teams": [
+        "fighters"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "ベースボールチャンネル（プロ野球）",
+          "sourceId": "baseballchannel-npb",
+          "link": "https://www.baseballchannel.jp/npb/292079/"
+        }
+      ]
+    },
+    {
+      "title": "元タイトルホルダーも…中日が計6選手に戦力外通告 入団3年目のドラ2内野手も対象",
+      "summary": "中日ドラゴンズは29日、福敬登投手、三浦瑞樹投手、土生翔太投手、尾田剛樹外野手、川上理偉内野手、津田啓史内野手の計6選手に対し、来季の契約を結ばないことを通告したと発表した。",
+      "link": "https://www.baseballchannel.jp/npb/292162/",
+      "pubDate": "2026-09-29T04:37:56.000Z",
+      "source": "ベースボールチャンネル（プロ野球）",
+      "sourceId": "baseballchannel-npb",
+      "teams": [
+        "dragons"
+      ],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "ベースボールチャンネル（プロ野球）",
+          "sourceId": "baseballchannel-npb",
+          "link": "https://www.baseballchannel.jp/npb/292162/"
+        }
+      ]
+    },
+    {
+      "title": "【中日】尾田剛樹、三浦瑞樹、福敬登、育成の川上理偉、津田啓史、土生翔太６選手に戦力外通告(日刊スポーツ)",
+      "summary": "中日は29日、次の6選手に対し、来季の選手契約を結ばないことを通知したと発表した。【見やすい一覧】６選手に戦力外通告…名鑑をチェック 福敬登投手（34） 三浦瑞樹投手（27） 尾田剛樹選手（26） 育",
+      "link": "https://news.yahoo.co.jp/articles/059e1dabb6312a72a9929b5ed71e1f5edcf6dc87?source=rss",
+      "pubDate": "2026-09-29T04:03:05.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "dragons"
+      ],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/059e1dabb6312a72a9929b5ed71e1f5edcf6dc87?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【ヤクルト】田口麗斗「本当に申し訳ない気持ち」戦力外通告受ける 現役続行希望(日刊スポーツ)",
+      "summary": "ヤクルトは29日、田口麗斗投手（31）に来季の契約を結ばないことを通告したと発表した。【一覧】田口麗斗が戦力外通告…名鑑をチェック 21年3月に交換トレードで巨人から移籍。21、22年のリーグ連覇に貢",
+      "link": "https://news.yahoo.co.jp/articles/70970746c22f3b436617ba3bcec601ff5fd668db?source=rss",
+      "pubDate": "2026-09-29T04:01:46.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "swallows"
+      ],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/70970746c22f3b436617ba3bcec601ff5fd668db?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【ロッテ】えげつない打球…“26歳大砲”が確信の33号 レイエス抜き単独2位浮上",
+      "summary": "千葉ロッテマリーンズの山口航輝は28日、ZOZOマリンスタジアムで行われた北海道日本ハムファイターズ戦に「2番・指名打者」でスタメン出場。9回の第4打席で、今季33号となる2ラン本塁打を放った。",
+      "link": "https://www.baseballchannel.jp/npb/292055/",
+      "pubDate": "2026-09-29T03:46:17.000Z",
+      "source": "ベースボールチャンネル（プロ野球）",
+      "sourceId": "baseballchannel-npb",
+      "teams": [
+        "marines"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "ベースボールチャンネル（プロ野球）",
+          "sourceId": "baseballchannel-npb",
+          "link": "https://www.baseballchannel.jp/npb/292055/"
+        }
+      ]
+    },
+    {
+      "title": "中日、福敬登ら6選手と来季の契約を結ばず…20年には最優秀中継ぎ投手のタイトル獲得",
+      "summary": "中日は29日、福敬登投手、三浦瑞樹投手、育成の土生翔太投手、尾田剛樹外野手、育成の川上理偉内野手、育成の津田啓史選手と来季の契約を結ばないことを通達したと発表した。 福は15年ドラフト4位で中日に入団し、1年目の16 […]",
+      "link": "https://baseballking.jp/ns/708337/",
+      "pubDate": "2026-09-29T03:41:09.000Z",
+      "source": "BASEBALL KING",
+      "sourceId": "baseballking",
+      "teams": [
+        "dragons"
+      ],
+      "topics": [
+        "draft"
+      ],
+      "sources": [
+        {
+          "name": "BASEBALL KING",
+          "sourceId": "baseballking",
+          "link": "https://baseballking.jp/ns/708337/"
+        }
+      ]
+    },
+    {
+      "title": "【西武】低空レーザーでホームイン阻止…24歳の“強肩外野手”が好返球披露",
+      "summary": "埼玉西武ライオンズの長谷川信哉は28日、ベルーナドームで行われた東北楽天ゴールデンイーグルス戦に「7番・中堅」でスタメン出場。2回の中堅守備で、好プレーを披露した。",
+      "link": "https://www.baseballchannel.jp/npb/292004/",
+      "pubDate": "2026-09-29T03:36:39.000Z",
+      "source": "ベースボールチャンネル（プロ野球）",
+      "sourceId": "baseballchannel-npb",
+      "teams": [
+        "lions"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "ベースボールチャンネル（プロ野球）",
+          "sourceId": "baseballchannel-npb",
+          "link": "https://www.baseballchannel.jp/npb/292004/"
+        }
+      ]
+    },
+    {
+      "title": "ヤクルト、田口、青柳ら6選手と来季の契約を結ばず",
+      "summary": "ヤクルトスワローズは29日、沼田翔平投手、田口麗斗投手、青柳晃洋投手、長谷川宙輝投手、山野辺翔内野手、育成の根岸辰昇内野手と来季の契約を結ばないことを通達したと発表した。 田口は13年ドラフト3位で巨人に入団し、16 […]",
+      "link": "https://baseballking.jp/ns/708344/",
+      "pubDate": "2026-09-29T03:19:37.000Z",
+      "source": "BASEBALL KING",
+      "sourceId": "baseballking",
+      "teams": [
+        "swallows"
+      ],
+      "topics": [
+        "draft"
+      ],
+      "sources": [
+        {
+          "name": "BASEBALL KING",
+          "sourceId": "baseballking",
+          "link": "https://baseballking.jp/ns/708344/"
+        }
+      ]
+    },
+    {
+      "title": "オリックス、シーモアの帰国を発表 打率.158、3本塁打、15打点",
+      "summary": "オリックスは29日、ボブ・シーモア選手が帰国したと発表した。 シーモアは今季加入し、42試合に出場して打率.158、3本塁打、15打点。5月6日のロッテ戦で放った安打を最後に13試合・41打席安打がなかった。 7月 […]",
+      "link": "https://baseballking.jp/ns/708342/",
+      "pubDate": "2026-09-29T03:12:44.000Z",
+      "source": "BASEBALL KING",
+      "sourceId": "baseballking",
+      "teams": [
+        "buffaloes"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "BASEBALL KING",
+          "sourceId": "baseballking",
+          "link": "https://baseballking.jp/ns/708342/"
+        }
+      ]
+    },
+    {
+      "title": "ヤクルト、青柳晃洋＆田口麗斗ら6選手を戦力外…球団発表 長谷川宙輝は今季1軍1登板",
+      "summary": "ヤクルトは29日、青柳晃洋投手に来季契約を結ばない旨を通知したと発表した。青柳は昨年7月にチームに加入も、今季は1軍での登板はなかった。",
+      "link": "https://full-count.jp/2026/09/29/post2023164/",
+      "pubDate": "2026-09-29T03:08:15.000Z",
+      "source": "Full-Count（プロ野球）",
+      "sourceId": "full-count-npb",
+      "teams": [
+        "swallows"
+      ],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "Full-Count（プロ野球）",
+          "sourceId": "full-count-npb",
+          "link": "https://full-count.jp/2026/09/29/post2023164/"
+        }
+      ]
+    },
+    {
+      "title": "【楽天】高卒3年目で戦力外…“21歳右腕”に届いた通告 今季は自己最多5試合登板",
+      "summary": "東北楽天ゴールデンイーグルスは28日、計6選手に対し、2027シーズンの選手契約を行わないことを発表した。その中には、2023年ドラフト3位で入団した21歳右腕・日當直喜投手の名前もあった。",
+      "link": "https://www.baseballchannel.jp/npb/292062/",
+      "pubDate": "2026-09-29T03:05:45.000Z",
+      "source": "ベースボールチャンネル（プロ野球）",
+      "sourceId": "baseballchannel-npb",
+      "teams": [
+        "eagles"
+      ],
+      "topics": [
+        "trade",
+        "draft"
+      ],
+      "sources": [
+        {
+          "name": "ベースボールチャンネル（プロ野球）",
+          "sourceId": "baseballchannel-npb",
+          "link": "https://www.baseballchannel.jp/npb/292062/"
+        }
+      ]
+    },
+    {
+      "title": "阪神タイガース×NTTドコモ親子で野球の楽しさを体験する「トライアルベースボールin 京都 Supported by NTTドコモ」を開催！",
+      "summary": "◆ 京都府出身の阪神タイガース球団OB片岡篤史氏、桧山進次郎氏のほか秋山拓巳BAも直接指導 NTTドコモは、2026年11月15日（日）に阪神タイガースとの共催で小学1・2年生の子供と保護者を対象とした無料の野球教室「 […]",
+      "link": "https://baseballking.jp/ns/708333/",
+      "pubDate": "2026-09-29T02:54:49.000Z",
+      "source": "BASEBALL KING",
+      "sourceId": "baseballking",
+      "teams": [
+        "tigers"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "BASEBALL KING",
+          "sourceId": "baseballking",
+          "link": "https://baseballking.jp/ns/708333/"
+        }
+      ]
+    },
+    {
+      "title": "日本ハム福島蓮がキャリアハイの6勝目 楽天・辰己涼介が1000試合出場…28日パ結果",
+      "summary": "パーソル パ・リーグ公式戦は28日に2試合が行われた。楽天は西武に4-2で勝利し、日本ハムはロッテに8-3で快勝した。",
+      "link": "https://full-count.jp/2026/09/29/post2023275/",
+      "pubDate": "2026-09-29T02:41:07.000Z",
+      "source": "Full-Count（プロ野球）",
+      "sourceId": "full-count-npb",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Full-Count（プロ野球）",
+          "sourceId": "full-count-npb",
+          "link": "https://full-count.jp/2026/09/29/post2023275/"
+        }
+      ]
+    },
+    {
+      "title": "古巣復帰から2年…楽天の“通算224登板右腕”が再び戦力外 今季一軍登板なし",
+      "summary": "東北楽天ゴールデンイーグルスは28日、計6選手に対し、2027シーズンの選手契約を行わないことを発表した。その中には、通算224試合に登板している今野龍太投手の名前もあった。",
+      "link": "https://www.baseballchannel.jp/npb/292032/",
+      "pubDate": "2026-09-29T02:33:03.000Z",
+      "source": "ベースボールチャンネル（プロ野球）",
+      "sourceId": "baseballchannel-npb",
+      "teams": [
+        "eagles"
+      ],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "ベースボールチャンネル（プロ野球）",
+          "sourceId": "baseballchannel-npb",
+          "link": "https://www.baseballchannel.jp/npb/292032/"
+        }
+      ]
+    },
+    {
+      "title": "侍ジャパン、コーチングスタッフ決定！倉野信次氏、河田雄祐氏らが入閣",
+      "summary": "NPBエンタープライズは29日、侍ジャパントップチームのコーチングスタッフ決定を発表した。 ▼ コーチングスタッフ 監督：背番号66 井口資仁 ヘッドコーチ兼打撃コーチ：背番号99 田口壮 投手コーチ：背番号40 大塚 […]",
+      "link": "https://baseballking.jp/ns/708329/",
+      "pubDate": "2026-09-29T02:13:21.000Z",
+      "source": "BASEBALL KING",
+      "sourceId": "baseballking",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "BASEBALL KING",
+          "sourceId": "baseballking",
+          "link": "https://baseballking.jp/ns/708329/"
+        }
+      ]
+    },
+    {
+      "title": "試合後の午後10時過ぎに発表…楽天が計6選手に戦力外通告 12球団で最速発表",
+      "summary": "東北楽天ゴールデンイーグルスは28日、酒居知史投手、日當直喜投手、林優樹投手、今野龍太投手の4選手に対し、2027シーズンの選手契約を行わない旨を通知したと発表した。酒居と林には育成選手契約を打診している。また、育成の松田啄磨投手、前田銀治…",
+      "link": "https://www.baseballchannel.jp/npb/291987/",
+      "pubDate": "2026-09-29T02:10:56.000Z",
+      "source": "ベースボールチャンネル（プロ野球）",
+      "sourceId": "baseballchannel-npb",
+      "teams": [
+        "eagles"
+      ],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "ベースボールチャンネル（プロ野球）",
+          "sourceId": "baseballchannel-npb",
+          "link": "https://www.baseballchannel.jp/npb/291987/"
+        }
+      ]
+    },
+    {
+      "title": "「普通に内野席に」好感度MAXの美人女優 引退試合に現地参戦「可愛すぎやろ」",
+      "summary": "27日にみずほPayPayドームで行われたソフトバンク-オリックス戦では、14年間ホークス一筋だった中村晃内野手の引退試合が開催された。熱狂と涙が渦巻いた本拠地球場の内野席で、超人気女優が観戦していたようだ。「普通にいるんですか笑」「可愛す…",
+      "link": "https://full-count.jp/2026/09/29/post2023188/",
+      "pubDate": "2026-09-29T00:13:37.000Z",
+      "source": "Full-Count（プロ野球）",
+      "sourceId": "full-count-npb",
+      "teams": [
+        "hawks"
+      ],
+      "topics": [
+        "retirement"
+      ],
+      "sources": [
+        {
+          "name": "Full-Count（プロ野球）",
+          "sourceId": "full-count-npb",
+          "link": "https://full-count.jp/2026/09/29/post2023188/"
+        }
+      ]
+    },
     {
       "title": "正念場の西武のアクシデント連発 エース左腕＆リリーフの柱が緊急降板…指揮官明かす現状",
       "summary": "パ・リーグ2位につけている西武に、アクシデントが連発。28日、本拠地ベルーナドームで行われた楽天戦に2-4で敗れた。西武は残り3試合で、残り1試合の3位・日本ハムとの差が0.5ゲーム差に縮まった。昨季までの3年連続5位以下から躍進し、4年ぶ…",
@@ -10,8 +938,7 @@
       "source": "Full-Count（プロ野球）",
       "sourceId": "full-count-npb",
       "teams": [
-        "lions",
-        "eagles"
+        "lions"
       ],
       "topics": [],
       "sources": [
@@ -43,11 +970,6 @@
           "name": "BASEBALL KING",
           "sourceId": "baseballking",
           "link": "https://baseballking.jp/ns/708309/"
-        },
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/2a1ade4d5178e9e45e64eaaf07fe01c2c4702b64?source=rss"
         }
       ]
     },
@@ -66491,419 +67413,6 @@
           "name": "日刊スポーツ（Yahoo!ニュース経由）",
           "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/263f669fed04c6989c97580da6e62b316f145396?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【日本ハム】カストロの本塁打性の打球はリプレー検証で二塁打 新庄監督リクエストも／ルール詳細(日刊スポーツ)",
-      "summary": "＜日本ハム－ロッテ＞◇30日◇エスコンフィールド 日本ハム・ロドルフォ・カストロ内野手（27）の本塁打性の打球を巡り、審判団の再チェック、さらに新庄剛志監督（54）のリプレー検証も重ねた結果、最終",
-      "link": "https://news.yahoo.co.jp/articles/c5a2eea10424bbdca651a4bf5e34b32ab94a2106?source=rss",
-      "pubDate": "2026-08-30T05:23:30.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "fighters"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/c5a2eea10424bbdca651a4bf5e34b32ab94a2106?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【ロッテ】佐藤都志也、栗山巧引退に「今度は僕が栗山さんのように影響を与えられる選手に」(日刊スポーツ)",
-      "summary": "憧れの背中を追い続けてきた。ロッテ佐藤都志也捕手（28）にとって、西武栗山巧外野手（42）は「目指していた選手像のひとり」だった。 きっかけは大学時代。埼玉県内の大学寮で暮らしていた佐藤は、たま",
-      "link": "https://news.yahoo.co.jp/articles/a3954333a9ec199fe34b6be8b76846a211723f69?source=rss",
-      "pubDate": "2026-08-30T05:21:52.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "marines"
-      ],
-      "topics": [
-        "retirement"
-      ],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/a3954333a9ec199fe34b6be8b76846a211723f69?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【ロッテ】アキレス腱断裂の種市篤暉がブルペンで立ち投げ再開「段階踏んで練習が出来ている」(日刊スポーツ)",
-      "summary": "ロッテ種市篤暉投手（27）が立ち投げ投球を再開した。 ロッテの広報室公式Xが30日、種市がロッテ浦和球場のブルペンで投球する様子を公開した。「15球を投げ、本日の目標にある通り『無事投げ終える』",
-      "link": "https://news.yahoo.co.jp/articles/65984cd39867bbfd50a13dc234f664537c5b3cba?source=rss",
-      "pubDate": "2026-08-30T05:02:08.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "marines"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/65984cd39867bbfd50a13dc234f664537c5b3cba?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【広島】大瀬良大地が１軍合流、２軍で最速153キロ計測したチーム最年長投手はブルペン待機か(日刊スポーツ)",
-      "summary": "＜広島－ヤクルト＞◇30日◇マツダスタジアム 広島投手最年長の大瀬良大地投手（35）が、1軍に合流した。5月4日以来の出場選手登録が見込まれ、中継ぎ待機するとみられる。 大瀬良は今季1軍では2",
-      "link": "https://news.yahoo.co.jp/articles/75e1b38c553cf9f93ca27e736e48b364b150fed7?source=rss",
-      "pubDate": "2026-08-30T04:49:59.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "carp"
-      ],
-      "topics": [
-        "roster"
-      ],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/75e1b38c553cf9f93ca27e736e48b364b150fed7?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【西武】田辺徳雄３軍野手コーチ「こっちが参ったというぐらい練習を」／引退栗山巧へメッセージ(日刊スポーツ)",
-      "summary": "西武栗山巧外野手（42）が30日、都内のホテルで引退会見に臨んだ。会場の終盤には田辺徳雄3軍野手コーチ（60）がサプライズ登場。栗山に惜別のメッセージを送った。 田辺コーチの栗山へのメッセージ全",
-      "link": "https://news.yahoo.co.jp/articles/19b74995a4b22bf6fdc569ca6414602e629658ab?source=rss",
-      "pubDate": "2026-08-30T04:42:49.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "lions"
-      ],
-      "topics": [
-        "retirement"
-      ],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/19b74995a4b22bf6fdc569ca6414602e629658ab?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【西武】渡辺久信氏「朝から晩まで努力」「チーム鼓舞してくれる選手」／引退栗山巧へメッセ－ジ(日刊スポーツ)",
-      "summary": "西武栗山巧外野手（42）が30日、都内のホテルで引退会見に臨んだ。会場の終盤には渡辺久信氏（61＝日刊スポーツ客員評論家）がサプライズ登場。栗山に惜別のメッセージを送った。渡辺氏の栗山へのメッセージ",
-      "link": "https://news.yahoo.co.jp/articles/6f6c0f3616fcf52ed912d083c5b6c389574b7f79?source=rss",
-      "pubDate": "2026-08-30T04:40:19.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "lions"
-      ],
-      "topics": [
-        "retirement"
-      ],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/6f6c0f3616fcf52ed912d083c5b6c389574b7f79?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【巨人】前日２ラン＆３打点の中田歩夢が「２番・二塁」 先発は育成左腕・森本哲星…３軍早大戦スタメン(スポーツ報知)",
-      "summary": "◆プロ・アマ交流戦 巨人３軍―早大（３０日・ジャイアンツ球場） 巨人３軍は３０日、東京六大学の早大と試合を行う。 先発は育成・森本哲星投手。高卒４年目の左腕が快投を狙う。 前日２９日の３軍",
-      "link": "https://news.yahoo.co.jp/articles/5c4a02217abf9427d86940ddc79215b779e24bdd?source=rss",
-      "pubDate": "2026-08-30T01:15:05.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "giants"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/5c4a02217abf9427d86940ddc79215b779e24bdd?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【西武】渡辺久信氏、引退の栗山巧に「朝から晩まで努力している姿」「本当に唯一無二の選手」とねぎらう…引退会見にサプライズ登場(スポーツ報知)",
-      "summary": "西武一筋２５年の栗山巧外野手が３０日、都内で引退会見に臨んだ。会見後には球団ＯＢで元監督の渡辺久信氏、田辺徳雄３軍コーチがサプライズで登場し、花束贈呈を行った。まな弟子ともいうべき球団のレジェンド選",
-      "link": "https://news.yahoo.co.jp/articles/3522134b2f54df46cadca596f45fd34eef494562?source=rss",
-      "pubDate": "2026-08-30T01:14:34.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "lions"
-      ],
-      "topics": [
-        "retirement"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/3522134b2f54df46cadca596f45fd34eef494562?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【西武】渡辺久信氏「同じ時間を共有し、同じ空間にいれたことは誇り」栗山巧に惜別メッセージ(日刊スポーツ)",
-      "summary": "西武栗山巧外野手（42）が30日、都内のホテルで引退会見に臨んだ。プロ25年間で通算2151安打。西武一筋の“ミスターレオ”が自らの言葉で思いを口にした。 会見の終盤には、渡辺久信氏（61＝日刊",
-      "link": "https://news.yahoo.co.jp/articles/1f975f21979500b4287e3ccf6418aa1240557272?source=rss",
-      "pubDate": "2026-08-30T01:02:07.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "lions"
-      ],
-      "topics": [
-        "retirement"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/1f975f21979500b4287e3ccf6418aa1240557272?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "落合博満氏「将来的にエースになれる素材」横浜・織田翔希を高評価「ドラフト１位でなければ…」(日刊スポーツ)",
-      "summary": "元中日監督の落合博満氏（72）と元DeNA監督で、巨人OB会長の中畑清氏（72）が30日、TBS系テレビ「サンデーモーニング」にご意見番として出演。プロ注目の横浜（神奈川）・織田翔希投手（3年）など",
-      "link": "https://news.yahoo.co.jp/articles/216096ddd877a05196b419e9b5ae0ee5dc478bdd?source=rss",
-      "pubDate": "2026-08-30T00:54:49.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "baystars"
-      ],
-      "topics": [
-        "draft"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/216096ddd877a05196b419e9b5ae0ee5dc478bdd?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【西武】栗山巧の引退会見に渡辺久信氏＆田辺徳雄３軍野手コーチがサプライズ登場 花束渡す(日刊スポーツ)",
-      "summary": "西武栗山巧外野手（42）が30日、都内のホテルで引退会見に臨んだ。プロ25年間で通算2151安打。西武一筋の“ミスターレオ”が自らの言葉で思いを口にした。 会見の終盤には、渡辺久信氏（61＝日刊",
-      "link": "https://news.yahoo.co.jp/articles/8f621c045fe5edf4f59396007c0d9d1d789a88ed?source=rss",
-      "pubDate": "2026-08-30T00:50:55.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "lions"
-      ],
-      "topics": [
-        "retirement"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/8f621c045fe5edf4f59396007c0d9d1d789a88ed?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "中畑清氏、巨人に苦言「試合内容が悪すぎる」阪神森下翔太への死球は「気持ちの弱さ…」(日刊スポーツ)",
-      "summary": "元中日監督の落合博満氏（72）と元DeNA監督で、巨人OB会長の中畑清氏（72）が30日、TBS系テレビ「サンデーモーニング」にご意見番として出演。阪神、巨人のセ・リーグ優勝争いについてなど語った。",
-      "link": "https://news.yahoo.co.jp/articles/037f481f0e6606fc0d5f9ee739e0fde7b7f575c8?source=rss",
-      "pubDate": "2026-08-30T00:36:58.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "giants",
-        "tigers"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/037f481f0e6606fc0d5f9ee739e0fde7b7f575c8?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【西武】栗山巧「甲斐野は喜んでました。『（背番号）１番つけられる』と」会場を笑わせる(日刊スポーツ)",
-      "summary": "西武栗山巧外野手（42）が30日、都内のホテルで引退会見に臨んだ。プロ25年間で通算2151安打。西武一筋の“ミスターレオ”。自らの言葉で思いを口にした。 この日の17時開始予定の楽天戦（ベルー",
-      "link": "https://news.yahoo.co.jp/articles/fa75cdedfce12919c6b76d2858db1cdac0213f8d?source=rss",
-      "pubDate": "2026-08-30T00:35:41.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "lions"
-      ],
-      "topics": [
-        "retirement"
-      ],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/fa75cdedfce12919c6b76d2858db1cdac0213f8d?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【西武】栗山巧「明日以降のことは考えていない。今日のことだけ」“ミスターレオ”が引退試合へ(日刊スポーツ)",
-      "summary": "西武栗山巧外野手（42）が30日、都内のホテルで引退会見に臨んだ。プロ25年間で通算2151安打。西武一筋の“ミスターレオ”。自らの言葉で思いを口にした。 この日の17時開始予定の楽天戦（ベルー",
-      "link": "https://news.yahoo.co.jp/articles/60ada2e7d2d8d7c83fb2f2bc83a263b1dd03ec0e?source=rss",
-      "pubDate": "2026-08-30T00:34:24.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "lions"
-      ],
-      "topics": [
-        "retirement"
-      ],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/60ada2e7d2d8d7c83fb2f2bc83a263b1dd03ec0e?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "西武・栗山巧は「唯一無二の選手」、渡辺久信氏が引退会見にサプライズ登場 元指揮官が伝えた感謝",
-      "summary": "西武の栗山巧外野手が30日、東京都内で引退会見を行った。会見終盤には、元監督でGMも務めた渡辺久信氏がサプライズ登場。今季限りでユニホームを脱ぐ栗山に「25年間にわたり、本当にご苦労さまでした。ついにこの日がきたな、という思いです」とメッセ…",
-      "link": "https://full-count.jp/2026/08/30/post2009685/",
-      "pubDate": "2026-08-30T00:31:42.000Z",
-      "source": "Full-Count（プロ野球）",
-      "sourceId": "full-count-npb",
-      "teams": [
-        "lions"
-      ],
-      "topics": [
-        "retirement"
-      ],
-      "sources": [
-        {
-          "name": "Full-Count（プロ野球）",
-          "sourceId": "full-count-npb",
-          "link": "https://full-count.jp/2026/08/30/post2009685/"
-        }
-      ]
-    },
-    {
-      "title": "【西武】栗山巧の現役時代のベストプレーは「今日打つヒットになると思う」引退試合での安打を約束(日刊スポーツ)",
-      "summary": "西武栗山巧外野手（42）が30日、都内のホテルで引退会見に臨んだ。プロ25年間で通算2151安打。西武一筋の“ミスターレオ”。自らの言葉で思いを口にした。 報道陣から「現役時代のベストプレー」を",
-      "link": "https://news.yahoo.co.jp/articles/816f3ed918683ce07348ddbb8f6cbe5538835e1e?source=rss",
-      "pubDate": "2026-08-30T00:31:36.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "lions"
-      ],
-      "topics": [
-        "retirement"
-      ],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/816f3ed918683ce07348ddbb8f6cbe5538835e1e?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【西武】栗山巧が引退会見「まだ実感が湧かない」 印象に残るプレーは「今日打つ安打だと思う」",
-      "summary": "今季限りでの現役引退を表明している埼玉西武ライオンズの栗山巧外野手が30日、都内のホテルで引退会見を行った。",
-      "link": "https://www.baseballchannel.jp/npb/286845/",
-      "pubDate": "2026-08-30T00:30:15.000Z",
-      "source": "ベースボールチャンネル（プロ野球）",
-      "sourceId": "baseballchannel-npb",
-      "teams": [
-        "lions"
-      ],
-      "topics": [
-        "retirement"
-      ],
-      "sources": [
-        {
-          "name": "ベースボールチャンネル（プロ野球）",
-          "sourceId": "baseballchannel-npb",
-          "link": "https://www.baseballchannel.jp/npb/286845/"
-        }
-      ]
-    },
-    {
-      "title": "【西武】栗山巧「ユニホームを脱ぐという決意をしたことを報告したい」スーツ姿でファンに挨拶(日刊スポーツ)",
-      "summary": "西武栗山巧外野手（42）が30日、都内のホテルで引退会見に臨んだ。プロ25年間で通算2151安打。西武一筋の“ミスターレオ”。スーツ姿で登場し、開口一番「本日はお集まりいただきましてありがとうござい",
-      "link": "https://news.yahoo.co.jp/articles/e04c37377901f1fff04561df6e95c934463f1e59?source=rss",
-      "pubDate": "2026-08-30T00:21:07.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "lions"
-      ],
-      "topics": [
-        "retirement"
-      ],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/e04c37377901f1fff04561df6e95c934463f1e59?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "西武・栗山巧が引退会見「実感がわかない」…630人のファン同席 中村剛也に感謝「特別なチームメート」",
-      "summary": "西武の栗山巧外野手が30日、東京都内で引退会見に臨んだ。ライオンズ一筋25年、生え抜き選手として歴代最多の2151安打を記録した誇り高きバットマンが、引退への胸中を明かした。この日、本拠地で行われる楽天戦が引退試合となる。",
-      "link": "https://full-count.jp/2026/08/30/post2009679/",
-      "pubDate": "2026-08-30T00:01:34.000Z",
-      "source": "Full-Count（プロ野球）",
-      "sourceId": "full-count-npb",
-      "teams": [
-        "lions"
-      ],
-      "topics": [
-        "retirement"
-      ],
-      "sources": [
-        {
-          "name": "Full-Count（プロ野球）",
-          "sourceId": "full-count-npb",
-          "link": "https://full-count.jp/2026/08/30/post2009679/"
-        }
-      ]
-    },
-    {
-      "title": "【西武】栗山巧が引退会見に臨む 通算2151安打の“ミスターレオ”が自らの言葉で思いを口に(日刊スポーツ)",
-      "summary": "西武栗山巧外野手（42）が30日、都内のホテルで引退会見に臨んだ。プロ25年間で通算2151安打。西武一筋の“ミスターレオ”が自らの言葉で思いを口にした。 この日の17時開始予定の楽天戦（ベルー",
-      "link": "https://news.yahoo.co.jp/articles/3362b0c8dfa4b8c09dfae1da152084ba32132e73?source=rss",
-      "pubDate": "2026-08-30T00:01:13.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "lions"
-      ],
-      "topics": [
-        "retirement"
-      ],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/3362b0c8dfa4b8c09dfae1da152084ba32132e73?source=rss"
         }
       ]
     }
