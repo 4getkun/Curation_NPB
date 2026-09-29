@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-29T11:40:32.364Z",
+  "generatedAt": "2026-09-29T17:07:16.432Z",
   "teams": {
     "giants": [
       {
@@ -1219,6 +1219,21 @@
     ],
     "marines": [
       {
+        "gameNumber": 136,
+        "date": "9月29日",
+        "opponentTeamId": "eagles",
+        "opponentText": "楽天",
+        "score": "6-3",
+        "ownScore": 6,
+        "opponentScore": 3,
+        "result": "win",
+        "winningPitcher": "吉川（1-2）",
+        "losingPitcher": "伊藤樹（2-1）",
+        "savePitcher": "横山（2-3-34）",
+        "venue": "楽天モバイル",
+        "record": "61-72-3"
+      },
+      {
         "gameNumber": 135,
         "date": "9月28日",
         "opponentTeamId": "fighters",
@@ -1347,29 +1362,29 @@
         "ownScore": 0,
         "opponentScore": 4,
         "result": "loss",
-        "winningPitcher": "荘司（8-9）",
+        "winningPitcher": "",
         "losingPitcher": "毛利（3-6）",
         "savePitcher": "",
         "venue": "ZOZOマリン",
         "record": "58-66-3"
-      },
-      {
-        "gameNumber": 126,
-        "date": "9月15日",
-        "opponentTeamId": "fighters",
-        "opponentText": "日本ハム",
-        "score": "7-6",
-        "ownScore": 7,
-        "opponentScore": 6,
-        "result": "win",
-        "winningPitcher": "中森（6-1-1）",
-        "losingPitcher": "",
-        "savePitcher": "横山（2-2-33）",
-        "venue": "エスコンF",
-        "record": "58-65-3"
       }
     ],
     "eagles": [
+      {
+        "gameNumber": 138,
+        "date": "9月29日",
+        "opponentTeamId": "marines",
+        "opponentText": "ロッテ",
+        "score": "3-6",
+        "ownScore": 3,
+        "opponentScore": 6,
+        "result": "loss",
+        "winningPitcher": "吉川（1-2）",
+        "losingPitcher": "伊藤樹（2-1）",
+        "savePitcher": "横山（2-3-34）",
+        "venue": "楽天モバイル",
+        "record": "55-82-1"
+      },
       {
         "gameNumber": 137,
         "date": "9月28日",
@@ -1504,21 +1519,6 @@
         "savePitcher": "藤平（0-2-25）",
         "venue": "ZOZOマリン",
         "record": "50-78-1"
-      },
-      {
-        "gameNumber": 128,
-        "date": "9月16日",
-        "opponentTeamId": "marines",
-        "opponentText": "ロッテ",
-        "score": "4-0",
-        "ownScore": 4,
-        "opponentScore": 0,
-        "result": "win",
-        "winningPitcher": "荘司（8-9）",
-        "losingPitcher": "毛利（3-6）",
-        "savePitcher": "",
-        "venue": "ZOZOマリン",
-        "record": "49-78-1"
       }
     ],
     "buffaloes": [
@@ -1535,7 +1535,7 @@
         "losingPitcher": "東松（1-1）",
         "savePitcher": "甲斐野（2-2-23）",
         "venue": "ベルーナドーム",
-        "record": "65-75-3"
+        "record": "65-75-2"
       },
       {
         "gameNumber": 141,
@@ -1550,7 +1550,7 @@
         "losingPitcher": "髙島（7-6）",
         "savePitcher": "",
         "venue": "みずほPayPay",
-        "record": "65-74-3"
+        "record": "65-74-2"
       },
       {
         "gameNumber": 140,
@@ -1565,7 +1565,7 @@
         "losingPitcher": "エスピノーザ（13-6）",
         "savePitcher": "柳川（4-1-29）",
         "venue": "京セラD大阪",
-        "record": "65-73-3"
+        "record": "65-73-2"
       },
       {
         "gameNumber": 139,
@@ -1580,7 +1580,7 @@
         "losingPitcher": "陳（0-1）",
         "savePitcher": "",
         "venue": "京セラD大阪",
-        "record": "65-72-3"
+        "record": "65-72-2"
       },
       {
         "gameNumber": 138,
@@ -1595,7 +1595,7 @@
         "losingPitcher": "鈴木（6-3-1）",
         "savePitcher": "マチャド（3-1-35）",
         "venue": "ZOZOマリン",
-        "record": "65-71-3"
+        "record": "65-71-2"
       },
       {
         "gameNumber": 137,
@@ -1610,7 +1610,7 @@
         "losingPitcher": "八木（9-1）",
         "savePitcher": "マチャド（3-1-34）",
         "venue": "ZOZOマリン",
-        "record": "64-71-3"
+        "record": "64-71-2"
       },
       {
         "gameNumber": 136,
@@ -1625,7 +1625,7 @@
         "losingPitcher": "山岡（0-1-1）",
         "savePitcher": "柳川（4-1-27）",
         "venue": "エスコンF",
-        "record": "63-71-3"
+        "record": "63-71-2"
       },
       {
         "gameNumber": 135,
@@ -1640,7 +1640,7 @@
         "losingPitcher": "有原（7-8）",
         "savePitcher": "マチャド（3-1-33）",
         "venue": "エスコンF",
-        "record": "63-70-3"
+        "record": "63-70-2"
       },
       {
         "gameNumber": 134,
@@ -1655,7 +1655,7 @@
         "losingPitcher": "伊藤（9-10）",
         "savePitcher": "マチャド（3-1-32）",
         "venue": "エスコンF",
-        "record": "62-70-3"
+        "record": "62-70-2"
       },
       {
         "gameNumber": 133,
@@ -1670,7 +1670,7 @@
         "losingPitcher": "曽谷（5-8）",
         "savePitcher": "",
         "venue": "京セラD大阪",
-        "record": "61-70-3"
+        "record": "61-70-2"
       }
     ],
     "fighters": [
