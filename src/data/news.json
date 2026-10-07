@@ -1,7 +1,107 @@
 {
-  "generatedAt": "2026-10-07T09:27:04.657Z",
-  "count": 3470,
+  "generatedAt": "2026-10-07T16:43:54.824Z",
+  "count": 3465,
   "items": [
+    {
+      "title": "【新日本】YOHが３度目防衛も試合後ロビー・イーグルスに足極められイヤイヤ次期挑戦OK(日刊スポーツ)",
+      "summary": "＜新日本プロレス：後楽園大会「Road to KING OF PRO－WRESTLING 2026」＞◇7日◇東京・後楽園ホール◇観衆1014人【写真】ロビー・イーグルスに足を極められ、無理やり挑戦を",
+      "link": "https://news.yahoo.co.jp/articles/8d581cbd29cfc020b5900c4985c0d9c0891ffb68?source=rss",
+      "pubDate": "2026-10-07T13:37:36.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "eagles"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/8d581cbd29cfc020b5900c4985c0d9c0891ffb68?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "待っていた通告…ロッテが菊地ら3選手を戦力外 元DeNAの国吉が現役引退…7日の去就",
+      "summary": "2026年シーズンの全日程を終える球団が増えるなか、7日も各球団で戦力外通告が行われた。ロッテはドラフト1位入団の右腕など3選手に通告。オイシックス新潟は4選手の現役引退と9選手の退団を発表した。",
+      "link": "https://full-count.jp/2026/10/07/post2027766/",
+      "pubDate": "2026-10-07T10:42:01.000Z",
+      "source": "Full-Count（プロ野球）",
+      "sourceId": "full-count-npb",
+      "teams": [
+        "marines",
+        "baystars"
+      ],
+      "topics": [
+        "trade",
+        "draft",
+        "retirement"
+      ],
+      "sources": [
+        {
+          "name": "Full-Count（プロ野球）",
+          "sourceId": "full-count-npb",
+          "link": "https://full-count.jp/2026/10/07/post2027766/"
+        }
+      ]
+    },
+    {
+      "title": "CS直前の発表に「マジか!?」 無念の帰国…防御率1.57右腕不在で「こりゃキツイな」",
+      "summary": "埼玉西武ライオンズは7日、トレイ・ウィンゲンター投手が帰国したことを発表した。右肘の炎症により今季中の復帰を断念。10日に開幕するクライマックスシリーズを前に、ブルペンを支えてきた助っ人右腕を欠くことになった。",
+      "link": "https://www.baseballchannel.jp/npb/294278/",
+      "pubDate": "2026-10-07T10:13:33.000Z",
+      "source": "ベースボールチャンネル（プロ野球）",
+      "sourceId": "baseballchannel-npb",
+      "teams": [
+        "lions"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "ベースボールチャンネル（プロ野球）",
+          "sourceId": "baseballchannel-npb",
+          "link": "https://www.baseballchannel.jp/npb/294278/"
+        }
+      ]
+    },
+    {
+      "title": "中日助っ人の“無意識の日本愛”が「使い方上手すぎ」 来日1年でも余裕「馴染んでくれてる」",
+      "summary": "中日のミゲル・サノー内野手がさらりと披露した“日本式”に、注目が集まっている。来日1年目のシーズンを終え、4日に母国・ドミニカ共和国へ帰国。フライト前の空港では、日本愛溢れる“無意識の所作”。ファンからは「仕事疲れたけどコレ見て笑顔になれた…",
+      "link": "https://full-count.jp/2026/10/07/post2027249/",
+      "pubDate": "2026-10-07T10:03:11.000Z",
+      "source": "Full-Count（プロ野球）",
+      "sourceId": "full-count-npb",
+      "teams": [
+        "dragons"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Full-Count（プロ野球）",
+          "sourceId": "full-count-npb",
+          "link": "https://full-count.jp/2026/10/07/post2027249/"
+        }
+      ]
+    },
+    {
+      "title": "西武に大打撃…防御率1.57の“剛腕”が無念の帰国 CS出場かなわず",
+      "summary": "埼玉西武ライオンズは7日、トレイ・ウィンゲンター投手が同日に帰国したと発表した。肘の炎症の影響により、今季中の復帰を断念した。",
+      "link": "https://www.baseballchannel.jp/npb/294265/",
+      "pubDate": "2026-10-07T09:45:22.000Z",
+      "source": "ベースボールチャンネル（プロ野球）",
+      "sourceId": "baseballchannel-npb",
+      "teams": [
+        "lions"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "ベースボールチャンネル（プロ野球）",
+          "sourceId": "baseballchannel-npb",
+          "link": "https://www.baseballchannel.jp/npb/294265/"
+        }
+      ]
+    },
     {
       "title": "【DeNA】松尾汐恩「本当にいいスイングができた」CSへ向けた練習試合で代打本塁打(日刊スポーツ)",
       "summary": "＜練習試合：DeNA2－1ホンダ＞◇7日◇横浜スタジアム DeNAは7日、横浜スタジアムで社会人のホンダと6イニング制で練習試合を行い、2－1で勝利した。1点を先制された直後の4回に代打で出た松尾汐恩",
@@ -67515,196 +67615,6 @@
           "name": "日刊スポーツ（Yahoo!ニュース経由）",
           "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/85ef290c67c4a47715d1b333b5bae5f898ea853c?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "来季はどうなる…？中日、去就が不透明な外国人選手（5）移籍の可能性もある！？出番に恵まれない29歳(ベースボールチャンネル)",
-      "summary": "プロ野球の世界では、「助っ人」と呼ばれる外国人選手の働きが、チームの順位やシーズンの行方を大きく左右する。期待通りの活躍を見せる選手がいる一方で、成績や起用法などによって去就が注目されるケースも少な",
-      "link": "https://news.yahoo.co.jp/articles/06ca74405ec9848427a1d09845fc2eac4a000a7a?source=rss",
-      "pubDate": "2026-09-07T12:02:08.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "dragons"
-      ],
-      "topics": [
-        "trade"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/06ca74405ec9848427a1d09845fc2eac4a000a7a?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "レギュラー格がまさか…出場機会が激減している主力選手（4）中日の“先発ローテ”だったが…今季はたった3登板(ベースボールチャンネル)",
-      "summary": "2026年のプロ野球は、いよいよレギュラーシーズンの大詰めを迎えている。今季も各球団で若手選手の台頭が目立った。その一方で、出番を失った選手も少なからず存在する。そこで今回は、今季出場機会を大きく減",
-      "link": "https://news.yahoo.co.jp/articles/c512c4474fa4b35a2e3af30134d5c650acb7cdd3?source=rss",
-      "pubDate": "2026-09-07T11:50:28.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "dragons"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/c512c4474fa4b35a2e3af30134d5c650acb7cdd3?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【巨人】戸郷翔征、小笠原慎之介の完封に「奮起するところある」「１回でも長く投げる」チーム４連勝へ８日・中日戦で先陣(スポーツ報知)",
-      "summary": "巨人・戸郷翔征投手（２６）が７日、ジャイアンツ球場で先発練習に参加。５勝目を懸けて登板予定の８日・中日戦（東京ドーム）に向け、投げ込みなどで最終調整した。首位・阪神とは２・５ゲーム差まで接近。「チー",
-      "link": "https://news.yahoo.co.jp/articles/3e61e41126e4c98baa718f01ed2375ee58416de7?source=rss",
-      "pubDate": "2026-09-07T11:32:02.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "giants"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/3e61e41126e4c98baa718f01ed2375ee58416de7?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "優勝候補・京都産業大は8強敗退「隙が出てしまった」リーグ優勝、そして横浜FMと戦う天皇杯へ気持ち新た(ゲキサカ)",
-      "summary": "[9.6 総理大臣杯準々決勝 京都産業大0-1東海学園大 女川町総合運動場 第二多目的運動場] 優勝候補がベスト8で姿を消した。6日に行われた準々決勝で、京都産業大(関西1)は東海学園大に0-1で",
-      "link": "https://news.yahoo.co.jp/articles/87d2a82ad57e973e87be3380810385581a30be99?source=rss",
-      "pubDate": "2026-09-07T11:28:02.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "baystars"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/87d2a82ad57e973e87be3380810385581a30be99?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "NPBと12球団の実行委員会、ピッチクロック導入「なるべく早く」早ければ28年スタート目指す(日刊スポーツ)",
-      "summary": "日本野球機構（NPB）とプロ野球12球団は7日、都内で実行委員会を開催した。導入が決まっているピッチクロックについて、中村事務局長は「なるべく早くと思っています」と早ければロス五輪が開催される28年",
-      "link": "https://news.yahoo.co.jp/articles/772c44d70e2d91eb79296b55f2b14575a0726aa5?source=rss",
-      "pubDate": "2026-09-07T10:52:23.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/772c44d70e2d91eb79296b55f2b14575a0726aa5?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【日本ハム】“負けない男”山崎福也「投げやすさがある」好印象の敵地で８日ソフトバンク戦先発(日刊スポーツ)",
-      "summary": "日本ハム山崎福也投手（33）が、8日に敵地みずほペイペイドームで行われるソフトバンク戦に先発する。福岡での先発は今季初も、昨季までリーグ戦先発では3年連続で負けがついていない。「マウンドの高さも含め",
-      "link": "https://news.yahoo.co.jp/articles/ba67919d0897d2111a52621bf3c7d9c8a9905f15?source=rss",
-      "pubDate": "2026-09-07T10:26:23.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "fighters"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/ba67919d0897d2111a52621bf3c7d9c8a9905f15?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【阪神】前日に3回途中KO…通算47勝の“技巧派左腕”を登録抹消",
-      "summary": "7日のプロ野球公示で、阪神タイガースは大竹耕太郎投手を一軍登録から抹消した。",
-      "link": "https://www.baseballchannel.jp/npb/288200/",
-      "pubDate": "2026-09-07T10:08:30.000Z",
-      "source": "ベースボールチャンネル（プロ野球）",
-      "sourceId": "baseballchannel-npb",
-      "teams": [],
-      "topics": [
-        "roster"
-      ],
-      "sources": [
-        {
-          "name": "ベースボールチャンネル（プロ野球）",
-          "sourceId": "baseballchannel-npb",
-          "link": "https://www.baseballchannel.jp/npb/288200/"
-        }
-      ]
-    },
-    {
-      "title": "【DeNA】ヒュンメルが神奈川県立こども医療センターを訪問 入院中の子どもたちと交流(日刊スポーツ)",
-      "summary": "DeNAクーパー・ヒュンメル外野手（31）が7日、社会貢献活動プロジェクト「BAY BLUE BATON PROJECT」の一環として、神奈川県立こども医療センターを訪問した。病棟を回り、入院中の子",
-      "link": "https://news.yahoo.co.jp/articles/79d54887d71f645772f5ee563dcf6048ad06c295?source=rss",
-      "pubDate": "2026-09-07T09:45:50.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "baystars"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/79d54887d71f645772f5ee563dcf6048ad06c295?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【ロッテ】田中晴也８日楽天戦先発「しっかり反省して準備」前回６回４失点 リベンジへ意気込み(日刊スポーツ)",
-      "summary": "8日の楽天戦（ZOZOマリン）に登板するロッテ田中晴也投手（22）が意気込みを語った。前回8月30日の日本ハム戦では6回4失点。「前回登板からしっかり反省をして準備、練習してきたものを明日は初回から",
-      "link": "https://news.yahoo.co.jp/articles/46f056665e26cff0ef6b6cc4dd8f97980e51c602?source=rss",
-      "pubDate": "2026-09-07T09:45:19.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "marines"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/46f056665e26cff0ef6b6cc4dd8f97980e51c602?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【ソフトバンク】今季30試合で打率.232…“大卒3年目内野手”を登録抹消",
-      "summary": "7日のプロ野球公示で、福岡ソフトバンクホークスは廣瀨隆太内野手を一軍登録から抹消した。",
-      "link": "https://www.baseballchannel.jp/npb/288173/",
-      "pubDate": "2026-09-07T09:32:27.000Z",
-      "source": "ベースボールチャンネル（プロ野球）",
-      "sourceId": "baseballchannel-npb",
-      "teams": [],
-      "topics": [
-        "roster"
-      ],
-      "sources": [
-        {
-          "name": "ベースボールチャンネル（プロ野球）",
-          "sourceId": "baseballchannel-npb",
-          "link": "https://www.baseballchannel.jp/npb/288173/"
         }
       ]
     }
