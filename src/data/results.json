@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-08T07:35:59.378Z",
+  "generatedAt": "2026-10-08T15:00:05.619Z",
   "teams": {
     "giants": [
       {
@@ -147,13 +147,28 @@
         "opponentScore": 2,
         "result": "win",
         "winningPitcher": "中川（3-1）",
-        "losingPitcher": "阪口（0-1）",
+        "losingPitcher": "",
         "savePitcher": "マルティネス（5-4-40）",
         "venue": "東京ドーム",
         "record": "73-59-2"
       }
     ],
     "tigers": [
+      {
+        "gameNumber": 143,
+        "date": "10月8日",
+        "opponentTeamId": "swallows",
+        "opponentText": "ヤクルト",
+        "score": "0-4",
+        "ownScore": 0,
+        "opponentScore": 4,
+        "result": "loss",
+        "winningPitcher": "中村優（1-0）",
+        "losingPitcher": "ルーカス（1-3）",
+        "savePitcher": "",
+        "venue": "甲子園",
+        "record": "79-62-2"
+      },
       {
         "gameNumber": 142,
         "date": "10月7日",
@@ -288,21 +303,6 @@
         "savePitcher": "",
         "venue": "神宮",
         "record": "75-58-1"
-      },
-      {
-        "gameNumber": 133,
-        "date": "9月22日",
-        "opponentTeamId": "swallows",
-        "opponentText": "ヤクルト",
-        "score": "9-7",
-        "ownScore": 9,
-        "opponentScore": 7,
-        "result": "win",
-        "winningPitcher": "セベリーノ（1-0）",
-        "losingPitcher": "清水（2-4-5）",
-        "savePitcher": "工藤（3-0-11）",
-        "venue": "神宮",
-        "record": "74-58-1"
       }
     ],
     "carp": [
@@ -611,6 +611,21 @@
     ],
     "swallows": [
       {
+        "gameNumber": 143,
+        "date": "10月8日",
+        "opponentTeamId": "tigers",
+        "opponentText": "阪神",
+        "score": "4-0",
+        "ownScore": 4,
+        "opponentScore": 0,
+        "result": "win",
+        "winningPitcher": "中村優（1-0）",
+        "losingPitcher": "ルーカス（1-3）",
+        "savePitcher": "",
+        "venue": "甲子園",
+        "record": "61-80-2"
+      },
+      {
         "gameNumber": 142,
         "date": "10月4日",
         "opponentTeamId": "carp",
@@ -739,26 +754,11 @@
         "ownScore": 7,
         "opponentScore": 9,
         "result": "loss",
-        "winningPitcher": "セベリーノ（1-0）",
+        "winningPitcher": "",
         "losingPitcher": "清水（2-4-5）",
-        "savePitcher": "工藤（3-0-11）",
+        "savePitcher": "",
         "venue": "神宮",
         "record": "57-75-2"
-      },
-      {
-        "gameNumber": 133,
-        "date": "9月20日",
-        "opponentTeamId": "giants",
-        "opponentText": "巨人",
-        "score": "2-3",
-        "ownScore": 2,
-        "opponentScore": 3,
-        "result": "loss",
-        "winningPitcher": "中川（3-1）",
-        "losingPitcher": "阪口（0-1）",
-        "savePitcher": "マルティネス（5-4-40）",
-        "venue": "東京ドーム",
-        "record": "57-74-2"
       }
     ],
     "dragons": [
