@@ -1,7 +1,558 @@
 {
-  "generatedAt": "2026-10-08T01:23:42.323Z",
-  "count": 3452,
+  "generatedAt": "2026-10-08T07:35:55.397Z",
+  "count": 3466,
   "items": [
+    {
+      "title": "【セパ公示】（８日）ヤクルトが茂木栄五郎、塩見泰隆、柿沼友哉を登録 巨人が皆川岳飛を抹消(スポーツ報知)",
+      "summary": "◆ＪＥＲＡ セ・リーグ 【出場選手登録】 ▽阪神 福島圭音外野手 ▽ヤクルト 柿沼友哉捕手、茂木栄五郎内野手、塩見泰隆外野手【ランキング】２０２６年 １２球団年俸…最高給は？ 【出場選手登録抹消】 ▽",
+      "link": "https://news.yahoo.co.jp/articles/fb0bdc8f088dcdd2011f5813fb87e83403a78ae6?source=rss",
+      "pubDate": "2026-10-08T07:32:13.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [],
+      "topics": [
+        "roster",
+        "contract"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/fb0bdc8f088dcdd2011f5813fb87e83403a78ae6?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【阪神】ドラ１立石正広２安打、前川右京３安打１本塁打 宮崎で若虎がポストシーズンに向け躍動(日刊スポーツ)",
+      "summary": "＜みやざきフェニックス・リーグ：阪神8－7DeNA＞◇8日◇生目第2 阪神2軍が15安打8得点で勝利した。【写真】前川右京 前川右京外野手（23）が3安打2打点1本塁打、ドラフト1位の立石正広内野手（",
+      "link": "https://news.yahoo.co.jp/articles/b6d925a8e66a42245d6e35a6111eae001aee19a5?source=rss",
+      "pubDate": "2026-10-08T07:30:46.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "tigers"
+      ],
+      "topics": [
+        "draft"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/b6d925a8e66a42245d6e35a6111eae001aee19a5?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【ヤクルト】セデーニョが自由契約に ５月獲得発表、６月来日も１軍出場は10試合にとどまる(日刊スポーツ)",
+      "summary": "ヤクルトの新外国人レアンドロ・セデーニョ内野手（27）が8日、自由契約選手として公示された。 5月28日に獲得が発表され6月23日に来日。7月に1軍でプレーしたが、出場は10試合にとどまり、打率1割8",
+      "link": "https://news.yahoo.co.jp/articles/71b4027d7c4ee7350adb38aa25b154c82626b3a4?source=rss",
+      "pubDate": "2026-10-08T07:27:24.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "swallows"
+      ],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/71b4027d7c4ee7350adb38aa25b154c82626b3a4?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【中日】加藤球団社長「次の100年に向け強固なチーム作りを」工藤公康氏、新監督就任／一問一答(日刊スポーツ)",
+      "summary": "来季の新監督に元ソフトバンク監督の工藤公康氏（63）が就任することが決まった。8日、名古屋市内の球団事務所で取材対応した加藤宏幸球団社長は「次は外部から経験も知見もあってドラゴンズに注入してくれる方が",
+      "link": "https://news.yahoo.co.jp/articles/ecd6bc384c3b43e125c76a09e8f9175de133b685?source=rss",
+      "pubDate": "2026-10-08T07:26:40.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "dragons"
+      ],
+      "topics": [
+        "personnel"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/ecd6bc384c3b43e125c76a09e8f9175de133b685?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【巨人】１０日は山崎伊織＆岸田行倫、１１日はマルティネスの誕生日…３選手の「誕生祭」を開催(スポーツ報知)",
+      "summary": "巨人は、１０月１０日に２８歳の誕生日を迎える山崎伊織投手と３０歳の誕生日を迎える岸田行倫捕手、１１日に３０歳の誕生日を迎えるライデル・マルティネス投手の「誕生祭」を、１０日から２５日まで開催すると発表",
+      "link": "https://news.yahoo.co.jp/articles/1e6137cdcb72d667b817dc7977f2bd9d47ca2748?source=rss",
+      "pubDate": "2026-10-08T07:24:33.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "giants"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/1e6137cdcb72d667b817dc7977f2bd9d47ca2748?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "「ゴゴスマ」地元中日・工藤監督誕生を特集 緊急出演の竜党アナ「本当に引き受けてくれたんだ」(日刊スポーツ)",
+      "summary": "CBC（本社名古屋市）製作のTBS系情報番組「ゴゴスマ～GOGO！Smile！～」（月～金曜午後1時55分）は8日の生放送で、地元プロ野球球団、中日の新監督就任が決まった元ソフトバンク監督の工藤公康氏",
+      "link": "https://news.yahoo.co.jp/articles/8fa0586b45c1fec68aa4806d60108d0e4f40f300?source=rss",
+      "pubDate": "2026-10-08T07:24:25.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "dragons"
+      ],
+      "topics": [
+        "personnel"
+      ],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/8fa0586b45c1fec68aa4806d60108d0e4f40f300?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "オリックス懐かしユニが“令和に復活” 胸に蘇る「2文字」…レジェンド引退で受注販売",
+      "summary": "オリックスは6日から、今シーズン限りで現役を引退する平野佳寿投手の「引退記念グッズ」を期間限定で受注販売している。なかでも目玉となるのは、日米通算のキャリアを象徴する2種類の復刻ハイクオリティユニホームだ。",
+      "link": "https://full-count.jp/2026/10/08/post2028160/",
+      "pubDate": "2026-10-08T07:15:19.000Z",
+      "source": "Full-Count（プロ野球）",
+      "sourceId": "full-count-npb",
+      "teams": [
+        "buffaloes"
+      ],
+      "topics": [
+        "retirement"
+      ],
+      "sources": [
+        {
+          "name": "Full-Count（プロ野球）",
+          "sourceId": "full-count-npb",
+          "link": "https://full-count.jp/2026/10/08/post2028160/"
+        }
+      ]
+    },
+    {
+      "title": "【8日の公示】ヤクルトが茂木、塩見を出場選手登録 巨人は皆川が出場選手登録抹消(スポニチアネックス)",
+      "summary": "◇出場選手登録【阪神】福島圭音外野手【ヤクルト】柿沼友哉捕手、茂木栄五郎内野手、塩見泰隆外野手◇出場選手登録抹消【阪神】西勇輝投手、石黒佑弥投手【巨人】皆川岳飛外野手",
+      "link": "https://news.yahoo.co.jp/articles/173d2f9266c6374b2282471975c797cb0a483527?source=rss",
+      "pubDate": "2026-10-08T07:09:25.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "swallows",
+        "giants"
+      ],
+      "topics": [
+        "roster"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/173d2f9266c6374b2282471975c797cb0a483527?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【ソフトバンク】小久保裕紀監督が中日新監督に決定的な工藤公康氏のイズムを語る「選手たちが１年で長く活躍できるように我々（監督、コーチ）はいる」２１年に監督、ヘッドでコンビ(スポーツ報知)",
+      "summary": "ソフトバンク・小久保裕紀監督が８日、中日の新監督に就任が決定的となった工藤公康氏について語った。報道陣からの問いに「引き受けられるんですか？ ５５歳の誕生日は一生忘れないでしょうね」と自身のバースデー",
+      "link": "https://news.yahoo.co.jp/articles/30697a0eda17d70975a820991a13cd592117a2cc?source=rss",
+      "pubDate": "2026-10-08T07:09:17.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "hawks"
+      ],
+      "topics": [
+        "personnel"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/30697a0eda17d70975a820991a13cd592117a2cc?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【今日のプロ野球公示】福島圭音、皆川岳飛など｜10月8日の一軍出場選手登録・抹消一覧",
+      "summary": "日本野球機構は8日付の出場選手登録・登録抹消を公示した。",
+      "link": "https://www.baseballchannel.jp/npb/294431/",
+      "pubDate": "2026-10-08T07:00:34.000Z",
+      "source": "ベースボールチャンネル（プロ野球）",
+      "sourceId": "baseballchannel-npb",
+      "teams": [],
+      "topics": [
+        "roster"
+      ],
+      "sources": [
+        {
+          "name": "ベースボールチャンネル（プロ野球）",
+          "sourceId": "baseballchannel-npb",
+          "link": "https://www.baseballchannel.jp/npb/294431/"
+        }
+      ]
+    },
+    {
+      "title": "大久保博元氏「具体的な指示をしてくれる人」中日新監督となる工藤公康氏の成功のカギは？(日刊スポーツ)",
+      "summary": "楽天元監督の大久保博元氏（59）が8日、TBS系「ゴゴスマ」に出演し、中日監督への就任が決まった工藤公康氏（63）の成功のカギに、コーチの存在を挙げた。【写真】中日監督の就任が決定 大久保氏は「選手た",
+      "link": "https://news.yahoo.co.jp/articles/68c827c7f1f508f73608b27ceb9d80272de3b24e?source=rss",
+      "pubDate": "2026-10-08T06:53:34.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "dragons"
+      ],
+      "topics": [
+        "personnel"
+      ],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/68c827c7f1f508f73608b27ceb9d80272de3b24e?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "ロッテ、角中勝也、唐川侑己の引退メモリアルグッズ第2弾の受注販売を開始 第1弾の再販売も実施(ベースボールチャンネル)",
+      "summary": "千葉ロッテマリーンズは明日10月9日12時00分からマリーンズオンラインストアにて角中勝也外野手、唐川侑己投手の引退メモリアルグッズ第2弾の受注販売を行うことを発表した。【写真】角中勝也外野手、唐川侑",
+      "link": "https://news.yahoo.co.jp/articles/74005447483526bbbbd300f6a15da79e68db36a3?source=rss",
+      "pubDate": "2026-10-08T06:45:27.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "marines"
+      ],
+      "topics": [
+        "retirement"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/74005447483526bbbbd300f6a15da79e68db36a3?source=rss"
+        },
+        {
+          "name": "ベースボールチャンネル（プロ野球）",
+          "sourceId": "baseballchannel-npb",
+          "link": "https://www.baseballchannel.jp/npb/294435/"
+        }
+      ]
+    },
+    {
+      "title": "「正式発表きたか」 午後2時過ぎ…プロ野球界の衝撃ニュース「当たり前や」",
+      "summary": "日本ハムは8日、新庄剛志監督と契約更新したことを発表した。就任5年目を迎えた今季は78勝62敗3分でパ・リーグ3位に入り、3年連続のAクラス入りを達成。来季で就任6シーズン目を迎える指揮官の続投正式決定を受け、悲願のペナント奪取を願うファン…",
+      "link": "https://full-count.jp/2026/10/08/post2028153/",
+      "pubDate": "2026-10-08T06:35:03.000Z",
+      "source": "Full-Count（プロ野球）",
+      "sourceId": "full-count-npb",
+      "teams": [
+        "fighters"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Full-Count（プロ野球）",
+          "sourceId": "full-count-npb",
+          "link": "https://full-count.jp/2026/10/08/post2028153/"
+        }
+      ]
+    },
+    {
+      "title": "ヤクルト茂木栄五郎、阪神福島圭音ら登録 阪神西勇輝、巨人皆川岳飛ら抹消／８日公示(日刊スポーツ)",
+      "summary": "110月8日のプロ野球の出場選手登録と抹消は以下の通り。 【セ・リーグ】 ＜登録＞【写真】抹消となった巨人皆川岳飛 阪神 福島圭音外野手 ヤクルト 柿沼友哉捕手 ヤクルト 茂木栄五郎内野手 ヤクルト",
+      "link": "https://news.yahoo.co.jp/articles/dde1d1e27e2823af6a8f65348581b0c94fc63082?source=rss",
+      "pubDate": "2026-10-08T06:33:01.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [],
+      "topics": [
+        "roster"
+      ],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/dde1d1e27e2823af6a8f65348581b0c94fc63082?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【巨人】下半身コンディション不良の松本剛、CSへ向け「問題ない」橋上監督代行が明かす(日刊スポーツ)",
+      "summary": "巨人松本剛外野手（33）が8日、東京ドームの1軍練習に参加した。下半身のコンディション不良で3日DeNA戦（東京ドーム）を欠場して以降、別メニュー調整が続いていたが、この日はフルメニューを消化。10日",
+      "link": "https://news.yahoo.co.jp/articles/c0eb78a1ab0a3e7b54f76a6e6ed520b31a84cbb7?source=rss",
+      "pubDate": "2026-10-08T06:32:11.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "giants"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/c0eb78a1ab0a3e7b54f76a6e6ed520b31a84cbb7?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【広島】松田元球団オーナー、小学から高校まで一緒だった硤合憲三教授のノーベル賞受賞を祝福(日刊スポーツ)",
+      "summary": "広島松田元球団オーナー（75）は8日、ノーベル化学賞に決まった硤合憲三・東京理科大名誉教授（76）を祝福した。【写真】ノーベル化学賞に決まった硤合憲三・東京理科大名誉教授 硤合教授とは広島大学付属小か",
+      "link": "https://news.yahoo.co.jp/articles/7cfee1673257abef4927df4f8e68d8101de131e5?source=rss",
+      "pubDate": "2026-10-08T06:19:42.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "carp"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/7cfee1673257abef4927df4f8e68d8101de131e5?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【ヤクルト】ドラ６ルーキー飯田琉斗が右肘クリーニング手術 今季１軍では１試合のみ登板(日刊スポーツ)",
+      "summary": "ヤクルトは8日、飯田琉斗投手（27）が7日に神奈川県内の病院で右ひじのクリーニング手術を受け、無事終了したと発表した。今後は医師、チームスタッフの指導のもと、リハビリを行う。 ENEOSから25年ドラ",
+      "link": "https://news.yahoo.co.jp/articles/f9d464c76be258c9cc1200869b475723f94cf778?source=rss",
+      "pubDate": "2026-10-08T06:11:25.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "swallows"
+      ],
+      "topics": [
+        "injury"
+      ],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/f9d464c76be258c9cc1200869b475723f94cf778?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【楽天】「楽天イーグルス ファン感謝祭2026」は11月23日に楽天モバイル最強パークで開催(日刊スポーツ)",
+      "summary": "楽天は8日、「楽天イーグルス ファン感謝祭2026」を11月23日に楽天モバイル最強パークで開催すると発表した。 午前中はスタジアム各所で選手が登場するイベント、午後はフィールド内のイベントを開催する",
+      "link": "https://news.yahoo.co.jp/articles/fe69c2544251c2834037cd321d9aacdba8bb79ef?source=rss",
+      "pubDate": "2026-10-08T06:01:05.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "eagles"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/fe69c2544251c2834037cd321d9aacdba8bb79ef?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "日本ハム、新庄剛志監督と契約更新 3年連続Aクラスに導く",
+      "summary": "日本ハムは8日、新庄剛志監督と契約を更新することで合意し、2027年シーズンも引き続き指揮を執ることが決まったと発表した。 新庄監督は2022年に監督就任すると、1年目の22年と2年目の23年は2年連続最下位に沈んだ […]",
+      "link": "https://baseballking.jp/ns/709383/",
+      "pubDate": "2026-10-08T05:46:52.000Z",
+      "source": "BASEBALL KING",
+      "sourceId": "baseballking",
+      "teams": [
+        "fighters"
+      ],
+      "topics": [
+        "personnel"
+      ],
+      "sources": [
+        {
+          "name": "BASEBALL KING",
+          "sourceId": "baseballking",
+          "link": "https://baseballking.jp/ns/709383/"
+        }
+      ]
+    },
+    {
+      "title": "【日本ハム】サウリン・ラオが帰国 １軍では３試合の登板に留まる(日刊スポーツ)",
+      "summary": "日本ハムは、サウリン・ラオ投手（27）が帰国のため、7日夜の便で離日したと、発表した。【写真】パ・リーグのクライマックスシリーズ日程 ドミニカ共和国出身のラオは今季新加入。1軍では3試合の登板に留まり",
+      "link": "https://news.yahoo.co.jp/articles/b06aebc65bfff251002f3eefdd49e1d1dbcbdbfa?source=rss",
+      "pubDate": "2026-10-08T05:43:44.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "fighters"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/b06aebc65bfff251002f3eefdd49e1d1dbcbdbfa?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "ロッテ、唐川引退メモリアルグッズ第2弾を受注販売",
+      "summary": "ロッテは8日、明日10月9日12時00分からマリーンズオンラインストアにて唐川侑己投手の引退メモリアルグッズ第2弾の受注販売を行うことになったと発表した。 第2弾では、数量限定のメモラビリアをはじめ、引退試合当日の写 […]",
+      "link": "https://baseballking.jp/ns/709377/",
+      "pubDate": "2026-10-08T05:07:29.000Z",
+      "source": "BASEBALL KING",
+      "sourceId": "baseballking",
+      "teams": [
+        "marines"
+      ],
+      "topics": [
+        "retirement"
+      ],
+      "sources": [
+        {
+          "name": "BASEBALL KING",
+          "sourceId": "baseballking",
+          "link": "https://baseballking.jp/ns/709377/"
+        },
+        {
+          "name": "BASEBALL KING",
+          "sourceId": "baseballking",
+          "link": "https://baseballking.jp/ns/709374/"
+        }
+      ]
+    },
+    {
+      "title": "日本ハム・新庄剛志監督と契約更新 3年連続Aクラスも…鷹には5勝18敗2分で独走許す",
+      "summary": "日本ハムは8日、新庄剛志監督と契約更新したことを発表した。就任5年目の今季は78勝62敗3分、勝率.557でパ・リーグ3位だった。",
+      "link": "https://full-count.jp/2026/10/08/post2028117/",
+      "pubDate": "2026-10-08T05:03:19.000Z",
+      "source": "Full-Count（プロ野球）",
+      "sourceId": "full-count-npb",
+      "teams": [
+        "fighters"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Full-Count（プロ野球）",
+          "sourceId": "full-count-npb",
+          "link": "https://full-count.jp/2026/10/08/post2028117/"
+        }
+      ]
+    },
+    {
+      "title": "午前11時に突然…公示にファン困惑「なんで？」 わずか10試合＆打率.185「頭痛くなる」",
+      "summary": "日本野球機構（NPB）は8日、ヤクルトのレアンドロ・セデーニョ内野手を自由契約選手として公示した。シーズン途中の加入で長打力を期待された助っ人だったが、わずか10試合の出場にとどまり、不完全燃焼のまま去ることに。この発表にファンからは「なん…",
+      "link": "https://full-count.jp/2026/10/08/post2028081/",
+      "pubDate": "2026-10-08T04:28:50.000Z",
+      "source": "Full-Count（プロ野球）",
+      "sourceId": "full-count-npb",
+      "teams": [
+        "swallows"
+      ],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "Full-Count（プロ野球）",
+          "sourceId": "full-count-npb",
+          "link": "https://full-count.jp/2026/10/08/post2028081/"
+        }
+      ]
+    },
+    {
+      "title": "楽天、11月23日に『楽天イーグルス ファン感謝祭2026』を開催",
+      "summary": "楽天は8日、11月23日（月・祝）楽天モバイル 最強パーク宮城で『楽天イーグルス ファン感謝祭2026』を開催することになったと発表した。 今年も午前中はスタジアム各所で選手が登場するイベント、午後はフィールド内のイ […]",
+      "link": "https://baseballking.jp/ns/709368/",
+      "pubDate": "2026-10-08T04:25:14.000Z",
+      "source": "BASEBALL KING",
+      "sourceId": "baseballking",
+      "teams": [
+        "eagles"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "BASEBALL KING",
+          "sourceId": "baseballking",
+          "link": "https://baseballking.jp/ns/709368/"
+        }
+      ]
+    },
+    {
+      "title": "緊急登板のほうが「気持ちが楽」 西武・豆田泰志が三軍で気づいた“考えすぎる自分”…「打たれたらどうしよう」から脱却した6年目【インタビュー】",
+      "summary": "埼玉西武ライオンズの豆田泰志投手は、プロ6年目の今季、さまざまな役割でブルペンを支えた。プロ初勝利に初先発、さらには回またぎや緊急登板も経験。その飛躍の裏には、三軍で過ごした昨季、自らの投球と向き合う中で得た大きな気づきがあった。育成からは…",
+      "link": "https://www.baseballchannel.jp/npb/294195/",
+      "pubDate": "2026-10-08T02:15:02.000Z",
+      "source": "ベースボールチャンネル（プロ野球）",
+      "sourceId": "baseballchannel-npb",
+      "teams": [
+        "lions"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "ベースボールチャンネル（プロ野球）",
+          "sourceId": "baseballchannel-npb",
+          "link": "https://www.baseballchannel.jp/npb/294195/"
+        }
+      ]
+    },
+    {
+      "title": "広島、11月23日にファン感謝デーを開催",
+      "summary": "広島は8日、11月23日に「カープファン感謝デー2026」を開催すると発表した。 ▼ 開催概要 開催日：2026年11月23日（月・祝） ※小雨決行 開門時間：9：00（予定） 開催時間：10：00〜15：40（予定） […]",
+      "link": "https://baseballking.jp/ns/709350/",
+      "pubDate": "2026-10-08T02:07:17.000Z",
+      "source": "BASEBALL KING",
+      "sourceId": "baseballking",
+      "teams": [
+        "carp"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "BASEBALL KING",
+          "sourceId": "baseballking",
+          "link": "https://baseballking.jp/ns/709350/"
+        }
+      ]
+    },
+    {
+      "title": "パ最多奪三振の楽天・荘司 斎藤雅樹氏「本当にいいピッチャー」と絶賛も辻氏は「一発を打たれすぎ」とチクリ",
+      "summary": "5日にフジテレビONEで放送された『プロ野球ニュース2026』に出演した斎藤雅樹氏と辻発彦氏が、今季最多奪三振のタイトルを獲得した楽天・荘司康誠について言及した。 斎藤氏は「最近の試合でも非常に良いピッチングをしまし […]",
+      "link": "https://baseballking.jp/ns/709333/",
+      "pubDate": "2026-10-08T02:00:00.000Z",
+      "source": "BASEBALL KING",
+      "sourceId": "baseballking",
+      "teams": [
+        "eagles"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "BASEBALL KING",
+          "sourceId": "baseballking",
+          "link": "https://baseballking.jp/ns/709333/"
+        }
+      ]
+    },
     {
       "title": "中日 来季新監督に工藤公康氏 ソフトバンク監督として日本一5度の名将に再建託す(スポニチアネックス)",
       "summary": "中日の来季新監督に、ソフトバンクを率いて5度の日本一に導いた工藤公康氏（63）が就任することが8日、関係者の話で分かった。球団が正式に就任要請し、工藤氏も受諾した。 就任2年目だった井上一樹監督（55",
@@ -81,11 +632,6 @@
           "name": "BASEBALL KING",
           "sourceId": "baseballking",
           "link": "https://baseballking.jp/ns/709343/"
-        },
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/a4817e99ad6b3ff3b3f6b93116f7bacffbab9f9b?source=rss"
         }
       ]
     },
@@ -105,11 +651,6 @@
           "name": "BASEBALL KING",
           "sourceId": "baseballking",
           "link": "https://baseballking.jp/ns/709329/"
-        },
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/8744d0c573f38358146a53864d68bf8a41628d59?source=rss"
         }
       ]
     },
@@ -67134,259 +67675,6 @@
           "name": "BASEBALL KING",
           "sourceId": "baseballking",
           "link": "https://baseballking.jp/ns/706244/"
-        }
-      ]
-    },
-    {
-      "title": "西武・長谷川信哉が「感染症特例」で抹消 戦線復帰からわずか11日…鷹・山川穂高が復帰",
-      "summary": "8日のプロ野球公示で、西武は長谷川信哉外野手の登録を抹消した。8月28日に戦線に復帰してからわずか11日のことだった。",
-      "link": "https://full-count.jp/2026/09/08/post2013871/",
-      "pubDate": "2026-09-08T07:05:25.000Z",
-      "source": "Full-Count（プロ野球）",
-      "sourceId": "full-count-npb",
-      "teams": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Full-Count（プロ野球）",
-          "sourceId": "full-count-npb",
-          "link": "https://full-count.jp/2026/09/08/post2013871/"
-        }
-      ]
-    },
-    {
-      "title": "ロッテ・唐川侑己「泥臭くやって来た」 引退会見で心境…盟友・益田は「泣いてくれた」",
-      "summary": "ロッテの唐川侑己投手が8日、ZOZOマリンスタジアムで引退会見を行った。4日に今季限りでの現役引退を発表。地元の千葉県成田市出身の37歳右腕は、10月3日の本拠地・ソフトバンク戦で引退試合を予定している。",
-      "link": "https://full-count.jp/2026/09/08/post2013808/",
-      "pubDate": "2026-09-08T07:00:38.000Z",
-      "source": "Full-Count（プロ野球）",
-      "sourceId": "full-count-npb",
-      "teams": [
-        "marines"
-      ],
-      "topics": [
-        "retirement"
-      ],
-      "sources": [
-        {
-          "name": "Full-Count（プロ野球）",
-          "sourceId": "full-count-npb",
-          "link": "https://full-count.jp/2026/09/08/post2013808/"
-        }
-      ]
-    },
-    {
-      "title": "【今日のプロ野球公示】湯浅大、長谷川信哉など｜9月8日の一軍出場選手登録・抹消一覧",
-      "summary": "日本野球機構は8日付の出場選手登録・登録抹消を公示した。",
-      "link": "https://www.baseballchannel.jp/npb/288329/",
-      "pubDate": "2026-09-08T07:00:04.000Z",
-      "source": "ベースボールチャンネル（プロ野球）",
-      "sourceId": "baseballchannel-npb",
-      "teams": [],
-      "topics": [
-        "roster"
-      ],
-      "sources": [
-        {
-          "name": "ベースボールチャンネル（プロ野球）",
-          "sourceId": "baseballchannel-npb",
-          "link": "https://www.baseballchannel.jp/npb/288329/"
-        }
-      ]
-    },
-    {
-      "title": "巨人・三塚琉生には「伸びしろしかない」 22歳が秘める魅力「なかなかいない」…大田＆金城コーチが描く“未来図”",
-      "summary": "巨人・三塚琉生は来季の1軍定着を目指し、2軍で鍛錬を積む。「伸びしろしかない」と首脳陣が評価するポテンシャル。描かれている22歳の“未来図”とは。",
-      "link": "https://full-count.jp/2026/09/08/post2013834/",
-      "pubDate": "2026-09-08T06:43:08.000Z",
-      "source": "Full-Count（プロ野球）",
-      "sourceId": "full-count-npb",
-      "teams": [
-        "giants"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Full-Count（プロ野球）",
-          "sourceId": "full-count-npb",
-          "link": "https://full-count.jp/2026/09/08/post2013834/"
-        }
-      ]
-    },
-    {
-      "title": "ロッテ、2026年ジュニアチーム メンバー決定",
-      "summary": "ロッテは8日、「NPBジュニアトーナメント KONAMI CUP 2026」に出場する千葉ロッテマリーンズジュニアチームのメンバーが決定したことを発表した。 マリーンズジュニア2026のメンバーは、6月22日～7月6 […]",
-      "link": "https://baseballking.jp/ns/706487/",
-      "pubDate": "2026-09-08T06:26:54.000Z",
-      "source": "BASEBALL KING",
-      "sourceId": "baseballking",
-      "teams": [
-        "marines"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "BASEBALL KING",
-          "sourceId": "baseballking",
-          "link": "https://baseballking.jp/ns/706487/"
-        }
-      ]
-    },
-    {
-      "title": "【ヤフコメで話題】「水田選手の“プロ野球人生は全然楽しくなかった”発言に共感」「プロ野球の厳しさと指導者としての価値」 - 元ライオンズ選手のキャリア観に注目集まる(Yahoo!ニュース オリジナル THE PAGE)",
-      "summary": "元ライオンズの水田選手が「プロ野球人生は全然楽しくなかった」と語ったことについて、Yahoo!ニュースのコメント欄で話題になっています。 コメントでは、水田選手が大阪桐蔭出身で13年間プロでプレーした",
-      "link": "https://news.yahoo.co.jp/articles/81a51284aba3c92e92304a31afc2bb67a0425151?source=rss",
-      "pubDate": "2026-09-08T06:19:10.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "lions"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/81a51284aba3c92e92304a31afc2bb67a0425151?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "ロッテ マリーンズジュニア2026メンバー16人発表 佐藤監督「2010年以来の優勝を目指す」(スポニチアネックス)",
-      "summary": "ロッテは8日、「NPBジュニアトーナメント KONAMI CUP 2026」に出場する千葉ロッテマリーンズジュニアチーム（以下、マリーンズジュニア2026）のメンバーを発表した。6月22日～7月6日",
-      "link": "https://news.yahoo.co.jp/articles/35d880c68175f91b71505b4b3e0051154e5e7f8b?source=rss",
-      "pubDate": "2026-09-08T06:05:05.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "marines"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/35d880c68175f91b71505b4b3e0051154e5e7f8b?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【DeNA】相川監督、牧秀悟は「骨折ではなかった」６日阪神戦で死球受け負傷交代(日刊スポーツ)",
-      "summary": "＜DeNA－ヤクルト＞◇8日◇横浜 DeNA相川亮二監督（50）が練習前に報道陣の取材に対応。牧秀悟内野手（28）の状態について「当然痛みは残っているが、骨折ではなかった。そういう状況です」と説明",
-      "link": "https://news.yahoo.co.jp/articles/daba87bf6cb1034c408e29c224250e4968a0525b?source=rss",
-      "pubDate": "2026-09-08T05:52:10.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "baystars"
-      ],
-      "topics": [
-        "injury"
-      ],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/daba87bf6cb1034c408e29c224250e4968a0525b?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "中田翔氏が抱いた「うらやましい気持ち」 “高校ビッグ3”を形成した2人へ…明かした思い",
-      "summary": "パーソル パ・リーグTV公式YouTubeチャンネルの「月曜日もパテレ行き」が7日に公開され、五十嵐亮太氏、中田翔氏がゲスト出演した。番組内では、4日に今季限りでの現役引退を発表したロッテ・唐川侑己投手について語った。",
-      "link": "https://full-count.jp/2026/09/08/post2013781/",
-      "pubDate": "2026-09-08T04:21:46.000Z",
-      "source": "Full-Count（プロ野球）",
-      "sourceId": "full-count-npb",
-      "teams": [
-        "marines"
-      ],
-      "topics": [
-        "retirement"
-      ],
-      "sources": [
-        {
-          "name": "Full-Count（プロ野球）",
-          "sourceId": "full-count-npb",
-          "link": "https://full-count.jp/2026/09/08/post2013781/"
-        }
-      ]
-    },
-    {
-      "title": "ロッテ左腕は「日本でもトップクラス」 “特殊軌道に”五十嵐亮太氏＆中田翔氏も衝撃「すごい」",
-      "summary": "パーソル パ・リーグTV公式YouTubeチャンネルの「月曜日もパテレ行き」が7日に公開され、五十嵐亮太氏、中田翔氏がゲスト出演した。番組内では、ロッテの高野脩汰投手の投球を評価した。",
-      "link": "https://full-count.jp/2026/09/08/post2013771/",
-      "pubDate": "2026-09-08T04:16:13.000Z",
-      "source": "Full-Count（プロ野球）",
-      "sourceId": "full-count-npb",
-      "teams": [
-        "marines"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Full-Count（プロ野球）",
-          "sourceId": "full-count-npb",
-          "link": "https://full-count.jp/2026/09/08/post2013771/"
-        }
-      ]
-    },
-    {
-      "title": "「最後に勝ち越せていたらいい」 オリックス来田涼斗が描く“ライバル撃ち”…6年目の覚醒生んだ決断",
-      "summary": "オリックス来田涼斗が覚醒。得点圏打率.395を記録するなど初の4番に。同級生ロッテ中森との対決には「最後に勝ち越せていたらいい」と語る。",
-      "link": "https://full-count.jp/2026/09/08/post2013675/",
-      "pubDate": "2026-09-08T03:15:33.000Z",
-      "source": "Full-Count（プロ野球）",
-      "sourceId": "full-count-npb",
-      "teams": [
-        "buffaloes"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Full-Count（プロ野球）",
-          "sourceId": "full-count-npb",
-          "link": "https://full-count.jp/2026/09/08/post2013675/"
-        }
-      ]
-    },
-    {
-      "title": "「二刀流いける」巨人左腕に判明した“才能” 衝撃フォーム→爆速打「野手と変わらん」",
-      "summary": "巨人の小笠原慎之介投手が6日、敵地マツダスタジアムで行われた広島戦に先発し、移籍後初となる完封勝利を飾った。123球を投げて4安打の圧倒的なピッチングの裏で、打席で見せた“レジェンド打法”が話題に。「ほんまに投手!?ww」とファンの視線を釘…",
-      "link": "https://full-count.jp/2026/09/08/post2013659/",
-      "pubDate": "2026-09-08T02:49:55.000Z",
-      "source": "Full-Count（プロ野球）",
-      "sourceId": "full-count-npb",
-      "teams": [
-        "giants"
-      ],
-      "topics": [
-        "trade"
-      ],
-      "sources": [
-        {
-          "name": "Full-Count（プロ野球）",
-          "sourceId": "full-count-npb",
-          "link": "https://full-count.jp/2026/09/08/post2013659/"
-        }
-      ]
-    },
-    {
-      "title": "阪神・坂本誠志郎が「JERA セ・リーグ AWARD」8月度大賞 満票受賞に鳥谷氏「そんなに打つとは」",
-      "summary": "熱戦を盛り上げるリーグ公式表彰「月間JERAセ・リーグAWARD」8月度の大賞が7日、発表された。ノミネートされた6人の中から、公式配信番組「JERAセ・リーグ レジェンドLIVE」内でレジェンドOBによる選考が行われ、阪神・坂本誠志郎捕手…",
-      "link": "https://full-count.jp/2026/09/08/post2013667/",
-      "pubDate": "2026-09-08T01:59:08.000Z",
-      "source": "Full-Count（プロ野球）",
-      "sourceId": "full-count-npb",
-      "teams": [
-        "tigers"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Full-Count（プロ野球）",
-          "sourceId": "full-count-npb",
-          "link": "https://full-count.jp/2026/09/08/post2013667/"
         }
       ]
     }
