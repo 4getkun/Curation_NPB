@@ -1,7 +1,366 @@
 {
-  "generatedAt": "2026-10-09T23:21:13.981Z",
-  "count": 3379,
+  "generatedAt": "2026-10-10T02:27:48.846Z",
+  "count": 3377,
   "items": [
+    {
+      "title": "掛布氏が選んだ阪神9・10月のベストプレー3候補 “大覚醒”のエース左腕には「言うことは何もない」",
+      "summary": "阪神ファンに人気のABCテレビ公式YouTube「虎バンチャンネル」では、今季も「DID 大同工業 presents 阪神タイガース DIDアワード」を開催。9日、9・10月度のノミネートプレー3選が発表された。",
+      "link": "https://full-count.jp/2026/10/10/post2028804/",
+      "pubDate": "2026-10-10T02:07:53.000Z",
+      "source": "Full-Count（プロ野球）",
+      "sourceId": "full-count-npb",
+      "teams": [
+        "tigers"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Full-Count（プロ野球）",
+          "sourceId": "full-count-npb",
+          "link": "https://full-count.jp/2026/10/10/post2028804/"
+        },
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/00a1c01852be1d45c2107d31f6a2a854e30e7524?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "もう一人の「ドラフト1位」 最下位球団の特権 全体13番目指名選手の「現在地」(CoCoKARAnext)",
+      "summary": "プロ野球ドラフト会議が10月22日に迫ってきました。12球団はここから2週間、他球団の動向も水面下で調査をしつつ、戦力補強を目指していきます。【動画】西武ドラフト2位入団渡部の豪快アーチシーン レギュ",
+      "link": "https://news.yahoo.co.jp/articles/621195c9e7b72bf222f6b99a316d4e0e76298465?source=rss",
+      "pubDate": "2026-10-10T02:02:48.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "lions"
+      ],
+      "topics": [
+        "draft"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/621195c9e7b72bf222f6b99a316d4e0e76298465?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "「勝っても負けても」“毎日登板”なぜできた？ 引退のオリックス左腕が持っていた特殊能力「ちょっと泣いちゃいました」ラスト登板＆吉田正尚との秘話(Number Web)",
+      "summary": "当たり前のように山田修義がいる安心感。オリックスのブルペンはこの左腕の存在に支えられてきた。【秘蔵フォト】「これは幻の…」15年前に消滅したオリックスの伝説マスコットの写真を見る…この女の子の名前は？",
+      "link": "https://news.yahoo.co.jp/articles/2c57c2161d40d3fa2eefd28e7343f77e8d6b7857?source=rss",
+      "pubDate": "2026-10-10T02:01:15.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "buffaloes"
+      ],
+      "topics": [
+        "retirement"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/2c57c2161d40d3fa2eefd28e7343f77e8d6b7857?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【DeNA】東克樹「下克上、それをやるだけ」CSファーストステージ初戦に先発「１点勝負に」(日刊スポーツ)",
+      "summary": "DeNA東克樹投手（30）が先陣を切る。10日の巨人とのCSファーストステージ初戦に予告先発。前日会見に出席し「下克上、それをやるだけ」と決意を語った。相手先発の井上は今季DeNA戦で5勝1敗、防御率",
+      "link": "https://news.yahoo.co.jp/articles/f8ac503848df0913dd05639f4f71668861fd2fc3?source=rss",
+      "pubDate": "2026-10-10T02:00:03.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "baystars"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/f8ac503848df0913dd05639f4f71668861fd2fc3?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【ヤクルト】池山監督「コーチと方向性だけ間違えないように」急失速、オフは体力向上求める(日刊スポーツ)",
+      "summary": "ヤクルト池山隆寛監督（60）はオフに体力向上を求める。今季は好発進し、6月まで首位にいる期間も長かったが、急失速で5位。初めてフルシーズン戦った選手も少なくなかった。「チームに体力が。今年はいい経験だ",
+      "link": "https://news.yahoo.co.jp/articles/400528938ee0535140c4ad5c46f49a82c2ccc98c?source=rss",
+      "pubDate": "2026-10-10T02:00:01.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "swallows"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/400528938ee0535140c4ad5c46f49a82c2ccc98c?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "西武、勝利の鍵を握る若きリリーバーの存在 笘篠氏「豆田、篠原が甲斐野にどう繋いでいくか」",
+      "summary": "8日にフジテレビONEで放送された『プロ野球ニュース2026』に出演した笘篠賢治氏が、西武のリリーバーについて言及した。 西武は日本ハムとCSファーストステージを戦う。笘篠氏は「短期決戦は勝つために、個人記録は度外視 […]",
+      "link": "https://baseballking.jp/ns/709525/",
+      "pubDate": "2026-10-10T02:00:00.000Z",
+      "source": "BASEBALL KING",
+      "sourceId": "baseballking",
+      "teams": [
+        "lions",
+        "fighters"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "BASEBALL KING",
+          "sourceId": "baseballking",
+          "link": "https://baseballking.jp/ns/709525/"
+        }
+      ]
+    },
+    {
+      "title": "現ドラ→広島加入で「激動のシーズン」 “揺れるチーム”でNPB記録→侍J入り、25歳の見つけた居場所",
+      "summary": "広島の辰見鴻之介内野手が9日、自身の公式インスタグラムを更新し、移籍1年目となった今季を振り返った。昨年12月に現役ドラフトで楽天から加入し、代走の切り札として47年ぶりとなるNPBシーズン代走盗塁新記録を樹立。さらに侍ジャパンへの初選出を…",
+      "link": "https://full-count.jp/2026/10/10/post2028799/",
+      "pubDate": "2026-10-10T01:47:08.000Z",
+      "source": "Full-Count（プロ野球）",
+      "sourceId": "full-count-npb",
+      "teams": [
+        "carp"
+      ],
+      "topics": [
+        "trade",
+        "draft"
+      ],
+      "sources": [
+        {
+          "name": "Full-Count（プロ野球）",
+          "sourceId": "full-count-npb",
+          "link": "https://full-count.jp/2026/10/10/post2028799/"
+        }
+      ]
+    },
+    {
+      "title": "“山川外し”で3連覇、王者ソフトバンクの真の凄さ 小久保監督の巧みな采配、他球団との差",
+      "summary": "長かったレギュラーシーズンが終了し、10日からCSファーストステージが開幕。パ・リーグで3連覇を果たしたソフトバンクは西武-日本ハムの勝者と対戦する。2位の西武に11.5ゲーム差をつけて独走した絶対王者は果たして何が凄いのか。盗塁王を獲得す…",
+      "link": "https://full-count.jp/2026/10/10/post2028672/",
+      "pubDate": "2026-10-10T01:32:04.000Z",
+      "source": "Full-Count（プロ野球）",
+      "sourceId": "full-count-npb",
+      "teams": [
+        "hawks"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Full-Count（プロ野球）",
+          "sourceId": "full-count-npb",
+          "link": "https://full-count.jp/2026/10/10/post2028672/"
+        }
+      ]
+    },
+    {
+      "title": "【DeNA】対巨人戦でCS用の継投あるか メジャーでは守護神の回またぎ、先発の中継ぎ起用多用(日刊スポーツ)",
+      "summary": "＜セ・CSファーストステージ：巨人－DeNA＞◇第1戦◇10日◇東京ドーム DeNAが10日、「2026 JERA クライマックスシリーズ セ」の巨人とのCSファーストステージ初戦を迎える。【イラスト",
+      "link": "https://news.yahoo.co.jp/articles/4df8a69c56cb26e9fae7de8fbabc2eb20a614e16?source=rss",
+      "pubDate": "2026-10-10T01:26:40.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "baystars"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/4df8a69c56cb26e9fae7de8fbabc2eb20a614e16?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "楽天、11月21日にろっけんベースボールフェスタを東北6県で開催",
+      "summary": "楽天は10日、、野球やスポーツを通じて、子どもたちの夢を育み、東北の皆さまに元気と感動を届ける活動『TOHOKU SMILE ACTION』の一環として、11月21日（土）楽天イーグルスの選手が子どもたちに向けて野球の […]",
+      "link": "https://baseballking.jp/ns/709532/",
+      "pubDate": "2026-10-10T01:17:11.000Z",
+      "source": "BASEBALL KING",
+      "sourceId": "baseballking",
+      "teams": [
+        "eagles"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "BASEBALL KING",
+          "sourceId": "baseballking",
+          "link": "https://baseballking.jp/ns/709532/"
+        }
+      ]
+    },
+    {
+      "title": "負傷翌日もバットを握った…西武・渡部聖弥が「手放したくなかった」新たな持ち場 プロ2年目に見つけた成長の手応え【インタビュー】",
+      "summary": "埼玉西武ライオンズの渡部聖弥内野手は、プロ2年目の今季、129試合に出場し、2年連続となる12本塁打を記録した。しかし、本人の口から出たのは「もう少しできた」という言葉だった。1年目に見つかった課題と向き合いながら、試行錯誤を重ねた一年でも…",
+      "link": "https://www.baseballchannel.jp/npb/294728/",
+      "pubDate": "2026-10-10T01:15:10.000Z",
+      "source": "ベースボールチャンネル（プロ野球）",
+      "sourceId": "baseballchannel-npb",
+      "teams": [
+        "lions"
+      ],
+      "topics": [
+        "injury"
+      ],
+      "sources": [
+        {
+          "name": "ベースボールチャンネル（プロ野球）",
+          "sourceId": "baseballchannel-npb",
+          "link": "https://www.baseballchannel.jp/npb/294728/"
+        }
+      ]
+    },
+    {
+      "title": "笘篠賢治氏、巨人・泉口を太鼓判「バッティング技術、能力は一番高い」",
+      "summary": "8日にフジテレビONEで放送された『プロ野球ニュース2026』に出演した笘篠賢治氏が、巨人のCSファーストステージのキーマンに泉口友汰の名前を挙げた。 笘篠氏は「確率という部分を含めて、バッティングの技術、能力は1番 […]",
+      "link": "https://baseballking.jp/ns/709501/",
+      "pubDate": "2026-10-10T01:00:00.000Z",
+      "source": "BASEBALL KING",
+      "sourceId": "baseballking",
+      "teams": [
+        "giants"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "BASEBALL KING",
+          "sourceId": "baseballking",
+          "link": "https://baseballking.jp/ns/709501/"
+        }
+      ]
+    },
+    {
+      "title": "今年のCSは“はしご”が可能!？試合序盤に東京ドームを出るとベルーナドームに着くのは…(日刊スポーツ)",
+      "summary": "セ・パ両リーグのクライマックスシリーズは9日、ファーストステージが開幕する。今年はどちらも午後2時から首都圏の球場で行われる。「2026 JERAクライマックスシリーズ セ」の巨人－DeNAが行われる",
+      "link": "https://news.yahoo.co.jp/articles/14c8cee6454db552179cbf98572ad8529e96f7d8?source=rss",
+      "pubDate": "2026-10-10T00:44:13.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/14c8cee6454db552179cbf98572ad8529e96f7d8?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【DeNA】今季巨人戦は12勝13敗 １点差が14試合、２点差が２試合、３点差が３試合／対戦一覧(日刊スポーツ)",
+      "summary": "＜セ・CSファーストステージ：巨人－DeNA＞◇第1戦◇10日◇東京ドーム DeNAが10日、「JERA クライマックスシリーズ セ」の巨人とのCSファーストステージ初戦を迎える。【写真】今季の巨人－",
+      "link": "https://news.yahoo.co.jp/articles/3cb4d129f8adb9200a5356b3d9f3e1722b71b214?source=rss",
+      "pubDate": "2026-10-10T00:23:14.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "baystars"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/3cb4d129f8adb9200a5356b3d9f3e1722b71b214?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【DeNA】いざCS！エース東克樹、巨人は井上温大 キラー同士先発で投手戦予想 12勝13敗(日刊スポーツ)",
+      "summary": "＜セ・CSファーストステージ：巨人－DeNA＞◇第1戦◇10日◇東京ドーム DeNAが10日、「JERA クライマックスシリーズ セ」の巨人とのCSファーストステージ初戦を迎える。【写真】セ・CSファ",
+      "link": "https://news.yahoo.co.jp/articles/6cd5d3746ad67ebea65dfde9e4716617f51cf385?source=rss",
+      "pubDate": "2026-10-10T00:17:17.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "baystars",
+        "giants"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/6cd5d3746ad67ebea65dfde9e4716617f51cf385?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【巨人】現役ドラフトで加入の松浦慶斗が１年で自由契約 ２軍で39試合登板、防御率4・57(日刊スポーツ)",
+      "summary": "巨人は9日、松浦慶斗投手（23）に自由契約とすることを通知したと発表した。 昨季まで日本ハムでプレーした左腕で、昨年の現役ドラフトで巨人に加入。今季は1軍登板がなく、ファームでは39試合で防御率4・5",
+      "link": "https://news.yahoo.co.jp/articles/0d2d17a5ec78efb9038a19365c75b0f6c828cf32?source=rss",
+      "pubDate": "2026-10-10T00:00:01.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "giants"
+      ],
+      "topics": [
+        "trade",
+        "draft"
+      ],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/0d2d17a5ec78efb9038a19365c75b0f6c828cf32?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "西武・小島、プロ1年目からCS出場なるか？大矢氏「ものすごい勉強になる」",
+      "summary": "8日にフジテレビONEで放送された『プロ野球ニュース2026』に出演した大矢明彦氏が、西武・小島大河について言及した。 大矢氏は「ルーキーのキャッチャーでこれだけ活躍して、西武は去年まであまり強くなかった。今年入団し […]",
+      "link": "https://baseballking.jp/ns/709523/",
+      "pubDate": "2026-10-10T00:00:00.000Z",
+      "source": "BASEBALL KING",
+      "sourceId": "baseballking",
+      "teams": [
+        "lions"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "BASEBALL KING",
+          "sourceId": "baseballking",
+          "link": "https://baseballking.jp/ns/709523/"
+        }
+      ]
+    },
+    {
+      "title": "ロッテ・寺地隆成「もっとレベルを上げていける」8月終了時点の打率.185 → 9・10月は打率.327",
+      "summary": "ロッテの寺地隆成は8月終了時点で打率.185だったが、9・10月は打率.327をマークし、最終的には打率.224でシーズンを終えた。 9月に入ってからは体勢を崩されながらも、安打にすることが多かった。9月19日の西武 […]",
+      "link": "https://baseballking.jp/ns/709514/",
+      "pubDate": "2026-10-09T23:25:46.000Z",
+      "source": "BASEBALL KING",
+      "sourceId": "baseballking",
+      "teams": [
+        "marines"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "BASEBALL KING",
+          "sourceId": "baseballking",
+          "link": "https://baseballking.jp/ns/709514/"
+        }
+      ]
+    },
     {
       "title": "スポーツと企業をつなぐ福岡発のイベント「スポーツコネクト福岡2026」 セミナーにはソフトバンクホークスOB馬原孝浩氏、西スポWEB OTTO！編集長も登壇(西スポWEB OTTO!)",
       "summary": "福岡県発のスポーツビジネスマッチングイベント「Sports Connect FUKUOKA 2026」の開催概要が発表された。■【関連】イベントの概要はこちら イベントは公益財団法人福岡県スポーツ推進",
@@ -119,11 +478,6 @@
           "name": "BASEBALL KING",
           "sourceId": "baseballking",
           "link": "https://baseballking.jp/ns/709509/"
-        },
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/77f94aee92095edea08846bbbd02f3849310ef2c?source=rss"
         }
       ]
     },
@@ -326,11 +680,6 @@
           "name": "BASEBALL KING",
           "sourceId": "baseballking",
           "link": "https://baseballking.jp/ns/709505/"
-        },
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/031d6a17c1caede679f85735efd4fc348eaaa8d4?source=rss"
         }
       ]
     },
@@ -350,11 +699,6 @@
           "name": "BASEBALL KING",
           "sourceId": "baseballking",
           "link": "https://baseballking.jp/ns/709499/"
-        },
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/025a9d84464fc21b0b9782582d45cbd5be91a5fe?source=rss"
         }
       ]
     },
@@ -65639,400 +65983,6 @@
           "name": "ベースボールチャンネル（プロ野球）",
           "sourceId": "baseballchannel-npb",
           "link": "https://www.baseballchannel.jp/npb/288734/"
-        }
-      ]
-    },
-    {
-      "title": "2軍落ちで葛藤…DeNA林琢真を“変えた”「MAJOR」 気づいた役目、再開した野球ノート「1回忘れよう」",
-      "summary": "2軍落ちで葛藤したDeNA林琢真。野球アニメ「MAJOR」の主人公に感銘を受けて思考を変化させ、野球ノートも再開した。チームの勝利のために役割を全うする姿に迫る。",
-      "link": "https://full-count.jp/2026/09/10/post2014622/",
-      "pubDate": "2026-09-10T02:15:11.000Z",
-      "source": "Full-Count（プロ野球）",
-      "sourceId": "full-count-npb",
-      "teams": [
-        "baystars"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Full-Count（プロ野球）",
-          "sourceId": "full-count-npb",
-          "link": "https://full-count.jp/2026/09/10/post2014622/"
-        }
-      ]
-    },
-    {
-      "title": "【ソフトバンク】古巣相手に完璧弾…球界屈指の“安打製造機”が14試合ぶり26号 自己最多タイに到達",
-      "summary": "福岡ソフトバンクホークスの近藤健介外野手は9日、本拠地・みずほPayPayドームで行われた北海道日本ハムファイターズ戦に「3番・左翼」でスタメン出場。初回に今季26号となる先制ソロ本塁打を放った。",
-      "link": "https://www.baseballchannel.jp/npb/288721/",
-      "pubDate": "2026-09-10T02:14:07.000Z",
-      "source": "ベースボールチャンネル（プロ野球）",
-      "sourceId": "baseballchannel-npb",
-      "teams": [
-        "hawks"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "ベースボールチャンネル（プロ野球）",
-          "sourceId": "baseballchannel-npb",
-          "link": "https://www.baseballchannel.jp/npb/288721/"
-        }
-      ]
-    },
-    {
-      "title": "張本勲氏が死去 NPB通算3085安打、引退後はサンモニで人気",
-      "summary": "日本プロ野球名球会オフィシャルサイトは10日、張本勲氏が2026年9月9日午後に逝去したことを発表した。享年86。 張本氏は現役時代東映、巨人、ロッテでプレーし、7度の首位打者、9度の最高出塁率、MVP1度を獲得し、 […]",
-      "link": "https://baseballking.jp/ns/706683/",
-      "pubDate": "2026-09-10T01:53:13.000Z",
-      "source": "BASEBALL KING",
-      "sourceId": "baseballking",
-      "teams": [
-        "giants",
-        "marines"
-      ],
-      "topics": [
-        "retirement"
-      ],
-      "sources": [
-        {
-          "name": "BASEBALL KING",
-          "sourceId": "baseballking",
-          "link": "https://baseballking.jp/ns/706683/"
-        }
-      ]
-    },
-    {
-      "title": "張本勲さん死去 今も残るプロ野球記録 「通算3085安打」「首位打者7度」はNPB歴代最高(スポニチアネックス)",
-      "summary": "元プロ野球選手で野球解説者の張本勲（はりもと・いさお）さんが死去したことがわかった。86歳。日本プロ野球名球会が発表した。東映や巨人などで活躍し、数々の金字塔を打ち立てた張本さんが残した記録は、今な",
-      "link": "https://news.yahoo.co.jp/articles/85d9cc39f0042be91791603c64909a2044d245b8?source=rss",
-      "pubDate": "2026-09-10T01:38:43.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "giants"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/85d9cc39f0042be91791603c64909a2044d245b8?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【評伝】張本勲さん「原爆症がいつ出るかわからない恐怖はある」広島にて５歳で被爆 努力と創意工夫で放った３０８５安打(スポーツ報知)",
-      "summary": "東映や巨人などで活躍し、日本プロ野球最多となる通算３０８５安打を放った野球解説者の張本勲（はりもと・いさお）さんが死去した。８６歳だった。 ＊ ＊ ＊ 東映、巨人、ロッテと渡り歩き、打数４０",
-      "link": "https://news.yahoo.co.jp/articles/99289f05585a47dfdc846c6d3b784cf1dd3c9ae8?source=rss",
-      "pubDate": "2026-09-10T01:38:40.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "carp"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/99289f05585a47dfdc846c6d3b784cf1dd3c9ae8?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "張本勲さん死去 日韓野球界に尽力 プロ野球殿堂入り＆韓国最高位級の勲章「無窮花章」のW偉業(スポニチアネックス)",
-      "summary": "元プロ野球選手で野球解説者の張本勲（はりもと・いさお）さんが死去したことがわかった。86歳。日本プロ野球名球会が発表した。東映や巨人などで活躍し、プロ野球史上初となる通算3000本安打を達成するなど",
-      "link": "https://news.yahoo.co.jp/articles/23dd51762795fee17af230b453f4639b2f082b14?source=rss",
-      "pubDate": "2026-09-10T01:37:33.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "giants"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/23dd51762795fee17af230b453f4639b2f082b14?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "張本勲さん死去、8月2日のサンモニ生出演でも「あっぱれ」、“張本節”で阪神・佐藤輝の打撃などを解説(スポニチアネックス)",
-      "summary": "元プロ野球選手で野球解説者の張本勲（はりもと・いさお）さんが、9日午前に死去したことが分かった。86歳。日本プロ野球名球会が発表した。東映や巨人などで活躍し、プロ野球史上初となる通算3000本安打を",
-      "link": "https://news.yahoo.co.jp/articles/f0ba1118789fbfd868ecf1015796696b56084b0d?source=rss",
-      "pubDate": "2026-09-10T01:36:19.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "tigers",
-        "giants"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/f0ba1118789fbfd868ecf1015796696b56084b0d?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "張本勲さん死去、86歳 プロ野球最多3085安打 「喝！」「あっぱれ！」が名文句のコメンテーターとしても活躍(サンケイスポーツ)",
-      "summary": "東映、日本ハム、巨人などでプロ野球ただ一人の通算3000安打をマークし、プロ野球最多の首位打者7度に輝いて「安打製造機」の異名を取った張本勲（はりもと・いさお）さんが9日に東京都内の病院で死去した。8",
-      "link": "https://news.yahoo.co.jp/articles/282e750e60a8297c03ff4d9a25bedf4274ce3985?source=rss",
-      "pubDate": "2026-09-10T01:34:17.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "fighters",
-        "giants"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/282e750e60a8297c03ff4d9a25bedf4274ce3985?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【プロ野球】今中慎二が伸び悩む髙橋宏斗らに提言「答えを出すための式を理解しないといけない」(webスポルティーバ)",
-      "summary": "近年、低迷が続く中日。ピッチャー陣はベテラン陣が奮闘するも、髙橋宏斗、金丸夢斗ら期待の投手たちは負けが先行するなど、苦しい戦いが続いている。チームが上位にいくためには何が必要なのか。かつて中日のエース",
-      "link": "https://news.yahoo.co.jp/articles/4e4ad2e693ff8619349ebc64d8a9030d2ecbf3c6?source=rss",
-      "pubDate": "2026-09-10T01:32:58.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "dragons"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/4e4ad2e693ff8619349ebc64d8a9030d2ecbf3c6?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "登録名を4度も変更「30過ぎのオッチャンが」 球団幹部がまさかの提案、実感する“効果”",
-      "summary": "西武、DeNAで活躍し、現役時代に登録名を4度変更した後藤武敏氏がポッドキャスト番組「Full-Count LAB―探求のカケラ―」に出演。異色の愛称の誕生秘話と“名前を変える”ことに込めた覚悟を明かした。",
-      "link": "https://full-count.jp/2026/09/10/post2014534/",
-      "pubDate": "2026-09-10T01:32:08.000Z",
-      "source": "Full-Count（プロ野球）",
-      "sourceId": "full-count-npb",
-      "teams": [
-        "lions",
-        "baystars"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Full-Count（プロ野球）",
-          "sourceId": "full-count-npb",
-          "link": "https://full-count.jp/2026/09/10/post2014534/"
-        }
-      ]
-    },
-    {
-      "title": "張本勲さん死去 「喝！」でお茶の間の顔に “安打製造機”から“辛口評論家”へ「あっぱれ！」(スポニチアネックス)",
-      "summary": "元プロ野球選手で野球解説者の張本勲（はりもと・いさお）さんが、9日午前に死去したことがわかった。86歳。日本プロ野球名球会の公式サイトで発表した。東映や巨人などで活躍し、プロ野球史上初となる通算30",
-      "link": "https://news.yahoo.co.jp/articles/40fc7c60b518ef8f9267b9d36822f1ab66745566?source=rss",
-      "pubDate": "2026-09-10T01:31:15.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "giants"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/40fc7c60b518ef8f9267b9d36822f1ab66745566?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "張本勲さん死去 86歳 プロ野球史上初の3000本安打達成 大記録残した「安打製造機」 名球会が追悼(スポニチアネックス)",
-      "summary": "元プロ野球選手で野球解説者の張本勲（はりもと・いさお）さんが、9日午前に死去したことがわかった。86歳。日本プロ野球名球会が発表した。東映や巨人などで活躍し、プロ野球史上初となる通算3000本安打を",
-      "link": "https://news.yahoo.co.jp/articles/529e19c35981f03c83f6da66a43bfd401ef590e9?source=rss",
-      "pubDate": "2026-09-10T01:29:10.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "giants"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/529e19c35981f03c83f6da66a43bfd401ef590e9?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "プロ野球の張本勲さん死去 歴代最多安打(共同通信)",
-      "summary": "プロ野球歴代最多の通算3085安打を放ち「安打製造機」の異名を取った張本勲さん（86）が9日に東京都内の病院で死去した。広島市出身。関係者が10日、明らかにした。",
-      "link": "https://news.yahoo.co.jp/articles/b54566aac66c404f83907cb9964c659ce5d7266d?source=rss",
-      "pubDate": "2026-09-10T01:28:45.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "carp"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/b54566aac66c404f83907cb9964c659ce5d7266d?source=rss"
-        },
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/1af4c6c8cdba10ee8f118647801c5d533da6c2a7?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "張本勲さん、86歳で死去「あっぱれ」プロ野球最多3085安打「喝！」の台詞でスポーツ界に活力(日刊スポーツ)",
-      "summary": "日本プロ野球史に名を残す「安打製造機」の異名で、東映、巨人、ロッテで外野手として活躍した張本勲さんが9日午前、死去した。名球会が発表した。86歳だった。 プロ野球歴代1位の通算3085安打を放ち",
-      "link": "https://news.yahoo.co.jp/articles/3cd82835850bac13621cc3d4ee9e66e15fa7ab3f?source=rss",
-      "pubDate": "2026-09-10T01:26:43.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "giants",
-        "marines"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/3cd82835850bac13621cc3d4ee9e66e15fa7ab3f?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "張本勲さん死去 ８６歳 プロ野球最多３０８５安打 唯一の３０００安打達成者 「喝！」でもお茶の間に愛される(スポーツ報知)",
-      "summary": "東映や巨人などで活躍し、日本プロ野球最多となる通算３０８５安打を放った野球評論家の張本勲（はりもと・いさお）さんが９日午前に都内の病院で死去した。８６歳だった。日本プロ野球名球会オフィシャルサイトが",
-      "link": "https://news.yahoo.co.jp/articles/62c0c826c5db7cd0427e87f501f82f7b600eb303?source=rss",
-      "pubDate": "2026-09-10T01:25:16.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "giants"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/62c0c826c5db7cd0427e87f501f82f7b600eb303?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "8月度の月間MVPを発表！セはマラー、サトテル、パは隅田、山口が受賞",
-      "summary": "日本野球機構は9日、8月度の「大樹生命月間MVP賞」を発表した。セ・リーグは投手部門がマラー（中日）が初受賞、打者部門は佐藤輝明（阪神）が5月以来5度目、今季3度目の受賞、パ・リーグは投手部門が隅田知一郎（西武）が25 […]",
-      "link": "https://baseballking.jp/ns/706668/",
-      "pubDate": "2026-09-10T01:08:27.000Z",
-      "source": "BASEBALL KING",
-      "sourceId": "baseballking",
-      "teams": [
-        "dragons",
-        "tigers",
-        "lions"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "BASEBALL KING",
-          "sourceId": "baseballking",
-          "link": "https://baseballking.jp/ns/706668/"
-        }
-      ]
-    },
-    {
-      "title": "【ヤクルト】山野太一うつむき加減「本当に僕のせいで…」流れを「止められるようにならないと」(日刊スポーツ)",
-      "summary": "＜DeNA9－2ヤクルト＞◇9日◇横浜 ヤクルトが流れをつかみきれず結果的に大敗し、自力でのクライマックスシリーズ進出の可能性が消滅した。CS争いで重要な3、4位直接対決。7回途中雨天コールドで敗",
-      "link": "https://news.yahoo.co.jp/articles/c629402cad6f2f3c00fc44414dfad25377f40477?source=rss",
-      "pubDate": "2026-09-10T01:00:02.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "swallows"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/c629402cad6f2f3c00fc44414dfad25377f40477?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【巨人】森田駿哉が19試合連続無失点 杉内投手コーチが明かす中継ぎ転向のワケとは(日刊スポーツ)",
-      "summary": "＜巨人5－1中日＞◇9日◇東京ドーム 巨人杉内俊哉投手チーフコーチ（45）が、19試合連続無失点の森田駿哉投手（29）をたたえた。 4点リードの7回に登板し3者凡退に切った左腕に「安定していま",
-      "link": "https://news.yahoo.co.jp/articles/2cafa3e72e0ad9212b499bf8b96b9d317db698cd?source=rss",
-      "pubDate": "2026-09-10T01:00:01.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "giants"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/2cafa3e72e0ad9212b499bf8b96b9d317db698cd?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "「マジで大谷ぽい」 日本ハム20歳に漂うオーラ…腕＆構えも“激似”、証明した二刀流の片鱗",
-      "summary": "日本ハムの柴田獅子投手が9日、みずほPayPayドームで行われたソフトバンク戦に「6番・指名打者」で先発出場。プロ初安打を含む4打数2安打の活躍を見せた。技あり打に凄まじい打球音。ファンは“オーラ”漂う打撃フォームに、二刀流の先輩・大谷翔平…",
-      "link": "https://full-count.jp/2026/09/10/post2014548/",
-      "pubDate": "2026-09-10T00:31:56.000Z",
-      "source": "Full-Count（プロ野球）",
-      "sourceId": "full-count-npb",
-      "teams": [
-        "fighters"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Full-Count（プロ野球）",
-          "sourceId": "full-count-npb",
-          "link": "https://full-count.jp/2026/09/10/post2014548/"
-        }
-      ]
-    },
-    {
-      "title": "「人間兵器だろ」 SB周東の常軌を逸したスピードに騒然「33km/h出てる…」満塁ランニング弾解析で判明(THE ANSWER)",
-      "summary": "プロ野球、ソフトバンクの周東佑京外野手が放った爆速ランニング本塁打がファンの話題となっている。データ提供アプリの「NPB＋」が公式Xに公開した、驚異のスピードがひと目でわかる動画に「人間兵器だろ」「",
-      "link": "https://news.yahoo.co.jp/articles/6c9c53b4d73249bdcb5fd0f66ccdecf895cdac75?source=rss",
-      "pubDate": "2026-09-09T23:33:00.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "hawks"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/6c9c53b4d73249bdcb5fd0f66ccdecf895cdac75?source=rss"
         }
       ]
     }
