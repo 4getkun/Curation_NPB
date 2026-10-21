@@ -1,7 +1,553 @@
 {
-  "generatedAt": "2026-10-21T00:12:37.187Z",
-  "count": 3190,
+  "generatedAt": "2026-10-21T05:03:21.740Z",
+  "count": 3205,
   "items": [
+    {
+      "title": "「スカパー！サヨナラ賞」セは阪神大山悠輔が３度目、パはロッテ山口航輝が２カ月連続受賞(日刊スポーツ)",
+      "summary": "セ、パ両リーグは21日、「スカパー！ サヨナラ賞」の9、10月度受賞者を発表した。セ・リーグは阪神大山悠輔内野手（31）が3度目の受賞。9月21日のDeNA22回戦で同点の延長11回裏1死走者なしから",
+      "link": "https://news.yahoo.co.jp/articles/ffe70ab84e4e517a39161aba3853f2a06205202b?source=rss",
+      "pubDate": "2026-10-21T05:01:22.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "tigers",
+        "marines"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/ffe70ab84e4e517a39161aba3853f2a06205202b?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【巨人】吉村禎章ＣＢＯ、国松徹球団社長ら６人がドラフト会議出席予定 監督不在は１１年ぶり(スポーツ報知)",
+      "summary": "巨人は２１日、「２０２６年 プロ野球ドラフト会議 ｓｕｐｐｏｒｔｅｄ ｂｙ リポビタンＤ」（２２日開催）へ向けて都内の球団事務所でスカウト会議を行った。【イラスト】２０２６ドラフト番付 横綱から三役",
+      "link": "https://news.yahoo.co.jp/articles/aaf0fe5f864b8ac1692cf196881a6a972b689aea?source=rss",
+      "pubDate": "2026-10-21T04:59:11.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "giants"
+      ],
+      "topics": [
+        "draft"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/aaf0fe5f864b8ac1692cf196881a6a972b689aea?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【巨人】退任の実松一成コーチ「チャレンジさせていただこうと」球団に感謝、今後は未定(日刊スポーツ)",
+      "summary": "今季限りでの退任が発表された巨人実松一成1軍バッテリーコーチ（45）が21日、川崎市・ジャイアンツ球場を訪れ、荷物整理を行った。自ら退団を申し出たといい、「ちょっとチャレンジさせていただこうと思いまし",
+      "link": "https://news.yahoo.co.jp/articles/0f5a33a1853dfd447b5a3bf1c72e0e53d0311659?source=rss",
+      "pubDate": "2026-10-21T04:57:04.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "giants"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/0f5a33a1853dfd447b5a3bf1c72e0e53d0311659?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【巨人】ドラフト１位は当日決定「候補は１２人」全体リストには１００人 支配下は５人前後を想定(スポーツ報知)",
+      "summary": "巨人は２１日、東京・大手町の球団事務所でスカウト会議を行い、２２日の「２０２６年 プロ野球ドラフト会議 ｓｕｐｐｏｒｔｅｄ ｂｙ リポビタンＤ」に向けて準備した。【イラスト】２０２６ドラフト番付 横綱",
+      "link": "https://news.yahoo.co.jp/articles/f96beb101df2e6dc2045999040c3b08bf5de6809?source=rss",
+      "pubDate": "2026-10-21T04:55:34.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "giants"
+      ],
+      "topics": [
+        "draft"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/f96beb101df2e6dc2045999040c3b08bf5de6809?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "巨人、11年ぶりに監督不在でドラフト会議へ 抽選役は水野雄仁編成本部長(サンケイスポーツ)",
+      "summary": "巨人は21日、次期監督が発表されていない異例事態の中、東京・大手町の球団事務所で22日のドラフト会議へ向けたスカウト会議を開いた。報道陣に対応した榑松スカウト部スカウトディレクター（50）は「明日監督",
+      "link": "https://news.yahoo.co.jp/articles/e8ea5dfedaacd701ee0861ca02a9a1f4de54383e?source=rss",
+      "pubDate": "2026-10-21T04:48:33.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "giants"
+      ],
+      "topics": [
+        "draft"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/e8ea5dfedaacd701ee0861ca02a9a1f4de54383e?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【巨人】１位指名公表なし「候補12人。当日のテーブルで決める」昨年は竹丸を公表して一本釣り(日刊スポーツ)",
+      "summary": "巨人は21日、都内の事務所でスカウト会議を開き、1位指名については当日判断を決めた。【写真】榑松伸介スカウトディレクター 22日のドラフト会議を翌日に控え、榑松伸介スカウトディレクター（50）が「1位",
+      "link": "https://news.yahoo.co.jp/articles/032e8f1dc0a1c28245c2584ece78e9c884fb2a1b?source=rss",
+      "pubDate": "2026-10-21T04:45:31.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "giants"
+      ],
+      "topics": [
+        "draft"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/032e8f1dc0a1c28245c2584ece78e9c884fb2a1b?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【ドラフト】巨人スカウトが読み解く事前公表なしの理由「評価が大きく分かれているのかも」(日刊スポーツ)",
+      "summary": "「球界の盟主」も公表なしだった。 巨人は21日、都内の事務所でスカウト会議を開き、22日のドラフト会議での1位指名については当日判断とすることを決めた。榑松伸介スカウトディレクター（50）が「1位候補",
+      "link": "https://news.yahoo.co.jp/articles/14b342fc3bd39db96b5a344f66e7242660db9bc6?source=rss",
+      "pubDate": "2026-10-21T04:44:52.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "giants"
+      ],
+      "topics": [
+        "draft"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/14b342fc3bd39db96b5a344f66e7242660db9bc6?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【巨人】ドラフト会議は監督不在 来季指揮官発表なく11年ぶりの異例の体制に(日刊スポーツ)",
+      "summary": "巨人が異例の「監督不在」でドラフト会議に臨むことになった。 22日のドラフト会議を翌日に控えた21日、都内の事務所でスカウト会議が開かれ、榑松伸介スカウトディレクター（50）が「明日は監督が出られない",
+      "link": "https://news.yahoo.co.jp/articles/7a59fb7d471e5e57c2c454a176b505e64d54f719?source=rss",
+      "pubDate": "2026-10-21T04:30:59.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "giants"
+      ],
+      "topics": [
+        "draft"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/7a59fb7d471e5e57c2c454a176b505e64d54f719?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "バファローズが“獲得”する…？オリックスのドラフト指名候補（4）WBCブラジル代表の本格派…最速152キロ左腕(ベースボールチャンネル)",
+      "summary": "「2026年プロ野球ドラフト会議 supported by リポビタンD」が、10月22日に行われる。ドラフト会議はチーム編成を強固にする上で重要な役割を果たし、その戦略は来季以降の戦力に大きな影響を",
+      "link": "https://news.yahoo.co.jp/articles/4ab90cbee35daf3203eed759b2eaf38679d63170?source=rss",
+      "pubDate": "2026-10-21T04:30:17.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "buffaloes"
+      ],
+      "topics": [
+        "draft"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/4ab90cbee35daf3203eed759b2eaf38679d63170?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "巨人、1位指名は当日決定へ 榑松スカウトディレクター「候補は12人」(サンケイスポーツ)",
+      "summary": "巨人は21日、次期監督が発表されていない異例事態の中、東京・大手町の球団事務所で22日のドラフト会議へ向けたスカウト会議を開いた。報道陣に対応した榑松伸介スカウト部スカウトディレクター（50）は1位指",
+      "link": "https://news.yahoo.co.jp/articles/9b6efeaf505fd5dd013443ba4b8457d368ed24c6?source=rss",
+      "pubDate": "2026-10-21T04:27:21.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "giants"
+      ],
+      "topics": [
+        "draft"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/9b6efeaf505fd5dd013443ba4b8457d368ed24c6?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【巨人】監督不在のドラフト…競合の場合は水野雄仁編成本部長がくじ引き役 過去１０年のドラ１とくじ引き結果は？(スポーツ報知)",
+      "summary": "巨人は２１日、都内の球団事務所でスカウト会議を行い、２２日に開催される「２０２６年 プロ野球ドラフト会議 ｓｕｐｐｏｒｔｅｄ ｂｙ リポビタンＤ」でドラフト１位指名が競合となった場合、水野雄仁編成本部",
+      "link": "https://news.yahoo.co.jp/articles/75bc6f3bd8254c1b6acd4a17248af5d46320800f?source=rss",
+      "pubDate": "2026-10-21T04:24:32.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "giants"
+      ],
+      "topics": [
+        "draft"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/75bc6f3bd8254c1b6acd4a17248af5d46320800f?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "CS最終戦で2打席連発も…！阪神の“若き大砲”がシーズン終了を報告 「悔いはないです」(ベースボールチャンネル)",
+      "summary": "阪神タイガースの森下翔太選手が20日、自身のインスタグラムを更新。帽子を取ってファンの声援に応える姿や打席でのスイング、ベンチ前でチームメートと喜び合う場面など、7枚の写真を添えて今季を振り返った。【",
+      "link": "https://news.yahoo.co.jp/articles/f78c160c89f0925353c180d76bb3df0c5b3da202?source=rss",
+      "pubDate": "2026-10-21T04:15:08.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "tigers"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/f78c160c89f0925353c180d76bb3df0c5b3da202?source=rss"
+        },
+        {
+          "name": "ベースボールチャンネル（プロ野球）",
+          "sourceId": "baseballchannel-npb",
+          "link": "https://www.baseballchannel.jp/npb/296703/"
+        }
+      ]
+    },
+    {
+      "title": "ファイターズガールが貴重なオーバーオール姿公開も「もはや、りんご農家さんだった」(日刊スポーツ)",
+      "summary": "日本ハムの公式チア「ファイターズガール」のメンバーで、11月に行われる「ラグザス アジアプロ野球チャンピオンシップ2026」に向けて結成された侍ジャパンチアチームに参加する鈴木志織さんが、21日までに",
+      "link": "https://news.yahoo.co.jp/articles/2f232ba1a5d238f3040f011e5dcd7fcc526ac140?source=rss",
+      "pubDate": "2026-10-21T04:09:31.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "fighters"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/2f232ba1a5d238f3040f011e5dcd7fcc526ac140?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "U-NEXT、日本シリーズ最大5試合をライブ配信！ DeNA対ソフトバンク、ヒーローインタビューまでノーカット",
+      "summary": "U-NEXTは21日、10月24日に開幕する「SMBC日本シリーズ2026」のうち、横浜DeNAベイスターズと福岡ソフトバンクホークスが対戦する第1、2、3、6、7戦の最大5試合を、見放題でライブ配信することを発表した。月額会員は追加料金な…",
+      "link": "https://www.baseballchannel.jp/npb/296713/",
+      "pubDate": "2026-10-21T04:07:48.000Z",
+      "source": "ベースボールチャンネル（プロ野球）",
+      "sourceId": "baseballchannel-npb",
+      "teams": [
+        "baystars",
+        "hawks"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "ベースボールチャンネル（プロ野球）",
+          "sourceId": "baseballchannel-npb",
+          "link": "https://www.baseballchannel.jp/npb/296713/"
+        }
+      ]
+    },
+    {
+      "title": "【阪神】大山悠輔が９、10月度「スカパー！サヨナラ賞」を受賞 ２カ月連続受賞はセ・リーグ初(日刊スポーツ)",
+      "summary": "阪神大山悠輔内野手（31）が21日、9、10月度の「スカパー！サヨナラ賞」を受賞した。8月に続き2カ月連続受賞は16年レアード（日本ハム）以来でセ・リーグでは初となった。【写真】サヨナラ賞のボードを手",
+      "link": "https://news.yahoo.co.jp/articles/fbd353585ba2b54016ad6e558504d0d574d4b63f?source=rss",
+      "pubDate": "2026-10-21T04:00:01.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "tigers"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/fbd353585ba2b54016ad6e558504d0d574d4b63f?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【ロッテ】山口航輝「こんなに劇的な」唐川侑己の引退試合弾で「スカパー！サヨナラ賞」連続受賞(日刊スポーツ)",
+      "summary": "ロッテ山口航輝外野手（26）が9、10月度「スカパー！ サヨナラ賞」パ・リーグ部門に選ばれた。10月3日のソフトバンク25回戦（ZOZOマリン）、1－1の9回先頭打者でサヨナラ本塁打。8月度以来2カ月",
+      "link": "https://news.yahoo.co.jp/articles/5156f88da06f64f50c68df1cda933535f2132f57?source=rss",
+      "pubDate": "2026-10-21T04:00:01.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "marines"
+      ],
+      "topics": [
+        "retirement"
+      ],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/5156f88da06f64f50c68df1cda933535f2132f57?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "ロッテ・山口航輝、2ヶ月連続で『スカパー!サヨナラ賞』を受賞「打った瞬間に獲れただろうと」年間大賞にも自信",
+      "summary": "「2ヶ月連続で選んでいただきありがとうございます」 ロッテの山口航輝が21日、9・10月度の「スカパー！サヨナラ賞」を受賞した。山口は8月度に続き2ヶ月連続での受賞となった。 山口は唐川侑己の引退試合となった10月 […]",
+      "link": "https://baseballking.jp/ns/710340/",
+      "pubDate": "2026-10-21T04:00:00.000Z",
+      "source": "BASEBALL KING",
+      "sourceId": "baseballking",
+      "teams": [
+        "marines"
+      ],
+      "topics": [
+        "retirement"
+      ],
+      "sources": [
+        {
+          "name": "BASEBALL KING",
+          "sourceId": "baseballking",
+          "link": "https://baseballking.jp/ns/710340/"
+        }
+      ]
+    },
+    {
+      "title": "小島大河が1軍完走、岩城颯空はパ最速10S 未来を照らす若獅子たち…西武ルーキーの1年",
+      "summary": "昨季5位からの大躍進を遂げ、7年ぶりに本拠地で「2026 パーソル クライマックスシリーズ パ」を迎えた西武。ファーストステージで惜しくも敗退となったが、チームのさらなる強化へ向け「2026 プロ野球ドラフト会議 supported by…",
+      "link": "https://full-count.jp/2026/10/21/post2034065/",
+      "pubDate": "2026-10-21T03:44:20.000Z",
+      "source": "Full-Count（プロ野球）",
+      "sourceId": "full-count-npb",
+      "teams": [
+        "lions"
+      ],
+      "topics": [
+        "draft"
+      ],
+      "sources": [
+        {
+          "name": "Full-Count（プロ野球）",
+          "sourceId": "full-count-npb",
+          "link": "https://full-count.jp/2026/10/21/post2034065/"
+        }
+      ]
+    },
+    {
+      "title": "【阪神】CS最終戦で悔しい思いも…！“大ブレイク右腕”がシーズン終了を報告 「もう負けたくない」",
+      "summary": "阪神タイガースの工藤泰成投手が20日、自身のインスタグラムを更新。試合後に捕手の坂本誠志郎選手や梅野隆太郎選手と握手を交わす写真や、岩崎優投手とハイタッチする写真を添えて、2026年シーズンの終了を報告した。",
+      "link": "https://www.baseballchannel.jp/npb/296697/",
+      "pubDate": "2026-10-21T03:30:57.000Z",
+      "source": "ベースボールチャンネル（プロ野球）",
+      "sourceId": "baseballchannel-npb",
+      "teams": [
+        "tigers"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "ベースボールチャンネル（プロ野球）",
+          "sourceId": "baseballchannel-npb",
+          "link": "https://www.baseballchannel.jp/npb/296697/"
+        }
+      ]
+    },
+    {
+      "title": "【日本ハム】2年でお別れに…“元中日ドラ1右腕”が退団 「ファイターズを選んで正解だった」",
+      "summary": "北海道日本ハムファイターズは20日、福谷浩司投手の退団を発表した。",
+      "link": "https://www.baseballchannel.jp/npb/296684/",
+      "pubDate": "2026-10-21T03:10:13.000Z",
+      "source": "ベースボールチャンネル（プロ野球）",
+      "sourceId": "baseballchannel-npb",
+      "teams": [
+        "dragons",
+        "fighters"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "ベースボールチャンネル（プロ野球）",
+          "sourceId": "baseballchannel-npb",
+          "link": "https://www.baseballchannel.jp/npb/296684/"
+        }
+      ]
+    },
+    {
+      "title": "オリ寺西成騎、激動の1年は「全て良い経験」 飛躍に繋がった一流の思考…「一番意識する」超えるべき“憧れ”",
+      "summary": "先発→救援→先発…オリ寺西成騎が激動の今季を「全て良い経験」と回顧。燕・奥川恭伸を「一番意識する」と明かし、来季へ「あわよくば開幕投手」と意気込む。",
+      "link": "https://full-count.jp/2026/10/21/post2034011/",
+      "pubDate": "2026-10-21T02:26:26.000Z",
+      "source": "Full-Count（プロ野球）",
+      "sourceId": "full-count-npb",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Full-Count（プロ野球）",
+          "sourceId": "full-count-npb",
+          "link": "https://full-count.jp/2026/10/21/post2034011/"
+        }
+      ]
+    },
+    {
+      "title": "【日本ハム】CSの悔しさも糧に…“26歳捕手”がシーズン終了を報告 「もっともっと頼れる選手に」",
+      "summary": "北海道日本ハムファイターズの田宮裕涼選手が20日、自身のインスタグラムを更新。2026年シーズンの終了を報告するとともに、ファンへの感謝と来季への決意をつづった。",
+      "link": "https://www.baseballchannel.jp/npb/296661/",
+      "pubDate": "2026-10-21T02:10:28.000Z",
+      "source": "ベースボールチャンネル（プロ野球）",
+      "sourceId": "baseballchannel-npb",
+      "teams": [
+        "fighters"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "ベースボールチャンネル（プロ野球）",
+          "sourceId": "baseballchannel-npb",
+          "link": "https://www.baseballchannel.jp/npb/296661/"
+        }
+      ]
+    },
+    {
+      "title": "日本ハム移籍も2年で退団…2024年オフFA組の現在地 巨人・甲斐は出番激減、“残留”大山は2連覇貢献",
+      "summary": "日本ハムは20日、福谷浩司投手の退団を発表した。2024年オフに中日から国内フリーエージェント（FA）権を行使して加入したが、2年間で計26登板にとどまった。同年にFA宣言したのは9人。移籍先で先発陣を支える投手、残留して優勝に貢献した主砲…",
+      "link": "https://full-count.jp/2026/10/21/post2033982/",
+      "pubDate": "2026-10-21T01:40:46.000Z",
+      "source": "Full-Count（プロ野球）",
+      "sourceId": "full-count-npb",
+      "teams": [
+        "fighters",
+        "giants"
+      ],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "Full-Count（プロ野球）",
+          "sourceId": "full-count-npb",
+          "link": "https://full-count.jp/2026/10/21/post2033982/"
+        }
+      ]
+    },
+    {
+      "title": "「本当にすごい」「どこに投げても打たれない」西武の新人捕手＆12勝右腕が最優秀バッテリー賞 ともに初受賞",
+      "summary": "埼玉西武ライオンズは20日、スポーツニッポン新聞社が制定する「2026プロ野球最優秀バッテリー賞」を、平良海馬投手と小島大河捕手が受賞したことを発表した。両選手ともに初受賞で、西武のバッテリーが同賞に選ばれるのは2019年以来となった。",
+      "link": "https://www.baseballchannel.jp/npb/296664/",
+      "pubDate": "2026-10-21T01:36:23.000Z",
+      "source": "ベースボールチャンネル（プロ野球）",
+      "sourceId": "baseballchannel-npb",
+      "teams": [
+        "lions"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "ベースボールチャンネル（プロ野球）",
+          "sourceId": "baseballchannel-npb",
+          "link": "https://www.baseballchannel.jp/npb/296664/"
+        }
+      ]
+    },
+    {
+      "title": "日本ハム福田俊が5回0封の好投 常谷拓輝は貴重なダメ押し2ラン…20日フェニックスL結果",
+      "summary": "パーソル パ・リーグTVは20日、「第23回みやざきフェニックス・リーグ」1試合を配信した。アイビースタジアムで行われたオイシックス-日本ハムは、7-4で日本ハムが勝利した。",
+      "link": "https://full-count.jp/2026/10/21/post2033975/",
+      "pubDate": "2026-10-21T00:59:24.000Z",
+      "source": "Full-Count（プロ野球）",
+      "sourceId": "full-count-npb",
+      "teams": [
+        "fighters"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Full-Count（プロ野球）",
+          "sourceId": "full-count-npb",
+          "link": "https://full-count.jp/2026/10/21/post2033975/"
+        }
+      ]
+    },
+    {
+      "title": "「悔しく思っています」西武の“台湾出身スラッガー”が帰国 来日1年目は8本塁打「来シーズンはさらに良い結果を」",
+      "summary": "埼玉西武ライオンズは20日、林安可外野手が帰国したことを発表した。来日1年目の今季は76試合に出場し、打率.220、8本塁打、29打点を記録した。",
+      "link": "https://www.baseballchannel.jp/npb/296656/",
+      "pubDate": "2026-10-21T00:58:07.000Z",
+      "source": "ベースボールチャンネル（プロ野球）",
+      "sourceId": "baseballchannel-npb",
+      "teams": [
+        "lions"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "ベースボールチャンネル（プロ野球）",
+          "sourceId": "baseballchannel-npb",
+          "link": "https://www.baseballchannel.jp/npb/296656/"
+        }
+      ]
+    },
+    {
+      "title": "「マジで何してんねん」元阪神助っ人、バイクで“集団暴走” 近影にXざわつく「ミエちゃん…」",
+      "summary": "元阪神のヨハン・ミエセス外野手が19日（日本時間20日）、自身のイングラグラムを更新し、集団でバイクに乗り道路を走行する様子を公開した。元助っ人の近影に対し「何やってるんだミエちゃん」「思ったよりやべーな」とファンがざわついている。",
+      "link": "https://full-count.jp/2026/10/21/post2033954/",
+      "pubDate": "2026-10-21T00:17:12.000Z",
+      "source": "Full-Count（プロ野球）",
+      "sourceId": "full-count-npb",
+      "teams": [
+        "tigers"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Full-Count（プロ野球）",
+          "sourceId": "full-count-npb",
+          "link": "https://full-count.jp/2026/10/21/post2033954/"
+        }
+      ]
+    },
     {
       "title": "「言う必要あるんですか？」元広島カープ選手が2度目の逮捕、“ついて回る球団名”にファンの複雑胸中(週刊女性PRIME)",
       "summary": "元プロ野球選手の逮捕が報じられるたび、本人の名前とセットで世に出るのがかつて所属した“球団の名”だろう。19日、元広島東洋カープの多田大輔容疑者（30）が女性の部屋に侵入し、現金を奪った疑いで逮捕され",
@@ -62410,236 +62956,6 @@
           "name": "Full-Count（プロ野球）",
           "sourceId": "full-count-npb",
           "link": "https://full-count.jp/2026/09/21/post2019412/"
-        }
-      ]
-    },
-    {
-      "title": "最下位広島の「希望」 “変貌”したドラ1が衝撃弾…相手エース絶望「ネクスト鈴木誠也」",
-      "summary": "広島の佐々木泰内野手が20日、敵地・バンテリンドームで行われた中日戦に「5番・三塁」で先発出場。6回の第3打席で、左中間へ6号ソロを放った。試合には敗れたが、打たれた投手もマウンドで愕然とする一発に、ファンも「こんな軽々持って行ってたっけ？…",
-      "link": "https://full-count.jp/2026/09/21/post2019358/",
-      "pubDate": "2026-09-21T04:06:39.000Z",
-      "source": "Full-Count（プロ野球）",
-      "sourceId": "full-count-npb",
-      "teams": [
-        "carp"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Full-Count（プロ野球）",
-          "sourceId": "full-count-npb",
-          "link": "https://full-count.jp/2026/09/21/post2019358/"
-        }
-      ]
-    },
-    {
-      "title": "“力感ゼロ”から「なんでHR打ってんねん」 片手で運んだ28歳は「パワーえぐいなやっぱ」",
-      "summary": "中日の細川成也外野手が20日、バンテリンドームで行われた広島戦で2打席連続アーチを放った。3回の23号3ランは、最後は左手一本の“力感ゼロ”からスタンドまで運んだ衝撃の一発。ファンからは「なんでこの体勢でホームラン打ってんねんガチでバケモン…",
-      "link": "https://full-count.jp/2026/09/21/post2019349/",
-      "pubDate": "2026-09-21T03:31:13.000Z",
-      "source": "Full-Count（プロ野球）",
-      "sourceId": "full-count-npb",
-      "teams": [
-        "dragons"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Full-Count（プロ野球）",
-          "sourceId": "full-count-npb",
-          "link": "https://full-count.jp/2026/09/21/post2019349/"
-        }
-      ]
-    },
-    {
-      "title": "36歳が「なんでこんな動けるんだよ」 衰え知らずの超絶好守は「さすが忍者や」",
-      "summary": "広島の菊池涼介内野手が20日、バンテリンドームで行われた中日戦でヒット“強奪”の超絶好守を披露した。DAZN公式X（旧ツイッター）が「まだまだ飛ぶ 36歳になっても元気です」として映像を公開すると、ファンの間で「なんでこんな動けるんだよw」…",
-      "link": "https://full-count.jp/2026/09/21/post2019312/",
-      "pubDate": "2026-09-21T02:58:03.000Z",
-      "source": "Full-Count（プロ野球）",
-      "sourceId": "full-count-npb",
-      "teams": [
-        "carp"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Full-Count（プロ野球）",
-          "sourceId": "full-count-npb",
-          "link": "https://full-count.jp/2026/09/21/post2019312/"
-        }
-      ]
-    },
-    {
-      "title": "西武・西口監督「CSまでの期間に2試合を戦える」、「プラスに捉えたい」中止になった20日と21日のロッテ戦は10月5日と6日に振替試合",
-      "summary": "西武は21日、18時に開始予定だったロッテ戦（ZOZOマリンスタジアム）の試合中止を受けて、西口文也監督のコメントを発表した。 ▼ 西口文也監督 「今日の中止は想定していました。CSまでの期間に2試合を戦えることは、実 […]",
-      "link": "https://baseballking.jp/ns/707700/",
-      "pubDate": "2026-09-21T02:45:29.000Z",
-      "source": "BASEBALL KING",
-      "sourceId": "baseballking",
-      "teams": [
-        "lions"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "BASEBALL KING",
-          "sourceId": "baseballking",
-          "link": "https://baseballking.jp/ns/707700/"
-        }
-      ]
-    },
-    {
-      "title": "「バッターが嫌な反応をしている」ソフトバンクのドラ3・鈴木豪太を支える“思わぬ武器” きっかけとなった倉野投手コーチの助言【インタビュー】",
-      "summary": "福岡ソフトバンクホークスのドラフト3位ルーキー・鈴木豪太投手が、プロ1年目から一軍登板を重ねている。当初は二軍で1年間投げ抜くことを目標にしていた右腕だが、今では一軍で緊迫した場面も任されるようになった。その飛躍を支えているのが、プロ入り後…",
-      "link": "https://www.baseballchannel.jp/npb/290639/",
-      "pubDate": "2026-09-21T02:15:55.000Z",
-      "source": "ベースボールチャンネル（プロ野球）",
-      "sourceId": "baseballchannel-npb",
-      "teams": [
-        "hawks"
-      ],
-      "topics": [
-        "draft"
-      ],
-      "sources": [
-        {
-          "name": "ベースボールチャンネル（プロ野球）",
-          "sourceId": "baseballchannel-npb",
-          "link": "https://www.baseballchannel.jp/npb/290639/"
-        }
-      ]
-    },
-    {
-      "title": "【DeNA】中日との２軍戦が台風接近に伴い中止 関東地方で予定された４試合は全試合中止(日刊スポーツ)",
-      "summary": "＜ファーム・リーグ：DeNA－中日＞◇21日◇横須賀 DeNAは、ファーム・リーグの中日戦（横須賀）が台風接近に伴い、中止が決まった。 ファーム・リーグ中地区首位に立ち、2位の巨人に3・5ゲー",
-      "link": "https://news.yahoo.co.jp/articles/420268b6b0b150e8c6ff3202006cad7ab381daeb?source=rss",
-      "pubDate": "2026-09-21T01:47:35.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "baystars"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/420268b6b0b150e8c6ff3202006cad7ab381daeb?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【西武】ロッテ戦が中止で振替試合は10月６日へ 10日から始まるCSに向け貴重な実戦の場に(日刊スポーツ)",
-      "summary": "＜ロッテ－西武＞◇21日◇ZOZOマリン 西武は、ロッテ戦（ZOZOマリン）が2試合連続で中止になることが決まった。台風接近に伴い悪天候が予想されるため、午前8時30分に中止が発表された。 こ",
-      "link": "https://news.yahoo.co.jp/articles/497a81fd21d06a781662a99e265784f01b489320?source=rss",
-      "pubDate": "2026-09-21T01:36:00.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "lions"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/497a81fd21d06a781662a99e265784f01b489320?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【ロッテ】試合開始９時間半前に中止決定 ２戦連続雨で流れ、２５日から１２連戦決定(スポーツ報知)",
-      "summary": "ロッテ―西武戦（ＺＯＺＯマリン）は台風接近に伴う悪天候が予想されるため、８時３０分に中止が決定した。 振替日は１０月６日（１８時・ＺＯＺＯマリン）と発表された。２０日の同カードから２戦連続中止で",
-      "link": "https://news.yahoo.co.jp/articles/594b2e6d5d12e4a324ef4a37da667752da8ff6e1?source=rss",
-      "pubDate": "2026-09-21T01:27:57.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "marines"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/594b2e6d5d12e4a324ef4a37da667752da8ff6e1?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【西武】ロッテ戦が２試合連続で中止 台風接近に伴い悪天候が予想されるため午前８時30分に発表(日刊スポーツ)",
-      "summary": "＜ロッテ－西武＞◇21日◇ZOZOマリン 西武は、ロッテ戦（ZOZOマリン）が2試合連続で中止が決まった。台風接近に伴い悪天候が予想されるため、午前8時30分に中止が発表された。 西武は武内夏",
-      "link": "https://news.yahoo.co.jp/articles/c98e2c7e4e81bc268794bb907293e40767d58734?source=rss",
-      "pubDate": "2026-09-21T01:23:10.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "lions"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/c98e2c7e4e81bc268794bb907293e40767d58734?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【巨人】９月打率３割７分、橋上秀樹監督代行が明かす泉口友汰復調の要因とは？(日刊スポーツ)",
-      "summary": "＜巨人3－2ヤクルト＞◇20日◇東京ドーム 巨人橋上秀樹監督代行（60）が7回に決勝の2点適時二塁打を放った泉口友汰内野手（27）を評した。 今季は5月に打球を頭に受けた影響もあり、序盤戦は打",
-      "link": "https://news.yahoo.co.jp/articles/c35380f6b876e348cafbeb76ded41f96857d2aa3?source=rss",
-      "pubDate": "2026-09-21T01:00:01.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "giants"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/c35380f6b876e348cafbeb76ded41f96857d2aa3?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【ロッテ】台風接近に伴い21日の西武戦中止 振り替えは10月６日で12連戦が決定(日刊スポーツ)",
-      "summary": "ロッテは21日、午後6時開始予定だったロッテ対西武22回戦（ZOZOマリン）が、台風接近に伴い悪天候が予想されるため、午前8時30分に中止が決定したと発表した。 ロッテはジャクソン、西武は武内が",
-      "link": "https://news.yahoo.co.jp/articles/410eba760075a607a262dad729bb105e20002b57?source=rss",
-      "pubDate": "2026-09-21T00:39:56.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "marines"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/410eba760075a607a262dad729bb105e20002b57?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "ロッテ・寺地隆成「どんどん上げていければ」3試合連続複数安打中",
-      "summary": "ロッテの寺地隆成は9月16日の楽天戦から3試合連続マルチ安打中だ。 16日の楽天戦では0－4の2回二死走者なしの第1打席、荘司康誠が2ボールから投じた3球目の外角のストレートを逆らわずに左中間を破る二塁打、続く0－4 […]",
-      "link": "https://baseballking.jp/ns/707687/",
-      "pubDate": "2026-09-21T00:20:07.000Z",
-      "source": "BASEBALL KING",
-      "sourceId": "baseballking",
-      "teams": [
-        "marines"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "BASEBALL KING",
-          "sourceId": "baseballking",
-          "link": "https://baseballking.jp/ns/707687/"
         }
       ]
     }
