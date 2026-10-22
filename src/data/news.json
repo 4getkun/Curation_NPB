@@ -1,7 +1,858 @@
 {
-  "generatedAt": "2026-10-22T20:38:28.957Z",
-  "count": 3313,
+  "generatedAt": "2026-10-22T23:43:11.574Z",
+  "count": 3340,
   "items": [
+    {
+      "title": "【ドラフト会議】阪神5位・的場吏玖「先発にこだわりがある」金子千尋に憧れる技巧派の長身右腕(スポニチアネックス)",
+      "summary": "阪神からドラフト5位指名された天理大の最速150キロ右腕・的場吏玖（まとば・りく）が「先発」への強いこだわりを口にした。 1メートル86の上背と長い手足を誇り、最速150キロの直球に加えてカーブやスラ",
+      "link": "https://news.yahoo.co.jp/articles/0002887ecfd9b71bf85c870b6d26e22281f93ff1?source=rss",
+      "pubDate": "2026-10-22T23:39:36.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "tigers"
+      ],
+      "topics": [
+        "draft"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/0002887ecfd9b71bf85c870b6d26e22281f93ff1?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "長嶋一茂「モーニングショー」お休み MC羽鳥慎一が番組冒頭で言及(日刊スポーツ)",
+      "summary": "元プロ野球選手でタレントの長嶋一茂は23日、金曜コメンテーターを務めるテレビ朝日系「羽鳥慎一モーニングショー」（月～金曜午前8時）をお休みした。 番組冒頭で、MCのフリーアナウンサー羽鳥慎一が「今日、",
+      "link": "https://news.yahoo.co.jp/articles/e6e560cc1e3ca6d120c6c7807ef3ef19948702eb?source=rss",
+      "pubDate": "2026-10-22T23:34:38.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/e6e560cc1e3ca6d120c6c7807ef3ef19948702eb?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "父は旭川市長、祖父は衆議院議員 “異色の一家”から育成5位指名…政界への興味は？",
+      "summary": "「プロ野球ドラフト会議 supported by リポビタンD」が22日、都内のホテルで行われ、慶大の主将・今津慶介内野手が日本ハムから育成5位指名を受けた。“政治家一家”で育ち、将来の夢は「内閣総理大臣」というだけに、指名直後の会見では異…",
+      "link": "https://full-count.jp/2026/10/23/post2035216/",
+      "pubDate": "2026-10-22T23:31:38.000Z",
+      "source": "Full-Count（プロ野球）",
+      "sourceId": "full-count-npb",
+      "teams": [
+        "fighters"
+      ],
+      "topics": [
+        "draft"
+      ],
+      "sources": [
+        {
+          "name": "Full-Count（プロ野球）",
+          "sourceId": "full-count-npb",
+          "link": "https://full-count.jp/2026/10/23/post2035216/"
+        },
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/92865f03d5dc45c9b56e304de5e3edf23090c24e?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "「ジャイアンツは攻めますね」報ステ大越健介氏、ドラフト会議での巨人指名内容に言及(日刊スポーツ)",
+      "summary": "テレビ朝日系「報道ステーション」（月～金曜午後9時54分）の大越健介キャスターは22日夜の放送で、同日のプロ野球ドラフト会議における巨人の選手指名に関して、「攻めますね」と評した。【写真】巨人が育成5",
+      "link": "https://news.yahoo.co.jp/articles/4d1f814dba9ed17a30c77fb50f9ba21452be8fb7?source=rss",
+      "pubDate": "2026-10-22T23:22:50.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "giants"
+      ],
+      "topics": [
+        "draft"
+      ],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/4d1f814dba9ed17a30c77fb50f9ba21452be8fb7?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【ドラフト】「笑顔でよかった……」 広島1位指名、山里宝の反応にファン安ど 「大事に育ててやってくれえの」(スポーティングニュース日本版)",
+      "summary": "広島東洋カープが亜細亜大学の山里宝内野手をドラフト1位指名した際の反応に、ファンが安どした。名前が呼ばれた瞬間、周囲からは大歓声があがり、山里は笑顔に。ファンからは「笑顔でよかった……」などの声が寄せ",
+      "link": "https://news.yahoo.co.jp/articles/a034ddb86975e9ecde18f44e4c8e3fd03587818c?source=rss",
+      "pubDate": "2026-10-22T23:21:20.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "carp"
+      ],
+      "topics": [
+        "draft"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/a034ddb86975e9ecde18f44e4c8e3fd03587818c?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "DeNAに痛手…“新加入優良助っ人”が日本シリーズ40人枠から外れる 今季打率.293、11本塁打もCSで負傷(ベースボールチャンネル)",
+      "summary": "日本野球機構（NPB）は22日、「SMBC日本シリーズ2026」の出場資格者名簿を公示した。横浜DeNAベイスターズでは、ヘラル・エンカーナシオン外野手が40人枠から外れた。【一覧】日本シリーズ202",
+      "link": "https://news.yahoo.co.jp/articles/31e711816fc8816d4ca2b4e3f56eba04f2c165d4?source=rss",
+      "pubDate": "2026-10-22T23:10:29.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "baystars"
+      ],
+      "topics": [
+        "injury"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/31e711816fc8816d4ca2b4e3f56eba04f2c165d4?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "“聞けなかった”1位指名…ドラフト会見場のリアル 競合右腕がポツリ「どうなるんだろう」",
+      "summary": "青学大の鈴木泰成投手は22日、「プロ野球ドラフト会議 supported by リポビタンD」でソフトバンク、ロッテから1位指名を受け、ソフトバンクが交渉権を獲得した。青山キャンパスに用意された会見場では、中継映像がフリーズし、鈴木は名前を…",
+      "link": "https://full-count.jp/2026/10/23/post2035246/",
+      "pubDate": "2026-10-22T23:07:00.000Z",
+      "source": "Full-Count（プロ野球）",
+      "sourceId": "full-count-npb",
+      "teams": [
+        "hawks",
+        "marines"
+      ],
+      "topics": [
+        "draft"
+      ],
+      "sources": [
+        {
+          "name": "Full-Count（プロ野球）",
+          "sourceId": "full-count-npb",
+          "link": "https://full-count.jp/2026/10/23/post2035246/"
+        },
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/86cb7c8d0d441c01387cd65382387d98c69511e6?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "場内が沸いた…ドラフト会議「サプライズ指名」（3）衝撃の巨人入り…まさかの”同姓同名”！？(ベースボールチャンネル)",
+      "summary": "2026年のプロ野球ドラフト会議が10月22日に迫り、各球団の指名戦略に注目が集まっている。過去には前評判を覆す単独1位や、異競技からの指名、史上最年少での入団など、会場をどよめかせた選択もあった。予",
+      "link": "https://news.yahoo.co.jp/articles/0999c3393d6fcb7e447f97a0e86c481b41b6d994?source=rss",
+      "pubDate": "2026-10-22T23:02:16.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "giants"
+      ],
+      "topics": [
+        "draft"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/0999c3393d6fcb7e447f97a0e86c481b41b6d994?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "ドラフト 阪神1位指名の明大・榊原七斗「自分は走攻守すべての能力が高いと思っている」「勝負強さ…見てもらいたい」報徳学園出身の「近本2世」(サンケイスポーツ)",
+      "summary": "プロ野球ドラフト会議 supported by リポビタンD（22日）阪神は1位で明大・榊原七斗外野手（22）の単独指名に成功し、交渉権を獲得した。地元出身の走攻守揃った大学ナンバーワン外野手の「近本",
+      "link": "https://news.yahoo.co.jp/articles/fe5e9206c5726a722f20e143d97c7fa88ee75ee2?source=rss",
+      "pubDate": "2026-10-22T23:00:00.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "tigers"
+      ],
+      "topics": [
+        "draft"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/fe5e9206c5726a722f20e143d97c7fa88ee75ee2?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "ドラフト 阪神7位指名の独立L徳島・石井康輝「喜びより、びっくり」「その後ほっとしました」最速154キロ右腕(サンケイスポーツ)",
+      "summary": "プロ野球ドラフト会議 supported by リポビタンD（22日）独立L・徳島の最速154キロ右腕・石井康輝投手（23）が阪神から7位指名を受けた。徳島県藍住町のゆめタウン徳島の特設会場でチームメ",
+      "link": "https://news.yahoo.co.jp/articles/7ecbfe2e573b1584dd44cd82dd38ef71b14955b5?source=rss",
+      "pubDate": "2026-10-22T23:00:00.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "tigers"
+      ],
+      "topics": [
+        "draft"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/7ecbfe2e573b1584dd44cd82dd38ef71b14955b5?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "ドラフト 阪神2位指名の日体大・馬場拓海「どこでも投げられ、信頼される投手に」最速155キロ右腕(サンケイスポーツ)",
+      "summary": "プロ野球ドラフト会議 supported by リポビタンD（22日）阪神から2位指名された最速155キロ右腕の日体大・馬場拓海投手（21）＝福岡大大濠高出＝が横浜市港北区の日体大キャンパス内で会見し",
+      "link": "https://news.yahoo.co.jp/articles/7fdb080ae6a104615c356b65cebaafb16347f6c1?source=rss",
+      "pubDate": "2026-10-22T23:00:00.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "tigers"
+      ],
+      "topics": [
+        "draft"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/7fdb080ae6a104615c356b65cebaafb16347f6c1?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "ドラフト 阪神3位指名の大経大・常深颯大「ドラフト指名を一番に伝えたい」恩師は故・高代延博さん「礼儀や全力疾走の大事さを言われていました」(サンケイスポーツ)",
+      "summary": "プロ野球ドラフト会議 supported by リポビタンD（22日）阪神からドラフト3位で指名された大経大・常深（つねみ）颯大投手（22）が大阪市東淀川区の同大で会見した。日本ハム、広島などで活躍し",
+      "link": "https://news.yahoo.co.jp/articles/9b8ee12a26177dcad5536f8bf05a241fb43e18de?source=rss",
+      "pubDate": "2026-10-22T23:00:00.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "tigers"
+      ],
+      "topics": [
+        "draft"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/9b8ee12a26177dcad5536f8bf05a241fb43e18de?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "ドラフト 阪神1位指名の明大・榊原七斗「自分は走攻守すべての能力が高い」 目標は1年目で「新人王＆ゴールデングラブ」憧れの近本超えを宣言(サンケイスポーツ)",
+      "summary": "プロ野球ドラフト会議 supported by リポビタンD（22日）阪神は1位で明大・榊原七斗外野手（22）の単独指名に成功し、交渉権を獲得した。地元出身の走攻守揃った大学ナンバーワン外野手はまさに",
+      "link": "https://news.yahoo.co.jp/articles/8b11bc01b3b639cd9c100770cfc73e11874c7188?source=rss",
+      "pubDate": "2026-10-22T23:00:00.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "tigers"
+      ],
+      "topics": [
+        "draft"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/8b11bc01b3b639cd9c100770cfc73e11874c7188?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "ドラフト 阪神2位指名の日体大・馬場拓海「チームが欲しているところに」足のサイズは29.5センチ…まさに〝ジャイアント馬場〟(サンケイスポーツ)",
+      "summary": "プロ野球ドラフト会議 supported by リポビタンD（22日）阪神からドラフト2位で指名された日体大・馬場拓海投手（21）が横浜市の同大キャンパスで会見した。サイドのトルネード投法から最速15",
+      "link": "https://news.yahoo.co.jp/articles/31c028bd4d68303be4b14030487a1860af68fa50?source=rss",
+      "pubDate": "2026-10-22T23:00:00.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "tigers"
+      ],
+      "topics": [
+        "draft"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/31c028bd4d68303be4b14030487a1860af68fa50?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "ドラフト 阪神5位指名の天理大・的場吏玖「関西の大学生のピッチャーが結構呼ばれている中で…ほっとしました」リーグ戦24勝2敗右腕！(サンケイスポーツ)",
+      "summary": "プロ野球ドラフト会議 supported by リポビタンD（22日）阪神からドラフト5位で指名された天理大・的場吏玖投手（21）は、名前が呼ばれた瞬間、胸をなでおろした。「ドラフト注目選手の関西の大",
+      "link": "https://news.yahoo.co.jp/articles/1c5076793df9c9dfbd2766f2c0c3b8208010b54d?source=rss",
+      "pubDate": "2026-10-22T23:00:00.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "tigers"
+      ],
+      "topics": [
+        "draft"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/1c5076793df9c9dfbd2766f2c0c3b8208010b54d?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【ドラフト】中日２位の王子・柴崎聖人 ２年前の指名漏れで亡き恩師にもらった言葉が糧に「今ここにいられるのは高代さんのおかげ」(スポーツ報知)",
+      "summary": "◆２０２６年 プロ野球ドラフト会議 ｓｕｐｐｏｒｔｅｄ ｂｙ リポビタンＤ（２２日） 中日から２位指名を受けた王子の柴崎聖人外野手（２４）が２２日、愛知・春日井市内の同社で「まずは新人王を目指して。具",
+      "link": "https://news.yahoo.co.jp/articles/f0d0625cdb50509b25d69b0b2cf8e3d4d4bb50d7?source=rss",
+      "pubDate": "2026-10-22T22:46:47.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "dragons"
+      ],
+      "topics": [
+        "draft"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/f0d0625cdb50509b25d69b0b2cf8e3d4d4bb50d7?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "解説陣がソフトバンクのドラフトを振り返り 「外国に行った選手を取ったりと、ドラフトの印象が変わってきた」",
+      "summary": "22日放送のCSフジテレビONE『プロ野球ニュース2026』では、この日行われた「プロ野球ドラフト会議 ｓｕｐｐｏｒｔｅｄ ｂｙ リポビタンＤ」を解説陣が振り返った。番組ではソフトバンクのドラフトをズームアップ。解説の […]",
+      "link": "https://baseballking.jp/ns/710750/",
+      "pubDate": "2026-10-22T22:40:00.000Z",
+      "source": "BASEBALL KING",
+      "sourceId": "baseballking",
+      "teams": [
+        "hawks"
+      ],
+      "topics": [
+        "draft"
+      ],
+      "sources": [
+        {
+          "name": "BASEBALL KING",
+          "sourceId": "baseballking",
+          "link": "https://baseballking.jp/ns/710750/"
+        }
+      ]
+    },
+    {
+      "title": "【EL】クリスタルパレス鎌田大地、攻守に躍動 効果的な2度追いで2点目演出で引き分け(日刊スポーツ)",
+      "summary": "＜UEFAヨーロッパリーグ：ベシクタシュ2－2クリスタルパレス＞◇22日（日本時間23日）◇1次リーグ第3節◇ボーダフォン・アリーナ【写真】ファンに向けて拍手を送る鎌田大地ら 日本代表MF鎌田大地（3",
+      "link": "https://news.yahoo.co.jp/articles/2cd938d1d24cca8d0bb2d0723d9cbc6f80d2091d?source=rss",
+      "pubDate": "2026-10-22T22:27:13.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/2cd938d1d24cca8d0bb2d0723d9cbc6f80d2091d?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "報ステ大越健介氏、巨人指名の織田翔希に「まだ18歳…ファンとしては静かに見守りたい」(日刊スポーツ)",
+      "summary": "テレビ朝日系「報道ステーション」（月～金曜午後9時54分）の大越健介キャスターは22日夜の放送で、同日のプロ野球ドラフト会議で、巨人が横浜・織田翔希投手（3年）を単独1位指名したことに言及した。【写真",
+      "link": "https://news.yahoo.co.jp/articles/8e4db8b84a9f28c29dc4941b532a7af3c1727dc0?source=rss",
+      "pubDate": "2026-10-22T22:26:10.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "giants",
+        "baystars"
+      ],
+      "topics": [
+        "draft"
+      ],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/8e4db8b84a9f28c29dc4941b532a7af3c1727dc0?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "解説陣が日本ハムのドラフトを振り返り 球団OBの高木豊氏は「100点に近いと思う」と評価",
+      "summary": "22日放送のCSフジテレビONE『プロ野球ニュース2026』では、この日行われた「プロ野球ドラフト会議 ｓｕｐｐｏｒｔｅｄ ｂｙ リポビタンＤ」を解説陣が振り返った。番組では日本ハムのドラフトをズームアップ。解説の高木 […]",
+      "link": "https://baseballking.jp/ns/710746/",
+      "pubDate": "2026-10-22T22:20:00.000Z",
+      "source": "BASEBALL KING",
+      "sourceId": "baseballking",
+      "teams": [
+        "fighters"
+      ],
+      "topics": [
+        "draft"
+      ],
+      "sources": [
+        {
+          "name": "BASEBALL KING",
+          "sourceId": "baseballking",
+          "link": "https://baseballking.jp/ns/710746/"
+        }
+      ]
+    },
+    {
+      "title": "【EL】中村敬斗リヨンは町田浩樹ホッフェンハイムに０－３完敗 中村は決定機決めきれず(日刊スポーツ)",
+      "summary": "＜UEFAヨーロッパリーグ：ホッフェンハイム3－0リヨン＞◇22日（日本時間23日）◇1次リーグ第3節◇プレゼロ・アリーナ 日本代表MF中村敬斗（26）が所属するリヨン（フランス）は、DF町田浩樹（2",
+      "link": "https://news.yahoo.co.jp/articles/4938b2987875c23898e7d758aa9c7a7f4f517f9c?source=rss",
+      "pubDate": "2026-10-22T22:12:22.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/4938b2987875c23898e7d758aa9c7a7f4f517f9c?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "解説陣が西武のドラフトを振り返り 高木氏「これ以上ないドラフトをしたなと、投手に関しては」",
+      "summary": "22日放送のCSフジテレビONE『プロ野球ニュース2026』では、この日行われた「プロ野球ドラフト会議 ｓｕｐｐｏｒｔｅｄ ｂｙ リポビタンＤ」を解説陣が振り返った。番組では西武のドラフトをズームアップ。解説の高木豊氏 […]",
+      "link": "https://baseballking.jp/ns/710727/",
+      "pubDate": "2026-10-22T22:10:00.000Z",
+      "source": "BASEBALL KING",
+      "sourceId": "baseballking",
+      "teams": [
+        "lions"
+      ],
+      "topics": [
+        "draft"
+      ],
+      "sources": [
+        {
+          "name": "BASEBALL KING",
+          "sourceId": "baseballking",
+          "link": "https://baseballking.jp/ns/710727/"
+        }
+      ]
+    },
+    {
+      "title": "【EL】久保建英は得点絡まずもRソシエダード６ゴールの大勝 後半13分までプレー(日刊スポーツ)",
+      "summary": "＜UEFAヨーロッパリーグ：リールストロム0－6Rソシエダード＞◇22日（日本時間23日）◇1次リーグ第3節◇オーロセン・スタディオン 日本代表MF久保建英（25）が所属するレアル・ソシエダード（スペ",
+      "link": "https://news.yahoo.co.jp/articles/d0a4e071ee0deae9536756eb8bae3d92cf048a4c?source=rss",
+      "pubDate": "2026-10-22T22:08:39.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/d0a4e071ee0deae9536756eb8bae3d92cf048a4c?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【ドラフト】谷繁元信氏「よく見ていくと野手も…」ヤクルトのドラフト戦略に理解「アリかな」(日刊スポーツ)",
+      "summary": "＜プロ野球ドラフト会議＞◇22日 元中日監督の谷繁元信氏（55＝日刊スポーツ評論家）がCSスカイAで放送された「プロ野球ドラフト後夜祭26」に出演。ヤクルトのドラフト戦略に理解を示した。【イラスト】ヤ",
+      "link": "https://news.yahoo.co.jp/articles/2c5529dd200bbd310cb594cbc298c040a35133b7?source=rss",
+      "pubDate": "2026-10-22T22:00:02.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "swallows"
+      ],
+      "topics": [
+        "draft"
+      ],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/2c5529dd200bbd310cb594cbc298c040a35133b7?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【ドラフト】阪神２位トルネード馬場拓海「右に強いことを」工藤泰成、木下里都と剛腕リレーだ(日刊スポーツ)",
+      "summary": "＜プロ野球ドラフト会議＞◇22日 剛腕リレー結成だ！ 阪神から2位指名を受けた日体大・馬場拓海投手（4年＝福岡大大濠）がプロ1年目からのフル回転を誓った。腕をやや下げたスリークオーターと、体を大きくひ",
+      "link": "https://news.yahoo.co.jp/articles/553f719fe739bf4c1b8aacf94f0dd1e70ab4ed25?source=rss",
+      "pubDate": "2026-10-22T22:00:01.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "tigers"
+      ],
+      "topics": [
+        "draft"
+      ],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/553f719fe739bf4c1b8aacf94f0dd1e70ab4ed25?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【BCマイル】英国馬テンボブトニーは回避 予備登録した日本のマイルCSにも参戦しない見込み(日刊スポーツ)",
+      "summary": "ブリーダーズカップ主催者は公式Xで22日、BCマイル（G1、芝1600メートル、31日＝キーンランド）に出走予定だった英国馬テンボブトニー（セン5、E・ウォーカー）が同レースを回避することを発表した。",
+      "link": "https://news.yahoo.co.jp/articles/3212222f9f268fd299844cd45101d23e0e17ab16?source=rss",
+      "pubDate": "2026-10-22T22:00:01.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/3212222f9f268fd299844cd45101d23e0e17ab16?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "指名漏れの不安も…牟禮翔が何度も口にした「迷惑をかけた」 涙の母、誓った恩返し「弟たちを大学に」",
+      "summary": "名を受けた喜びと安堵の中で、何度も口にした言葉があった。「迷惑をかけた」――。22日に行われた「プロ野球ドラフト会議 supported by リポビタンD」で、九州国際大付高の牟禮翔外野手は日本ハムから2位指名を受けた。祝福してくれるチー…",
+      "link": "https://full-count.jp/2026/10/23/post2035205/",
+      "pubDate": "2026-10-22T21:50:00.000Z",
+      "source": "Full-Count（プロ野球）",
+      "sourceId": "full-count-npb",
+      "teams": [
+        "fighters"
+      ],
+      "topics": [
+        "draft"
+      ],
+      "sources": [
+        {
+          "name": "Full-Count（プロ野球）",
+          "sourceId": "full-count-npb",
+          "link": "https://full-count.jp/2026/10/23/post2035205/"
+        }
+      ]
+    },
+    {
+      "title": "解説陣がオリックスのドラフトを振り返り 館山氏「投手指名の偏りが気になったので90点…」",
+      "summary": "22日放送のCSフジテレビONE『プロ野球ニュース2026』では、この日行われた「プロ野球ドラフト会議 ｓｕｐｐｏｒｔｅｄ ｂｙ リポビタンＤ」を解説陣が振り返った。番組ではオリックスのドラフトにズームアップ。解説の館 […]",
+      "link": "https://baseballking.jp/ns/710723/",
+      "pubDate": "2026-10-22T21:50:00.000Z",
+      "source": "BASEBALL KING",
+      "sourceId": "baseballking",
+      "teams": [
+        "buffaloes"
+      ],
+      "topics": [
+        "draft"
+      ],
+      "sources": [
+        {
+          "name": "BASEBALL KING",
+          "sourceId": "baseballking",
+          "link": "https://baseballking.jp/ns/710723/"
+        }
+      ]
+    },
+    {
+      "title": "“指名漏れ”の「不安感」…暗い表情で退席 数分後に飛び込んだ“知らせ”、エースの一変した感情",
+      "summary": "一時は下を向いたが、安堵の表情に変わった。「プロ野球ドラフト会議 supported by リポビタンD」が22日、都内のホテルで行われ、慶大の渡辺和大投手がソフトバンク3位指名を受けた。上位候補と目されていた左腕は、2位指名が終わった段階…",
+      "link": "https://full-count.jp/2026/10/23/post2034937/",
+      "pubDate": "2026-10-22T21:45:00.000Z",
+      "source": "Full-Count（プロ野球）",
+      "sourceId": "full-count-npb",
+      "teams": [
+        "hawks"
+      ],
+      "topics": [
+        "draft"
+      ],
+      "sources": [
+        {
+          "name": "Full-Count（プロ野球）",
+          "sourceId": "full-count-npb",
+          "link": "https://full-count.jp/2026/10/23/post2034937/"
+        }
+      ]
+    },
+    {
+      "title": "腹に投げ込まれた記念球「ありがとうございます」 お立ち台拒否…風呂上がりに先輩から“説教”",
+      "summary": "元オリックス右腕の山沖之彦氏は、プロ10年目の1991年9月24日の日本ハム戦（神戸）で史上103人目の通算100勝を達成した。だが「10年で100勝は目標だったし、それはよかったんですけどね」と言いながら苦笑しきりだ。この年からチームを率…",
+      "link": "https://full-count.jp/2026/10/23/post2034648/",
+      "pubDate": "2026-10-22T21:40:00.000Z",
+      "source": "Full-Count（プロ野球）",
+      "sourceId": "full-count-npb",
+      "teams": [
+        "buffaloes"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Full-Count（プロ野球）",
+          "sourceId": "full-count-npb",
+          "link": "https://full-count.jp/2026/10/23/post2034648/"
+        }
+      ]
+    },
+    {
+      "title": "高木豊氏、広島のドラフト戦略に「即戦力のピッチャーが欲しかった」も「山里を取ったというのは１つの戦略として正しい」",
+      "summary": "22日にフジテレビONEで放送された『プロ野球ニュース2026』に出演した高木豊氏と館山昌平氏が、広島のドラフトについて言及した。 番組MCを務めた野村弘樹氏は「カープ、内野手もそうですしピッチャーはFAで出ていく可 […]",
+      "link": "https://baseballking.jp/ns/710734/",
+      "pubDate": "2026-10-22T21:40:00.000Z",
+      "source": "BASEBALL KING",
+      "sourceId": "baseballking",
+      "teams": [
+        "carp"
+      ],
+      "topics": [
+        "draft"
+      ],
+      "sources": [
+        {
+          "name": "BASEBALL KING",
+          "sourceId": "baseballking",
+          "link": "https://baseballking.jp/ns/710734/"
+        }
+      ]
+    },
+    {
+      "title": "【ドラフト】巨人史上初の中学生指名も、義務教育修了後でなければキャンプや試合も出場できない(日刊スポーツ)",
+      "summary": "＜プロ野球ドラフト会議＞◇22日 巨人が育成ドラフト5位で中学3年生の関蓮太郎を指名したことについて、NPBは野球協約上、中学校卒業見込みの選手も指名対象となると説明した。【動画】巨人育成５位、なんと",
+      "link": "https://news.yahoo.co.jp/articles/f242091ab97792e3849186c3d84916106d645dbe?source=rss",
+      "pubDate": "2026-10-22T21:30:01.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "giants"
+      ],
+      "topics": [
+        "draft"
+      ],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/f242091ab97792e3849186c3d84916106d645dbe?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "DeNA、1位・4位・5位で大学生の投手を指名 館山昌平氏「即戦力投手3人で固めた」",
+      "summary": "22日にフジテレビONEで放送された『プロ野球ニュース2026』に出演した高木豊氏と館山昌平氏が、DeNAのドラフトについて言及した。 高木氏は「1位の星野は即戦力で使えると思います。チェンジアップがすごく良い。即戦 […]",
+      "link": "https://baseballking.jp/ns/710732/",
+      "pubDate": "2026-10-22T21:30:00.000Z",
+      "source": "BASEBALL KING",
+      "sourceId": "baseballking",
+      "teams": [
+        "baystars"
+      ],
+      "topics": [
+        "draft"
+      ],
+      "sources": [
+        {
+          "name": "BASEBALL KING",
+          "sourceId": "baseballking",
+          "link": "https://baseballking.jp/ns/710732/"
+        }
+      ]
+    },
+    {
+      "title": "巨人、1位に米球界挑戦表明の織田、育成で中学生の関を指名 館山氏「驚きの連続」",
+      "summary": "22日にフジテレビONEで放送された『プロ野球ニュース2026』に出演した高木豊氏と館山昌平氏が、巨人のドラフトについて言及した。 館山氏は「驚きの連続でしたね。数日前にメジャー表明した織田投手から始まり同じ高校の池 […]",
+      "link": "https://baseballking.jp/ns/710730/",
+      "pubDate": "2026-10-22T21:20:00.000Z",
+      "source": "BASEBALL KING",
+      "sourceId": "baseballking",
+      "teams": [
+        "giants"
+      ],
+      "topics": [
+        "draft"
+      ],
+      "sources": [
+        {
+          "name": "BASEBALL KING",
+          "sourceId": "baseballking",
+          "link": "https://baseballking.jp/ns/710730/"
+        }
+      ]
+    },
+    {
+      "title": "“一変”した新庄監督が「カッコイイ！」 わずか数分だけでも…目にしたファン喝采「ビジュ良かった」",
+      "summary": "「プロ野球ドラフト会議 supported by リポビタンD」が22日、都内のホテルで行われた。日本ハムの新庄剛志監督が今年も登場すると、普段と異なる“出で立ち”にファンは騒然。「今までで1番ビジュが良かった」と称賛が送られた。",
+      "link": "https://full-count.jp/2026/10/23/post2035124/",
+      "pubDate": "2026-10-22T21:14:00.000Z",
+      "source": "Full-Count（プロ野球）",
+      "sourceId": "full-count-npb",
+      "teams": [
+        "fighters"
+      ],
+      "topics": [
+        "draft"
+      ],
+      "sources": [
+        {
+          "name": "Full-Count（プロ野球）",
+          "sourceId": "full-count-npb",
+          "link": "https://full-count.jp/2026/10/23/post2035124/"
+        }
+      ]
+    },
+    {
+      "title": "佐藤輝明、190億円契約の可能性 “アジア最高”は目前か…村上と同じ「懸念」も追い風",
+      "summary": "阪神からポスティングシステムを利用してメジャー挑戦を表明した佐藤輝明内野手に対し、米スポーツメディア「ブリーチャー・レポート」が6年総額1億2000万ドル（約189億5500万円）の大型契約を予想した。ジャイアンツのイ・ジョンフ外野手（6年…",
+      "link": "https://full-count.jp/2026/10/23/post2035032/",
+      "pubDate": "2026-10-22T21:11:00.000Z",
+      "source": "Full-Count（プロ野球）",
+      "sourceId": "full-count-npb",
+      "teams": [
+        "tigers",
+        "giants"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Full-Count（プロ野球）",
+          "sourceId": "full-count-npb",
+          "link": "https://full-count.jp/2026/10/23/post2035032/"
+        }
+      ]
+    },
+    {
+      "title": "阪神、1位は外野手の榊原を指名 高木豊氏「サトテルが行かなかったら渡部いってたと思う」",
+      "summary": "22日にフジテレビONEで放送された『プロ野球ニュース2026』に出演した高木豊氏と館山昌平氏が、阪神のドラフトについて言及した。 番組MCを務めた野村弘樹氏は「タイガースとしては佐藤輝明がポスティングで抜けるという […]",
+      "link": "https://baseballking.jp/ns/710725/",
+      "pubDate": "2026-10-22T21:10:00.000Z",
+      "source": "BASEBALL KING",
+      "sourceId": "baseballking",
+      "teams": [
+        "tigers"
+      ],
+      "topics": [
+        "draft"
+      ],
+      "sources": [
+        {
+          "name": "BASEBALL KING",
+          "sourceId": "baseballking",
+          "link": "https://baseballking.jp/ns/710725/"
+        }
+      ]
+    },
+    {
+      "title": "【ドラフト】里崎智也氏「織田君にはジャイアンツに入ってほしい」巨人入団を勧める(日刊スポーツ)",
+      "summary": "＜プロ野球ドラフト会議＞◇22日 元ロッテの里崎智也氏（50＝日刊スポーツ評論家）がCSスカイAで放送された「プロ野球ドラフト後夜祭26」に出演。横浜の最速157キロ右腕、織田翔希投手（3年）に巨人入",
+      "link": "https://news.yahoo.co.jp/articles/252d0f0c53cbe00dc40da9d21390155a1894118b?source=rss",
+      "pubDate": "2026-10-22T21:00:01.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "giants"
+      ],
+      "topics": [
+        "draft"
+      ],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/252d0f0c53cbe00dc40da9d21390155a1894118b?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【ドラフト】谷繁元信氏「前例として大谷翔平も…」横浜・織田翔希に巨人入団のススメ(日刊スポーツ)",
+      "summary": "＜プロ野球ドラフト会議＞◇22日 元中日監督の谷繁元信氏（55＝日刊スポーツ評論家）がCSスカイAで放送された「プロ野球ドラフト後夜祭26」に出演。横浜の最速157キロ右腕、織田翔希投手（3年）に巨人",
+      "link": "https://news.yahoo.co.jp/articles/ba3f252a5bb81d8a9c444d5969f6c4b554b739e2?source=rss",
+      "pubDate": "2026-10-22T21:00:01.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "baystars",
+        "giants"
+      ],
+      "topics": [
+        "draft"
+      ],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/ba3f252a5bb81d8a9c444d5969f6c4b554b739e2?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【データ】明大17年連続ドラフト指名達成 同一チームからの最長連続指名を更新(日刊スポーツ)",
+      "summary": "＜プロ野球ドラフト会議＞◇22日 阪神が明大・榊原七斗外野手（4年＝報徳学園）を一本釣りした。兵庫・報徳学園では最速145キロを投げる左腕エースで活躍。明大では強打の外野手として1年時から活躍し、確実",
+      "link": "https://news.yahoo.co.jp/articles/84e8589d0a79e91c41cea1ca5fe96866acf19366?source=rss",
+      "pubDate": "2026-10-22T20:55:03.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "tigers"
+      ],
+      "topics": [
+        "draft"
+      ],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/84e8589d0a79e91c41cea1ca5fe96866acf19366?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "中学生でプロ入りの“利点と課題” 元捕手の経験則…巨人が挑む未知の育成領域",
+      "summary": "「プロ野球ドラフト会議 supported by リポビタンD」が22日、都内のホテルで行われ、巨人は育成5位で川崎市立向丘中の関蓮太郎捕手を指名した。2011年12月生まれの14歳。小学6年生の時にはジャイアンツジュニアに選出され、巨人創…",
+      "link": "https://full-count.jp/2026/10/23/post2035225/",
+      "pubDate": "2026-10-22T20:53:00.000Z",
+      "source": "Full-Count（プロ野球）",
+      "sourceId": "full-count-npb",
+      "teams": [
+        "giants"
+      ],
+      "topics": [
+        "draft"
+      ],
+      "sources": [
+        {
+          "name": "Full-Count（プロ野球）",
+          "sourceId": "full-count-npb",
+          "link": "https://full-count.jp/2026/10/23/post2035225/"
+        }
+      ]
+    },
     {
       "title": "名前の由来は「やすらかに…」ソフトバンク1位指名の鈴木泰成 大先輩の下で歩む大成功への道【ドラフト】(西スポWEB OTTO!)",
       "summary": "◆プロ野球ドラフト会議（22日、東京都内） ソフトバンクから1位指名を受けた青学大の鈴木泰成は、当たりくじを引き当てた城島健司チーフ・ベースボール・オフィサー（CBO）の笑顔を中継の画面で確認すると、",
@@ -112,8 +963,8 @@
       "summary": "＜プロ野球ドラフト会議＞◇22日 「プロ野球ドラフト会議 supported byリポビタンD」が22日、午後4時50分から行われた。日本ハムが山梨学院・菰田陽生投手（3年）を1位で指名し、単独指名と",
       "link": "https://news.yahoo.co.jp/articles/baddd264188b4f9edef294d72850d5b7f1ef8d35?source=rss",
       "pubDate": "2026-10-22T20:30:02.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
       "teams": [
         "fighters"
       ],
@@ -122,8 +973,8 @@
       ],
       "sources": [
         {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/baddd264188b4f9edef294d72850d5b7f1ef8d35?source=rss"
         }
       ]
@@ -2416,6 +3267,27 @@
       ]
     },
     {
+      "title": "ソフトバンク、支配下9名、育成15名指名 ドラフト指名選手一覧",
+      "summary": "ソフトバンクは、22日に開催された『プロ野球ドラフト会議 supported by リポビタンD』で支配下9人、育成15人の選手を指名した。 指名した選手は以下の通り。 ▼ソフトバンク ＜支配下＞ 1位 鈴木 泰成（ […]",
+      "link": "https://baseballking.jp/ns/710461/",
+      "pubDate": "2026-10-22T11:46:35.000Z",
+      "source": "BASEBALL KING",
+      "sourceId": "baseballking",
+      "teams": [
+        "hawks"
+      ],
+      "topics": [
+        "draft"
+      ],
+      "sources": [
+        {
+          "name": "BASEBALL KING",
+          "sourceId": "baseballking",
+          "link": "https://baseballking.jp/ns/710461/"
+        }
+      ]
+    },
+    {
       "title": "【ドラフト】ロッテ５位、奈良大付・新城楓雅 趣味は「寝ること」190センチの本格派右腕(日刊スポーツ)",
       "summary": "＜プロ野球ドラフト会議＞◇22日 ロッテに5位指名を受け、奈良大付・新城楓雅投手（3年）の表情が緩んだ。午後6時39分。今か今かと待ちわび続け、ついにその時を迎えた。名前が呼ばれ、記者会見に同席した田",
       "link": "https://news.yahoo.co.jp/articles/36e5a84bc58d7bee2ebf7894ba4ea3ecd014399a?source=rss",
@@ -2852,6 +3724,27 @@
       ]
     },
     {
+      "title": "ロッテ、支配下6名、育成3名指名 ドラフト指名選手一覧",
+      "summary": "ロッテは、22日に開催された『プロ野球ドラフト会議 supported by リポビタンD』で支配下6人、育成3人の選手を指名した。 指名した選手は以下の通り。 ▼ロッテ ＜支配下＞ 1位 米沢 友翔（関西大 / 投 […]",
+      "link": "https://baseballking.jp/ns/710469/",
+      "pubDate": "2026-10-22T11:18:51.000Z",
+      "source": "BASEBALL KING",
+      "sourceId": "baseballking",
+      "teams": [
+        "marines"
+      ],
+      "topics": [
+        "draft"
+      ],
+      "sources": [
+        {
+          "name": "BASEBALL KING",
+          "sourceId": "baseballking",
+          "link": "https://baseballking.jp/ns/710469/"
+        }
+      ]
+    },
+    {
       "title": "ヤクルト、支配下7名、育成3名指名 ドラフト指名選手一覧",
       "summary": "ヤクルトは、、22日に開催された『プロ野球ドラフト会議 supported by リポビタンD』で支配下7人、育成3人の選手を指名した。 指名した選手は以下の通り。 ▼ ヤクルト ＜支配下＞ 1位 藤澤涼介（東京ガス […]",
       "link": "https://baseballking.jp/ns/710654/",
@@ -3210,32 +4103,6 @@
       ]
     },
     {
-      "title": "ソフトバンク、支配下9名、育成15名指名 ドラフト指名選手一覧",
-      "summary": "ソフトバンクは、22日に開催された『プロ野球ドラフト会議 supported by リポビタンD』で支配下9人、育成15人の選手を指名した。 指名した選手は以下の通り。 ▼ソフトバンク ＜支配下＞ 1位 鈴木 泰成（ […]",
-      "link": "https://baseballking.jp/ns/710461/",
-      "pubDate": "2026-10-22T10:19:13.000Z",
-      "source": "BASEBALL KING",
-      "sourceId": "baseballking",
-      "teams": [
-        "hawks"
-      ],
-      "topics": [
-        "draft"
-      ],
-      "sources": [
-        {
-          "name": "BASEBALL KING",
-          "sourceId": "baseballking",
-          "link": "https://baseballking.jp/ns/710461/"
-        },
-        {
-          "name": "BASEBALL KING",
-          "sourceId": "baseballking",
-          "link": "https://baseballking.jp/ns/710449/"
-        }
-      ]
-    },
-    {
       "title": "ドラフト支配下指名終了、主な指名無し選手 日体大153キロ右腕、仙台育英の主砲ら",
       "summary": "「プロ野球ドラフト会議 supported by リポビタンD」が22日、都内のホテルで行われ、支配下指名が終了した。",
       "link": "https://full-count.jp/2026/10/22/post2034569/",
@@ -3335,32 +4202,6 @@
           "name": "BASEBALL KING",
           "sourceId": "baseballking",
           "link": "https://baseballking.jp/ns/710422/"
-        }
-      ]
-    },
-    {
-      "title": "ロッテ、支配下6名、育成3名指名 ドラフト指名選手一覧",
-      "summary": "ロッテは、22日に開催された『プロ野球ドラフト会議 supported by リポビタンD』で支配下6人、育成3人の選手を指名した。 指名した選手は以下の通り。 ▼ロッテ ＜支配下＞ 1位 米沢 友翔（関西大 / 投 […]",
-      "link": "https://baseballking.jp/ns/710469/",
-      "pubDate": "2026-10-22T10:10:12.000Z",
-      "source": "BASEBALL KING",
-      "sourceId": "baseballking",
-      "teams": [
-        "marines"
-      ],
-      "topics": [
-        "draft"
-      ],
-      "sources": [
-        {
-          "name": "BASEBALL KING",
-          "sourceId": "baseballking",
-          "link": "https://baseballking.jp/ns/710469/"
-        },
-        {
-          "name": "BASEBALL KING",
-          "sourceId": "baseballking",
-          "link": "https://baseballking.jp/ns/710457/"
         }
       ]
     },
@@ -65095,284 +65936,6 @@
           "name": "Yahoo!ニュース スポーツ",
           "sourceId": "yahoo-sports",
           "link": "https://news.yahoo.co.jp/articles/02d276337d312624d429722dd1c90c00dc6ebe85?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "阪神・髙寺がミス挽回の劇的決勝2ラン 大矢氏「よくあの場面で打たせたなと」",
-      "summary": "阪神が勝利し2位の巨人が敗れたため、マジックを一気に2つ減らし「8」とした。22日放送のCSフジテレビONE『プロ野球ニュース』では、延長11回に決勝2ランを放った髙寺望夢について解説陣が語った。 この日の打席内容に […]",
-      "link": "https://baseballking.jp/ns/707791/",
-      "pubDate": "2026-09-22T23:20:00.000Z",
-      "source": "BASEBALL KING",
-      "sourceId": "baseballking",
-      "teams": [
-        "tigers",
-        "giants"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "BASEBALL KING",
-          "sourceId": "baseballking",
-          "link": "https://baseballking.jp/ns/707791/"
-        }
-      ]
-    },
-    {
-      "title": "苦しい敗戦も…巨人・戸郷、次戦へ望みをつなぐ5回1失点好投 大矢氏「次回なんとか良いピッチングを」",
-      "summary": "巨人が広島との接戦を制せず、痛い敗戦を喫した。22日放送のCSフジテレビONE『プロ野球ニュース』では、先発した戸郷翔征について解説陣が言及した。 5回1失点7奪三振とまずまずの好投。番組に出演した大矢明彦氏は「巨人 […]",
-      "link": "https://baseballking.jp/ns/707778/",
-      "pubDate": "2026-09-22T23:10:00.000Z",
-      "source": "BASEBALL KING",
-      "sourceId": "baseballking",
-      "teams": [
-        "giants",
-        "carp"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "BASEBALL KING",
-          "sourceId": "baseballking",
-          "link": "https://baseballking.jp/ns/707778/"
-        }
-      ]
-    },
-    {
-      "title": "【とっておきメモ】DeNA牧秀悟が初の30本塁打「見ててくれているかな？」空を見上げる理由(日刊スポーツ)",
-      "summary": "＜DeNA7－3中日＞◇22日◇横浜 DeNA牧秀悟内野手（28）がキャリアハイとなる30号2ランを放った。 ◇ ◇ ◇ 大好きなばあちゃんにアーチを届けた。「見ててくれてい",
-      "link": "https://news.yahoo.co.jp/articles/d0c11856bcbd3b0446d3763880233a7fc231f02d?source=rss",
-      "pubDate": "2026-09-22T23:00:01.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "baystars"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/d0c11856bcbd3b0446d3763880233a7fc231f02d?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "日本ハム勝利で2位西武と0.5ゲーム差に迫る 佐伯氏「ここにきて打線が本当に好調になってきた」",
-      "summary": "◆ 白熱する2位争い！大矢氏「北海道でやるか所沢でやるか…」 日本ハムは22日、楽天と対戦し6－5で勝利した。パ・リーグ2位・西武とのゲーム差は「0.5」に縮まった。 白熱する2位争いに、22日放送のフジテレビONE […]",
-      "link": "https://baseballking.jp/ns/707762/",
-      "pubDate": "2026-09-22T23:00:00.000Z",
-      "source": "BASEBALL KING",
-      "sourceId": "baseballking",
-      "teams": [
-        "fighters",
-        "lions",
-        "eagles"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "BASEBALL KING",
-          "sourceId": "baseballking",
-          "link": "https://baseballking.jp/ns/707762/"
-        }
-      ]
-    },
-    {
-      "title": "西武敗れるもソフトバンク松本裕＆杉山から3得点 真中氏「CSもあるので、打っといたのはいい材料かな」",
-      "summary": "◆ 終盤に見せた粘り「嫌な雰囲気を与えられたかもしれない」 西武は22日、ソフトバンクと対戦し5－6で敗れた。8回に平沢大河が松本裕樹からソロ本塁打、9回に外崎修汰が杉山一樹から2点本塁打を放つも、反撃はここまでだった […]",
-      "link": "https://baseballking.jp/ns/707764/",
-      "pubDate": "2026-09-22T22:40:00.000Z",
-      "source": "BASEBALL KING",
-      "sourceId": "baseballking",
-      "teams": [
-        "lions",
-        "hawks"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "BASEBALL KING",
-          "sourceId": "baseballking",
-          "link": "https://baseballking.jp/ns/707764/"
-        }
-      ]
-    },
-    {
-      "title": "六大学ではないドラフトの“主役” なぜドラ1候補が育つのか…87勝右腕が分析したワケ",
-      "summary": "今年の「プロ野球ドラフト会議 supported by リポビタンＤ」は10月22日に開催される。近年、多くの上位指名選手を輩出しているのが東都大学リーグだ。同リーグに加盟する国学院大出身で、ロッテで通算87勝を挙げた渡辺俊介氏が「戦国東都…",
-      "link": "https://full-count.jp/2026/09/23/post2019609/",
-      "pubDate": "2026-09-22T22:14:00.000Z",
-      "source": "Full-Count（プロ野球）",
-      "sourceId": "full-count-npb",
-      "teams": [
-        "marines"
-      ],
-      "topics": [
-        "draft"
-      ],
-      "sources": [
-        {
-          "name": "Full-Count（プロ野球）",
-          "sourceId": "full-count-npb",
-          "link": "https://full-count.jp/2026/09/23/post2019609/"
-        }
-      ]
-    },
-    {
-      "title": "【日本ハム】水谷瞬の一発などで5​点ビハインドから逆転勝ち、引退試合の中島卓也も1安打｜プロ野球結果(DAZN News)",
-      "summary": "9月22日、エスコンフィールドで行われた北海道日本ハムファイターズ対東北楽天ゴールデンイーグルスの試合は、6-5で日本ハムが勝利した。",
-      "link": "https://news.yahoo.co.jp/articles/3bdae32c91f65d88317e0284cd53d8db70d332c0?source=rss",
-      "pubDate": "2026-09-22T22:01:17.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "fighters"
-      ],
-      "topics": [
-        "retirement"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/3bdae32c91f65d88317e0284cd53d8db70d332c0?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "ソフトバンクCS突破に不気味な存在 西武の初対戦左腕が見せた能力(西スポWEB OTTO!)",
-      "summary": "【評論家の視点】 ◆ソフトバンク6―5西武（22日、みずほペイペイドーム） ソフトバンクはリーグ優勝セレモニーが試合後に待っていた一戦で勝って良かった。熱い声援を送り続けたファンも喜んでくれた",
-      "link": "https://news.yahoo.co.jp/articles/c07c8a3675de0aa81710bbfb401d192d403eb8ed?source=rss",
-      "pubDate": "2026-09-22T22:01:04.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "hawks",
-        "lions"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/c07c8a3675de0aa81710bbfb401d192d403eb8ed?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "日本ハム・新庄監督「臨時コーチのおかげで打てた」チーム本塁打両リーグ断トツの174本！試合前に春季キャンプで臨時コーチを務めた山崎武司さんと談笑(中日スポーツ)",
-      "summary": "◇22日 日本ハム6―5楽天（エスコンフィールド北海道） 最高の花道となった。日本ハムが5点差から逆転に成功し、引退試合となったプロ18年目の中島卓也内野手を勝利で送り出した。これで2位・西武との",
-      "link": "https://news.yahoo.co.jp/articles/b28dc7b63a27a0947809d9d340c78169f4bd13e3?source=rss",
-      "pubDate": "2026-09-22T22:00:54.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "fighters"
-      ],
-      "topics": [
-        "retirement"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/b28dc7b63a27a0947809d9d340c78169f4bd13e3?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "阪神高橋遥人５年ぶり中５日先発 過去６度で１勝３敗、白星は20年10月巨人戦のみ／見どころ(日刊スポーツ)",
-      "summary": "ヤクルト－阪神戦は奥川と高橋の投げ合い。両投手とも前回登板から中5日での先発登板となる。 中5日の先発登板は、奥川はプロ入り初で、高橋は21年10月14日巨人戦（東京ドーム）以来、5年ぶり。高橋",
-      "link": "https://news.yahoo.co.jp/articles/5d1f2c8f24e7820c7897c9ff6b04fdeef2b4e44b?source=rss",
-      "pubDate": "2026-09-22T22:00:01.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "tigers"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/5d1f2c8f24e7820c7897c9ff6b04fdeef2b4e44b?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【巨人】橋上監督代行「先発投手から得点を奪うことができなかった」連勝３でストップ(日刊スポーツ)",
-      "summary": "＜広島2－1巨人＞◇22日◇マツダスタジアム 巨人が今季6度目のサヨナラ負けを喫し、連勝が3でストップした。広島4連戦の初戦は手痛い敗戦となり、首位阪神と1・5ゲーム差に広がった。 橋上監督代",
-      "link": "https://news.yahoo.co.jp/articles/3fa4d6d0469f057d3cf14ec6ca8c5cda80be895a?source=rss",
-      "pubDate": "2026-09-22T21:55:03.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "giants"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/3fa4d6d0469f057d3cf14ec6ca8c5cda80be895a?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "今オフの“進退”は…？動向が注目される監督（5）リーグ最下位争い…指揮官の去就は(ベースボールチャンネル)",
-      "summary": "レギュラーシーズンの最終盤に突入している2026年のプロ野球。パ・リーグは福岡ソフトバンクホークスがリーグ3連覇を達成。セ・リーグは2チームによる熾烈な優勝争いが展開されている中、指揮官の来季続投や",
-      "link": "https://news.yahoo.co.jp/articles/8ad9628d1031529fff361f61d7a5d50eb7b1c021?source=rss",
-      "pubDate": "2026-09-22T21:50:09.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "hawks"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/8ad9628d1031529fff361f61d7a5d50eb7b1c021?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "「見に来い」「いや、いいです」…練習見学拒否も 騙された15歳「お前、今日から野球部や」",
-      "summary": "半ば強制的に……。阪急・オリックスで2桁勝利を5度マークするなど通算112勝を挙げた山沖之彦氏は1975年、高知県立中村高校に入学したが、当初は野球部に入るつもりはなかった。入部したのは、他の同級生より1か月遅れの5月頃。野球部監督からの「…",
-      "link": "https://full-count.jp/2026/09/23/post2019601/",
-      "pubDate": "2026-09-22T21:44:00.000Z",
-      "source": "Full-Count（プロ野球）",
-      "sourceId": "full-count-npb",
-      "teams": [
-        "buffaloes"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Full-Count（プロ野球）",
-          "sourceId": "full-count-npb",
-          "link": "https://full-count.jp/2026/09/23/post2019601/"
-        }
-      ]
-    },
-    {
-      "title": "【DeNA】５年連続のCS進出決定 牧秀悟は30号「けがもありながら到達…自信になる」(日刊スポーツ)",
-      "summary": "＜DeNA7－3中日＞◇22日◇横浜 DeNAが5年連続のCS進出を決めた。中日に快勝。牧秀悟内野手（28）が節目の1発で先制点をもたらした。初回無死一塁。カウント1－0から、中日マラーの149キ",
-      "link": "https://news.yahoo.co.jp/articles/32420d6dfe3751c60852542d2e6dfc5b5d2c2b87?source=rss",
-      "pubDate": "2026-09-22T21:00:02.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "baystars"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/32420d6dfe3751c60852542d2e6dfc5b5d2c2b87?source=rss"
         }
       ]
     }
