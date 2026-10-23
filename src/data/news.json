@@ -1,7 +1,647 @@
 {
-  "generatedAt": "2026-10-23T17:32:31.997Z",
-  "count": 3367,
+  "generatedAt": "2026-10-23T20:42:37.289Z",
+  "count": 3392,
   "items": [
+    {
+      "title": "松井監督の会見で「とんでもないことに気づいた」 本人も認める…伏線回収が「粋だなぁ」",
+      "summary": "巨人は23日、東京都内で記者会見を開き、松井秀喜氏の来季監督就任を正式に発表した。契約期間は3年。ファンが歓喜に沸くなか、松井氏が会見で見せた“あるこだわり”がSNS上で「ほんとだぁぁぁ！」と大きな話題となっている。",
+      "link": "https://full-count.jp/2026/10/24/post2035770/",
+      "pubDate": "2026-10-23T20:35:00.000Z",
+      "source": "Full-Count（プロ野球）",
+      "sourceId": "full-count-npb",
+      "teams": [
+        "giants"
+      ],
+      "topics": [
+        "personnel"
+      ],
+      "sources": [
+        {
+          "name": "Full-Count（プロ野球）",
+          "sourceId": "full-count-npb",
+          "link": "https://full-count.jp/2026/10/24/post2035770/"
+        }
+      ]
+    },
+    {
+      "title": "「彼は120％入るでしょ」松井秀喜新監督の“ジャイアンツ組閣人事”をＯＢ元木大介氏がガチ＆リアル予想！「10年は続くんじゃない？」「驚くのが由伸ヘッド」(THE DIGEST)",
+      "summary": "10月23日、驚きのニュースが日本列島を駆け巡った。読売ジャイアンツの新監督にレジェンドＯＢである松井秀喜氏が電撃就任。さっそく都内での記者会見に臨み、師と仰いだ長嶋茂雄氏がかつて監督時代につけた「背",
+      "link": "https://news.yahoo.co.jp/articles/df5009abee249d510bda8d65db3c02211163b894?source=rss",
+      "pubDate": "2026-10-23T20:33:00.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "giants"
+      ],
+      "topics": [
+        "personnel"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/df5009abee249d510bda8d65db3c02211163b894?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "中畑清氏 巨人・松井新監督の“長嶋イズム”継承へ強い覚悟感じる背番号「90」 3年目で花を咲かせて(スポニチアネックス)",
+      "summary": "◇巨人・松井秀喜新監督就任 背番号90に強い覚悟を感じるね。最初と最後の背番号、55＋35＝90というのもあるらしいけど、これはこじつけ。そういう縁もあるっていう後付けの験担ぎみたいなもんだよ。一番は",
+      "link": "https://news.yahoo.co.jp/articles/728c289faa2ea291de5a94bc35c5181e41b27386?source=rss",
+      "pubDate": "2026-10-23T20:31:00.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "giants"
+      ],
+      "topics": [
+        "personnel"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/728c289faa2ea291de5a94bc35c5181e41b27386?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "松井監督就任に巨人選手たちも「びっくり」 リチャード「マジですごい」中山礼都「スーパースター」浦田俊輔「芯が強く情に厚い方なのかな」(スポーツ報知)",
+      "summary": "松井氏の監督就任を受け、Ｇ球場で練習していた選手たちは驚きの声などを上げた。少年時代から巨人かつ松井ファンの松本剛外野手（３３）は「正直、びっくり。このタイミングでジャイアンツにいられることはすごく嬉",
+      "link": "https://news.yahoo.co.jp/articles/850c34a483c3a0ddf5b56cc92c18cd4c8a7fe728?source=rss",
+      "pubDate": "2026-10-23T20:30:03.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "giants"
+      ],
+      "topics": [
+        "personnel"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/850c34a483c3a0ddf5b56cc92c18cd4c8a7fe728?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "DeNAドラ1・星野「ベイスターズのスターになる」 相川監督のサプライズには「手汗出た」(スポニチアネックス)",
+      "summary": "DeNAは23日、ドラフト1位で指名した大商大・星野世那投手（22）に指名あいさつを行った。東大阪市内のキャンパスに長谷川竜也編成部長ら3人が訪問。最速151キロ左腕は「自分の名前も星が入っている。ベ",
+      "link": "https://news.yahoo.co.jp/articles/bc65ba81b18f7b9ad9336f5ef58997fc4af52ded?source=rss",
+      "pubDate": "2026-10-23T20:30:00.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "baystars"
+      ],
+      "topics": [
+        "draft"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/bc65ba81b18f7b9ad9336f5ef58997fc4af52ded?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "楽天・YG安田、巨人・松井監督誕生を祝福 「ユウマゴジラ」が登録名由来「率直に驚いた」(スポニチアネックス)",
+      "summary": "フェニックス・リーグに参加中の「ユウマゴジラ」こと楽天・YG安田も巨人の松井監督誕生を祝福し、「率直に驚きました」とコメントした。【写真あり】中川安奈「ひとめぼれ」巨人のジョーダンユニでヘソ出しコーデ",
+      "link": "https://news.yahoo.co.jp/articles/3fa745b5fe029661722ab8bf22e918f2d9962471?source=rss",
+      "pubDate": "2026-10-23T20:30:00.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "eagles",
+        "giants"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/3fa745b5fe029661722ab8bf22e918f2d9962471?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "巨人・松井新監督 課題の“長打不足”解消へメジャー流も取り入れる「選手と伴走し、一緒に成長を」(スポニチアネックス)",
+      "summary": "◇巨人・松井秀喜新監督就任 巨人・松井新監督に課される大きな課題のひとつは、絶対的な4番打者の育成だ。2年ぶりのV奪回を目指した今季は、シーズン最終盤まで阪神と優勝争いを繰り広げたが2位。宿敵に連覇を",
+      "link": "https://news.yahoo.co.jp/articles/61e496a0964d97dbc8919b329e53f07c2d201296?source=rss",
+      "pubDate": "2026-10-23T20:30:00.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "giants"
+      ],
+      "topics": [
+        "personnel"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/61e496a0964d97dbc8919b329e53f07c2d201296?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "巨人・松井新監督「ジャイアンツに対する愛というのはずっと変わらず持っていました」(スポニチアネックス)",
+      "summary": "◇巨人・松井秀喜新監督就任 松井秀喜氏の一問一答――打診があった時の心境は。 「正直、やはりうれしかったです。私にとっては、どこにいても心の中にジャイアンツはあったんです。で、昨年、長嶋監督が亡くなら",
+      "link": "https://news.yahoo.co.jp/articles/e780b9d35caf974c4a9f2b535c2bfe731346f36b?source=rss",
+      "pubDate": "2026-10-23T20:30:00.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "giants"
+      ],
+      "topics": [
+        "personnel"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/e780b9d35caf974c4a9f2b535c2bfe731346f36b?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "なぜこのタイミングで松井監督が誕生？前代未聞の危機迎えた巨人 イメージ回復に向けて救い求めた(スポニチアネックス)",
+      "summary": "◇巨人・松井秀喜新監督就任 【悲願の松井監督誕生】球団にとってもファンにとっても待ち望んだ巨人の松井新監督誕生。24年以来3年ぶりのリーグ制覇と、12年から遠ざかっている日本一への切り札として期待がか",
+      "link": "https://news.yahoo.co.jp/articles/4d81fbdfa056ce173117452358b7c7749420132a?source=rss",
+      "pubDate": "2026-10-23T20:30:00.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "giants"
+      ],
+      "topics": [
+        "personnel"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/4d81fbdfa056ce173117452358b7c7749420132a?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "巨人・松井秀喜新監督就任 背番号「90」 長嶋さんに「この姿を見ていただきたかった」(スポニチアネックス)",
+      "summary": "◇巨人・松井秀喜新監督就任 巨人は23日、来季監督に日米通算507本塁打をマークした球団OBの松井秀喜氏（52）が就任すると発表した。年俸2億円（推定）の3年契約。背番号は恩師である長嶋茂雄さんが第1",
+      "link": "https://news.yahoo.co.jp/articles/0bf3667023dc159c7be00e066bdd36118dcdc907?source=rss",
+      "pubDate": "2026-10-23T20:30:00.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "giants"
+      ],
+      "topics": [
+        "contract",
+        "personnel"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/0bf3667023dc159c7be00e066bdd36118dcdc907?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "元巨人軍広報・香坂英典氏 松井秀喜氏、1年目から見えていた「巨人を背負う自覚」(スポニチアネックス)",
+      "summary": "◇巨人・松井秀喜新監督就任 松井は監督受諾のタイミングをずっと考えていたはず。人生の重い決断だから熟考しただろうね。ただ今の日本のプロ野球で、巨人がもう少しリーダーシップを取って引っ張っていく使命感は",
+      "link": "https://news.yahoo.co.jp/articles/933bceb5838d4e61080a622287d3f69fb3a2a559?source=rss",
+      "pubDate": "2026-10-23T20:30:00.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "giants"
+      ],
+      "topics": [
+        "personnel"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/933bceb5838d4e61080a622287d3f69fb3a2a559?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "巨人・松井新監督の現役時代の担当記者 喜怒哀楽を表に出さず 監督としての「本音」楽しみ(スポニチアネックス)",
+      "summary": "◇巨人・松井秀喜新監督就任 松井秀喜は喜怒哀楽をあまり表に出さない。チームを率いる指揮官となったらどうだろう。かつての中日・落合博満監督のように常に泰然としているのか、恩師の「ミスター」長嶋茂雄監督の",
+      "link": "https://news.yahoo.co.jp/articles/03b2417356bd861a6afd44576798325643a01cdf?source=rss",
+      "pubDate": "2026-10-23T20:30:00.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "giants"
+      ],
+      "topics": [
+        "personnel"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/03b2417356bd861a6afd44576798325643a01cdf?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "西武・仁志コーチ 巨人・松井新監督就任に「仲間が戻ってきたのはうれしい。楽しみに見ています」(スポニチアネックス)",
+      "summary": "◇巨人・松井秀喜新監督就任 西武の仁志野手チーフ兼打撃コーチが、巨人の来季監督に就任した松井秀喜氏に「一緒にやっていた仲間が戻ってきたのはうれしい。楽しみに見ています」とエールを送った。 巨人時代には",
+      "link": "https://news.yahoo.co.jp/articles/a55e93074705a15d3f2ee9feea7984392e3eb7e8?source=rss",
+      "pubDate": "2026-10-23T20:30:00.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "lions",
+        "giants"
+      ],
+      "topics": [
+        "personnel"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/a55e93074705a15d3f2ee9feea7984392e3eb7e8?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "巨人・松井新監督の父・昌雄さん「ファンの期待に応えられるようなチームをつくってほしい」(スポニチアネックス)",
+      "summary": "◇巨人・松井秀喜新監督就任 巨人・松井新監督の父・昌雄さん（84）が、館長を務める石川県能美市の「松井秀喜ベースボールミュージアム」で取材に応じた。 「昨日入ったメールに朝気付いて大変驚いている。ファ",
+      "link": "https://news.yahoo.co.jp/articles/6620606efef5e5b8750cfbd6f415aa114268dcc9?source=rss",
+      "pubDate": "2026-10-23T20:30:00.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "giants"
+      ],
+      "topics": [
+        "personnel"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/6620606efef5e5b8750cfbd6f415aa114268dcc9?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "巨人の球団関係者も驚き！松井新監督の就任会見に報道陣約120人(スポニチアネックス)",
+      "summary": "◇巨人・松井秀喜新監督就任 巨人松井新監督の就任会見にはテレビカメラ18台、報道陣約120人が集結した。【写真あり】ついにこの姿が！就任会見で背番号90を披露する松井新監督 会見開始1時間前の午後2時",
+      "link": "https://news.yahoo.co.jp/articles/2ec9fa052bf0747518ec5ca401a3a6c078fa6ea7?source=rss",
+      "pubDate": "2026-10-23T20:30:00.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "giants"
+      ],
+      "topics": [
+        "personnel"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/2ec9fa052bf0747518ec5ca401a3a6c078fa6ea7?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "巨人・松井新監督 初仕事はドラ1横浜・織田の“説得” ドラフト単独指名「ゾクッと」(スポニチアネックス)",
+      "summary": "◇巨人・松井秀喜新監督就任 巨人・松井新監督の初仕事は、ドラフト会議で1位で強行指名した横浜・織田翔希投手の“説得”になりそうだ。米球界挑戦を表明している最速157キロ右腕に、まずは熱いラブコールを送",
+      "link": "https://news.yahoo.co.jp/articles/10b247dd8455f4034cf2639d292f11fdb8b3dc44?source=rss",
+      "pubDate": "2026-10-23T20:30:00.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "giants",
+        "baystars"
+      ],
+      "topics": [
+        "draft",
+        "personnel"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/10b247dd8455f4034cf2639d292f11fdb8b3dc44?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "DeNA・石田裕 第1戦先発「光栄。初回からかっ飛ばしていく」(スポニチアネックス)",
+      "summary": "初戦の先発を託されたDeNA・石田裕は喜びを胸に本拠地のマウンドに上がる。 「第1戦に指名していただいて光栄。自分が持っているものを最大限出して、初回からかっ飛ばしていく」。【写真あり】相川七瀬 De",
+      "link": "https://news.yahoo.co.jp/articles/f335b9ba720600284ca99ec70a3766aca5729989?source=rss",
+      "pubDate": "2026-10-23T20:30:00.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "baystars"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/f335b9ba720600284ca99ec70a3766aca5729989?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "DeNA・相川監督「セの誇り」胸にあえて投手が打席に入る「9人制野球」で勝つ！(スポニチアネックス)",
+      "summary": "DeNA・相川監督が「セの誇り」を示す決意を口にした。 日本シリーズは両球団の申し合わせでセ本拠地でもDH制で戦うことは可能だが、あえて投手が打席に入る「9人制野球」で戦う。【写真あり】相川七瀬 De",
+      "link": "https://news.yahoo.co.jp/articles/2e64f4c9f97546cbd8681b8cde2c224406f98677?source=rss",
+      "pubDate": "2026-10-23T20:30:00.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "baystars"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/2e64f4c9f97546cbd8681b8cde2c224406f98677?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "DeNA・牧 元同僚ソフトバンク・山本祐と念願の初対決「楽しみたいけど、勝ちにこだわりたい」(スポニチアネックス)",
+      "summary": "「SMBC日本シリーズ2026」は24日、横浜スタジアムで開幕する。セ・リーグ3位からの下克上日本一を狙うDeNAの牧秀悟内野手（28）は、パ・リーグ王者ソフトバンクの元同僚、山本祐大捕手（28）との",
+      "link": "https://news.yahoo.co.jp/articles/7c4d1d02cd97b47f651150cecd1694fc2aa79ce9?source=rss",
+      "pubDate": "2026-10-23T20:30:00.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "baystars",
+        "hawks"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/7c4d1d02cd97b47f651150cecd1694fc2aa79ce9?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "巨人ベンチの雰囲気は「最悪ですね」 まさかの3連敗…選手もざわついた“緊急会談”",
+      "summary": "巨人は1989年、近鉄との日本シリーズで3連敗後に4連勝し、8年ぶりの日本一に輝いた。当時の正三塁手として活躍し、同シリーズの優秀選手賞を獲得した岡崎郁氏が舞台裏を明かした。3連敗でベンチの雰囲気は「最悪」だったという。そこからチームが奮起…",
+      "link": "https://full-count.jp/2026/10/24/post2035745/",
+      "pubDate": "2026-10-23T20:15:00.000Z",
+      "source": "Full-Count（プロ野球）",
+      "sourceId": "full-count-npb",
+      "teams": [
+        "giants"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Full-Count（プロ野球）",
+          "sourceId": "full-count-npb",
+          "link": "https://full-count.jp/2026/10/24/post2035745/"
+        }
+      ]
+    },
+    {
+      "title": "【DeNA 対 ソフトバンク】日本シリーズ2026 テレビ放送・配信予定・試合日程 無料視聴方法はある？｜SMBC日本シリーズ",
+      "summary": "日本シリーズ2026、DeNA対ソフトバンクのテレビ放送・ネット配信予定、試合日程・開始時間を紹介。10月24日に横浜スタジアムで開幕。TBS、日本テレビ、テレビ朝日、NHK BSの中継情報や、U-NEXTがライブ配信する第1・2・3・6・…",
+      "link": "https://www.baseballchannel.jp/npb/297766/",
+      "pubDate": "2026-10-23T20:00:46.000Z",
+      "source": "ベースボールチャンネル（プロ野球）",
+      "sourceId": "baseballchannel-npb",
+      "teams": [
+        "baystars",
+        "hawks"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "ベースボールチャンネル（プロ野球）",
+          "sourceId": "baseballchannel-npb",
+          "link": "https://www.baseballchannel.jp/npb/297766/"
+        }
+      ]
+    },
+    {
+      "title": "【巨人】高橋由伸氏に来季HC就任を要請、８年ぶり球団復帰へ 松井新監督「１人だけ声を…」(日刊スポーツ)",
+      "summary": "巨人が元監督の高橋由伸氏（51）に来季からのヘッドコーチ就任を要請していることが23日、分かった。球団復帰となれば9年ぶりとなる。この日、就任会見に臨んだ松井秀喜新監督（52）とは1学年違いで現役時代",
+      "link": "https://news.yahoo.co.jp/articles/805cb3ec25b19d063787cbb55a6226b5e54eb07c?source=rss",
+      "pubDate": "2026-10-23T20:00:04.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "giants"
+      ],
+      "topics": [
+        "personnel"
+      ],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/805cb3ec25b19d063787cbb55a6226b5e54eb07c?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【中日】石伊雄太が左足関節クリーニング術 現在リハビリ中、来春１軍キャンプ合流目指す(日刊スポーツ)",
+      "summary": "中日石伊雄太捕手（26）が7日、名古屋市内の病院で左足関節クリーニング術を受けていたことが23日、分かった。現在はリハビリ組で復帰に向けたプログラムを進めており、来春の1軍キャンプ合流を目指している。",
+      "link": "https://news.yahoo.co.jp/articles/fad5fd8de6f22c774079f5b6f25e7e0121a57d61?source=rss",
+      "pubDate": "2026-10-23T20:00:03.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "dragons"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/fad5fd8de6f22c774079f5b6f25e7e0121a57d61?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【阪神】ドラ１明大・榊原七斗が近本超え宣言！「憧れているとだめ。早く追い越せるように」(日刊スポーツ)",
+      "summary": "憧れの近本を超える！阪神ドラフト1位の明大・榊原七斗外野手（22＝報徳学園）が23日、東京都・府中市内の同大学で指名あいさつを受けた。藤川監督、東編成ディレクター、畑山統括スカウト、平塚スカウトと対面",
+      "link": "https://news.yahoo.co.jp/articles/3500b3d54f1bea7cc2fe5b7adcb2596fd9a8ef51?source=rss",
+      "pubDate": "2026-10-23T20:00:02.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "tigers"
+      ],
+      "topics": [
+        "draft"
+      ],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/3500b3d54f1bea7cc2fe5b7adcb2596fd9a8ef51?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【DeNA】神里和毅「まさか同じチームで…」弟・陸が６位指名「うれしいなというのはあります」(日刊スポーツ)",
+      "summary": "DeNA神里和毅外野手（32）が兄弟での共闘を心待ちにした。22日に行われたドラフト会議で弟のENEOS・神里陸捕手（24）がDeNAから6位指名。神里は「まさか同じチームでというのは、本当にびっくり",
+      "link": "https://news.yahoo.co.jp/articles/559b09ea5af4de514351861b3e8ee5956e383343?source=rss",
+      "pubDate": "2026-10-23T20:00:02.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "baystars"
+      ],
+      "topics": [
+        "draft"
+      ],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/559b09ea5af4de514351861b3e8ee5956e383343?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【阪神】テル、あとは任せて 同期の村上頌樹選手会長が佐藤離脱後のチームを支える覚悟示す(日刊スポーツ)",
+      "summary": "阪神のエースで選手会長の村上頌樹投手（28）が、メジャー挑戦による佐藤離脱後のチームを全員で支える覚悟を明かした。兵庫・西宮市内で「三冠王が抜けるのはきついと思いますけど、投手、野手全体でカバーできれ",
+      "link": "https://news.yahoo.co.jp/articles/adbaecc478e356846bdd4107eab9d8880f62ae4c?source=rss",
+      "pubDate": "2026-10-23T20:00:01.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "tigers"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/adbaecc478e356846bdd4107eab9d8880f62ae4c?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【阪神】梵英心２軍打撃コーチも退団 終戦から１週間経たずに４人目の辞意 後任人選が急務(日刊スポーツ)",
+      "summary": "阪神は23日、藤本敦士総合コーチ（49）、小谷野栄一チーフ打撃コーチ（46）、上本博紀1軍打撃コーチ（40）、梵英心2軍打撃コーチ（46）が退団することを発表した。リーグ連覇を果たしたオフでは異例の4",
+      "link": "https://news.yahoo.co.jp/articles/bba1576ba4ed67ce9665d78694f4150e6149b8b9?source=rss",
+      "pubDate": "2026-10-23T20:00:00.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "tigers"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/bba1576ba4ed67ce9665d78694f4150e6149b8b9?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "巨人松井監督誕生に芸能界も反応「男気讃えたい」「待ってました！」「子供の頃の感情が蘇って」(日刊スポーツ)",
+      "summary": "プロ野球巨人の新監督に松井秀喜氏（52）が就任した23日、芸能界のプロ野球ファン、巨人ファンもレジェンドの復帰を歓迎した。【写真】松井秀喜監督誕生を喜ぶ亀梨和也 大の巨人ファンのHOUND DOG大友",
+      "link": "https://news.yahoo.co.jp/articles/0baf97bd7049671bbd9819483b19c710b8f904c6?source=rss",
+      "pubDate": "2026-10-23T19:55:02.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "giants"
+      ],
+      "topics": [
+        "personnel"
+      ],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/0baf97bd7049671bbd9819483b19c710b8f904c6?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【ロッテ】ドラ１関大左腕・米沢友翔「１年目から主戦として」新人王目指す 指名あいさつ(日刊スポーツ)",
+      "summary": "大学日本一左腕が新人王を目標に挙げた。ロッテのドラフト1位、関大・米沢友翔投手（22）が23日、大阪府・吹田市内の同校で指名あいさつを受けた。榎康弘アマスカウトディレクター、三家和真担当スカウトと対面",
+      "link": "https://news.yahoo.co.jp/articles/ef401b1c30cc416f3ed83e007778ea6267400a15?source=rss",
+      "pubDate": "2026-10-23T19:55:01.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "marines"
+      ],
+      "topics": [
+        "draft"
+      ],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/ef401b1c30cc416f3ed83e007778ea6267400a15?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "米国に衝撃走った「ビッグニュース」 大手メディア一斉速報…名門で「愛された選手」",
+      "summary": "巨人の新監督に就任する松井秀喜氏が、日米で大きな注目を集めている。巨人は23日、東京都内で会見を行い、松井氏の監督就任を発表。背番号は「90」で、契約は3年となった。米メディアも相次いで速報し、国際的な注目を浴びた現役時代を知る米国でも、大…",
+      "link": "https://full-count.jp/2026/10/24/post2035761/",
+      "pubDate": "2026-10-23T19:35:00.000Z",
+      "source": "Full-Count（プロ野球）",
+      "sourceId": "full-count-npb",
+      "teams": [
+        "giants"
+      ],
+      "topics": [
+        "personnel"
+      ],
+      "sources": [
+        {
+          "name": "Full-Count（プロ野球）",
+          "sourceId": "full-count-npb",
+          "link": "https://full-count.jp/2026/10/24/post2035761/"
+        }
+      ]
+    },
+    {
+      "title": "亀梨和也「感動と興奮が入り混じり子供の頃の感情が…」巨人松井秀喜監督就任に祝福と感謝(日刊スポーツ)",
+      "summary": "亀梨和也（40）が23日、松井秀喜氏（52）の巨人新監督就任を受け、関係者を通じて祝福と感謝を伝えるコメントを寄せた。日本テレビ系「Going! Sports＆News」でベースボールスペシャルサポー",
+      "link": "https://news.yahoo.co.jp/articles/baa7b88f9450a9e607be05fdfda04d89cc1fd0e9?source=rss",
+      "pubDate": "2026-10-23T19:00:01.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "giants"
+      ],
+      "topics": [
+        "personnel"
+      ],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/baa7b88f9450a9e607be05fdfda04d89cc1fd0e9?source=rss"
+        }
+      ]
+    },
     {
       "title": "巨人、高橋由伸氏にヘッドコーチ就任要請 8年ぶり球団復帰なら超豪華内閣実現！(サンケイスポーツ)",
       "summary": "巨人が元監督の高橋由伸氏にヘッドコーチ就任を要請していることが23日、分かった。受諾となれば、松井新監督との豪華内閣が実現する。監督経験者の同一球団でのヘッドコーチ就任は今季の阪神・和田豊氏に続き、異",
@@ -66497,124 +67137,6 @@
           "name": "日刊スポーツ（Yahoo!ニュース経由）",
           "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/a99e46403abacc3f14aa8d03f49a3d848dba46f2?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "12球団で最長となるDeNA28年連続セ・リーグＶ逸に相川監督は何を語ったか(日刊スポーツ)",
-      "summary": "DeNAが23日、1998年以来のセ・リーグ優勝を逃した。リーグV逸は28年連続。現12球団では、最も長くリーグ優勝から遠ざかっている。ただし、24年にはセ・リーグ3位からCSを勝ち上がり、日本シリ",
-      "link": "https://news.yahoo.co.jp/articles/3b13be08956d6bafe1d4965bc05dceeafda31d44?source=rss",
-      "pubDate": "2026-09-23T20:30:01.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "baystars"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/3b13be08956d6bafe1d4965bc05dceeafda31d44?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "ロッテ、益田直也の250セーブと800登板達成の表彰式を実施 「たくさんの方に支えていただいて」",
-      "summary": "千葉ロッテマリーンズは、23日、オリックス・バファローズ戦の試合前に益田直也投手の250セーブと800登板達成の表彰式を行った。",
-      "link": "https://www.baseballchannel.jp/npb/290960/",
-      "pubDate": "2026-09-23T20:00:44.000Z",
-      "source": "ベースボールチャンネル（プロ野球）",
-      "sourceId": "baseballchannel-npb",
-      "teams": [
-        "marines"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "ベースボールチャンネル（プロ野球）",
-          "sourceId": "baseballchannel-npb",
-          "link": "https://www.baseballchannel.jp/npb/290960/"
-        }
-      ]
-    },
-    {
-      "title": "【阪神】大山悠輔が先制Ｖ打「チームのみんなに感謝」９月は打率.294、９打点２本塁打と好調(日刊スポーツ)",
-      "summary": "＜ヤクルト4－8阪神＞◇23日◇神宮 阪神大山悠輔内野手（31）が打線に火を付けた。0－0のまま迎えた6回、やってきた無死満塁の絶好のチャンスでヤクルト先発奥川の初球のスライダーをはじき返した。打",
-      "link": "https://news.yahoo.co.jp/articles/85f2c3b84e63894d468df48a5bc2464eebb77fb8?source=rss",
-      "pubDate": "2026-09-23T20:00:03.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "tigers"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/85f2c3b84e63894d468df48a5bc2464eebb77fb8?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【オリックス】投打生え抜きの西野真弘、山田修義が球団に今季限りでの現役引退を申し入れ(日刊スポーツ)",
-      "summary": "オリックスの野手最年長の西野真弘内野手（36）と通算78ホールドを挙げた山田修義投手（35）が、今季限りでの現役引退を球団に申し入れていたことが23日、分かった。 西野は14年にJR東日本からド",
-      "link": "https://news.yahoo.co.jp/articles/d80cfbaecd2c1cd6d9e8e2fb65fc53ef74c2406f?source=rss",
-      "pubDate": "2026-09-23T20:00:02.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "buffaloes"
-      ],
-      "topics": [
-        "retirement"
-      ],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/d80cfbaecd2c1cd6d9e8e2fb65fc53ef74c2406f?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【阪神】浜田太貴が２軍戦で５打点！２ラン＆走者一掃打も平田２軍監督「最後のフォアボールよ」(日刊スポーツ)",
-      "summary": "＜ファームリーグ西地区：阪神11－11オリックス＞◇23日◇SGL 阪神浜田太貴外野手（26）が4号2ランを含む2安打5打点と気を吐いた。 1－2の2回、無死一塁で内角直球を完璧に捉えた。左翼",
-      "link": "https://news.yahoo.co.jp/articles/4f214a90620299a6035fcb5dca23b87df9b0d064?source=rss",
-      "pubDate": "2026-09-23T20:00:01.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "tigers"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/4f214a90620299a6035fcb5dca23b87df9b0d064?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【阪神】ドラ１立石正広、２軍戦に「5番三塁」で出場してマルチ安打！再昇格へ鍛錬を積む(日刊スポーツ)",
-      "summary": "＜ファームリーグ西地区：阪神11－11オリックス＞◇23日◇SGL 阪神ドラフト1位ルーキーの立石正広内野手（22）が2軍降格後初のマルチ安打を決めた。 「5番三塁」で出場。1－2の2回先頭で",
-      "link": "https://news.yahoo.co.jp/articles/a26aaca79c023e77cec962c609ca2dbe8778073b?source=rss",
-      "pubDate": "2026-09-23T20:00:01.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "tigers"
-      ],
-      "topics": [
-        "draft"
-      ],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/a26aaca79c023e77cec962c609ca2dbe8778073b?source=rss"
         }
       ]
     }
