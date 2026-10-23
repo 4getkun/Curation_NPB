@@ -1,7 +1,572 @@
 {
-  "generatedAt": "2026-10-23T20:42:37.289Z",
-  "count": 3392,
+  "generatedAt": "2026-10-23T23:36:29.648Z",
+  "count": 3403,
   "items": [
+    {
+      "title": "【ソフトバンク】ドラフト球団コメント一覧(ベースボールチャンネル)",
+      "summary": "2026年のプロ野球ドラフト会議が10月22日に開催された。福岡ソフトバンクホークスは、支配下9人、育成15人の計24選手を指名。1位では完成度の高い本格派右腕・鈴木泰成投手、2位では左腕の有馬伽久投",
+      "link": "https://news.yahoo.co.jp/articles/23784084763c1c5201133cdefd1d60d5e35b6067?source=rss",
+      "pubDate": "2026-10-23T23:20:45.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "hawks"
+      ],
+      "topics": [
+        "draft"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/23784084763c1c5201133cdefd1d60d5e35b6067?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "ヤクルトD1位の東京ガス藤沢涼介、大器の片鱗 日本選手権へJR東日本とのオープン戦(サンケイスポーツ)",
+      "summary": "運命のドラフト会議から一夜明け、目下の目標に向けて動き出した。ヤクルトからドラフト1位指名された東京ガス・藤沢涼介外野手（24）が23日、千葉・柏市のグラウンドで行われたJR東日本とのオープン戦に「3",
+      "link": "https://news.yahoo.co.jp/articles/1b1a1b8567a56173cef06173b80ec2ad44c2575c?source=rss",
+      "pubDate": "2026-10-23T23:16:33.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "swallows"
+      ],
+      "topics": [
+        "draft"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/1b1a1b8567a56173cef06173b80ec2ad44c2575c?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "「えー！奥さんとの馴れ初めがここ？」SB育成指名、18歳との意外な縁に驚き「映画みたい」元NPB選手が告白(THE ANSWER)",
+      "summary": "プロ野球のドラフト会議が10月22日に行われ、ソフトバンクは育成10位で、フレズノ・シティカレッジの根鈴風大内野手を指名した。北米育ちの異色の内野手との繋がりを明かした元プロ野球選手には、驚きの声が上",
+      "link": "https://news.yahoo.co.jp/articles/e67e85b591a070344797ca6b58a5a0e91e752332?source=rss",
+      "pubDate": "2026-10-23T23:13:00.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "hawks"
+      ],
+      "topics": [
+        "draft"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/e67e85b591a070344797ca6b58a5a0e91e752332?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "辻発彦氏がソフトバンクの「守備と走塁」を日本シリーズのポイントに挙げる",
+      "summary": "23日放送のCSフジテレビONE『プロ野球ニュース2026』に出演していた辻発彦氏が24日に開幕する日本シリーズでソフトバンクが勝利するには「守備と走塁」をポイントに挙げた。辻氏は「打線の部分は短期決戦、日頃対戦してい […]",
+      "link": "https://baseballking.jp/ns/710828/",
+      "pubDate": "2026-10-23T23:10:00.000Z",
+      "source": "BASEBALL KING",
+      "sourceId": "baseballking",
+      "teams": [
+        "hawks"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "BASEBALL KING",
+          "sourceId": "baseballking",
+          "link": "https://baseballking.jp/ns/710828/"
+        },
+        {
+          "name": "BASEBALL KING",
+          "sourceId": "baseballking",
+          "link": "https://baseballking.jp/ns/710826/"
+        },
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/849e495597ca8c909685e8019cd2bc98a9f259ef?source=rss"
+        },
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/174c94460041aab590ae642db448d0a6e73727a4?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【ヤクルト】ドラフト球団コメント一覧(ベースボールチャンネル)",
+      "summary": "2026年のプロ野球ドラフト会議が10月22日に開催された。東京ヤクルトスワローズは、支配下7人、育成3人の計10選手を指名。1位では勝負強い打撃と高い身体能力が魅力の藤澤涼介外野手、2位では長打力を",
+      "link": "https://news.yahoo.co.jp/articles/6d22e6413d379f55a85faedf337f1793875347d5?source=rss",
+      "pubDate": "2026-10-23T23:00:48.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "swallows"
+      ],
+      "topics": [
+        "draft"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/6d22e6413d379f55a85faedf337f1793875347d5?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【巨人】山口寿一オーナー「１つの危機であった年」再建は松井新監督に「お願いするしかない」(日刊スポーツ)",
+      "summary": "巨人山口寿一オーナー（69）が松井新監督に再建を託した。就任会見に同席し、新監督として要請に至った経緯を説明。シーズン終了後に要請し、1週間後に受託の答えをもらった。今季は阿部前監督がシーズン途中に娘",
+      "link": "https://news.yahoo.co.jp/articles/0251fa175f1acf1bd9a1d0287f6f5b60c5f7618d?source=rss",
+      "pubDate": "2026-10-23T23:00:02.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "giants"
+      ],
+      "topics": [
+        "personnel"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/0251fa175f1acf1bd9a1d0287f6f5b60c5f7618d?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【DeNA】相川監督、最後の９人制で「セの野球をしっかり見せたい」本拠地・横浜で日本Ｓ開幕(日刊スポーツ)",
+      "summary": "本拠地横浜で戦いの幕が上がる。DeNAは23日、横浜スタジアムで日本シリーズの開幕前日練習を実施。相川亮二監督（50）は「今回9人制が最後というところもある。セ・リーグでやってきた代表として、セ・リー",
+      "link": "https://news.yahoo.co.jp/articles/807b9dbd06c91dfcba683bbee892386e6cd25171?source=rss",
+      "pubDate": "2026-10-23T23:00:02.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "baystars"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/807b9dbd06c91dfcba683bbee892386e6cd25171?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "巨人・松井秀喜新監督、ドラ1位・織田翔希〝口説き〟直接出馬も「契約できるかもしれないチャンスをいただいた」(サンケイスポーツ)",
+      "summary": "最強の〝切り札〟となるか―。巨人・松井秀喜新監督（52）は23日、東京都内で記者会見に臨んだ。前日22日のドラフト会議で巨人が単独1位指名し、交渉権を獲得した神奈川・横浜高の最速157キロ右腕、織田翔",
+      "link": "https://news.yahoo.co.jp/articles/19e77ea9ce5c26a6394aa4beb34998159a8c5f75?source=rss",
+      "pubDate": "2026-10-23T23:00:00.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "giants"
+      ],
+      "topics": [
+        "draft",
+        "personnel"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/19e77ea9ce5c26a6394aa4beb34998159a8c5f75?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "松井新監督誕生！ 長嶋さんの思い背負い24年ぶりに巨人復帰 (サンケイスポーツ)",
+      "summary": "巨人は23日、新監督に日米通算507本塁打を誇る球団OBの松井秀喜氏（52）が就任すると発表した。「ゴジラ」の愛称で親しまれる国民的スターは東京都内で就任会見に臨み、昨年6月に死去した恩師の長嶋茂雄さ",
+      "link": "https://news.yahoo.co.jp/articles/01b3faa9dd8cbc25e269b81ebbb102aa5fc85635?source=rss",
+      "pubDate": "2026-10-23T23:00:00.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "giants"
+      ],
+      "topics": [
+        "personnel"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/01b3faa9dd8cbc25e269b81ebbb102aa5fc85635?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "阪神・今朝丸裕喜、D1位指名の明大・榊原はかわいがってもらった先輩 報徳学園高時代の忘れられない思い出明かす(サンケイスポーツ)",
+      "summary": "阪神・今朝丸裕喜投手（20）が23日、兵庫・尼崎市のファーム施設で残留練習に参加。22日のドラフト会議で1位指名された榊原七斗（明大）への思いを語った。【写真】小学生時代の今朝丸「素直にうれしい。びっ",
+      "link": "https://news.yahoo.co.jp/articles/89fe8d56a5d344cbd806d4061c1119c1c276cd5c?source=rss",
+      "pubDate": "2026-10-23T23:00:00.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "tigers"
+      ],
+      "topics": [
+        "draft"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/89fe8d56a5d344cbd806d4061c1119c1c276cd5c?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "阪神・筒井和也スカウトが2軍投手コーチに配置転換 2004年入団の自由枠左腕が初入閣(サンケイスポーツ)",
+      "summary": "阪神・筒井和也スカウト（45）が2軍投手コーチに配置転換されることが23日、分かった。2004年にドラフト自由枠で入団し、主に救援として通算8勝6敗3セーブ、防御率3.87を記録。16年限りで現役を引",
+      "link": "https://news.yahoo.co.jp/articles/85aaa608bcecf6743ce0ab5b81e55e6952da3526?source=rss",
+      "pubDate": "2026-10-23T23:00:00.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "tigers"
+      ],
+      "topics": [
+        "draft"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/85aaa608bcecf6743ce0ab5b81e55e6952da3526?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "DeNA・牧「名前で一歩でも引いたら負ける」 2年ぶり日本一へ ソフトバンクと運命めいた巡り合わせ(サンケイスポーツ)",
+      "summary": "日本シリーズは24日に横浜スタジアムで開幕し、セ・リーグ3位のDeNAは2024年以来2年ぶりの日本一を目指し、パ・リーグ王者のソフトバンクと対戦する。23日は同球場で全体練習を行い、牧秀悟内野手（2",
+      "link": "https://news.yahoo.co.jp/articles/39e8b71d68af77e33f1b5a9fdb5790338f53ac85?source=rss",
+      "pubDate": "2026-10-23T23:00:00.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "baystars",
+        "hawks"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/39e8b71d68af77e33f1b5a9fdb5790338f53ac85?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "阪神・村上頌樹、ドラフト指名選手へエール「信じていれば花が咲くときはくると思う」(サンケイスポーツ)",
+      "summary": "阪神・村上頌樹投手（28）がドラフト指名された選手たちにエールを送った。自身も2021年に東洋大から5位で入団しエースに上り詰めただけに「上位の方が注目はある（される）と思うんですけど、下でも頑張れば",
+      "link": "https://news.yahoo.co.jp/articles/8fd4f6ac40fbe261daed87a369b525e29d4599ed?source=rss",
+      "pubDate": "2026-10-23T23:00:00.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "tigers"
+      ],
+      "topics": [
+        "draft"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/8fd4f6ac40fbe261daed87a369b525e29d4599ed?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "プロ野球ニュース解説陣による日本シリーズ勝敗予想 辻氏＆五十嵐氏「4勝2敗」でソフトバンク日本一予想",
+      "summary": "23日放送のCSフジテレビONE『プロ野球ニュース2026』に出演していた辻発彦氏と五十嵐亮太氏が24日から行われる日本シリーズでの勝敗を予想した。 辻発彦氏は4勝2敗でソフトバンクの日本一と予想し「僕はパ・リーグを […]",
+      "link": "https://baseballking.jp/ns/710816/",
+      "pubDate": "2026-10-23T22:50:00.000Z",
+      "source": "BASEBALL KING",
+      "sourceId": "baseballking",
+      "teams": [
+        "hawks"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "BASEBALL KING",
+          "sourceId": "baseballking",
+          "link": "https://baseballking.jp/ns/710816/"
+        }
+      ]
+    },
+    {
+      "title": "巨人、松井秀喜氏が監督就任！辻氏「やらなきゃいけない人」、谷繁氏「やっとなってくれた」",
+      "summary": "23日にフジテレビONEで放送された『プロ野球ニュース2026』に出演した解説陣が、巨人の新監督に就任した松井秀喜監督について言及した。 辻発彦氏は「まずは驚きましたね。私と谷繁さんは（監督を）経験していますけど、い […]",
+      "link": "https://baseballking.jp/ns/710814/",
+      "pubDate": "2026-10-23T22:40:00.000Z",
+      "source": "BASEBALL KING",
+      "sourceId": "baseballking",
+      "teams": [
+        "giants"
+      ],
+      "topics": [
+        "personnel"
+      ],
+      "sources": [
+        {
+          "name": "BASEBALL KING",
+          "sourceId": "baseballking",
+          "link": "https://baseballking.jp/ns/710814/"
+        }
+      ]
+    },
+    {
+      "title": "【Buffaloes Inside】FA権獲得の宗佑磨。「自分の人生をしっかり考えなきゃいけないところ。オリックスはもちろん大事です」",
+      "summary": "国内フリーエージェント（FA）権保有選手として10月19日にNPBから公示されたオリックスの宗佑磨選手が、FA権行使も視野に熟考中だ。 「12年やってきましたし、感謝しかありません。（監督時代の）福良さん（淳一GM） […]",
+      "link": "https://baseballking.jp/ns/710809/",
+      "pubDate": "2026-10-23T22:30:00.000Z",
+      "source": "BASEBALL KING",
+      "sourceId": "baseballking",
+      "teams": [
+        "buffaloes"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "BASEBALL KING",
+          "sourceId": "baseballking",
+          "link": "https://baseballking.jp/ns/710809/"
+        }
+      ]
+    },
+    {
+      "title": "谷繁氏、DeNAが4勝3敗で日本一と予想「野球は強いチームが勝つという絶対はない」",
+      "summary": "23日にフジテレビONEで放送された『プロ野球ニュース2026』に出演した野村弘樹氏と谷繁元信氏が、24日から始まるソフトバンクとDeNAの日本シリーズでDeNAが4勝3敗で日本一になると予想した。 野村氏は「DeN […]",
+      "link": "https://baseballking.jp/ns/710812/",
+      "pubDate": "2026-10-23T22:20:00.000Z",
+      "source": "BASEBALL KING",
+      "sourceId": "baseballking",
+      "teams": [
+        "baystars",
+        "hawks"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "BASEBALL KING",
+          "sourceId": "baseballking",
+          "link": "https://baseballking.jp/ns/710812/"
+        }
+      ]
+    },
+    {
+      "title": "ソフトバンク？DeNA？ プロ野球ニュース解説陣の日本一予想",
+      "summary": "23日にフジテレビONEで放送された『プロ野球ニュース2026』で、プロ野球ニュース解説陣の日本一予想が紹介された。 ＜ソフトバンク日本一予想＞ 平松政次氏：4勝1敗 谷沢健一氏：4勝2敗 大矢明彦氏：4勝3敗 田尾安 […]",
+      "link": "https://baseballking.jp/ns/710836/",
+      "pubDate": "2026-10-23T22:10:00.000Z",
+      "source": "BASEBALL KING",
+      "sourceId": "baseballking",
+      "teams": [
+        "hawks",
+        "baystars"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "BASEBALL KING",
+          "sourceId": "baseballking",
+          "link": "https://baseballking.jp/ns/710836/"
+        }
+      ]
+    },
+    {
+      "title": "熱狂的虎党の泉ピン子、松井新監督就任に「揺れ動いている大事な日なの」巨人ファンに変心？(日刊スポーツ)",
+      "summary": "熱狂的な阪神ファンの女優泉ピン子（79）が“人生最大の心変わり”の岐路に立っていると打ち明けた。23日、都内で公開初日の出演映画「AYUMI」と「養父」の舞台あいさつに出席。「こんなこと、やってる場合",
+      "link": "https://news.yahoo.co.jp/articles/f152719052fa237319f6ae60d8efec99ccf63033?source=rss",
+      "pubDate": "2026-10-23T21:55:02.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "giants"
+      ],
+      "topics": [
+        "personnel"
+      ],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/f152719052fa237319f6ae60d8efec99ccf63033?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "指名漏れたら「すぐ練習いくべき」 消えていく笑顔…「5/11」が夢敗れる、会見場の光と影",
+      "summary": "プロ野球選手を生業にしようとする人にとっての「運命の日」。今年も22日に「プロ野球ドラフト会議 supported by リポビタンD」が開催された。昨年を上回る支配下選手76人、育成選手51人の交渉権の行方が決まった一方で、NPBの12球…",
+      "link": "https://full-count.jp/2026/10/24/post2034549/",
+      "pubDate": "2026-10-23T21:35:00.000Z",
+      "source": "Full-Count（プロ野球）",
+      "sourceId": "full-count-npb",
+      "teams": [],
+      "topics": [
+        "draft"
+      ],
+      "sources": [
+        {
+          "name": "Full-Count（プロ野球）",
+          "sourceId": "full-count-npb",
+          "link": "https://full-count.jp/2026/10/24/post2034549/"
+        }
+      ]
+    },
+    {
+      "title": "有吉弘行、松井秀喜氏巨人監督就任に言及「松井秀喜は同期です 49期生です。同期だから！」(日刊スポーツ)",
+      "summary": "タレント有吉弘行（52）が23日夜、Xを更新。この日午後、会見で巨人の新監督に就任することを発表した球団OB松井秀喜氏（52）について言及した。【写真】背番号90のユニフォームでガッツポーズする松井秀",
+      "link": "https://news.yahoo.co.jp/articles/9552a25373afa95047e59dfcd5da773a33ac132e?source=rss",
+      "pubDate": "2026-10-23T21:32:48.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "giants"
+      ],
+      "topics": [
+        "personnel"
+      ],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/9552a25373afa95047e59dfcd5da773a33ac132e?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【今日のプロ野球】日本シリーズ2026 DeNA対ソフトバンク｜10月24日の試合開始時間・予告先発一覧",
+      "summary": "プロ野球は24日、対戦カード・開催球場・試合開始時間・予告先発投手を以下のとおりで行う。",
+      "link": "https://www.baseballchannel.jp/npb/297771/",
+      "pubDate": "2026-10-23T21:20:17.000Z",
+      "source": "ベースボールチャンネル（プロ野球）",
+      "sourceId": "baseballchannel-npb",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "ベースボールチャンネル（プロ野球）",
+          "sourceId": "baseballchannel-npb",
+          "link": "https://www.baseballchannel.jp/npb/297771/"
+        }
+      ]
+    },
+    {
+      "title": "【DeNA】ドラ１大商大・星野世那８番目に呼ばれ「マジか」から「やっと実感」相川監督から直電も(日刊スポーツ)",
+      "summary": "ドラフト1位の大商大・星野世那投手（22＝近江）が22日、大阪・東大阪市内の同大学キャンパスで指名あいさつを受けた。【イラスト】DeNAのドラフト指名一覧 長谷川竜也編成部長ら球団スカウト関係者から球",
+      "link": "https://news.yahoo.co.jp/articles/ea6dcea3bc38c96ce6477df9464b25acb45678a7?source=rss",
+      "pubDate": "2026-10-23T21:00:02.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "baystars"
+      ],
+      "topics": [
+        "draft"
+      ],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/ea6dcea3bc38c96ce6477df9464b25acb45678a7?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【ヤクルト】青木宣親GM「ビックリ」「野球界も盛り上がるのでは…」巨人松井秀喜新監督就任(日刊スポーツ)",
+      "summary": "ヤクルト青木宣親GMが松井秀喜氏の巨人新監督就任に驚いた。「ビックリしました。こうやって長く（日本球界を）離れていた人なので。野球界も盛り上がるのではないかなと思います」。プレーした期間は重なっていな",
+      "link": "https://news.yahoo.co.jp/articles/a8b896bde628e43fe23e8a47ee1944b90ce08050?source=rss",
+      "pubDate": "2026-10-23T21:00:02.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "swallows"
+      ],
+      "topics": [
+        "personnel"
+      ],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/a8b896bde628e43fe23e8a47ee1944b90ce08050?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【巨人】松井新監督「カントクとともに」長嶋氏への思い胸に引退して13年、自らも「カントク」に(日刊スポーツ)",
+      "summary": "「カントクとともに－」。巨人の新監督に就任した松井秀喜氏（52）が巨人終身名誉監督の故長嶋茂雄氏とともに闘う。昨年6月3日に89歳でこの世を去った心の師。悩み抜いた末に、待ち焦がれてくれていた指揮官の",
+      "link": "https://news.yahoo.co.jp/articles/90b4db1a39968bb94e6a1513787a59635665b84a?source=rss",
+      "pubDate": "2026-10-23T20:55:04.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "giants"
+      ],
+      "topics": [
+        "personnel",
+        "retirement"
+      ],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/90b4db1a39968bb94e6a1513787a59635665b84a?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【巨人】松本剛、憧れの松井秀喜新監督就任に「びっくり。まだ全然想像できていない」(日刊スポーツ)",
+      "summary": "巨人松本剛外野手（33）が23日、新監督に就任した球団のレジェンドOBの松井秀喜氏（52）について言及した。監督就任については「皆さんと同じタイミングで見ました」と明かし「すごい。正直びっくり」と驚い",
+      "link": "https://news.yahoo.co.jp/articles/972b4a16f9ccee3c36be655cd4e13199850e4698?source=rss",
+      "pubDate": "2026-10-23T20:55:02.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "giants"
+      ],
+      "topics": [
+        "personnel"
+      ],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/972b4a16f9ccee3c36be655cd4e13199850e4698?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "シーズン中なのに「車の免許を取りに」 出番激減で「蚊帳の外」…球団に直訴「出してくれ」",
+      "summary": "元オリックス右腕の山沖之彦氏はプロ11年目の1992年、わずか8登板で4勝3敗だった。続く12年目の1993年はさらに出番が減って5登板、1勝1敗で終了。「別に怪我とかじゃない。もう自分は（先発要員の）数に入っていなかったと思う」。ずっとエ…",
+      "link": "https://full-count.jp/2026/10/24/post2035726/",
+      "pubDate": "2026-10-23T20:55:00.000Z",
+      "source": "Full-Count（プロ野球）",
+      "sourceId": "full-count-npb",
+      "teams": [
+        "buffaloes"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Full-Count（プロ野球）",
+          "sourceId": "full-count-npb",
+          "link": "https://full-count.jp/2026/10/24/post2035726/"
+        }
+      ]
+    },
     {
       "title": "松井監督の会見で「とんでもないことに気づいた」 本人も認める…伏線回収が「粋だなぁ」",
       "summary": "巨人は23日、東京都内で記者会見を開き、松井秀喜氏の来季監督就任を正式に発表した。契約期間は3年。ファンが歓喜に沸くなか、松井氏が会見で見せた“あるこだわり”がSNS上で「ほんとだぁぁぁ！」と大きな話題となっている。",
@@ -439,7 +1004,7 @@
       ]
     },
     {
-      "title": "【巨人】高橋由伸氏に来季HC就任を要請、８年ぶり球団復帰へ 松井新監督「１人だけ声を…」(日刊スポーツ)",
+      "title": "【巨人】高橋由伸氏に来季ヘッドコーチ就任要請、８年ぶり球団復帰へ 松井新監督「１人だけ声を」(日刊スポーツ)",
       "summary": "巨人が元監督の高橋由伸氏（51）に来季からのヘッドコーチ就任を要請していることが23日、分かった。球団復帰となれば9年ぶりとなる。この日、就任会見に臨んだ松井秀喜新監督（52）とは1学年違いで現役時代",
       "link": "https://news.yahoo.co.jp/articles/805cb3ec25b19d063787cbb55a6226b5e54eb07c?source=rss",
       "pubDate": "2026-10-23T20:00:04.000Z",
@@ -66826,317 +67391,6 @@
           "name": "BASEBALL KING",
           "sourceId": "baseballking",
           "link": "https://baseballking.jp/ns/707891/"
-        }
-      ]
-    },
-    {
-      "title": "【DeNA】“脱力”と”瞬発力”で魅せた！「とにかく勝つという気持ちだけ」負けられない戦いの中で効かせる林琢真の胆力",
-      "summary": "打席では力を抜き、インパクトの瞬間に力を込める。走塁では鍛え上げたフィジカルを生かし、一瞬の判断で次の塁を奪う。4年目の林琢真が、シーズン終盤の勝負どころで存在感を増している。 その背景には、打撃フォームの修正と、フ […]",
-      "link": "https://baseballking.jp/ns/707871/",
-      "pubDate": "2026-09-23T23:00:05.000Z",
-      "source": "BASEBALL KING",
-      "sourceId": "baseballking",
-      "teams": [
-        "baystars"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "BASEBALL KING",
-          "sourceId": "baseballking",
-          "link": "https://baseballking.jp/ns/707871/"
-        }
-      ]
-    },
-    {
-      "title": "山口もえ「板東英二さんのお別れ会へ」大先輩含む“スリーショット”公開「ゆで卵と♡」(日刊スポーツ)",
-      "summary": "タレント山口もえ（49）が23日、自身のインスタグラムを更新。7月22日に86歳で亡くなった元プロ野球選手でタレントの板東英二さんのお別れ会に参加した様子を投稿した。 「事務所の大先輩の野々村真",
-      "link": "https://news.yahoo.co.jp/articles/967d1f52500d01bb621f7823b002f7825a0e1864?source=rss",
-      "pubDate": "2026-09-23T22:38:40.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/967d1f52500d01bb621f7823b002f7825a0e1864?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【ヤフコメで話題】「阪神との優勝争いで巨人は崖っぷち」「直接対決が運命を分ける」 - セ・リーグ終盤の行方に注目集まる(Yahoo!ニュース オリジナル THE PAGE)",
-      "summary": "阪神タイガースと読売ジャイアンツの優勝争いについて、Yahoo!ニュースのコメント欄で話題になっています。 コメントでは、残り試合数や直接対決の勝敗が優勝の行方を大きく左右する状況が具体的な数字ととも",
-      "link": "https://news.yahoo.co.jp/articles/12d8685efaeb3284ada8c9fe26bc5761b93856c2?source=rss",
-      "pubDate": "2026-09-23T22:19:51.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "tigers",
-        "giants"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/12d8685efaeb3284ada8c9fe26bc5761b93856c2?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "Bクラスから主力流出！？ 今オフのFA有力候補（1）広島から“衝撃流出”も！？“最注目”の28歳(ベースボールチャンネル)",
-      "summary": "プロ野球界で大きな話題となるのが、フリーエージェント（FA）戦線だ。新たにFA権を取得した選手の去就には大きな注目が集まるが、特にBクラスに沈む球団にとって、主力の流出はチーム再建を進めるうえで大き",
-      "link": "https://news.yahoo.co.jp/articles/59444aa0b695961cbd7e934ac1099f2c95b56a9b?source=rss",
-      "pubDate": "2026-09-23T22:00:10.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "carp"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/59444aa0b695961cbd7e934ac1099f2c95b56a9b?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "楽天前田健太がエスコンフィールドで先発登板 勝利すれば17球場目で現役３位タイに／見どころ(日刊スポーツ)",
-      "summary": "楽天前田健太投手（38）がエスコンフィールドで2度目の先発登板。同球場の登板は5月20日以来。前回は3四球与えるなど乱調で、2回1／3を4失点と勝敗は付かなかった。前田健はこれまで国内の16球場で白",
-      "link": "https://news.yahoo.co.jp/articles/b4642607fc19ddd38008fd0023360e26e60ebfbe?source=rss",
-      "pubDate": "2026-09-23T22:00:01.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "eagles"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/b4642607fc19ddd38008fd0023360e26e60ebfbe?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "退団から4年…“最強助っ人”の近影に「泣いた」 突如登場で騒然「無事に涙腺崩壊」",
-      "summary": "ロッテの益田直也投手が通算250セーブおよび通算800登板を達成し、23日に本拠地で行われたオリックス戦の試合前に、連盟表彰ならびに日本プロ野球名球会ブレザー授与式が開催された。そのなかで突然登場した人物に対し、「無事に涙腺崩壊」との声があ…",
-      "link": "https://full-count.jp/2026/09/24/post2020341/",
-      "pubDate": "2026-09-23T21:54:00.000Z",
-      "source": "Full-Count（プロ野球）",
-      "sourceId": "full-count-npb",
-      "teams": [
-        "marines"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Full-Count（プロ野球）",
-          "sourceId": "full-count-npb",
-          "link": "https://full-count.jp/2026/09/24/post2020341/"
-        }
-      ]
-    },
-    {
-      "title": "中島引退の裏で…再会した“盟友”「兄弟みたい」 サプライズ登場で「涙腺崩壊した」",
-      "summary": "日本ハムは22日、中島卓也内野手の引退セレモニーを実施した。サプライズゲストとして、同じ2008年ドラフト同期でかつて二遊間のライバルであった杉谷拳士氏が登場。ねぎらいの声をかける姿や、自身のX（旧ツイッター）に投稿された2人のオフショット…",
-      "link": "https://full-count.jp/2026/09/24/post2020335/",
-      "pubDate": "2026-09-23T21:34:00.000Z",
-      "source": "Full-Count（プロ野球）",
-      "sourceId": "full-count-npb",
-      "teams": [
-        "fighters"
-      ],
-      "topics": [
-        "draft",
-        "retirement"
-      ],
-      "sources": [
-        {
-          "name": "Full-Count（プロ野球）",
-          "sourceId": "full-count-npb",
-          "link": "https://full-count.jp/2026/09/24/post2020335/"
-        }
-      ]
-    },
-    {
-      "title": "DeNAの0発男が劇的アーチ…絶対的な守護神粉砕に騒然「フォロースルーがサトテル」「風格が40発打者」(スポーティングニュース日本版)",
-      "summary": "横浜DeNAベイスターズは9月23日、横浜スタジアムで中日ドラゴンズと対戦。同点で迎えた延長12回、「8番・捕手」で先発出場した戸柱恭孝捕手が右翼席にサヨナラ本塁打を放った。劇的な勝利に導いた一発にフ",
-      "link": "https://news.yahoo.co.jp/articles/8e51b3e3b7738404a059f750f8ac70cbba8d2c88?source=rss",
-      "pubDate": "2026-09-23T21:31:10.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "baystars",
-        "dragons"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/8e51b3e3b7738404a059f750f8ac70cbba8d2c88?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【巨人】西舘勇陽、平常心でカープ斬り挑む「勝ちに行く」「粘りながら」２４日マツダ初先発(スポーツ報知)",
-      "summary": "◆ＪＥＲＡセ・リーグ 広島―巨人（２４日・マツダスタジアム） 巨人の西舘勇陽投手が２４日の広島戦で今季３勝目を懸け先発する。登板前日は敵地でキャッチボール、ランメニューを行い最終調整。同球場での登",
-      "link": "https://news.yahoo.co.jp/articles/de8cee75ee65437cff67c796f515e9a029903614?source=rss",
-      "pubDate": "2026-09-23T21:30:01.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "giants",
-        "carp"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/de8cee75ee65437cff67c796f515e9a029903614?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "3連覇達成後も勢い止まらず ソフトバンクが16安打10得点で西武圧倒し11.5差 近藤健介＆栗原陵矢が「大台」に王手(西スポWEB OTTO!)",
-      "summary": "◆ソフトバンク10―3西武（23日、みずほペイペイドーム） リーグ3連覇を果たした後でも強力打線の勢いは止まらない。西武投手陣に対して16安打10得点の猛攻。クライマックス・シリーズ（CS）で対",
-      "link": "https://news.yahoo.co.jp/articles/5e4d3907521e447b932d196c0a5da9d4b2276f0f?source=rss",
-      "pubDate": "2026-09-23T21:20:02.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "hawks",
-        "lions"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/5e4d3907521e447b932d196c0a5da9d4b2276f0f?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【ソフトバンク】２桁リーチの上沢直之を〝援護射撃〟する年長者とは「野球界でも稀有な存在」(東スポWEB)",
-      "summary": "ソフトバンクは23日の西武戦（みずほペイペイ）に10―3で大勝。打線が16安打と大爆発し、先発の上沢直之投手（32）は大量援護にも守られて今季9勝目を手にした。 安定感のある投球だった。上沢は初",
-      "link": "https://news.yahoo.co.jp/articles/db890a706857905058e304b2941251a273194f8f?source=rss",
-      "pubDate": "2026-09-23T21:15:29.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "hawks"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/db890a706857905058e304b2941251a273194f8f?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【ヤクルト】〝イケヤマジック〟失速でＢクラス 誤算だった大砲コンビが誓った雪辱「来年も２人で」(東スポWEB)",
-      "summary": "4年連続のBクラスが確定したヤクルトは23日の阪神戦（神宮）に4―8で敗北。借金は「19」に膨らみ、就任1年目の池山隆寛監督（60）は「4、5、6位もシ烈な争いになってますので、何とか1試合勝てるよ",
-      "link": "https://news.yahoo.co.jp/articles/a15862fa419d5a81a3582e18e20d7c09c57b3146?source=rss",
-      "pubDate": "2026-09-23T21:15:29.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "swallows"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/a15862fa419d5a81a3582e18e20d7c09c57b3146?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【巨人】山崎伊織「もうちょっと…」最終盤での１軍復帰へ感じた課題 スライダーは「特によかった」石井２軍監督も絶賛(スポーツ報知)",
-      "summary": "◆ファーム・リーグ 日本ハム２―２巨人（２３日・鎌ケ谷） 巨人・山崎伊織投手（２７）が２３日のファーム・日本ハム戦（鎌ケ谷）で１か月ぶりに実戦復帰した。右肩のコンディション不良を乗り越え、先発で４",
-      "link": "https://news.yahoo.co.jp/articles/cbfcee8327641673f4d2c69da0e8d8497085295c?source=rss",
-      "pubDate": "2026-09-23T21:15:03.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "giants"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/cbfcee8327641673f4d2c69da0e8d8497085295c?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "味方の失策で敗戦投手、自責0の広島左腕が批判される理由「プロとして恥じるべき」「我慢でけん」(スポーティングニュース日本版)",
-      "summary": "広島東洋カープは9月23日、マツダスタジアムで読売ジャイアンツと対戦。先発の左腕・床田寛樹投手は6回2失点（自責0）と好投しながら1-2で敗れ、6敗目（7勝）を喫した。1点リードの5回に味方の失策で2",
-      "link": "https://news.yahoo.co.jp/articles/a094e2898badbdc4358e8ea32f3f0c2cd6c8069d?source=rss",
-      "pubDate": "2026-09-23T21:10:10.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "carp"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/a094e2898badbdc4358e8ea32f3f0c2cd6c8069d?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【西武】武内＆小島バッテリー、対左打者への目立った外角攻めに解説陣が苦言 谷沢氏「今後心配ですよ、もうちょっと変化をつけないとね」",
-      "summary": "◆ 今江氏「内角に全然いけていない」「今のソフトバンク打線は厳しい」 西武は23日、ソフトバンクと対戦し3－10で敗れた。初回に先制するもその裏、柳町達の先頭打者本塁打で同点に追いつかれた。さらに柳田悠岐、近藤健介に連 […]",
-      "link": "https://baseballking.jp/ns/707836/",
-      "pubDate": "2026-09-23T21:10:00.000Z",
-      "source": "BASEBALL KING",
-      "sourceId": "baseballking",
-      "teams": [
-        "lions"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "BASEBALL KING",
-          "sourceId": "baseballking",
-          "link": "https://baseballking.jp/ns/707836/"
-        }
-      ]
-    },
-    {
-      "title": "【西武】腰ヘルニア手術の与座海人が捕手中腰のブルペン投球 見守った高橋光成も順調ぶりに拍手(日刊スポーツ)",
-      "summary": "西武与座海人投手（30）が23日、ブルペンで投球練習を行った。埼玉・所沢の球団施設で捕手が中腰の状態でピッチング。傾斜付きでの投球は「2度目です」と明かした。 右肩痛で出遅れた今季は、夏前に腰を",
-      "link": "https://news.yahoo.co.jp/articles/a99e46403abacc3f14aa8d03f49a3d848dba46f2?source=rss",
-      "pubDate": "2026-09-23T21:00:01.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "lions"
-      ],
-      "topics": [
-        "injury"
-      ],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/a99e46403abacc3f14aa8d03f49a3d848dba46f2?source=rss"
         }
       ]
     }
