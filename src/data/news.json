@@ -1,7 +1,339 @@
 {
-  "generatedAt": "2026-10-25T21:02:38.178Z",
-  "count": 3555,
+  "generatedAt": "2026-10-25T23:22:24.820Z",
+  "count": 3560,
   "items": [
+    {
+      "title": "“ゴジラ”が新監督へ！ 巨人、歴代監督の通算勝利数ランキング5位 3連敗から奇跡の大逆転…2度の監督就任で日本一(ベースボールチャンネル)",
+      "summary": "読売ジャイアンツの新監督に松井秀喜氏が就任することが23日、発表された。巨人ではこれまで多くの名将が指揮を執り、長い歴史の中で数々のリーグ優勝や日本一を達成してきた。では、歴代監督の中で最も多くの勝利",
+      "link": "https://news.yahoo.co.jp/articles/7063f3cf2428311092ac2ae51659bd70830d22d3?source=rss",
+      "pubDate": "2026-10-25T23:01:19.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "giants"
+      ],
+      "topics": [
+        "personnel"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/7063f3cf2428311092ac2ae51659bd70830d22d3?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【巨人】2017年ドラフト8位・湯浅大が来季構想外…通算140試合、代走・守備固めで支えた9年間(まるスポ)",
+      "summary": "巨人は10月25日、湯浅大内野手に来季の選手契約を結ばないことを通知したと発表した。2017年ドラフト8位で入団した26歳が、プロ9年目で契約の節目を迎えた。【巨人】ドラ1浅野翔吾ら6選手に自由契約通",
+      "link": "https://news.yahoo.co.jp/articles/bf2e6d553260d3502281db29b6ccf69e417214b0?source=rss",
+      "pubDate": "2026-10-25T23:00:02.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "giants"
+      ],
+      "topics": [
+        "trade",
+        "draft"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/bf2e6d553260d3502281db29b6ccf69e417214b0?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "ソフトバンク・川村友斗、延長十回決勝アーチに「久しぶりのホームラン過ぎて…」今季打率・095男が史上17人目のNS初打席本塁打！チームは2連勝！(サンケイスポーツ)",
+      "summary": "（SMBC日本シリーズ2026、DeNA3－4ソフトバンク＝延長十回、第2戦、ソフトバンク2勝、25日、横浜）伏兵と呼ぶのは失礼なほどの弾道だった。本塁打で局面が二転三転した第2戦。控え選手が大仕事を",
+      "link": "https://news.yahoo.co.jp/articles/bad65c3e80ce3e2396c32035d9ee529c72497511?source=rss",
+      "pubDate": "2026-10-25T23:00:00.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "hawks"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/bad65c3e80ce3e2396c32035d9ee529c72497511?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "DeNA・井上朋、古巣から連続二塁打「勝ちたかったの一言に尽きる」(サンケイスポーツ)",
+      "summary": "（SMBC日本シリーズ2026、DeNA3－4ソフトバンク＝延長十回、第2戦、ソフトバンク2勝、25日、横浜）セ・リーグ3位からクライマックスシリーズ（CS）を勝ち上がったDeNAは、パ・リーグを3連",
+      "link": "https://news.yahoo.co.jp/articles/9869c9fad7a8ff832892bd3353c57a45e54ed34f?source=rss",
+      "pubDate": "2026-10-25T23:00:00.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "baystars"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/9869c9fad7a8ff832892bd3353c57a45e54ed34f?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "ヤクルト・池山監督が逆襲V布陣 川端1軍打撃コーチが和製大砲育成担う 新守護神には広沢優が立候補(サンケイスポーツ)",
+      "summary": "逆襲への態勢が整った！！ 4年連続Bクラスのセ・リーグ5位に沈んだヤクルトは25日、来季のコーチ陣を発表した。就任2年目となる池山隆寛監督（60）は得点力不足を課題に挙げており、1軍打撃コーチに配置転",
+      "link": "https://news.yahoo.co.jp/articles/043887a16037da439dd4d6c234077f63d370280e?source=rss",
+      "pubDate": "2026-10-25T23:00:00.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "swallows"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/043887a16037da439dd4d6c234077f63d370280e?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "ソフトバンク・山川穂高、九回代打同点場外弾は「打った瞬間でしたね」柳田に促されて、どすこいポーズ解禁！(サンケイスポーツ)",
+      "summary": "（SMBC日本シリーズ2026、DeNA3－4ソフトバンク＝延長十回、第2戦、ソフトバンク2勝、25日、横浜）高々と舞い上がった白球は、横浜の夜空へ消えていった。ソフトバンク・山川穂高内野手（34）が",
+      "link": "https://news.yahoo.co.jp/articles/10c9fc45f339e1e4896766dae1a3f04d05b960f8?source=rss",
+      "pubDate": "2026-10-25T23:00:00.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "hawks"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/10c9fc45f339e1e4896766dae1a3f04d05b960f8?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "DeNA、24年と同じ〝流れ〟逆転日本一再現へ 横浜で連敗スタートもベイ党に〝希望の光〟筒香3ラン(サンケイスポーツ)",
+      "summary": "（SMBC日本シリーズ2026、DeNA3－4ソフトバンク＝延長十回、第2戦、ソフトバンク2勝、25日、横浜）セ・リーグ3位からクライマックスシリーズ（CS）を勝ち上がったDeNAは、パ・リーグを3連",
+      "link": "https://news.yahoo.co.jp/articles/72ed037b272410f9ba54de95bf0ce3931dac744f?source=rss",
+      "pubDate": "2026-10-25T23:00:00.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "baystars"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/72ed037b272410f9ba54de95bf0ce3931dac744f?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "谷繁元信氏「これがベイスターズの野球」無死一、二塁で佐野が右飛も筒香が3ラン(ニッポン放送)",
+      "summary": "25日に放送された『ニッポン放送ショウアップナイタースペシャル 日本シリーズ第2戦 DeNA－ソフトバンク』で解説を務めた谷繁元信氏が、DeNAの8回の攻撃について言及した。DeNAは0－2の8回にノ",
+      "link": "https://news.yahoo.co.jp/articles/d4a01df0e324c16508b5f946fd999c16926d0ca6?source=rss",
+      "pubDate": "2026-10-25T23:00:00.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "baystars"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/d4a01df0e324c16508b5f946fd999c16926d0ca6?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【DeNA】１軍昇格後悩んでいた井上朋也「これいいかも」心機一転、脱力打法で“力み”改善(日刊スポーツ)",
+      "summary": "＜日本シリーズ：DeNA3－4ソフトバンク＞◇第2戦◇25日◇横浜 古巣相手に成長した姿を見せた。DeNA井上朋也内野手（23）が「6番右翼」でスタメン出場して4打数2安打。2回の第1打席で左翼線への",
+      "link": "https://news.yahoo.co.jp/articles/215e6762cd47605a34196f0e2569236f70bbdc69?source=rss",
+      "pubDate": "2026-10-25T22:00:03.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "baystars"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/215e6762cd47605a34196f0e2569236f70bbdc69?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【日本ハム】現地で応援したい！CS観戦へ福岡に急きょ弾丸遠征／滝谷美夢のみゆダイアリー(日刊スポーツ)",
+      "summary": "コラム「滝谷美夢のみゆダイアリー」。23年までファイターズガールの中心メンバーとして活躍し、タレント活動、Fビレッジアンバサダーとして挑戦を続ける滝谷美夢（27）のオリジナルコラムです。 ◇ ◇ ◇",
+      "link": "https://news.yahoo.co.jp/articles/3fc261c7138d1a3d1dbcafdda5833f168f90d50c?source=rss",
+      "pubDate": "2026-10-25T22:00:01.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "fighters"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/3fc261c7138d1a3d1dbcafdda5833f168f90d50c?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "圧巻の近藤＆栗原斬り！ DeNA・岩田将貴の好救援 片岡氏称賛「最高のコースに投げ切った」",
+      "summary": "DeNAの岩田将貴がピンチの場面で登板し、ソフトバンクの主力打者2人を抑える好救援を見せた。 5回一死三塁、追加点を許したくない場面で打順は近藤健介、栗原陵矢と続くところ。ここで相川監督は、左のサイドスロー・岩田をマ […]",
+      "link": "https://baseballking.jp/ns/710980/",
+      "pubDate": "2026-10-25T22:00:00.000Z",
+      "source": "BASEBALL KING",
+      "sourceId": "baseballking",
+      "teams": [
+        "baystars"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "BASEBALL KING",
+          "sourceId": "baseballking",
+          "link": "https://baseballking.jp/ns/710980/"
+        }
+      ]
+    },
+    {
+      "title": "DeNA・度会、フェンス際の打球を惜しくもポロリ…坂口氏「落下点に着くまでは良かった」",
+      "summary": "25日放送のCSフジテレビONE『プロ野球ニュース』では、DeNA・度会隆輝のフェンス際での守備について、解説陣が言及した。 5回先頭の正木智也が放った大飛球。度会は打球を懸命に追い、グラブに当てたものの、惜しくも捕 […]",
+      "link": "https://baseballking.jp/ns/710962/",
+      "pubDate": "2026-10-25T21:50:00.000Z",
+      "source": "BASEBALL KING",
+      "sourceId": "baseballking",
+      "teams": [
+        "baystars"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "BASEBALL KING",
+          "sourceId": "baseballking",
+          "link": "https://baseballking.jp/ns/710962/"
+        }
+      ]
+    },
+    {
+      "title": "【日本シリーズ】延長戦2連敗のDeNA、勝負の分かれ目は？ 片岡氏「ここで代えていれば」",
+      "summary": "DeNAは二夜連続で延長戦にもつれ込んだものの、またも勝ち越しを許して敗戦。日本シリーズ開幕から2連敗を喫し、敵地PayPayドームでの巻き返しを目指すこととなった。 25日放送のCSフジテレビONE『プロ野球ニュー […]",
+      "link": "https://baseballking.jp/ns/710944/",
+      "pubDate": "2026-10-25T21:40:00.000Z",
+      "source": "BASEBALL KING",
+      "sourceId": "baseballking",
+      "teams": [
+        "baystars"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "BASEBALL KING",
+          "sourceId": "baseballking",
+          "link": "https://baseballking.jp/ns/710944/"
+        }
+      ]
+    },
+    {
+      "title": "ソフトバンク2連勝で迎える日本シリーズ第3戦 解説陣が4番・栗原陵矢の復調を期待「振らされている感じがする」「しっかりした試合運びをするには…」",
+      "summary": "◆ 2試合の打率.125 坂口氏「何とか1本、1打点が出れば乗ってくる」 24日から始まった「SMBC日本シリーズ2026」で、ソフトバンクが2連勝。25日放送のフジテレビONE『プロ野球ニュース2026』では、第3戦 […]",
+      "link": "https://baseballking.jp/ns/710975/",
+      "pubDate": "2026-10-25T21:30:00.000Z",
+      "source": "BASEBALL KING",
+      "sourceId": "baseballking",
+      "teams": [
+        "hawks"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "BASEBALL KING",
+          "sourceId": "baseballking",
+          "link": "https://baseballking.jp/ns/710975/"
+        }
+      ]
+    },
+    {
+      "title": "ソフトバンク・川村友斗が延長10回に決勝弾 大矢氏「そんなに強振してないけどバックスクリーンまで行った、ミラクルだね」",
+      "summary": "◆ 値千金の一発を分析「少し前気味で捌いているので、ちょうど投球の力を利用しながら…」 SMBC日本シリーズ2026第2戦● DeNA 3 － 4 ソフトバンク ○＜10月25日 横浜スタジアム＞ 2戦連続で延長戦に突 […]",
+      "link": "https://baseballking.jp/ns/710939/",
+      "pubDate": "2026-10-25T21:20:00.000Z",
+      "source": "BASEBALL KING",
+      "sourceId": "baseballking",
+      "teams": [
+        "hawks",
+        "baystars"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "BASEBALL KING",
+          "sourceId": "baseballking",
+          "link": "https://baseballking.jp/ns/710939/"
+        }
+      ]
+    },
+    {
+      "title": "ドラ1入団→野手転向→育成降格 阪神“元右腕”の切なる胸中「本当にきつかった」",
+      "summary": "阪神・西純矢外野手は岡山・創志学園高時代に世代屈指の好投手と評され、2019年ドラフト1位で入団した。2年目の5月にはヤクルトとのデビュー戦で5回無安打で勝利投手となるなど、成長株として経験を積み始めていたが、2024年に右肘を怪我して手術…",
+      "link": "https://full-count.jp/2026/10/26/post2036313/",
+      "pubDate": "2026-10-25T21:15:00.000Z",
+      "source": "Full-Count（プロ野球）",
+      "sourceId": "full-count-npb",
+      "teams": [
+        "tigers"
+      ],
+      "topics": [
+        "injury",
+        "draft"
+      ],
+      "sources": [
+        {
+          "name": "Full-Count（プロ野球）",
+          "sourceId": "full-count-npb",
+          "link": "https://full-count.jp/2026/10/26/post2036313/"
+        }
+      ]
+    },
+    {
+      "title": "ソフトバンク・山川穂高が代打で同点場外弾 大矢氏「初球のとんでもない空振りで、餌をまいたなと思った」",
+      "summary": "◆ 起用に応える意地の一発！坂口氏「ベンチの期待通りのスイングを初球からしてくれた」 SMBC日本シリーズ2026第2戦● DeNA 3 － 4 ソフトバンク ○＜10月25日 横浜スタジアム＞ 1点を追う9回、一死走 […]",
+      "link": "https://baseballking.jp/ns/710937/",
+      "pubDate": "2026-10-25T21:10:00.000Z",
+      "source": "BASEBALL KING",
+      "sourceId": "baseballking",
+      "teams": [
+        "hawks"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "BASEBALL KING",
+          "sourceId": "baseballking",
+          "link": "https://baseballking.jp/ns/710937/"
+        }
+      ]
+    },
     {
       "title": "【日本シリーズ】ソフトバンクが延長10回勝利で2連勝！山川穂高が同点弾、川村友斗が決勝ソロ(まるスポ)",
       "summary": "「SMBC日本シリーズ2026」第2戦が10月25日、横浜スタジアムで行われ、ソフトバンクがDeNAを延長10回の末に4―3で下した。ソフトバンクは敵地で2連勝を飾り、対戦成績を2勝0敗とした。横浜で",
@@ -46,16 +378,16 @@
       "summary": "＜日本シリーズ：DeNA3－4ソフトバンク＞◇第2戦◇25日◇横浜 この1発を待っていた。DeNA筒香嘉智内野手（34）が今季のポストシーズン第1号となる一時逆転の3ラン。【写真】3点本塁打を放ちガッ",
       "link": "https://news.yahoo.co.jp/articles/71531b6279a89788b01e0ae5e5dddd5256825b3e?source=rss",
       "pubDate": "2026-10-25T21:00:03.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
       "teams": [
         "baystars"
       ],
       "topics": [],
       "sources": [
         {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/71531b6279a89788b01e0ae5e5dddd5256825b3e?source=rss"
         }
       ]
@@ -224,16 +556,16 @@
       "summary": "＜週刊イーグルス＞ 日刊スポーツ東北版で毎週1回、楽天情報をお届けする「週刊イーグルス」。今回は「ろっけんベースボールフェスタ」の紹介です。【写真】楽天の選手たちが小中学生を指導します 11月21日に",
       "link": "https://news.yahoo.co.jp/articles/7b6b3abfa386f9cb22f9b4b0a78aa7bfb2b12757?source=rss",
       "pubDate": "2026-10-25T20:55:01.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
       "teams": [
         "eagles"
       ],
       "topics": [],
       "sources": [
         {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/7b6b3abfa386f9cb22f9b4b0a78aa7bfb2b12757?source=rss"
         }
       ]
@@ -255,11 +587,6 @@
           "name": "Full-Count（プロ野球）",
           "sourceId": "full-count-npb",
           "link": "https://full-count.jp/2026/10/26/post2036503/"
-        },
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/59053a181085b9c13d0f64f46323948b9136f5c7?source=rss"
         }
       ]
     },
@@ -70239,244 +70566,6 @@
           "name": "Full-Count（プロ野球）",
           "sourceId": "full-count-npb",
           "link": "https://full-count.jp/2026/09/26/post2021657/"
-        }
-      ]
-    },
-    {
-      "title": "パ・リーグ2位争いの行方は…？谷繁元信氏「ロッテがカギを握っていますね…」",
-      "summary": "25日放送のCSフジテレビONE『プロ野球ニュース2026』では、パ・リーグの2位争いの行方が話題に。2位の西武と3位日本ハムは25日の試合終了時点で0.5ゲーム差と接戦、西武は残り6試合、日本ハムは残り4試合となって […]",
-      "link": "https://baseballking.jp/ns/708064/",
-      "pubDate": "2026-09-25T23:20:00.000Z",
-      "source": "BASEBALL KING",
-      "sourceId": "baseballking",
-      "teams": [
-        "marines"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "BASEBALL KING",
-          "sourceId": "baseballking",
-          "link": "https://baseballking.jp/ns/708064/"
-        }
-      ]
-    },
-    {
-      "title": "ソフトバンク・近藤健介が自身初の大台100打点到達！館山氏「もちろんホームランの数も凄いんですけど…」",
-      "summary": "ソフトバンクは25日、オリックスとの試合（京セラドーム）に9－0で勝利。近藤健介がこの日自身初の100打点に到達し、4番栗原陵矢と100打点コンビが誕生。球団としては2004年の松中信彦とズレータ以来の快挙となった。2 […]",
-      "link": "https://baseballking.jp/ns/708092/",
-      "pubDate": "2026-09-25T23:10:00.000Z",
-      "source": "BASEBALL KING",
-      "sourceId": "baseballking",
-      "teams": [
-        "hawks"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "BASEBALL KING",
-          "sourceId": "baseballking",
-          "link": "https://baseballking.jp/ns/708092/"
-        }
-      ]
-    },
-    {
-      "title": "今オフの“進退”は…？動向が注目される監督（3）まさかのBクラス確定…ダークホースとなるはずが(ベースボールチャンネル)",
-      "summary": "レギュラーシーズンの最終盤に突入している2026年のプロ野球。パ・リーグは福岡ソフトバンクホークスがリーグ3連覇を達成。セ・リーグは2チームによる熾烈な優勝争いが展開されている中、指揮官の来季続投や",
-      "link": "https://news.yahoo.co.jp/articles/835736248ea06503544660e4d141f29e377cbec4?source=rss",
-      "pubDate": "2026-09-25T22:51:11.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "hawks"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/835736248ea06503544660e4d141f29e377cbec4?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "日米通算250Sと200H達成の鉄腕オリックス・平野佳寿に斎藤雅樹氏「NPBだけで250S挙げているのは立派」",
-      "summary": "25日、京セラドームではオリックス・平野佳寿の引退試合、セレモニーが行われた。平野は9回に登板すると相手は同じく今年、引退を表明しているソフトバンク・中村晃との対戦。中村を4球で追い込むと平野の代名詞のフォークボールで […]",
-      "link": "https://baseballking.jp/ns/708069/",
-      "pubDate": "2026-09-25T22:50:00.000Z",
-      "source": "BASEBALL KING",
-      "sourceId": "baseballking",
-      "teams": [
-        "buffaloes"
-      ],
-      "topics": [
-        "retirement"
-      ],
-      "sources": [
-        {
-          "name": "BASEBALL KING",
-          "sourceId": "baseballking",
-          "link": "https://baseballking.jp/ns/708069/"
-        }
-      ]
-    },
-    {
-      "title": "42歳、現役ラストボールに衝撃「引退する人の球ではない」 視界から消える1球「落差にビビる」(THE ANSWER)",
-      "summary": "プロ野球・オリックスの平野佳寿投手兼任コーチが25日、本拠地ソフトバンク戦で引退登板。9回に中村晃内野手と対戦し、空振り三振を奪った。最後は低めに落ちるフォークボール。ファンからは「引退する人のフォ",
-      "link": "https://news.yahoo.co.jp/articles/a83a4e04c07329bb9185fb3cb7b32f3cf4a69f94?source=rss",
-      "pubDate": "2026-09-25T22:43:00.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "buffaloes"
-      ],
-      "topics": [
-        "retirement"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/a83a4e04c07329bb9185fb3cb7b32f3cf4a69f94?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "首位・阪神、優勝M5。2位・巨人と2差 谷繁氏「数字を見ると…」",
-      "summary": "25日にフジテレビONEで放送された『プロ野球ニュース2026』に出演した谷繁元信氏と館山昌平氏が、セ・リーグの優勝争いについて言及した。 首位・阪神がDeNAに逆転負けを喫したが、2位・巨人が広島に敗れたため、阪神 […]",
-      "link": "https://baseballking.jp/ns/708079/",
-      "pubDate": "2026-09-25T22:40:00.000Z",
-      "source": "BASEBALL KING",
-      "sourceId": "baseballking",
-      "teams": [
-        "tigers",
-        "giants"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "BASEBALL KING",
-          "sourceId": "baseballking",
-          "link": "https://baseballking.jp/ns/708079/"
-        }
-      ]
-    },
-    {
-      "title": "【DeNA】腹をくくった男が担うセットアッパーの座――浜地真澄が覚悟の末に見つけた“生存戦略”",
-      "summary": "7月10日、浜地真澄は育成選手から支配下選手へ戻った。背番号は「052」から「52」へ。翌11日の巨人戦では、いきなり一軍のマウンドに上がった。 そこから積み重ねたホールドは20。支配下登録からわずか2カ月余りで、一 […]",
-      "link": "https://baseballking.jp/ns/708062/",
-      "pubDate": "2026-09-25T22:30:00.000Z",
-      "source": "BASEBALL KING",
-      "sourceId": "baseballking",
-      "teams": [
-        "baystars"
-      ],
-      "topics": [
-        "roster"
-      ],
-      "sources": [
-        {
-          "name": "BASEBALL KING",
-          "sourceId": "baseballking",
-          "link": "https://baseballking.jp/ns/708062/"
-        }
-      ]
-    },
-    {
-      "title": "楽天が新ユニ発表「え、過去一好きかも」 斬新花柄に驚き…ネイビーが「カッコよすぎ」",
-      "summary": "楽天は25日、公式ファンクラブ「CLUB EAGLES」の2027シーズン入会特典となるファンクラブユニホームのデザインを発表した。デザインコンセプトは「六花繚乱（ろっかりょうらん）～東北の花々をまとい、勝利を目指す～」。ネイビーをベースに…",
-      "link": "https://full-count.jp/2026/09/26/post2021313/",
-      "pubDate": "2026-09-25T22:22:00.000Z",
-      "source": "Full-Count（プロ野球）",
-      "sourceId": "full-count-npb",
-      "teams": [
-        "eagles"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Full-Count（プロ野球）",
-          "sourceId": "full-count-npb",
-          "link": "https://full-count.jp/2026/09/26/post2021313/"
-        }
-      ]
-    },
-    {
-      "title": "【中日】“サカナクション”へ一直線…！中日の“33歳外野手”が豪快2ラン 約1カ月半ぶりの一発",
-      "summary": "中日ドラゴンズの川越誠司選手は25日、本拠地・ナゴヤ球場で行われたファーム交流戦5回戦の北海道日本ハムファイターズ戦に「6番・右翼」で先発出場。ファーム第2号となる豪快な2ランホームランを放った。",
-      "link": "https://www.baseballchannel.jp/npb/291421/",
-      "pubDate": "2026-09-25T22:20:50.000Z",
-      "source": "ベースボールチャンネル（プロ野球）",
-      "sourceId": "baseballchannel-npb",
-      "teams": [
-        "dragons"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "ベースボールチャンネル（プロ野球）",
-          "sourceId": "baseballchannel-npb",
-          "link": "https://www.baseballchannel.jp/npb/291421/"
-        }
-      ]
-    },
-    {
-      "title": "2位・巨人、最下位・広島との4連戦まさかの1勝3敗 谷繁氏「打たないと厳しい」",
-      "summary": "25日にフジテレビONEで放送された『プロ野球ニュース2026』に出演した斎藤雅樹氏と館山昌平氏が、最下位・広島との4連戦に1勝3敗と負け越した2位・巨人について言及した。 巨人は25日の広島戦、2－3で敗れるなど、 […]",
-      "link": "https://baseballking.jp/ns/708055/",
-      "pubDate": "2026-09-25T22:20:00.000Z",
-      "source": "BASEBALL KING",
-      "sourceId": "baseballking",
-      "teams": [
-        "giants",
-        "carp"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "BASEBALL KING",
-          "sourceId": "baseballking",
-          "link": "https://baseballking.jp/ns/708055/"
-        }
-      ]
-    },
-    {
-      "title": "首位・阪神、自慢のクリーンアップが機能せず 館山氏「3人ともフラストレーションの溜まる展開」",
-      "summary": "25日にフジテレビONEで放送された『プロ野球ニュース2026』に出演した斎藤雅樹氏と館山昌平氏が、3位・DeNAに逆転負けを喫した首位・阪神について言及した。 阪神は3回に近本光司のソロで先制するも、1点リードの8 […]",
-      "link": "https://baseballking.jp/ns/708053/",
-      "pubDate": "2026-09-25T22:10:00.000Z",
-      "source": "BASEBALL KING",
-      "sourceId": "baseballking",
-      "teams": [
-        "tigers"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "BASEBALL KING",
-          "sourceId": "baseballking",
-          "link": "https://baseballking.jp/ns/708053/"
-        }
-      ]
-    },
-    {
-      "title": "【オリックス】宝刀フォークで有終のＫ締め 平野佳寿「あの時がなければ」10年からリリーフ転向(日刊スポーツ)",
-      "summary": "＜オリックス0－9ソフトバンク＞◇25日◇京セラドーム大阪 宝刀フォークで有終のK締めだ！ オリックスの平野佳寿投手兼任コーチ（42）が25日、ソフトバンク戦（京セラドーム大阪）で引退試合に臨み、",
-      "link": "https://news.yahoo.co.jp/articles/c2c672adb54bc44102522494f020e2b428bbd108?source=rss",
-      "pubDate": "2026-09-25T21:30:04.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "buffaloes"
-      ],
-      "topics": [
-        "retirement"
-      ],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/c2c672adb54bc44102522494f020e2b428bbd108?source=rss"
         }
       ]
     }
