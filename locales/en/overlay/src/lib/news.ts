@@ -1,0 +1,111 @@
+import newsData from "../data/news.json";
+
+export interface NewsSource {
+  name: string;
+  sourceId: string;
+  link: string;
+}
+
+export interface NewsItem {
+  title: string;
+  summary: string;
+  link: string;
+  pubDate: string | null;
+  source: string;
+  sourceId: string;
+  teams: string[];
+  topics: string[];
+  /** 同一ニュースを報じている全出典。通常は1件だが、複数メディアが同じ
+   *  出来事を報じている場合は統合されて2件以上になる(重複統合機能)。 */
+  sources: NewsSource[];
+}
+
+export interface NewsData {
+  generatedAt: string;
+  count: number;
+  items: NewsItem[];
+}
+
+const data = newsData as NewsData;
+
+export const allNews: NewsItem[] = data.items;
+export const newsGeneratedAt: string = data.generatedAt;
+
+export function newsForTeam(teamId: string): NewsItem[] {
+  return allNews.filter((item) => item.teams.includes(teamId));
+}
+
+/**
+ * どの球団タグも付いていない記事(対戦カード予告・登録抹消・複数球団横断の
+ * 特集記事など、特定の1球団に紐づかない「総合」扱いの記事)だけを返す。
+ * fetch-news.mjs 側の matchTeamsForItem が teams:[] を返すケースに対応する。
+ */
+export function newsForGeneral(): NewsItem[] {
+  return allNews.filter((item) => (item.teams?.length ?? 0) === 0);
+}
+
+export function newsForTopic(topicId: string): NewsItem[] {
+  return allNews.filter((item) => item.topics?.includes(topicId));
+}
+
+export function formatRelativeOrDate(pubDate: string | null): string {
+  if (!pubDate) return "";
+  const date = new Date(pubDate);
+  if (Number.isNaN(date.getTime())) return "";
+
+  return new Intl.DateTimeFormat("en-US", {
+    month: "short",
+    day: "numeric",
+    hour: "2-digit",
+    minute: "2-digit",
+    timeZone: "Asia/Tokyo",
+  }).format(date);
+}
+
+// 「18分前」「3時間前」のような相対表記。ビルド時点(=直近の自動更新時点)を
+// 基準に計算するため、サイトを見るタイミングによっては多少ずれる場合がある
+// (最大でも自動更新の間隔=30分程度)。
+export function formatRelative(pubDate: string | null, now: Date): string {
+  if (!pubDate) return "";
+  const date = new Date(pubDate);
+  if (Number.isNaN(date.getTime())) return "";
+
+  const diffMs = now.getTime() - date.getTime();
+  const diffMin = Math.floor(diffMs / 60000);
+
+  if (diffMin < 1) return "Just now";
+  if (diffMin < 60) return `${diffMin} min ago`;
+  const diffHour = Math.floor(diffMin / 60);
+  if (diffHour < 24) return `${diffHour} hr ago`;
+  const diffDay = Math.floor(diffHour / 24);
+  if (diffDay < 7) return `${diffDay} d ago`;
+
+  return new Intl.DateTimeFormat("en-US", {
+    month: "short",
+    day: "numeric",
+    timeZone: "Asia/Tokyo",
+  }).format(date);
+}
+
+const generatedAtDate = new Date(newsGeneratedAt);
+const relativeBase = Number.isNaN(generatedAtDate.getTime())
+  ? new Date()
+  : generatedAtDate;
+
+/** ニュース取得時刻(=ほぼビルド時刻)を基準にした相対表記のショートハンド */
+export function formatRelativeShort(pubDate: string | null): string {
+  return formatRelative(pubDate, relativeBase);
+}
+
+export function formatGeneratedAt(iso: string): string {
+  const date = new Date(iso);
+  if (Number.isNaN(date.getTime())) return "";
+  return new Intl.DateTimeFormat("en-US", {
+    year: "numeric",
+    month: "long",
+    day: "numeric",
+    hour: "2-digit",
+    minute: "2-digit",
+    timeZone: "Asia/Tokyo",
+  }).format(date);
+}

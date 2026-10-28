@@ -1,0 +1,29 @@
+---
+import Base from "../../layouts/Base.astro";
+import TeamLinkRow from "../../components/TeamLinkRow.astro";
+import { centralTeams, pacificTeams } from "../../lib/teams";
+---
+
+<Base title="News by team" description="Choose from all 12 NPB teams to read their news.">
+  <section class="container-page" style="padding:44px 24px 64px;">
+    <h1 class="font-display font-black m-0" style="font-size:28px; color:var(--text); margin-bottom:6px;">News by team</h1>
+    <p style="font-size:14px; color:var(--text-muted); margin-bottom:32px;">
+      Choose from all 12 Central and Pacific League teams to read the latest news.
+    </p>
+
+    <div class="grid grid-cols-1 sm:grid-cols-2 gap-10">
+      <div>
+        <p class="font-bold" style="font-size:11px; letter-spacing:0.1em; color:var(--text-faint); margin-bottom:10px;">Central League</p>
+        {centralTeams.map((team) => (
+          <TeamLinkRow team={team} />
+        ))}
+      </div>
+      <div>
+        <p class="font-bold" style="font-size:11px; letter-spacing:0.1em; color:var(--text-faint); margin-bottom:10px;">Pacific League</p>
+        {pacificTeams.map((team) => (
+          <TeamLinkRow team={team} />
+        ))}
+      </div>
+    </div>
+  </section>
+</Base>

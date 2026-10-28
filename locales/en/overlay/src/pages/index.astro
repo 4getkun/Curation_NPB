@@ -1,0 +1,351 @@
+---
+import Base from "../layouts/Base.astro";
+import FeaturedNews from "../components/FeaturedNews.astro";
+import NewsRow from "../components/NewsRow.astro";
+import TeamLinkRow from "../components/TeamLinkRow.astro";
+import TopicChipLink from "../components/TopicChipLink.astro";
+import { allNews, newsGeneratedAt, formatGeneratedAt } from "../lib/news";
+import { centralTeams, pacificTeams, teams } from "../lib/teams";
+import { topics } from "../lib/topics";
+import { withBase, withSharedData } from "../lib/url";
+
+const [featured, ...rest] = allNews;
+const latest = rest.slice(0, 5);
+const dataUrl = withSharedData("/data/news-index.json");
+const resultsDataUrl = withSharedData("/data/results-index.json");
+const teamsForClient = teams.map((t) => ({ id: t.id, short: t.short, color: t.color }));
+---
+
+<Base title="Curation NPB" description="Ad-free news curation for all 12 Nippon Professional Baseball teams.">
+  <!-- Hero -->
+  <section style="background-color:var(--hero-bg); color:var(--hero-text); position:relative; overflow:hidden;">
+    <div class="container-page relative" style="padding:76px 24px 56px;">
+      <div style={`width:44px; height:3px; background-color:var(--accent); margin-bottom:22px;`}></div>
+      <p
+        class="font-bold uppercase m-0"
+        style="font-size:12px; letter-spacing:0.14em; color:var(--hero-muted); margin-bottom:18px;"
+      >
+        Ad-free NPB curation with no tracking
+      </p>
+      <h1
+        class="font-display font-black text-balance m-0"
+        style="font-size:clamp(32px,5vw,58px); line-height:1.12; letter-spacing:-0.01em; margin-bottom:20px; max-width:720px;"
+      >
+        News from all 12 teams.<br class="hidden sm:block" />One place. No distractions.
+      </h1>
+      <p class="m-0" style="font-size:16px; line-height:1.8; color:var(--hero-muted); max-width:520px; margin-bottom:34px;">
+        The latest news from all 12 Central and Pacific League teams, collected automatically. Focus on reading without banner ads or tracking.
+      </p>
+      <div class="flex flex-wrap gap-3" style="margin-bottom:28px;">
+        <a
+          href={withBase("/news/")}
+          class="no-underline font-bold"
+          style="background-color:var(--accent); color:#fff; padding:14px 28px; border-radius:2px; font-size:14px;"
+        >
+          View latest news
+        </a>
+        <a
+          href={withBase("/team/")}
+          class="no-underline font-bold"
+          style="background:none; color:var(--hero-text); border:1px solid rgb(255 255 255 / 28%); padding:14px 28px; border-radius:2px; font-size:14px;"
+        >
+          Browse teams
+        </a>
+      </div>
+      {newsGeneratedAt && (
+        <p class="m-0" style="font-size:12px; color:var(--hero-muted);">
+          Last updated: {formatGeneratedAt(newsGeneratedAt)} (automatic)
+        </p>
+      )}
+    </div>
+  </section>
+
+  <!-- マイ球団(お気に入り球団)の最新ニュース。localStorageに保存された球団があれば
+       クライアントサイドでこの下に描画し、無ければヒントだけ表示する。 -->
+  <section id="my-team-section" style="border-bottom:1px solid var(--border);">
+    <div class="container-page" style="padding:24px;">
+      <p id="my-team-hint" style="font-size:13px; color:var(--text-muted); margin:0;">
+        Choose your favorite team using ★ My team in the header to see its latest news here.
+        <a href="#team-access" class="link-underline" style="color:var(--accent); font-weight:bold;">Choose a team →</a>
+      </p>
+      <div id="my-team-result" class="hidden">
+        <!-- 直近の試合結果(最新1試合のみ)。データ元はWikipediaの球団年度別
+             ページ(CC BY-SA)。scripts/fetch-results.mjs が定期取得し、
+             src/data/results.json に保存したものを /data/results-index.json
+             経由で読み込む。レイアウト上、マイ球団の最新ニュースより上に
+             表示する方が自然なため先に置いている。 -->
+        <div style="margin-bottom:28px;">
+          <h3 class="font-bold" style="font-size:14px; color:var(--text); margin-bottom:10px;">Recent game results</h3>
+          <div id="my-team-result-card" class="hidden" style="border:1px solid var(--border); border-radius:10px; padding:18px 20px;"></div>
+          <p id="my-team-results-empty" class="hidden" style="font-size:13px; color:var(--text-muted);">
+            Recent game results have not been collected yet.
+          </p>
+          <p class="mt-2" style="font-size:11px; color:var(--text-faint);">
+            Game results data: <a href="https://ja.wikipedia.org/" target="_blank" rel="noopener noreferrer" class="link-underline" style="color:inherit;">Wikipedia</a>(CC BY-SA 4.0)
+          </p>
+        </div>
+
+        <div class="flex items-baseline justify-between" style="margin-bottom:16px;">
+          <h2 id="my-team-heading" class="font-display font-black m-0" style="font-size:20px; color:var(--text);"></h2>
+          <a id="my-team-link" href="#" class="no-underline font-bold" style="font-size:13px; color:var(--accent);">View all →</a>
+        </div>
+        <div id="my-team-list"></div>
+        <p id="my-team-empty" class="hidden" style="font-size:13px; color:var(--text-muted);">
+          No news for this team yet. Please wait for the next automatic update.
+        </p>
+      </div>
+    </div>
+  </section>
+
+  <!-- Featured + Latest -->
+  <section class="container-page" style="padding:56px 24px;">
+    <div
+      class="flex items-baseline justify-between"
+      style="border-bottom:2px solid var(--text); padding-bottom:12px; margin-bottom:28px;"
+    >
+      <h2 class="font-display font-black m-0" style="font-size:22px; color:var(--text);">Latest news</h2>
+      <a href={withBase("/news/")} class="no-underline font-bold" style="font-size:13px; color:var(--accent);">View all →</a>
+    </div>
+
+    {featured ? (
+      <div class="grid grid-cols-1 lg:grid-cols-[1.1fr_0.9fr] gap-10">
+        <FeaturedNews item={featured} />
+        <div>
+          {latest.map((item) => (
+            <NewsRow item={item} variant="compact" />
+          ))}
+        </div>
+      </div>
+    ) : (
+      <p style="font-size:14px; color:var(--text-muted);">
+        No news has been collected yet. Articles will appear after the automated GitHub Actions collection runs.
+      </p>
+    )}
+  </section>
+
+  <!-- Team access -->
+  <section id="team-access" style="background-color:var(--card-bg); border-top:1px solid var(--border); border-bottom:1px solid var(--border); padding:56px 0;">
+    <div class="container-page">
+      <h2 class="font-display font-black m-0" style="font-size:22px; color:var(--text); margin-bottom:6px;">Browse teams</h2>
+      <p style="font-size:14px; color:var(--text-muted); margin-bottom:28px;">
+        Browse news by team across all 12 Central and Pacific League clubs.
+        Choose ★ My team in the header to add a dedicated news section to your home page.
+      </p>
+
+      <div class="grid grid-cols-1 sm:grid-cols-2 gap-10">
+        <div>
+          <p class="font-bold" style="font-size:11px; letter-spacing:0.1em; color:var(--text-faint); margin-bottom:10px;">Central League</p>
+          {centralTeams.map((team) => (
+            <TeamLinkRow team={team} />
+          ))}
+        </div>
+        <div>
+          <p class="font-bold" style="font-size:11px; letter-spacing:0.1em; color:var(--text-faint); margin-bottom:10px;">Pacific League</p>
+          {pacificTeams.map((team) => (
+            <TeamLinkRow team={team} />
+          ))}
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Topic access -->
+  <section class="container-page" style="padding:44px 24px;">
+    <h2 class="font-display font-black m-0" style="font-size:22px; color:var(--text); margin-bottom:6px;">Browse topics</h2>
+    <p style="font-size:14px; color:var(--text-muted); margin-bottom:20px;">Browse news across teams by trades, injuries, contracts and other topics.</p>
+    <div class="flex flex-wrap gap-2">
+      {topics.map((topic) => (
+        <TopicChipLink topic={topic} />
+      ))}
+    </div>
+  </section>
+
+  <!-- Value props (hairline grid) -->
+  <section class="container-page" style="padding:56px 24px;">
+    <div class="grid grid-cols-1 sm:grid-cols-3" style="gap:1px; background-color:var(--border); border:1px solid var(--border);">
+      <div class="hairline-cell">
+        <span class="inline-block rounded-[2px]" style="width:10px; height:10px; background-color:var(--accent);"></span>
+        <p class="font-bold m-0" style="font-size:15px; color:var(--text); margin:14px 0 6px;">No ads or tracking</p>
+        <p class="m-0" style="font-size:13px; color:var(--text-muted); line-height:1.7;">Focus on reading, without banner ads or tracking scripts.</p>
+      </div>
+      <div class="hairline-cell">
+        <span class="inline-block rounded-[2px]" style="width:10px; height:10px; background-color:var(--accent);"></span>
+        <p class="font-bold m-0" style="font-size:15px; color:var(--text); margin:14px 0 6px;">Automatically updated curation</p>
+        <p class="m-0" style="font-size:13px; color:var(--text-muted); line-height:1.7;">Baseball RSS feeds are collected regularly and organized by team.</p>
+      </div>
+      <div class="hairline-cell">
+        <span class="inline-block rounded-[2px]" style="width:10px; height:10px; background-color:var(--accent);"></span>
+        <p class="font-bold m-0" style="font-size:15px; color:var(--text); margin:14px 0 6px;">Fast static pages</p>
+        <p class="m-0" style="font-size:13px; color:var(--text-muted); line-height:1.7;">Static pages served from GitHub Pages keep the site fast.</p>
+      </div>
+    </div>
+  </section>
+</Base>
+
+<script define:vars={{ dataUrl, resultsDataUrl, teamsForClient, base: import.meta.env.BASE_URL }}>
+  (function () {
+    var STORAGE_KEY = "npb-curation-my-team";
+    var favoriteId = "";
+    try {
+      favoriteId = localStorage.getItem(STORAGE_KEY) || "";
+    } catch (e) {}
+
+    var hint = document.getElementById("my-team-hint");
+    var resultBox = document.getElementById("my-team-result");
+    if (!favoriteId) return; // Not setならヒント表示のまま何もしない
+
+    var team = teamsForClient.find(function (t) {
+      return t.id === favoriteId;
+    });
+    if (!team) return;
+
+    hint.classList.add("hidden");
+    resultBox.classList.remove("hidden");
+    // スマホ幅では見出しが2行に折り返してレイアウトが崩れるため、
+    // 「の最新ニュース」の部分はsm以上でのみ表示する(スマホでは
+    // 「マイ球団: ◯◯」だけで十分意味が伝わるため省略する)。
+    document.getElementById("my-team-heading").innerHTML =
+      "My team: " + escapeHtml(team.short) + '<span class="hidden sm:inline">  — latest news</span>';
+    document.getElementById("my-team-link").href = base + "team/" + team.id + "/";
+
+    function escapeHtml(str) {
+      return (str || "")
+        .replace(/&/g, "&amp;")
+        .replace(/</g, "&lt;")
+        .replace(/>/g, "&gt;")
+        .replace(/"/g, "&quot;");
+    }
+
+    function formatRelative(pubDate) {
+      if (!pubDate) return "";
+      var date = new Date(pubDate);
+      if (isNaN(date.getTime())) return "";
+      var diffMin = Math.floor((Date.now() - date.getTime()) / 60000);
+      if (diffMin < 1) return "Just now";
+      if (diffMin < 60) return diffMin + " min ago";
+      var diffHour = Math.floor(diffMin / 60);
+      if (diffHour < 24) return diffHour + " hr ago";
+      var diffDay = Math.floor(diffHour / 24);
+      if (diffDay < 7) return diffDay + " d ago";
+      return date.toLocaleDateString("en-US", { month: "short", day: "numeric" });
+    }
+
+    fetch(dataUrl)
+      .then(function (res) {
+        return res.json();
+      })
+      .then(function (data) {
+        var teamNews = data.filter(function (item) {
+          return item.teams && item.teams.indexOf(team.id) !== -1;
+        });
+        var list = document.getElementById("my-team-list");
+        var empty = document.getElementById("my-team-empty");
+        if (teamNews.length === 0) {
+          empty.classList.remove("hidden");
+          return;
+        }
+        list.innerHTML = teamNews
+          .slice(0, 5)
+          .map(function (item) {
+            return (
+              '<a href="' +
+              escapeHtml(item.link) +
+              '" target="_blank" rel="noopener noreferrer nofollow" class="flex items-start no-underline" style="gap:14px; padding:14px 0; border-bottom:1px solid var(--border); color:inherit;">' +
+              '<span class="inline-block shrink-0 rounded-full" style="width:8px; height:8px; background-color:' +
+              team.color +
+              '; margin-top:7px;"></span>' +
+              '<div class="flex-1 min-w-0">' +
+              '<h4 class="font-bold leading-snug m-0 mb-1.5" style="font-size:15px; color:var(--text);">' +
+              escapeHtml(item.title) +
+              "</h4>" +
+              '<p class="m-0" style="font-size:12px; color:var(--text-faint);">' +
+              escapeHtml(item.source) +
+              " · " +
+              formatRelative(item.pubDate) +
+              "</p></div></a>"
+            );
+          })
+          .join("");
+      })
+      .catch(function () {
+        /* オフライン等で取得に失敗した場合は、ヒント表示のまま静かに諦める */
+      });
+
+    // 直近の試合結果(最新1試合のみ)をカード形式で表示する。ニュース取得の
+    // 成否とは無関係に表示したいため、上のfetchとは別チェーンにしている。
+    fetch(resultsDataUrl)
+      .then(function (res) {
+        return res.json();
+      })
+      .then(function (data) {
+        var games = (data.teams && data.teams[team.id]) || [];
+        var card = document.getElementById("my-team-result-card");
+        var empty = document.getElementById("my-team-results-empty");
+        if (games.length === 0) {
+          empty.classList.remove("hidden");
+          return;
+        }
+
+        var game = games[0]; // 新しい順に並んでいるので先頭が最新の1試合
+        var myScore = game.ownScore != null ? game.ownScore : "-";
+        var oppScore = game.opponentScore != null ? game.opponentScore : "-";
+
+        // 勝利投手・セーブ投手・敗戦投手の列はカード全体で1組しかなく、
+        // どちらのチームの投手かはWikipedia側の表からは分からない。この
+        // ページの持ち主(=自チーム)の勝敗から逆算し、勝った試合なら
+        // 勝利投手・セーブ投手を自チーム側、負けた試合なら敗戦投手を
+        // 自チーム側に表示する。引き分け等で決着投手がいない場合は
+        // 両方とも空になる(Wikipedia側もこの場合「-」で空欄になっている)。
+        // ラベル「(勝)」「(敗)」「(S)」・選手名とも、本文と同じ黒(var(--text))で表示する。
+        function pitcherLine(label, name) {
+          if (!name) return "";
+          return '<p class="m-0" style="color:var(--text);">(' + label + ")" + escapeHtml(name) + "</p>";
+        }
+        var winPitcherHtml = pitcherLine("W", game.winningPitcher);
+        var savePitcherHtml = pitcherLine("S", game.savePitcher);
+        var losePitcherHtml = pitcherLine("L", game.losingPitcher);
+
+        var myPitchersHtml = "";
+        var oppPitchersHtml = "";
+        if (game.result === "win") {
+          myPitchersHtml = winPitcherHtml + savePitcherHtml;
+          oppPitchersHtml = losePitcherHtml;
+        } else if (game.result === "loss") {
+          myPitchersHtml = losePitcherHtml;
+          oppPitchersHtml = winPitcherHtml + savePitcherHtml;
+        }
+
+        card.innerHTML =
+          '<p class="m-0" style="font-size:12px; color:var(--text-muted); margin-bottom:14px;">' +
+          escapeHtml(game.venue) +
+          (game.date ? " · " + escapeHtml(game.date) : "") +
+          "</p>" +
+          '<div class="flex items-center justify-between" style="margin-bottom:16px;">' +
+          '<span class="font-bold" style="font-size:16px; color:var(--text);">' +
+          escapeHtml(team.short) +
+          "</span>" +
+          '<span class="font-bold" style="font-size:16px; color:var(--text-muted);">' +
+          escapeHtml(game.opponentText) +
+          "</span>" +
+          "</div>" +
+          '<div class="flex items-center justify-between">' +
+          '<div style="flex:1; font-size:11px; line-height:1.7;">' +
+          myPitchersHtml +
+          "</div>" +
+          '<div class="font-bold tabular-nums" style="flex-shrink:0; font-size:26px; color:var(--text); padding:0 12px;">' +
+          myScore +
+          " - " +
+          oppScore +
+          "</div>" +
+          '<div style="flex:1; font-size:11px; line-height:1.7; text-align:right;">' +
+          oppPitchersHtml +
+          "</div>" +
+          "</div>" +
+          '<p class="m-0" style="margin-top:16px; font-size:12px; color:#2563eb; text-align:center;">Final</p>';
+        card.classList.remove("hidden");
+      })
+      .catch(function () {
+        /* 取得に失敗した場合は「まだ取得されていません」表示のまま諦める */
+      });
+  })();
+</script>
