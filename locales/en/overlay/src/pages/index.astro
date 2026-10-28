@@ -184,7 +184,7 @@ const teamsForClient = teams.map((t) => ({ id: t.id, short: t.short, color: t.co
 
 <script define:vars={{ dataUrl, resultsDataUrl, teamsForClient, base: import.meta.env.BASE_URL }}>
   (function () {
-    var STORAGE_KEY = "npb-curation-my-team";
+    var STORAGE_KEY = "npb-curation-en-my-team";
     var favoriteId = "";
     try {
       favoriteId = localStorage.getItem(STORAGE_KEY) || "";
