@@ -1,7 +1,781 @@
 {
-  "generatedAt": "2026-10-28T02:26:13.213Z",
-  "count": 3633,
+  "generatedAt": "2026-10-28T08:46:22.415Z",
+  "count": 3643,
   "items": [
+    {
+      "title": "【ソフトバンク】山本祐大が今シリーズ初のクリーンアップ起用 柳田悠岐は６番DH／スタメン(日刊スポーツ)",
+      "summary": "＜日本シリーズ：ソフトバンク－DeNA＞◇第4戦◇26日◇みずほペイペイドーム さあ決める。2年連続の日本一に王手をかけているソフトバンクがスタメンを発表した。 山本祐大捕手（28）が5番で起用された",
+      "link": "https://news.yahoo.co.jp/articles/27c80936caf76deda9901886d5145f156ae7dd55?source=rss",
+      "pubDate": "2026-10-28T08:44:07.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "hawks"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/27c80936caf76deda9901886d5145f156ae7dd55?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【西武】篠原響、侍ジャパンでの意外な目標「攻略法を聞きだそうかな」打者目線へ興味津々(日刊スポーツ)",
+      "summary": "高卒2年目でセットアッパーとして大活躍した西武篠原響投手（20）が、侍ジャパンでの意外な目標を掲げた。日本代表として躍動することはもちろん「（ロッテ）山口選手にすごく打たれているイメージがあるので。打",
+      "link": "https://news.yahoo.co.jp/articles/1a0696ae184b8025b4fcc329f3a0a89b926e15d1?source=rss",
+      "pubDate": "2026-10-28T08:42:09.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "lions"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/1a0696ae184b8025b4fcc329f3a0a89b926e15d1?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【DeNA】負ければ終戦、宮崎敏郎「４番DH」筒香嘉智「５番三塁」、片山＆深沢ベンチ入り(日刊スポーツ)",
+      "summary": "＜日本シリーズ：ソフトバンク－DeNA＞◇第4戦◇28日◇みずほペイペイドーム 負けたら終わりのDeNAのスタメンが発表された。宮崎敏郎内野手（37）が「4番DH」で出場。筒香嘉智内野手（34）が「5",
+      "link": "https://news.yahoo.co.jp/articles/d9f6f4e58840d0b8994af13347e102aba26a2ad3?source=rss",
+      "pubDate": "2026-10-28T08:41:15.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "baystars"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/d9f6f4e58840d0b8994af13347e102aba26a2ad3?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【日本シリーズ】ＤｅＮＡスタメンマスクは松尾汐恩 宮崎敏郎が４番 先発は平良拳太郎(スポーツ報知)",
+      "summary": "◆ＳＭＢＣ日本シリーズ２０２６第４戦 ソフトバンク―ＤｅＮＡ（２８日・みずほＰａｙＰａｙ）【写真】第３戦の悲劇 グラウンドに倒れこむＤｅＮＡ神里 ＤｅＮＡの日本シリーズ第４戦のスタメンが発表された。史",
+      "link": "https://news.yahoo.co.jp/articles/8464bd009bb569e916206604e0d7b2cf9c960775?source=rss",
+      "pubDate": "2026-10-28T08:40:44.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "baystars"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/8464bd009bb569e916206604e0d7b2cf9c960775?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "ソフトバンク、松本裕樹がベンチ復帰 先発候補の上茶谷大河もブルペン待機【日本シリーズ】(西スポWEB OTTO!)",
+      "summary": "◆SMBC日本シリーズ2026 第4戦 ソフトバンク―DeNA（27日、みずほペイペイドーム） 2年連続日本一に王手をかけたソフトバンクは先発の前田悠伍を含む投手10人がベンチ入りした。松本裕樹がブル",
+      "link": "https://news.yahoo.co.jp/articles/f916ebdb1729d0d6a8629c0fc57ee1ce317ae8ea?source=rss",
+      "pubDate": "2026-10-28T08:38:23.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "hawks"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/f916ebdb1729d0d6a8629c0fc57ee1ce317ae8ea?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "ヤクルトドラフト4位・高田瑛大 “憧れ”青木GMの指名あいさつに「緊張しすぎて…」(スポニチアネックス)",
+      "summary": "ヤクルトからドラフト4位で指名された都城（宮崎）の高田瑛大内野手（17）が、宮崎県都城市の同校で指名あいさつを受けた。青木宣親GMと対面し「緊張しすぎて、あまり覚えていない」と苦笑いした。 緊張するの",
+      "link": "https://news.yahoo.co.jp/articles/1cfbe86c56d0e10d31a7adc9e29a45e305d17348?source=rss",
+      "pubDate": "2026-10-28T08:37:31.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "swallows"
+      ],
+      "topics": [
+        "draft"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/1cfbe86c56d0e10d31a7adc9e29a45e305d17348?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【広島】小川淳司氏「悩んだ」オファーから決断まで約２か月を要す「普通じゃちょっとあり得ないこと」６９歳の挑戦 球団副本部長編成担当に就任 チーム再建のキーマン(スポーツ報知)",
+      "summary": "広島の球団副本部長編成担当に就任した元ヤクルトＧＭ・小川淳司氏が２８日、マツダスタジアム内の球団事務所で会見した。「未熟でありますが、チームのため、そして球団のために少しでも力になれるようにしっかり活",
+      "link": "https://news.yahoo.co.jp/articles/e42e1781fc4c9159db75dbe782da15514e58769a?source=rss",
+      "pubDate": "2026-10-28T08:37:15.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "carp"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/e42e1781fc4c9159db75dbe782da15514e58769a?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【楽天】小野寺力投手コーチが退団し、２軍担当の塩見貴洋投手コーチは退任(日刊スポーツ)",
+      "summary": "楽天は28日、2軍担当の小野寺力投手コーチ（45）が退団し、同じく2軍担当の塩見貴洋投手コーチ（38）が退任すると発表した。【写真】退任する楽天塩見貴洋投手コーチ 今季就任した小野寺氏は6月に1軍担当",
+      "link": "https://news.yahoo.co.jp/articles/af70f3a8e7166e3d98b76b78be4ec9d6bac2cfd0?source=rss",
+      "pubDate": "2026-10-28T08:35:38.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "eagles"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/af70f3a8e7166e3d98b76b78be4ec9d6bac2cfd0?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【日本シリーズ】第4戦スタメン発表 崖っぷちのDeNAは宮崎が初の4番 ソフトバンクは5番に山本祐(スポニチアネックス)",
+      "summary": "◇SMBC日本シリーズ2026 第4戦 DeNA―ソフトバンク（2026年10月28日 みずほペイペイＤ） 「SMBC日本シリーズ2026」第4戦は28日、みずほペイペイドームで行われる。 ソフトバン",
+      "link": "https://news.yahoo.co.jp/articles/76132949c907c1e590978d542dd33187f678b4a7?source=rss",
+      "pubDate": "2026-10-28T08:35:13.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "baystars",
+        "hawks"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/76132949c907c1e590978d542dd33187f678b4a7?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【浜松オート SG日本選手権】永井大介 松井秀喜新監督誕生に歓喜 業界きっての巨人ファン(スポニチアネックス)",
+      "summary": "浜松オートのSG「第58回日本選手権オートレース」が29日、初日を迎える。28日は前検が行われた。 業界きっての巨人ファンである永井大介（49＝川口）が松井秀喜新監督誕生を喜んだ。 「もっと先の話かと",
+      "link": "https://news.yahoo.co.jp/articles/a5e97a9f94851811920ab159cd35692529cfab0d?source=rss",
+      "pubDate": "2026-10-28T08:31:52.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "giants"
+      ],
+      "topics": [
+        "personnel"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/a5e97a9f94851811920ab159cd35692529cfab0d?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "鷹26歳は「前見えてる？」 “消えた!?”視界…まさかの祝福が「可愛すぎるんだけど」",
+      "summary": "ソフトバンクの正木智也外野手が27日、みずほPayPayドームで行われた「SMBC日本シリーズ2026」第3戦のDeNA戦に「1番・右翼」で先発出場。延長10回にサヨナラ本塁打を放ち、3連勝に貢献した。ファンは正木が生還した瞬間の“光景”に…",
+      "link": "https://full-count.jp/2026/10/28/post2037691/",
+      "pubDate": "2026-10-28T08:31:02.000Z",
+      "source": "Full-Count（プロ野球）",
+      "sourceId": "full-count-npb",
+      "teams": [
+        "hawks",
+        "baystars"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Full-Count（プロ野球）",
+          "sourceId": "full-count-npb",
+          "link": "https://full-count.jp/2026/10/28/post2037691/"
+        },
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/ced06cf8e3e6e5645a6f205b2e501a108ec92b2d?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【DeNA】大学屈指の左腕・星野世那に加え上位で大型野手を2人指名｜ プロ野球｜ドラフト名鑑2026(DAZN News)",
+      "summary": "DeNAは1位で大商大の星野世那を単独指名。チェンジアップが武器の大学球界屈指の左腕投手の交渉権を獲得した。2位の保西雅則（日本航空石川高）、3位の杉本寛斎（ブリティッシュコロンビア大）は二刀流で活躍",
+      "link": "https://news.yahoo.co.jp/articles/c7bb88c7a8985d81db55b01f17ea7be7517883df?source=rss",
+      "pubDate": "2026-10-28T08:30:56.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "baystars"
+      ],
+      "topics": [
+        "draft"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/c7bb88c7a8985d81db55b01f17ea7be7517883df?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【巨人】韓国プロ野球・サムスン、ロッテの選手とコーチが秋季キャンプに参加(東スポWEB)",
+      "summary": "巨人は30日から始まる秋季キャンプに、韓国プロ野球（KBOリーグ）のサムスン・ライオンズとロッテ・ジャイアンツから選手、コーチが参加すると発表。参加者は以下の通り。【サムスン・ライオンズ】チャ・スンジ",
+      "link": "https://news.yahoo.co.jp/articles/d535e4bfb0614f7eaa5490ec5482b0ba88ad64e7?source=rss",
+      "pubDate": "2026-10-28T08:30:34.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "giants",
+        "marines"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/d535e4bfb0614f7eaa5490ec5482b0ba88ad64e7?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【日本シリーズ試合速報】ソフトバンク 対 DeNA 第4戦 スコア結果・テキスト速報｜SMBC日本シリーズ2026",
+      "summary": "日本シリーズ2026 試合速報・結果一覧｜ソフトバンク 対 DeNA 10月24日（土）に開幕する「SMBC日本シリーズ2026」。横浜DeNAベイスターズと福岡ソフトバンクホークスが日本一を懸けて激突する。本記事では、全試合の日程・結果、…",
+      "link": "https://www.baseballchannel.jp/npb/298846/",
+      "pubDate": "2026-10-28T08:30:26.000Z",
+      "source": "ベースボールチャンネル（プロ野球）",
+      "sourceId": "baseballchannel-npb",
+      "teams": [
+        "hawks",
+        "baystars"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "ベースボールチャンネル（プロ野球）",
+          "sourceId": "baseballchannel-npb",
+          "link": "https://www.baseballchannel.jp/npb/298846/"
+        }
+      ]
+    },
+    {
+      "title": "【試合速報】ソフトバンク対DeNA、日本シリーズ第4戦のスタメン発表！ 両チームの先発メンバーは？",
+      "summary": "「SMBC日本シリーズ2026」第4戦（4勝先取）、福岡ソフトバンクホークス対横浜DeNAベイスターズの試合が28日、ソフトバンクの本拠地・みずほpaypayドーム福岡で開催。試合開始に先立ち、両チームの先発メンバーが発表された。",
+      "link": "https://www.baseballchannel.jp/npb/298980/",
+      "pubDate": "2026-10-28T08:27:07.000Z",
+      "source": "ベースボールチャンネル（プロ野球）",
+      "sourceId": "baseballchannel-npb",
+      "teams": [
+        "baystars",
+        "hawks"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "ベースボールチャンネル（プロ野球）",
+          "sourceId": "baseballchannel-npb",
+          "link": "https://www.baseballchannel.jp/npb/298980/"
+        }
+      ]
+    },
+    {
+      "title": "【西武】平良海馬がこの時期にボールを投げる意外な理由 メジャー挑戦は「僕もそれ待ちです」(日刊スポーツ)",
+      "summary": "西武平良海馬投手（26）が秋季練習を終えた。シーズン後の投球はキャッチボール程度にとどめている。「投げるのはベンチプレスの張りを取るために腕を回したくて…そんな感じです」と平良節で答えた。メジャー挑戦",
+      "link": "https://news.yahoo.co.jp/articles/61a6d6101bda3adb273ba220e24ea42601cfbea2?source=rss",
+      "pubDate": "2026-10-28T08:25:28.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "lions"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/61a6d6101bda3adb273ba220e24ea42601cfbea2?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "３連敗も「崖っぷちだけど明日がある！！」DeNAファンの相川七瀬パブリックビューイングで観戦(日刊スポーツ)",
+      "summary": "＜日本シリーズ：ソフトバンク－DeNA＞◇第4戦◇28日◇みずほペイペイドーム 歌手の相川七瀬（51）が28日までに、インスタグラムを更新。日本シリーズ第3戦を、横浜スタジアムでのパブリックビューイン",
+      "link": "https://news.yahoo.co.jp/articles/709feda37f5fc884c401b156e467264ec75e6a95?source=rss",
+      "pubDate": "2026-10-28T08:24:55.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "baystars"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/709feda37f5fc884c401b156e467264ec75e6a95?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【阪神】平田勝男ヘッドコーチ「限界なんてない」合流初日からナインに力説…秋季練習第２クール(日刊スポーツ)",
+      "summary": "阪神の秋季練習第2クールが28日、スタートした。 今季2軍監督を務めた平田勝男1軍ヘッドコーチ（67）が合流。練習前には「秋季練習が一番大事」「腕でお金を稼ぐ。それがプロ」「限界なんてないなんだよ。今",
+      "link": "https://news.yahoo.co.jp/articles/906b83efaecb982099e57b12db4059e4f68965a8?source=rss",
+      "pubDate": "2026-10-28T08:22:20.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "tigers"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/906b83efaecb982099e57b12db4059e4f68965a8?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【広島】小川淳司氏が球団副本部長就任会見「やるからには必死にチームのために」編成部門入り(日刊スポーツ)",
+      "summary": "来年1月から広島の球団副本部長編成担当となる小川淳司氏（69）が28日、マツダスタジアムで就任会見を行った。小川氏は昨季までヤクルトでGMを務めていた。【写真】球団副本部長就任が決まった小川淳司氏 今",
+      "link": "https://news.yahoo.co.jp/articles/8fa58bdd66de2031c844d452e315b46208ed66d7?source=rss",
+      "pubDate": "2026-10-28T08:21:37.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "carp"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/8fa58bdd66de2031c844d452e315b46208ed66d7?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【日本Ｓ】３戦全て延長戦、終盤の本塁打が試合を決める 第１～３戦VTRを振り返る(日刊スポーツ)",
+      "summary": "＜日本シリーズ：ソフトバンク－DeNA＞◇第4戦◇28日◇みずほペイペイドーム ソフトバンクが4連勝で日本一となるか、DeNAが一矢報いるか。日本シリーズ第4戦は28日、みずほペイペイドームで午後6時",
+      "link": "https://news.yahoo.co.jp/articles/3b372674e2e40a8698e8498bf6044f7a9edd44d4?source=rss",
+      "pubDate": "2026-10-28T08:19:11.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "hawks",
+        "baystars"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/3b372674e2e40a8698e8498bf6044f7a9edd44d4?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "楽天、投手コーチ2人の退団・退任を発表 元ドラ1左腕・塩見貴洋氏も…ともに就任1年で",
+      "summary": "東北楽天ゴールデンイーグルスは28日、小野寺力投手コーチが退団し、塩見貴洋投手コーチが退任することを発表した",
+      "link": "https://www.baseballchannel.jp/npb/298994/",
+      "pubDate": "2026-10-28T08:18:03.000Z",
+      "source": "ベースボールチャンネル（プロ野球）",
+      "sourceId": "baseballchannel-npb",
+      "teams": [
+        "eagles"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "ベースボールチャンネル（プロ野球）",
+          "sourceId": "baseballchannel-npb",
+          "link": "https://www.baseballchannel.jp/npb/298994/"
+        }
+      ]
+    },
+    {
+      "title": "楽天、投手コーチ2人がわずか1年で退任 小野寺コーチは退団…最下位から巻き返しへ",
+      "summary": "楽天は28日、小野寺力投手コーチの退団、塩見貴洋投手コーチの退任を発表。2人はともに今季から投手コーチに就任。わずか1年で退団、退任することになった。",
+      "link": "https://full-count.jp/2026/10/28/post2037788/",
+      "pubDate": "2026-10-28T08:03:23.000Z",
+      "source": "Full-Count（プロ野球）",
+      "sourceId": "full-count-npb",
+      "teams": [
+        "eagles"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Full-Count（プロ野球）",
+          "sourceId": "full-count-npb",
+          "link": "https://full-count.jp/2026/10/28/post2037788/"
+        }
+      ]
+    },
+    {
+      "title": "日本S直前…改革発表に「まだある？」 午後4時から続いた報せ、巻き返しへの決断に「まじかよ」",
+      "summary": "日本シリーズ進出を逃した日本ハムが28日、来季に向けた首脳陣の配置転換を発表した。清水雅治ファーム総合コーチが契約満了に伴い退任し、今季ファーム監督を務めた稲葉篤紀氏は来季、1軍のコーチングスタッフに入る。ネット上では「まじかよ!?」「大き…",
+      "link": "https://full-count.jp/2026/10/28/post2037776/",
+      "pubDate": "2026-10-28T08:01:45.000Z",
+      "source": "Full-Count（プロ野球）",
+      "sourceId": "full-count-npb",
+      "teams": [
+        "fighters"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Full-Count（プロ野球）",
+          "sourceId": "full-count-npb",
+          "link": "https://full-count.jp/2026/10/28/post2037776/"
+        }
+      ]
+    },
+    {
+      "title": "【日本ハム】来季のコーチングスタッフ配置変更を発表 稲葉ファーム監督が１軍へ(日刊スポーツ)",
+      "summary": "日本ハムは28日、来季のコーチングスタッフ配置変更を発表した。 【1軍】 稲葉篤紀ファーム監督【写真】ファーム選手権で優勝を飾り、胴上げされる稲葉監督 【ファーム】 加藤武治一軍投手コーチ、谷内亮太一",
+      "link": "https://news.yahoo.co.jp/articles/e3907ddb5197031aab92e5d596034a12a3f7710b?source=rss",
+      "pubDate": "2026-10-28T07:53:53.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "fighters"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/e3907ddb5197031aab92e5d596034a12a3f7710b?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【日本ハム】森本稀哲コーチ、来季からファーム監督に就任 清水雅治ファーム総合コーチは退任(日刊スポーツ)",
+      "summary": "日本ハムは28日、森本稀哲1軍外野守備走塁コーチが、来季からファーム監督に就任すると発表した。【写真】来季からファーム監督に就任する森本稀哲コーチ 同コーチは10月30日から始まる沖縄秋季キャンプに参",
+      "link": "https://news.yahoo.co.jp/articles/68d9d5b9452fab0760e0ecc7b791b38fb1fee442?source=rss",
+      "pubDate": "2026-10-28T07:33:22.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "fighters"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/68d9d5b9452fab0760e0ecc7b791b38fb1fee442?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "日本ハム、森本稀哲氏が2軍監督に 球団発表…今季は1軍外野守備走塁コーチ「第一章 完！」",
+      "summary": "日本ハムは28日、森本稀哲1軍外野守備走塁コーチが来季から2軍監督を務めると発表した。",
+      "link": "https://full-count.jp/2026/10/28/post2037760/",
+      "pubDate": "2026-10-28T07:16:47.000Z",
+      "source": "Full-Count（プロ野球）",
+      "sourceId": "full-count-npb",
+      "teams": [
+        "fighters"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Full-Count（プロ野球）",
+          "sourceId": "full-count-npb",
+          "link": "https://full-count.jp/2026/10/28/post2037760/"
+        }
+      ]
+    },
+    {
+      "title": "【DeNA】相川監督、神里は「ちょっと厳しい。察してください」前夜負傷退場、松葉づえで球場入り(日刊スポーツ)",
+      "summary": "＜日本シリーズ：ソフトバンク－DeNA＞◇第4戦◇28日◇みずほペイペイドーム DeNA神里和毅外野手（32）が、左足首を包帯でぐるぐる巻きにし、松葉づえをつきながら、球場入りした。【写真】試合中に負",
+      "link": "https://news.yahoo.co.jp/articles/baa7a18866bbef8aa1ade4c215dafd6b52376338?source=rss",
+      "pubDate": "2026-10-28T07:15:13.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "baystars"
+      ],
+      "topics": [
+        "injury"
+      ],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/baa7a18866bbef8aa1ade4c215dafd6b52376338?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "涙のDeNA古市尊に寄り添った戸柱恭孝 「よう頑張った、でも」…ベテランが一番伝えたかったこと",
+      "summary": "サヨナラ負けに涙を流すDeNA古市尊に寄り添って声をかけた戸柱恭孝。「よう頑張った、でも……」。経験豊富なベテランが一番伝えたかったこと。",
+      "link": "https://full-count.jp/2026/10/28/post2037704/",
+      "pubDate": "2026-10-28T07:02:56.000Z",
+      "source": "Full-Count（プロ野球）",
+      "sourceId": "full-count-npb",
+      "teams": [
+        "baystars"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Full-Count（プロ野球）",
+          "sourceId": "full-count-npb",
+          "link": "https://full-count.jp/2026/10/28/post2037704/"
+        }
+      ]
+    },
+    {
+      "title": "日本ハム、清水雅治コーチが退任 球団発表…侍J、阪神など複数球団で指導の実績",
+      "summary": "日本ハムは28日、清水雅治ファーム総合コーチが契約満了に伴い退任すると発表した。",
+      "link": "https://full-count.jp/2026/10/28/post2037744/",
+      "pubDate": "2026-10-28T07:01:48.000Z",
+      "source": "Full-Count（プロ野球）",
+      "sourceId": "full-count-npb",
+      "teams": [
+        "fighters",
+        "tigers"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Full-Count（プロ野球）",
+          "sourceId": "full-count-npb",
+          "link": "https://full-count.jp/2026/10/28/post2037744/"
+        }
+      ]
+    },
+    {
+      "title": "DeNA相川監督、神里の容態明かす「ちょっと厳しい」 前日足首負傷で松葉杖姿「察してください」",
+      "summary": "DeNAの相川亮二監督が28日、みずほPayPayドームでの「SMBC日本シリーズ2026」第4戦前に取材に応じ、前日負傷交代した神里和毅外野手の状態について「ちょっと厳しいですね」と話した。",
+      "link": "https://full-count.jp/2026/10/28/post2037724/",
+      "pubDate": "2026-10-28T06:49:51.000Z",
+      "source": "Full-Count（プロ野球）",
+      "sourceId": "full-count-npb",
+      "teams": [
+        "baystars"
+      ],
+      "topics": [
+        "injury"
+      ],
+      "sources": [
+        {
+          "name": "Full-Count（プロ野球）",
+          "sourceId": "full-count-npb",
+          "link": "https://full-count.jp/2026/10/28/post2037724/"
+        }
+      ]
+    },
+    {
+      "title": "【日本ハム】ドラ４加藤宇、同級生鈴木福から祝福LINE「エスコンに招待できたら」指名あいさつ(日刊スポーツ)",
+      "summary": "日本ハムからドラフト4位指名を受けた明星大・加藤宇投手（4年＝堀越）が28日、東京・日野市内の同大で指名あいさつを受けた。大渕隆GM補佐兼スカウト部長（56）、伊藤剛スカウト（49）と対面した。【写真",
+      "link": "https://news.yahoo.co.jp/articles/b6ce0cd9e954f46597d8445b78b812a7e476185a?source=rss",
+      "pubDate": "2026-10-28T06:46:56.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "fighters"
+      ],
+      "topics": [
+        "draft"
+      ],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/b6ce0cd9e954f46597d8445b78b812a7e476185a?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "バッテリィズが野球×お笑いのスペシャルイベント開催 野球人口減少を「完全に食い止めたい」",
+      "summary": "お笑いコンビ「バッテリィズ」がジャイアンツタウンに乗り込む。来年2月20日に野球とお笑いを掛け合わせたスペシャルイベント「ホンキッキーズフェスティバル2027」を開催する予定で、エースは「絶対楽しいからみんな来てや！ たのむで!!」と呼びか…",
+      "link": "https://full-count.jp/2026/10/28/post2037665/",
+      "pubDate": "2026-10-28T05:48:24.000Z",
+      "source": "Full-Count（プロ野球）",
+      "sourceId": "full-count-npb",
+      "teams": [
+        "giants"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Full-Count（プロ野球）",
+          "sourceId": "full-count-npb",
+          "link": "https://full-count.jp/2026/10/28/post2037665/"
+        }
+      ]
+    },
+    {
+      "title": "咄嗟に出た“シンクロ”に「どれだけ笑」 選手もファンも大興奮…無自覚の動きが「好き！」",
+      "summary": "「SMBC日本シリーズ2026」第3戦が27日、みずほPayPayドームで行われ、ソフトバンクがDeNAにサヨナラ勝利。3連勝で、2年連続の日本一に王手をかけた。9回、同点に追いついた場面では、ナインが見せた息の合った“シンクロ”が「無意識…",
+      "link": "https://full-count.jp/2026/10/28/post2037677/",
+      "pubDate": "2026-10-28T05:44:04.000Z",
+      "source": "Full-Count（プロ野球）",
+      "sourceId": "full-count-npb",
+      "teams": [
+        "hawks",
+        "baystars"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Full-Count（プロ野球）",
+          "sourceId": "full-count-npb",
+          "link": "https://full-count.jp/2026/10/28/post2037677/"
+        }
+      ]
+    },
+    {
+      "title": "「すげぇな」「あそこまで」 阪神・立石の一発で見つかった“身体能力”…執念にファン驚愕",
+      "summary": "阪神の立石正広内野手が27日、みやざきフェニックス・リーグの楽天戦に「4番・三塁」で先発出場。9回に逆転サヨナラ3ランを放つなど2本塁打を放つ活躍を見せた。楽天は敗れはしたが、立石の一発を追った吉野創士外野手のプレーが「すげぇな」と話題を集…",
+      "link": "https://full-count.jp/2026/10/28/post2037656/",
+      "pubDate": "2026-10-28T05:01:48.000Z",
+      "source": "Full-Count（プロ野球）",
+      "sourceId": "full-count-npb",
+      "teams": [
+        "tigers"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Full-Count（プロ野球）",
+          "sourceId": "full-count-npb",
+          "link": "https://full-count.jp/2026/10/28/post2037656/"
+        }
+      ]
+    },
+    {
+      "title": "【ヤクルト】中大では森下翔太と主軸…“ドラ5内野手”が戦力外を報告 「諦めずに挑戦し続けたい」",
+      "summary": "東京ヤクルトスワローズの北村恵吾選手が27日、自身のインスタグラムを更新。戦力外通告を受けたことを報告し、ファンへの感謝をつづった。",
+      "link": "https://www.baseballchannel.jp/npb/298953/",
+      "pubDate": "2026-10-28T05:00:35.000Z",
+      "source": "ベースボールチャンネル（プロ野球）",
+      "sourceId": "baseballchannel-npb",
+      "teams": [
+        "swallows"
+      ],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "ベースボールチャンネル（プロ野球）",
+          "sourceId": "baseballchannel-npb",
+          "link": "https://www.baseballchannel.jp/npb/298953/"
+        }
+      ]
+    },
+    {
+      "title": "【ヤクルト】来季こそ主軸定着へ…！ヤクルトの“26歳大砲候補”が豪快アーチ 右翼席中段へ確信の一発",
+      "summary": "東京ヤクルトスワローズの澤井廉選手は28日、読売ジャイアンツとの「みやざきフェニックス・リーグ」に「4番・右翼」で先発出場。2回に右翼席中段へ先制ソロ本塁打を放ち、持ち前の長打力をアピールした。",
+      "link": "https://www.baseballchannel.jp/npb/298952/",
+      "pubDate": "2026-10-28T04:45:10.000Z",
+      "source": "ベースボールチャンネル（プロ野球）",
+      "sourceId": "baseballchannel-npb",
+      "teams": [
+        "swallows"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "ベースボールチャンネル（プロ野球）",
+          "sourceId": "baseballchannel-npb",
+          "link": "https://www.baseballchannel.jp/npb/298952/"
+        }
+      ]
+    },
+    {
+      "title": "スカウト10年から指導者へ…阪神、”元自由枠左腕”がファーム投手コーチに就任 「選手と一緒に成長していきたい」",
+      "summary": "阪神タイガースは26日、筒井和也氏が来季からファーム投手コーチに就任すると発表した。筒井氏は同日、西宮市内で就任会見に臨んだ。",
+      "link": "https://www.baseballchannel.jp/npb/298948/",
+      "pubDate": "2026-10-28T04:00:44.000Z",
+      "source": "ベースボールチャンネル（プロ野球）",
+      "sourceId": "baseballchannel-npb",
+      "teams": [
+        "tigers"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "ベースボールチャンネル（プロ野球）",
+          "sourceId": "baseballchannel-npb",
+          "link": "https://www.baseballchannel.jp/npb/298948/"
+        }
+      ]
+    },
+    {
+      "title": "【ヤクルト】加入から6年…元ソフトバンクの“28歳右腕”が戦力外を報告 「たくさんの応燕が力になりました」",
+      "summary": "東京ヤクルトスワローズの小澤怜史投手が26日、自身のインスタグラムを更新。戦力外通告を受けたことを報告し、ファンへの感謝をつづった。",
+      "link": "https://www.baseballchannel.jp/npb/298940/",
+      "pubDate": "2026-10-28T04:00:19.000Z",
+      "source": "ベースボールチャンネル（プロ野球）",
+      "sourceId": "baseballchannel-npb",
+      "teams": [
+        "swallows",
+        "hawks"
+      ],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "ベースボールチャンネル（プロ野球）",
+          "sourceId": "baseballchannel-npb",
+          "link": "https://www.baseballchannel.jp/npb/298940/"
+        }
+      ]
+    },
+    {
+      "title": "【日本ハム】3年ぶり2度目の戦力外…日本ハムの“28歳捕手”が胸中つづる 「広島の田舎からファイターズに」",
+      "summary": "北海道日本ハムファイターズの梅林優貴選手が27日、自身のX（旧ツイッター）を更新。戦力外通告を受けたことを報告し、ファンや球団への感謝をつづった。",
+      "link": "https://www.baseballchannel.jp/npb/298934/",
+      "pubDate": "2026-10-28T03:10:17.000Z",
+      "source": "ベースボールチャンネル（プロ野球）",
+      "sourceId": "baseballchannel-npb",
+      "teams": [
+        "carp",
+        "fighters"
+      ],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "ベースボールチャンネル（プロ野球）",
+          "sourceId": "baseballchannel-npb",
+          "link": "https://www.baseballchannel.jp/npb/298934/"
+        }
+      ]
+    },
     {
       "title": "【ヤフコメで話題】「東投手の7回降板采配に賛否」「短期決戦での継投判断が明暗」 - 日本シリーズ第3戦の采配を巡る議論(Yahoo!ニュース オリジナル THE PAGE)",
       "summary": "日本シリーズ第3戦におけるDeNA東投手の7回89球での降板采配について、Yahoo!ニュースのコメント欄で話題になっています。コメントでは、東投手が好投していたにもかかわらず7回で降板させた首脳陣の",
@@ -71585,574 +72359,6 @@
           "name": "ベースボールチャンネル（プロ野球）",
           "sourceId": "baseballchannel-npb",
           "link": "https://www.baseballchannel.jp/npb/291909/"
-        }
-      ]
-    },
-    {
-      "title": "【ソフトバンク】今季103試合出場の“育成出身外野手”を抹消 開幕から一軍帯同",
-      "summary": "28日のプロ野球公示で、福岡ソフトバンクホークスは川村友斗外野手の出場選手登録を抹消した。",
-      "link": "https://www.baseballchannel.jp/npb/291883/",
-      "pubDate": "2026-09-28T08:40:19.000Z",
-      "source": "ベースボールチャンネル（プロ野球）",
-      "sourceId": "baseballchannel-npb",
-      "teams": [],
-      "topics": [
-        "roster"
-      ],
-      "sources": [
-        {
-          "name": "ベースボールチャンネル（プロ野球）",
-          "sourceId": "baseballchannel-npb",
-          "link": "https://www.baseballchannel.jp/npb/291883/"
-        }
-      ]
-    },
-    {
-      "title": "【広島】今夜プロ初先発へ…広島、最速152キロの“ドラ4ルーキー”を1軍登録 初登板は2回3K無失点",
-      "summary": "28日のプロ野球公示で、広島東洋カープは工藤泰己投手を一軍登録した。",
-      "link": "https://www.baseballchannel.jp/npb/291897/",
-      "pubDate": "2026-09-28T08:30:53.000Z",
-      "source": "ベースボールチャンネル（プロ野球）",
-      "sourceId": "baseballchannel-npb",
-      "teams": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "ベースボールチャンネル（プロ野球）",
-          "sourceId": "baseballchannel-npb",
-          "link": "https://www.baseballchannel.jp/npb/291897/"
-        }
-      ]
-    },
-    {
-      "title": "戦力構想外、藤浪晋太郎の次なる進路【白球つれづれ】",
-      "summary": "◆ 白球つれづれ2026・第39回 ソフトバンクが、早々とパ・リーグ3連覇を決めた。一方のセ・リーグも阪神が巨人とデッドヒートを展開してきたが、どうやら球団初の連覇が見えてきた。 いよいよ、野球界はクライマックスシリ […]",
-      "link": "https://baseballking.jp/ns/708298/",
-      "pubDate": "2026-09-28T08:30:00.000Z",
-      "source": "BASEBALL KING",
-      "sourceId": "baseballking",
-      "teams": [
-        "hawks",
-        "tigers",
-        "giants"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "BASEBALL KING",
-          "sourceId": "baseballking",
-          "link": "https://baseballking.jp/ns/708298/"
-        }
-      ]
-    },
-    {
-      "title": "【日本ハム】9月は打率.130…日本ハム、”助っ人ユーティリティー”が登録抹消 今季は71試合で8本塁打",
-      "summary": "28日のプロ野球公示で、北海道日本ハムファイターズはロドルフォ・カストロ選手を一軍登録から抹消した。",
-      "link": "https://www.baseballchannel.jp/npb/291887/",
-      "pubDate": "2026-09-28T08:15:41.000Z",
-      "source": "ベースボールチャンネル（プロ野球）",
-      "sourceId": "baseballchannel-npb",
-      "teams": [],
-      "topics": [
-        "roster"
-      ],
-      "sources": [
-        {
-          "name": "ベースボールチャンネル（プロ野球）",
-          "sourceId": "baseballchannel-npb",
-          "link": "https://www.baseballchannel.jp/npb/291887/"
-        }
-      ]
-    },
-    {
-      "title": "【阪神】昇格後は登板機会なし…プロ4年目の“若虎左腕”を登録抹消 今季は11試合で防御率4.74",
-      "summary": "28日のプロ野球公示で、阪神タイガースは門別啓人投手を一軍登録から抹消した。",
-      "link": "https://www.baseballchannel.jp/npb/291880/",
-      "pubDate": "2026-09-28T07:45:30.000Z",
-      "source": "ベースボールチャンネル（プロ野球）",
-      "sourceId": "baseballchannel-npb",
-      "teams": [],
-      "topics": [
-        "roster"
-      ],
-      "sources": [
-        {
-          "name": "ベースボールチャンネル（プロ野球）",
-          "sourceId": "baseballchannel-npb",
-          "link": "https://www.baseballchannel.jp/npb/291880/"
-        }
-      ]
-    },
-    {
-      "title": "【今日のプロ野球公示】門別啓人、J．オスナなど｜9月28日の一軍出場選手登録・抹消一覧",
-      "summary": "日本野球機構は28日付の出場選手登録・登録抹消を公示した。",
-      "link": "https://www.baseballchannel.jp/npb/291869/",
-      "pubDate": "2026-09-28T07:00:08.000Z",
-      "source": "ベースボールチャンネル（プロ野球）",
-      "sourceId": "baseballchannel-npb",
-      "teams": [],
-      "topics": [
-        "roster"
-      ],
-      "sources": [
-        {
-          "name": "ベースボールチャンネル（プロ野球）",
-          "sourceId": "baseballchannel-npb",
-          "link": "https://www.baseballchannel.jp/npb/291869/"
-        }
-      ]
-    },
-    {
-      "title": "【DeNA】“ハマの主砲”が20号…2年連続8度目の大台 村田修一超えの通算252発",
-      "summary": "横浜DeNAベイスターズの筒香嘉智は27日、横浜スタジアムで行われた広島東洋カープ戦に「3番・一塁」でスタメン出場。6回の第3打席で、今季20号となるソロ本塁打を放った。",
-      "link": "https://www.baseballchannel.jp/npb/291852/",
-      "pubDate": "2026-09-28T06:39:39.000Z",
-      "source": "ベースボールチャンネル（プロ野球）",
-      "sourceId": "baseballchannel-npb",
-      "teams": [
-        "baystars"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "ベースボールチャンネル（プロ野球）",
-          "sourceId": "baseballchannel-npb",
-          "link": "https://www.baseballchannel.jp/npb/291852/"
-        }
-      ]
-    },
-    {
-      "title": "【オリックス】あの頃の2人が再び…！かつての“エースと守護神”がツーショット 同学年右腕の引退に駆けつける",
-      "summary": "オリックス・バファローズ、北海道日本ハムファイターズでプレーし、現在は日本ハムで投手コーディネーターを務める金子千尋氏が26日に自身のインスタグラムを更新。今季限りで現役を引退するオリックスの平野佳寿投手とのツーショット写真を公開した。",
-      "link": "https://www.baseballchannel.jp/npb/291823/",
-      "pubDate": "2026-09-28T05:30:15.000Z",
-      "source": "ベースボールチャンネル（プロ野球）",
-      "sourceId": "baseballchannel-npb",
-      "teams": [
-        "buffaloes"
-      ],
-      "topics": [
-        "retirement"
-      ],
-      "sources": [
-        {
-          "name": "ベースボールチャンネル（プロ野球）",
-          "sourceId": "baseballchannel-npb",
-          "link": "https://www.baseballchannel.jp/npb/291823/"
-        }
-      ]
-    },
-    {
-      "title": "【DeNA】「スペシャルな身体能力」プロ7年目の“ドラ1野手”が驚異のジャンプ 大飛球を好捕【ファーム】",
-      "summary": "横浜DeNAベイスターズの森敬斗外野手は27日、ジャイアンツタウンスタジアムで行われた読売ジャイアンツとのファーム・リーグ戦に「8番・中堅」でスタメン出場。2回の中堅守備で好プレーを披露した。",
-      "link": "https://www.baseballchannel.jp/npb/291837/",
-      "pubDate": "2026-09-28T05:11:53.000Z",
-      "source": "ベースボールチャンネル（プロ野球）",
-      "sourceId": "baseballchannel-npb",
-      "teams": [
-        "baystars"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "ベースボールチャンネル（プロ野球）",
-          "sourceId": "baseballchannel-npb",
-          "link": "https://www.baseballchannel.jp/npb/291837/"
-        }
-      ]
-    },
-    {
-      "title": "パの支配下419人から探す超激レア選手…異色キャリア＆実現ほぼ不可の打者姿、最長身や最年少は誰だ",
-      "summary": "パ・リーグの2026シーズンにおける支配下登録選手は419人である。険しいプロの世界にたどり着いた一流のプレーヤーたちの中で、「たった1人」しか当てはまらない「419分の1」の要素を持つ選手をパ・リーグ インサイト編集部が探した。ナンバーワ…",
-      "link": "https://full-count.jp/2026/09/28/post2022843/",
-      "pubDate": "2026-09-28T04:55:01.000Z",
-      "source": "Full-Count（プロ野球）",
-      "sourceId": "full-count-npb",
-      "teams": [],
-      "topics": [
-        "roster"
-      ],
-      "sources": [
-        {
-          "name": "Full-Count（プロ野球）",
-          "sourceId": "full-count-npb",
-          "link": "https://full-count.jp/2026/09/28/post2022843/"
-        }
-      ]
-    },
-    {
-      "title": "【巨人】逆方向へズドン…レギュラー狙う26歳がキャリアハイ6号 打った直後も全力疾走",
-      "summary": "読売ジャイアンツの増田陸内野手は27日、東京ドームで行われた東京ヤクルトスワローズ戦に途中出場。6回の第1打席で、今季6号となるソロ本塁打を放った。",
-      "link": "https://www.baseballchannel.jp/npb/291808/",
-      "pubDate": "2026-09-28T04:50:02.000Z",
-      "source": "ベースボールチャンネル（プロ野球）",
-      "sourceId": "baseballchannel-npb",
-      "teams": [
-        "giants"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "ベースボールチャンネル（プロ野球）",
-          "sourceId": "baseballchannel-npb",
-          "link": "https://www.baseballchannel.jp/npb/291808/"
-        }
-      ]
-    },
-    {
-      "title": "【DeNA】気になる横浜スタジアムの天気…勝てば勝率５割以上が確定 広島との今季最終戦(日刊スポーツ)",
-      "summary": "＜DeNA－広島＞◇28日◇横浜 横浜スタジアムは天候が心配だ。 午後1時の時点では球場周辺は小雨が降っている。天気予報によると試合前には雨がやむ見込み。 DeNAは勝てば勝率5割以上が確",
-      "link": "https://news.yahoo.co.jp/articles/6373b9c0a199e3e70f8593a374d2bca2d691eced?source=rss",
-      "pubDate": "2026-09-28T04:38:20.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "baystars"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/6373b9c0a199e3e70f8593a374d2bca2d691eced?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【西武】銀行営業職で奮闘した１年後はプロ２軍で26盗塁 川田悠慎はスペシャリストへの礎築く(日刊スポーツ)",
-      "summary": "＜ファーム・リーグ中地区：ハヤテ1－3西武＞◇27日◇ちゅ～るスタジアム清水 1年前は四国銀行の営業職員だった西武川田悠慎外野手（24）は、さすが外回り経験が豊富なだけあって、表情も所作からは読み",
-      "link": "https://news.yahoo.co.jp/articles/5d024de0380e2d22d1b207cec2b8310a6cad836e?source=rss",
-      "pubDate": "2026-09-28T04:37:38.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "lions"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/5d024de0380e2d22d1b207cec2b8310a6cad836e?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "ソフトバンク山川穂高が12発で本塁打王 阪神モレッタはセーブ王／２軍西地区タイトル一覧(日刊スポーツ)",
-      "summary": "2軍の公式戦「ファーム・リーグ」が27日に全日程を終了した。東地区は日本ハム、中地区はDeNA、西地区はソフトバンクが優勝した。 2位の中で最も勝率が高かった巨人を加え、10月に静岡市のしずてつ",
-      "link": "https://news.yahoo.co.jp/articles/a3121e256c13767dfb315b1afe046ac3827055df?source=rss",
-      "pubDate": "2026-09-28T04:32:02.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "hawks",
-        "tigers"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/a3121e256c13767dfb315b1afe046ac3827055df?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【ヤクルト】キハダ帰国、NPB初登板から連続Ｓ記録更新も…交流戦以降苦しむ ２勝７敗21S(日刊スポーツ)",
-      "summary": "ヤクルトは28日、ホセ・キハダ投手（30）が同日に帰国したことを発表した。41試合に登板。2勝7敗21セーブで、防御率は3・86だった。 来日1年目の今季は開幕から守護神を務め、NPB初登板から",
-      "link": "https://news.yahoo.co.jp/articles/1e619939bb7c8992bfd2f364d494eaea11b67c76?source=rss",
-      "pubDate": "2026-09-28T04:28:38.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "swallows"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/1e619939bb7c8992bfd2f364d494eaea11b67c76?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "巨人27歳の又木鉄平が投手２冠 西武仲三優太が20発で本塁打王／２軍中地区タイトル一覧(日刊スポーツ)",
-      "summary": "2軍の公式戦「ファーム・リーグ」が27日に全日程を終了した。東地区は日本ハム、中地区はDeNA、西地区はソフトバンクが優勝した。 2位の中で最も勝率が高かった巨人を加え、10月に静岡市のしずてつ",
-      "link": "https://news.yahoo.co.jp/articles/2edc7d8615b0a29bfe916363ed3b7d21d5c7ea47?source=rss",
-      "pubDate": "2026-09-28T04:27:27.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "giants",
-        "lions"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/2edc7d8615b0a29bfe916363ed3b7d21d5c7ea47?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "日本ハム・エドポロが17発で本塁打王 引退の唐川侑己が７勝で最多勝／２軍東地区タイトル一覧(日刊スポーツ)",
-      "summary": "2軍の公式戦「ファーム・リーグ」が27日に全日程を終了した。東地区は日本ハム、中地区はDeNA、西地区はソフトバンクが優勝した。 2位の中で最も勝率が高かった巨人を加え、10月に静岡市のしずてつ",
-      "link": "https://news.yahoo.co.jp/articles/daf3278036465103446c20fbd9bdf521aa942897?source=rss",
-      "pubDate": "2026-09-28T04:26:54.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "fighters"
-      ],
-      "topics": [
-        "retirement"
-      ],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/daf3278036465103446c20fbd9bdf521aa942897?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【巨人】なぜ小笠原を78球で降板？なぜ大量リードで中川、船迫投入？首脳陣が明かした２つの意図(日刊スポーツ)",
-      "summary": "＜巨人－ヤクルト＞◇27日◇東京ドーム 巨人打線が2ケタ得点と爆発して連敗を2でストップした。試合のなかった首位阪神のマジックは減らさず4のまま。2ゲーム差に迫って残り4試合と逆転優勝へ望みをつな",
-      "link": "https://news.yahoo.co.jp/articles/ecf134b19dbd8bce40021c24a44467e049297896?source=rss",
-      "pubDate": "2026-09-28T04:19:33.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "giants"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/ecf134b19dbd8bce40021c24a44467e049297896?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "藤浪は来季構想外、戦力外通告期間が開始 上昇傾向の「153→157→169」…引退発表も",
-      "summary": "プロ野球は9月27日、ファームリーグの全日程が終了した。28日から第1次戦力外通告期間がスタートする。すでに来季の構想外となっているDeNA・藤浪晋太郎投手をはじめ、今年は何人の選手が通告を受けることになるのだろうか。",
-      "link": "https://full-count.jp/2026/09/28/post2022799/",
-      "pubDate": "2026-09-28T04:06:26.000Z",
-      "source": "Full-Count（プロ野球）",
-      "sourceId": "full-count-npb",
-      "teams": [
-        "baystars"
-      ],
-      "topics": [
-        "trade",
-        "retirement"
-      ],
-      "sources": [
-        {
-          "name": "Full-Count（プロ野球）",
-          "sourceId": "full-count-npb",
-          "link": "https://full-count.jp/2026/09/28/post2022799/"
-        }
-      ]
-    },
-    {
-      "title": "【オリックス】身長213センチ右腕のジェリーが帰国 開幕から先発ローテも３勝10敗(日刊スポーツ)",
-      "summary": "オリックスは28日、ショーン・ジェリー投手（29）が27日に米国に帰国したことを発表した。ジェリーはメジャー歴代最長身の身長213センチの大型右腕として来日。開幕から先発ローテーションを託され、21",
-      "link": "https://news.yahoo.co.jp/articles/12b3d992c4968abb896852512d12418323e65e80?source=rss",
-      "pubDate": "2026-09-28T04:06:00.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "buffaloes"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/12b3d992c4968abb896852512d12418323e65e80?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "西武・古賀悠斗が喜ぶ「古市らしい輝き方」 同期の“弟分”との絆…新天地でも浸透する愛称に「ペラペラですから」",
-      "summary": "西武の古賀悠斗がDeNA・古市尊との絆を明かす。新天地でも「ペライチ」の愛称で親しまれる“弟分”のエピソードや微笑ましい関係。",
-      "link": "https://full-count.jp/2026/09/28/post2022630/",
-      "pubDate": "2026-09-28T04:04:41.000Z",
-      "source": "Full-Count（プロ野球）",
-      "sourceId": "full-count-npb",
-      "teams": [
-        "lions"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Full-Count（プロ野球）",
-          "sourceId": "full-count-npb",
-          "link": "https://full-count.jp/2026/09/28/post2022630/"
-        }
-      ]
-    },
-    {
-      "title": "【西武】スラッガー仲三優太が20発でファーム本塁打王に 打点王との２冠は最後の最後で逃す(日刊スポーツ)",
-      "summary": "＜ファーム・リーグ中地区：西武3－1ハヤテ＞◇27日◇ちゅ～るスタジアム清水 ファーム・リーグ全日程が終了し、西武仲三優太外野手（23）が20本塁打をマークし、中地区の本塁打王に輝いた。 1軍",
-      "link": "https://news.yahoo.co.jp/articles/4d24b1ff18e4d6ce3d8d7f484d89b732ae3c20f3?source=rss",
-      "pubDate": "2026-09-28T04:04:24.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "lions"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/4d24b1ff18e4d6ce3d8d7f484d89b732ae3c20f3?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【西武】捕って反転→即送球…“獅子の牛若丸”が見せた超美技 二塁封殺でピンチ脱出",
-      "summary": "埼玉西武ライオンズの滝澤夏央内野手は27日、ベルーナドームで行われた東北楽天ゴールデンイーグルス戦に「9番・遊撃」でスタメン出場。3回の遊撃守備で、好プレーを披露した。",
-      "link": "https://www.baseballchannel.jp/npb/291784/",
-      "pubDate": "2026-09-28T04:02:38.000Z",
-      "source": "ベースボールチャンネル（プロ野球）",
-      "sourceId": "baseballchannel-npb",
-      "teams": [
-        "lions"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "ベースボールチャンネル（プロ野球）",
-          "sourceId": "baseballchannel-npb",
-          "link": "https://www.baseballchannel.jp/npb/291784/"
-        }
-      ]
-    },
-    {
-      "title": "引退試合で発見…「痩せてしまったけど」 サプライズ登場の大物に感動「レジェンド」",
-      "summary": "今季限りで現役を引退するソフトバンク・中村晃内野手の引退セレモニーが27日、みずほPayPayドームでのオリックス戦後に行われた。サプライズ登場した“超大物”にファン感動。「痩せてしまったけど声は変わらず」などと安堵が広がった。",
-      "link": "https://full-count.jp/2026/09/28/post2022773/",
-      "pubDate": "2026-09-28T03:46:00.000Z",
-      "source": "Full-Count（プロ野球）",
-      "sourceId": "full-count-npb",
-      "teams": [
-        "hawks"
-      ],
-      "topics": [
-        "retirement"
-      ],
-      "sources": [
-        {
-          "name": "Full-Count（プロ野球）",
-          "sourceId": "full-count-npb",
-          "link": "https://full-count.jp/2026/09/28/post2022773/"
-        }
-      ]
-    },
-    {
-      "title": "【日本ハム】まるで回転レシーブ…“22年ドラ1戦士”が一回転キャッチ 好守でアウト奪う",
-      "summary": "北海道日本ハムファイターズの矢澤宏太は27日、ZOZOマリンスタジアムで行われた千葉ロッテマリーンズ戦に「9番・中堅」でスタメン出場。6回の中堅守備で、好プレーを披露した。",
-      "link": "https://www.baseballchannel.jp/npb/291772/",
-      "pubDate": "2026-09-28T03:45:49.000Z",
-      "source": "ベースボールチャンネル（プロ野球）",
-      "sourceId": "baseballchannel-npb",
-      "teams": [
-        "fighters"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "ベースボールチャンネル（プロ野球）",
-          "sourceId": "baseballchannel-npb",
-          "link": "https://www.baseballchannel.jp/npb/291772/"
-        }
-      ]
-    },
-    {
-      "title": "【巨人】ライン際にポトリ…！巨人の“未完の大器”が昇格初日に2点タイムリー 3カ月ぶりの1軍安打",
-      "summary": "読売ジャイアンツのリチャード選手は27日、本拠地・東京ドームで行われた東京ヤクルトスワローズ戦に「7番・三塁」で先発出場。昇格初日に適時打を放つなど、クライマックスシリーズに向けてアピールした。",
-      "link": "https://www.baseballchannel.jp/npb/291811/",
-      "pubDate": "2026-09-28T03:30:06.000Z",
-      "source": "ベースボールチャンネル（プロ野球）",
-      "sourceId": "baseballchannel-npb",
-      "teams": [
-        "giants"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "ベースボールチャンネル（プロ野球）",
-          "sourceId": "baseballchannel-npb",
-          "link": "https://www.baseballchannel.jp/npb/291811/"
-        }
-      ]
-    },
-    {
-      "title": "阪神一筋13年に幕…虎の2013年“ドラ1左腕”が現役引退 通算304試合登板",
-      "summary": "阪神タイガースは28日、岩貞祐太投手が今季限りで現役を引退することを発表した。2014年の入団から阪神一筋でプレーしてきた35歳左腕が、13年間の現役生活に幕を下ろす。",
-      "link": "https://www.baseballchannel.jp/npb/291804/",
-      "pubDate": "2026-09-28T03:25:27.000Z",
-      "source": "ベースボールチャンネル（プロ野球）",
-      "sourceId": "baseballchannel-npb",
-      "teams": [
-        "tigers"
-      ],
-      "topics": [
-        "retirement"
-      ],
-      "sources": [
-        {
-          "name": "ベースボールチャンネル（プロ野球）",
-          "sourceId": "baseballchannel-npb",
-          "link": "https://www.baseballchannel.jp/npb/291804/"
-        }
-      ]
-    },
-    {
-      "title": "DeNA森原康平の覚悟と決断「答えは今じゃない」 前例ほぼナシ“未知”の手術も…後進へ誓う「成功例」",
-      "summary": "",
-      "link": "https://full-count.jp/2026/09/28/post2022595/",
-      "pubDate": "2026-09-28T02:42:06.000Z",
-      "source": "Full-Count（プロ野球）",
-      "sourceId": "full-count-npb",
-      "teams": [
-        "baystars"
-      ],
-      "topics": [
-        "injury"
-      ],
-      "sources": [
-        {
-          "name": "Full-Count（プロ野球）",
-          "sourceId": "full-count-npb",
-          "link": "https://full-count.jp/2026/09/28/post2022595/"
-        }
-      ]
-    },
-    {
-      "title": "CS直前に痛恨離脱…日本ハムの“交流戦男”が左手骨折 復帰まで3〜4週間",
-      "summary": "北海道日本ハムファイターズは27日、水谷瞬外野手が大阪市内の病院で検査を受け、左第二中手骨骨折と診断されたことを発表した。試合復帰まで約3〜4週間の見通しとなっている。",
-      "link": "https://www.baseballchannel.jp/npb/291787/",
-      "pubDate": "2026-09-28T02:35:11.000Z",
-      "source": "ベースボールチャンネル（プロ野球）",
-      "sourceId": "baseballchannel-npb",
-      "teams": [
-        "fighters"
-      ],
-      "topics": [
-        "injury"
-      ],
-      "sources": [
-        {
-          "name": "ベースボールチャンネル（プロ野球）",
-          "sourceId": "baseballchannel-npb",
-          "link": "https://www.baseballchannel.jp/npb/291787/"
         }
       ]
     }
