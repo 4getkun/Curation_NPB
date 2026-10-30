@@ -36,8 +36,7 @@ name: Build and deploy to GitHub Pages
 # 行うと、そのたびに30分おきのschedule実行の待機枠が奪われてキャンセルされ、
 # 自動更新が長時間止まってしまう事故が実際に起きたため、トリガー種類ごとに
 # グループを分離した。この場合、schedule実行とpush実行が同時に走る可能性が
-# 生まれるため、git pushがコンフリクトした場合はリベースして再試行するように
-# している(下記「Commit updated news.json / results.json if changed」参照)。
+# 生まれるため、git pushが失敗した場合は停止し、ビルドや公開に進まない。
 on:
   push:
     branches: [master]
@@ -93,17 +92,11 @@ jobs:
             git config user.email "actions@users.noreply.github.com"
             git add src/data/news.json src/data/results.json
             git commit -m "chore: update news feed and game results"
-            # concurrency.groupをトリガー種類ごとに分けたため、schedule実行と
-            # push実行のgit pushが同時に走る可能性がある。非fast-forwardで
-            # 拒否された場合は最新masterにリベースして再試行する(最大3回)。
-            for i in 1 2 3; do
-              if git push origin HEAD:master; then
-                break
-              fi
-              echo "push failed (attempt $i/3), rebasing onto latest master and retrying..."
-              git fetch origin master
-              git rebase origin/master
-            done
+            # A failed push must stop the job before build and deployment.
+            if ! git push origin HEAD:master; then
+              echo "::error::Data push failed; stopping before build and deployment."
+              exit 1
+            fi
           fi
 
       - name: Setup Pages
