@@ -1,7 +1,541 @@
 {
-  "generatedAt": "2026-10-31T00:12:47.102Z",
-  "count": 3733,
+  "generatedAt": "2026-10-31T05:59:33.153Z",
+  "count": 3744,
   "items": [
+    {
+      "title": "球団の未来を変えた…！プロ野球、歴代の“神ドラフト”（1）育成4～6位が“大化け”…エースも正捕手も(ベースボールチャンネル)",
+      "summary": "プロ野球のチームづくりにおいて、ドラフトの成否は大きな命運を握ることになる。ドラフトで指名した選手が長く活躍することで、長期的なチーム編成が可能になるからだ。そこで今回は、これまでに実施されたドラフト",
+      "link": "https://news.yahoo.co.jp/articles/a71e8c08900492aecc9f3a2ca823dea3dabd9a01?source=rss",
+      "pubDate": "2026-10-31T05:50:06.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [],
+      "topics": [
+        "draft"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/a71e8c08900492aecc9f3a2ca823dea3dabd9a01?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "岩本勉氏 甲斐拓也を獲得した楽天…捕手が変われば投手も変わる 野球が変わる「イーグルスは強くなる」(スポニチアネックス)",
+      "summary": "元日本ハムエースの岩本勉氏（55）が自身のYouTube「岩本勉チャンネル」を更新。巨人から甲斐拓也捕手（33）が新加入する楽天について解説した。 ソフトバンク、巨人でキャリアを積んだベテラン・甲斐の",
+      "link": "https://news.yahoo.co.jp/articles/46df04c008f2d81c26c5d675f7cb84ad8bcc320c?source=rss",
+      "pubDate": "2026-10-31T05:47:10.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "eagles"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/46df04c008f2d81c26c5d675f7cb84ad8bcc320c?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "「プロは考えていなかった」無名の公立高校から日ハム5位指名 岡本翔斗投手 きっかけは「プロ野球選手になりたくないの?」監督の一言 二人三脚でつかんだ夢(FNNプライムオンライン)",
+      "summary": "最速148キロで、美しい投球フォームから放たれるキレのあるストレート。無名の公立高校ながら、ことしのドラフトでプロ野球12球団が注目した投手は、香里丘高校の岡本翔斗投手。■【動画で見る】きっかけは「プ",
+      "link": "https://news.yahoo.co.jp/articles/75ef04837a0c14320b292783460310369ed65dca?source=rss",
+      "pubDate": "2026-10-31T05:46:21.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [],
+      "topics": [
+        "draft"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/75ef04837a0c14320b292783460310369ed65dca?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "松井監督の就任から数日…巨人ファン必見のアイテム爆誕 気になる背中の“6文字”",
+      "summary": "巨人は29日、松井秀喜新監督の就任を記念し、応援時の必須アイテムであるレプリカユニホームとプレーヤーズフェイスタオルの発売を発表した。秋季キャンプの始動日となる30日から、ジャイアンツ公式オンラインストアで受注販売を開始する。",
+      "link": "https://full-count.jp/2026/10/31/post2039173/",
+      "pubDate": "2026-10-31T05:40:28.000Z",
+      "source": "Full-Count（プロ野球）",
+      "sourceId": "full-count-npb",
+      "teams": [
+        "giants"
+      ],
+      "topics": [
+        "personnel"
+      ],
+      "sources": [
+        {
+          "name": "Full-Count（プロ野球）",
+          "sourceId": "full-count-npb",
+          "link": "https://full-count.jp/2026/10/31/post2039173/"
+        },
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/924f80ad238a23070a04468e06aab8725d6c4c60?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "日本ハム・新庄監督、『ドカベン』復刻版の帯コメントを担当！ 「これこれ、いいでしょ？」2冊持参しキャンプに登場(中日スポーツ)",
+      "summary": "◇31日 日本ハム秋季キャンプ（エスコンフィールド北海道） 日本ハムの新庄剛志監督が人気野球漫画「ドカベン」の新装復刻版コミックを持参し、帯に推薦コメントを提供したことをアピールした。今月末に発売され",
+      "link": "https://news.yahoo.co.jp/articles/1be54227d407717a3feb685370d00792fb3cf2f2?source=rss",
+      "pubDate": "2026-10-31T05:35:51.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "fighters"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/1be54227d407717a3feb685370d00792fb3cf2f2?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【巨人】投手陣はヘトヘトの秋！？ 期待の若手たちがＧタウンで練習練習練習 杉内＆内海両コーチらが徹底指導(スポーツ報知)",
+      "summary": "巨人は３１日、秋季キャンプ２日目を迎えた。この日は投手がジャイアンツタウンスタジアム（Ｇタウン）、野手がジャイアンツ球場と２拠点にわかれて練習した。【秘蔵写真】松井さん、ＮＹの自宅で便座を手に Ｇタウ",
+      "link": "https://news.yahoo.co.jp/articles/f87579d3080aaf061225a76c522bb3e9a79b2ce2?source=rss",
+      "pubDate": "2026-10-31T05:31:59.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "giants"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/f87579d3080aaf061225a76c522bb3e9a79b2ce2?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "高級外車と並んで発見…剛腕の“近影”が「デカい」 膨れ上がる肉体「エグいっす」",
+      "summary": "超高級車と並んでも、圧倒的な存在感を放った。「ジャガー・ランドローバー神戸中央」は30日に公式インスタグラムを更新し、来店したオリックスの山下舜平大投手と高級車の写真を公開した。ファンの視線は、山下の「デカい」肉体に集まった。",
+      "link": "https://full-count.jp/2026/10/31/post2039115/",
+      "pubDate": "2026-10-31T05:21:36.000Z",
+      "source": "Full-Count（プロ野球）",
+      "sourceId": "full-count-npb",
+      "teams": [
+        "buffaloes"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Full-Count（プロ野球）",
+          "sourceId": "full-count-npb",
+          "link": "https://full-count.jp/2026/10/31/post2039115/"
+        }
+      ]
+    },
+    {
+      "title": "【西武】外崎修汰、海外FA権行使「未定です」今季35試合出場、打率１割６分７厘(日刊スポーツ)",
+      "summary": "西武外崎修汰内野手（33）が31日、ベルーナドームを訪れ自主練習を行った。 今季は35試合に出場して打率1割6分7厘、2本塁打、9打点の成績だった。今年9月に海外FA（フリーエージェント）権を取得。保",
+      "link": "https://news.yahoo.co.jp/articles/72e09bc1d0ae54b590809de74acff01e4dd72bdd?source=rss",
+      "pubDate": "2026-10-31T04:58:50.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "lions"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/72e09bc1d0ae54b590809de74acff01e4dd72bdd?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【西武】宮崎・南郷での秋季キャンプがスタート 大きな伊勢えびを贈呈された西口監督の誓い(日刊スポーツ)",
+      "summary": "西武の秋季キャンプが31日、スタートした。宮崎・日南市での南郷キャンプには27人の選手が参加。CSファーストステージ敗退の悔しさを晴らすべく、来季への備えが始まる。【写真】黙々とマシン打撃をする西武外",
+      "link": "https://news.yahoo.co.jp/articles/22c7aed00e7ecdf83976ea1bf06a81eb086523e4?source=rss",
+      "pubDate": "2026-10-31T04:56:04.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "lions"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/22c7aed00e7ecdf83976ea1bf06a81eb086523e4?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【日本ハム】西岡剛野手総合コーチが始動 新庄監督も期待「さらにアイデアとか出てくる」(日刊スポーツ)",
+      "summary": "今季までロッテでチーフ打撃兼走塁コーチを務めた日本ハム西岡剛野手総合コーチ（42）が31日、エスコンフィールドの秋季キャンプに合流した。練習の大半が守備練習にあてられ、さっそくノックバットを握った。身",
+      "link": "https://news.yahoo.co.jp/articles/c435496970696836931b1dc42aa771e096ef3dda?source=rss",
+      "pubDate": "2026-10-31T04:49:27.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "fighters"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/c435496970696836931b1dc42aa771e096ef3dda?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "「なんでスーツ着てるんですか？」 師匠・甲斐拓也が電撃放出…一番弟子に届いたビデオ電話",
+      "summary": "巨人の甲斐拓也捕手が楽天へ金銭トレードで電撃移籍することが30日に発表された。球界に大きな衝撃が走る中、松井秀喜新監督のもと秋季キャンプ2日目を迎えた31日、一番弟子として慕ってきた山瀬慎之助捕手が取材に応じ、師匠から移籍を知らされた舞台裏…",
+      "link": "https://full-count.jp/2026/10/31/post2039174/",
+      "pubDate": "2026-10-31T04:47:04.000Z",
+      "source": "Full-Count（プロ野球）",
+      "sourceId": "full-count-npb",
+      "teams": [
+        "giants",
+        "eagles"
+      ],
+      "topics": [
+        "trade",
+        "personnel"
+      ],
+      "sources": [
+        {
+          "name": "Full-Count（プロ野球）",
+          "sourceId": "full-count-npb",
+          "link": "https://full-count.jp/2026/10/31/post2039174/"
+        }
+      ]
+    },
+    {
+      "title": "高橋由伸氏が巨人ヘッドコーチ就任報告 SNS「黄金期を築けるように全力」松井秀喜監督と共闘(日刊スポーツ)",
+      "summary": "高橋由伸氏（51）が31日までに自身のインスタグラムを更新。巨人のヘッドコーチ就任を報告した。【写真】高橋由伸氏のインスタグラムの写真 空の写真を載せ「球団からの発表にもありました通り、このたびジャイ",
+      "link": "https://news.yahoo.co.jp/articles/a53fd4af3055512a4c235b1278065a66b179e21a?source=rss",
+      "pubDate": "2026-10-31T04:45:45.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "giants"
+      ],
+      "topics": [
+        "personnel"
+      ],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/a53fd4af3055512a4c235b1278065a66b179e21a?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "山本由伸超えの「152.8＆158」 西武20歳の衝撃数値…共通点に見える大ブレークの“可能性”",
+      "summary": "西武・篠原響投手が飛躍のシーズンを過ごした。1年目の昨季は先発として2軍で8勝を挙げ、今季はリリーフで開幕1軍入り。46登板で防御率2.22、チームトップの31ホールドをマークした。",
+      "link": "https://full-count.jp/2026/10/31/post2039157/",
+      "pubDate": "2026-10-31T04:43:02.000Z",
+      "source": "Full-Count（プロ野球）",
+      "sourceId": "full-count-npb",
+      "teams": [
+        "lions"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Full-Count（プロ野球）",
+          "sourceId": "full-count-npb",
+          "link": "https://full-count.jp/2026/10/31/post2039157/"
+        }
+      ]
+    },
+    {
+      "title": "鷹から戦力外→22歳で「野球を引退」 逸材との期待も…選んだ「次の人生」",
+      "summary": "ソフトバンクから来季の選手契約を結ばない旨を通告されていた育成4年目の佐藤航太外野手が31日、自身のインスタグラムを更新。小学3年生から続けてきた野球に別れを告げ、現役を引退して第2の人生へ歩み進めることを発表した。",
+      "link": "https://full-count.jp/2026/10/31/post2039161/",
+      "pubDate": "2026-10-31T04:41:15.000Z",
+      "source": "Full-Count（プロ野球）",
+      "sourceId": "full-count-npb",
+      "teams": [
+        "hawks"
+      ],
+      "topics": [
+        "trade",
+        "retirement"
+      ],
+      "sources": [
+        {
+          "name": "Full-Count（プロ野球）",
+          "sourceId": "full-count-npb",
+          "link": "https://full-count.jp/2026/10/31/post2039161/"
+        }
+      ]
+    },
+    {
+      "title": "龍馬＆史礁、2人の西川による“初の珍事” 分け合ったタイトル…名字だけでない共通点",
+      "summary": "オリックス・西川龍馬外野手とロッテ・西川史礁選手外野手は今季155安打を放ち、ともに自身初となる最多安打のタイトルを獲得した。同じ名字の選手が同年にタイトルを分け合うのは、2リーグ制導入後では初。今回は各種の指標をもとに、2人の2026年シ…",
+      "link": "https://full-count.jp/2026/10/31/post2039148/",
+      "pubDate": "2026-10-31T04:21:24.000Z",
+      "source": "Full-Count（プロ野球）",
+      "sourceId": "full-count-npb",
+      "teams": [
+        "buffaloes",
+        "marines"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Full-Count（プロ野球）",
+          "sourceId": "full-count-npb",
+          "link": "https://full-count.jp/2026/10/31/post2039148/"
+        }
+      ]
+    },
+    {
+      "title": "徳光和夫「阪神や巨人がソフトバンクと対戦したら、恐らくワンサイドゲーム」日本シリーズを回顧(日刊スポーツ)",
+      "summary": "フリーアナ徳光和夫（85）が31日、ニッポン放送「徳光和夫 とくモリ！歌謡サタデー」（土曜午前5時）に生出演。プロ野球「SMBC日本シリーズ2026」を4連勝で制したソフトバンクホークスに言及した。【",
+      "link": "https://news.yahoo.co.jp/articles/0baf8ca1c3801d79f725925a5f16d4efa51a6f87?source=rss",
+      "pubDate": "2026-10-31T04:19:40.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "tigers",
+        "giants",
+        "hawks"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/0baf8ca1c3801d79f725925a5f16d4efa51a6f87?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "“銀河系首脳陣”が「うわ、やばっ！」 眩しすぎる名前…SNS騒然「夢ではない現実」",
+      "summary": "巨人は30日、松井秀喜監督の就任1年目となる2027年シーズンのコーチングスタッフを発表した。ヘッドコーチには元監督の高橋由伸氏が就任することが決定。黄金期を支えた主砲2人がタッグを組む豪華な首脳陣の陣容に、ファンから驚きと歓喜の声が殺到し…",
+      "link": "https://full-count.jp/2026/10/31/post2039134/",
+      "pubDate": "2026-10-31T04:16:54.000Z",
+      "source": "Full-Count（プロ野球）",
+      "sourceId": "full-count-npb",
+      "teams": [
+        "giants"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Full-Count（プロ野球）",
+          "sourceId": "full-count-npb",
+          "link": "https://full-count.jp/2026/10/31/post2039134/"
+        }
+      ]
+    },
+    {
+      "title": "「激烈に美しい」ラウンドガールも務めた名捕手娘がソフトバンク連覇に感謝(日刊スポーツ)",
+      "summary": "ソフトバンク細川亨バッテリーコーチの娘で、タレントの細川愛倫が、31日までに自身のインスタグラムを更新し、日本シリーズ連覇を果たしたソフトバンクへの感謝をつづった。【写真】細川愛倫のインスタグラムから",
+      "link": "https://news.yahoo.co.jp/articles/f3674f85870fe604e07c2c009a4915d37e42d5a8?source=rss",
+      "pubDate": "2026-10-31T04:00:55.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "hawks"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/f3674f85870fe604e07c2c009a4915d37e42d5a8?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "阪神から届いた“吉報”に「めちゃくちゃ嬉しい」 去就注目の30歳が決断…ファン即反応「めでたい！」",
+      "summary": "阪神タイガースは31日、熊谷敬宥内野手が今季取得した国内フリーエージェント（FA）権を行使せず、チームに残留することが決まったと発表した。去就が注目されていた30歳の決断に、ファンからさまざまな反応が寄せられている。",
+      "link": "https://www.baseballchannel.jp/npb/299584/",
+      "pubDate": "2026-10-31T03:24:22.000Z",
+      "source": "ベースボールチャンネル（プロ野球）",
+      "sourceId": "baseballchannel-npb",
+      "teams": [
+        "tigers"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "ベースボールチャンネル（プロ野球）",
+          "sourceId": "baseballchannel-npb",
+          "link": "https://www.baseballchannel.jp/npb/299584/"
+        }
+      ]
+    },
+    {
+      "title": "「なあ、西舘」松井監督の“愛あるイジリ” ニヤニヤ止まらぬ巨人右腕…早くも誕生の名物絡み",
+      "summary": "巨人は30日、川崎市のジャイアンツ球場で秋季キャンプの初日を迎え、来季から指揮を執る松井秀喜新監督が本格始動した。球団公式YouTubeでは訓示の様子が公開され、指揮官の“イジリ”が早速発動した。微笑ましい光景に、ニヤニヤが止まらなかった人…",
+      "link": "https://full-count.jp/2026/10/31/post2039057/",
+      "pubDate": "2026-10-31T03:23:42.000Z",
+      "source": "Full-Count（プロ野球）",
+      "sourceId": "full-count-npb",
+      "teams": [
+        "giants"
+      ],
+      "topics": [
+        "personnel"
+      ],
+      "sources": [
+        {
+          "name": "Full-Count（プロ野球）",
+          "sourceId": "full-count-npb",
+          "link": "https://full-count.jp/2026/10/31/post2039057/"
+        }
+      ]
+    },
+    {
+      "title": "土曜日に届いた正式発表…日本ハムに“元メジャーリーガー”が入閣 野手総合コーチに就任",
+      "summary": "北海道日本ハムファイターズは31日、西岡剛氏が野手総合コーチに就任することが決まったと発表した。背番号は「78」に決定した。",
+      "link": "https://www.baseballchannel.jp/npb/299581/",
+      "pubDate": "2026-10-31T02:52:01.000Z",
+      "source": "ベースボールチャンネル（プロ野球）",
+      "sourceId": "baseballchannel-npb",
+      "teams": [
+        "fighters"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "ベースボールチャンネル（プロ野球）",
+          "sourceId": "baseballchannel-npb",
+          "link": "https://www.baseballchannel.jp/npb/299581/"
+        }
+      ]
+    },
+    {
+      "title": "由伸ヘッドの後ろウロウロ…リチャードを襲った“まさかの放置” 悲壮感あふれる表情",
+      "summary": "巨人は30日から、川崎市のジャイアンツ球場で秋季キャンプをスタートさせた。来季からヘッドコーチに就任する高橋由伸氏もチームに合流し、選手たちと挨拶を交わす場面があったが、その裏で巻き起こった“珍事件”がファンの視線を集めている。",
+      "link": "https://full-count.jp/2026/10/31/post2039091/",
+      "pubDate": "2026-10-31T02:37:14.000Z",
+      "source": "Full-Count（プロ野球）",
+      "sourceId": "full-count-npb",
+      "teams": [
+        "giants"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Full-Count（プロ野球）",
+          "sourceId": "full-count-npb",
+          "link": "https://full-count.jp/2026/10/31/post2039091/"
+        }
+      ]
+    },
+    {
+      "title": "土曜午前…「公式発表きた」 届いた“お知らせ”にざわつくファン「この数日気が気じゃなくて」",
+      "summary": "阪神は31日、国内フリーエージェント（FA）権を取得していた熊谷敬宥内野手が権利行使を行わず、チームに残留することが決まったと発表した。ユーティリティとして勝利に貢献した背番号4の残留決定に対し、「ほんとありがとう」とファンは歓喜の涙を流し…",
+      "link": "https://full-count.jp/2026/10/31/post2039061/",
+      "pubDate": "2026-10-31T01:39:42.000Z",
+      "source": "Full-Count（プロ野球）",
+      "sourceId": "full-count-npb",
+      "teams": [
+        "tigers"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Full-Count（プロ野球）",
+          "sourceId": "full-count-npb",
+          "link": "https://full-count.jp/2026/10/31/post2039061/"
+        }
+      ]
+    },
+    {
+      "title": "阪神、“ユーティリティー戦士”がFA権行使せず残留を決断！ 岩崎優に続き…「また皆さんと共に最高の景色を」",
+      "summary": "阪神タイガースの熊谷敬宥内野手が31日、今季取得した国内フリーエージェント（FA）権を行使せず、来季もチームに残留することを決断した。",
+      "link": "https://www.baseballchannel.jp/npb/299579/",
+      "pubDate": "2026-10-31T01:15:29.000Z",
+      "source": "ベースボールチャンネル（プロ野球）",
+      "sourceId": "baseballchannel-npb",
+      "teams": [
+        "tigers"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "ベースボールチャンネル（プロ野球）",
+          "sourceId": "baseballchannel-npb",
+          "link": "https://www.baseballchannel.jp/npb/299579/"
+        }
+      ]
+    },
+    {
+      "title": "阪神・熊谷「タイガースでプレーすることを決めました」FA権を行使せず残留",
+      "summary": "阪神は31日、熊谷敬宥が、FA権を行使せず、阪神タイガースに残留することになったと発表した。 熊谷は球団公式ホームページを通じて「このたび、FA権を行使せず、タイガースでプレーすることを決めました。これまでお世話にな […]",
+      "link": "https://baseballking.jp/ns/711551/",
+      "pubDate": "2026-10-31T01:07:44.000Z",
+      "source": "BASEBALL KING",
+      "sourceId": "baseballking",
+      "teams": [
+        "tigers"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "BASEBALL KING",
+          "sourceId": "baseballking",
+          "link": "https://baseballking.jp/ns/711551/"
+        }
+      ]
+    },
+    {
+      "title": "【DeNA・From YOKOSUKA-Story】「新しい自分が見たい」——宮城滝太、飽くなき探究心と、指導陣が注ぐ期待",
+      "summary": "育成から這い上がってきた背番号65が、新たな扉を開けようとしている。中継ぎとして一軍のブルペンを支えてきた宮城滝太が、シーズン中に重い決意をした。それは“先発への挑戦”だった。 プロ野球選手としてのキャリア、そして自 […]",
+      "link": "https://baseballking.jp/ns/711547/",
+      "pubDate": "2026-10-31T01:00:00.000Z",
+      "source": "BASEBALL KING",
+      "sourceId": "baseballking",
+      "teams": [
+        "baystars"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "BASEBALL KING",
+          "sourceId": "baseballking",
+          "link": "https://baseballking.jp/ns/711547/"
+        }
+      ]
+    },
+    {
+      "title": "阪神の“通算83勝右腕”が新役職に 49歳の元名投手、藤川監督と再タッグ 「投手陣全体がいい形で1年間回れるように」",
+      "summary": "阪神タイガースは30日、福原忍氏が2027年シーズンから巡回投手コーディネーターに就任すると発表した。同日に兵庫県西宮市内で就任会見が行われ、来季への意気込みを語った。",
+      "link": "https://www.baseballchannel.jp/npb/299573/",
+      "pubDate": "2026-10-31T00:30:11.000Z",
+      "source": "ベースボールチャンネル（プロ野球）",
+      "sourceId": "baseballchannel-npb",
+      "teams": [
+        "tigers"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "ベースボールチャンネル（プロ野球）",
+          "sourceId": "baseballchannel-npb",
+          "link": "https://www.baseballchannel.jp/npb/299573/"
+        }
+      ]
+    },
     {
       "title": "衝撃の“他球団入り”に…FA人的補償となった大物（2）72登板の剛腕が突然移籍…初登板で悪夢(ベースボールチャンネル)",
       "summary": "NPBと日本プロ野球選手会は、2027年オフからFA移籍に伴う人的補償を撤廃し、ドラフト指名権か金銭による補償へ移行することで合意した。今オフからは翌年4月1日時点で35歳以上となる選手の補償も不要と",
@@ -73832,333 +74366,6 @@
           "name": "ベースボールチャンネル（プロ野球）",
           "sourceId": "baseballchannel-npb",
           "link": "https://www.baseballchannel.jp/npb/292862/"
-        }
-      ]
-    },
-    {
-      "title": "「心の整理がつかん」 木曜午後2時の“電撃発表”…動揺広がる野球ファン「これはやばい」",
-      "summary": "島は1日、小園海斗内野手ら4選手に来季契約を結ばないことを伝えたと発表した。昨年は首位打者などのタイトルも獲得。今季も101試合に出場した主力が放出されることとなり、「これは衝撃」「ええ？」とネット上では衝撃が広がっている。",
-      "link": "https://full-count.jp/2026/10/01/post2024744/",
-      "pubDate": "2026-10-01T05:43:50.000Z",
-      "source": "Full-Count（プロ野球）",
-      "sourceId": "full-count-npb",
-      "teams": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Full-Count（プロ野球）",
-          "sourceId": "full-count-npb",
-          "link": "https://full-count.jp/2026/10/01/post2024744/"
-        }
-      ]
-    },
-    {
-      "title": "広島が小園海斗ら4選手に戦力外通告 球界屈指の守備職人、将来期待の23歳外野手も",
-      "summary": "広島東洋カープは1日、矢野雅哉内野手、小園海斗内野手、前川誠太内野手、田村俊介外野手の4選手に対し、来季の契約を結ばないことを通告したと発表した。",
-      "link": "https://www.baseballchannel.jp/npb/292852/",
-      "pubDate": "2026-10-01T05:10:19.000Z",
-      "source": "ベースボールチャンネル（プロ野球）",
-      "sourceId": "baseballchannel-npb",
-      "teams": [
-        "carp"
-      ],
-      "topics": [
-        "trade"
-      ],
-      "sources": [
-        {
-          "name": "ベースボールチャンネル（プロ野球）",
-          "sourceId": "baseballchannel-npb",
-          "link": "https://www.baseballchannel.jp/npb/292852/"
-        }
-      ]
-    },
-    {
-      "title": "2冠→侍J選出から半年…26歳ドラ1が戦力外 私生活で離婚も経験、波乱万丈の1年",
-      "summary": "広島は1日、小園海斗内野手と来季の契約を結ばないと発表した。昨季は首位打者と最高出塁率の2冠に輝き、今年3月のワールド・ベースボール・クラシック（WBC）では侍ジャパン入り。日本代表に選ばれた年に戦力外となる異例の事態となった。26歳は、公…",
-      "link": "https://full-count.jp/2026/10/01/post2024725/",
-      "pubDate": "2026-10-01T05:07:55.000Z",
-      "source": "Full-Count（プロ野球）",
-      "sourceId": "full-count-npb",
-      "teams": [
-        "carp"
-      ],
-      "topics": [
-        "trade"
-      ],
-      "sources": [
-        {
-          "name": "Full-Count（プロ野球）",
-          "sourceId": "full-count-npb",
-          "link": "https://full-count.jp/2026/10/01/post2024725/"
-        }
-      ]
-    },
-    {
-      "title": "広島、小園ら4選手に戦力外通告 昨年2冠＆WBC選出も異例…矢野＆田村ら主力候補も",
-      "summary": "広島は1日、矢野雅哉内野手ら4選手と来季契約を結ばないことを発表した。",
-      "link": "https://full-count.jp/2026/10/01/post2024720/",
-      "pubDate": "2026-10-01T04:48:57.000Z",
-      "source": "Full-Count（プロ野球）",
-      "sourceId": "full-count-npb",
-      "teams": [
-        "carp"
-      ],
-      "topics": [
-        "trade"
-      ],
-      "sources": [
-        {
-          "name": "Full-Count（プロ野球）",
-          "sourceId": "full-count-npb",
-          "link": "https://full-count.jp/2026/10/01/post2024720/"
-        }
-      ]
-    },
-    {
-      "title": "巨人戦力外右腕が報告「終えることに」 思い出の写真2枚添え「一つでも欠けていたら」",
-      "summary": "巨人を戦力外となった板東湧梧投手が30日、インスタグラムを更新し、現役を引退すると明かした。昨年ソフトバンクを戦力外となり、巨人が獲得。しかし3年連続で1軍登板がなかった。",
-      "link": "https://full-count.jp/2026/10/01/post2024677/",
-      "pubDate": "2026-10-01T04:34:50.000Z",
-      "source": "Full-Count（プロ野球）",
-      "sourceId": "full-count-npb",
-      "teams": [
-        "giants",
-        "hawks"
-      ],
-      "topics": [
-        "trade",
-        "retirement"
-      ],
-      "sources": [
-        {
-          "name": "Full-Count（プロ野球）",
-          "sourceId": "full-count-npb",
-          "link": "https://full-count.jp/2026/10/01/post2024677/"
-        }
-      ]
-    },
-    {
-      "title": "【巨人】高卒5年目左腕が戦力外…東海大相模でセンバツV、故障に苦しみ23歳で現役引退",
-      "summary": "読売ジャイアンツは30日、育成の石田隼都投手と2027シーズンの選手契約を結ばないことを発表した。",
-      "link": "https://www.baseballchannel.jp/npb/292820/",
-      "pubDate": "2026-10-01T04:30:58.000Z",
-      "source": "ベースボールチャンネル（プロ野球）",
-      "sourceId": "baseballchannel-npb",
-      "teams": [
-        "giants"
-      ],
-      "topics": [
-        "trade",
-        "injury",
-        "retirement"
-      ],
-      "sources": [
-        {
-          "name": "ベースボールチャンネル（プロ野球）",
-          "sourceId": "baseballchannel-npb",
-          "link": "https://www.baseballchannel.jp/npb/292820/"
-        }
-      ]
-    },
-    {
-      "title": "阪神、カスハラ対応方針を発表「毅然と」 悪質な場合は「法的措置等も含め厳正に」",
-      "summary": "阪神は1日、公式ホームページで「カスタマーハラスメントに対する基本方針」を発表した。",
-      "link": "https://full-count.jp/2026/10/01/post2024696/",
-      "pubDate": "2026-10-01T04:28:09.000Z",
-      "source": "Full-Count（プロ野球）",
-      "sourceId": "full-count-npb",
-      "teams": [
-        "tigers"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Full-Count（プロ野球）",
-          "sourceId": "full-count-npb",
-          "link": "https://full-count.jp/2026/10/01/post2024696/"
-        }
-      ]
-    },
-    {
-      "title": "西武が育成契約の2選手に戦力外通告 1軍経験の26歳外野手、長身193センチ育成ドラ1左腕",
-      "summary": "埼玉西武ライオンズは10月1日、シンクレア投手、奥村光一選手の2選手に対し、2027年シーズンの選手契約を結ばないことを通知したと発表した。",
-      "link": "https://www.baseballchannel.jp/npb/292829/",
-      "pubDate": "2026-10-01T04:00:38.000Z",
-      "source": "ベースボールチャンネル（プロ野球）",
-      "sourceId": "baseballchannel-npb",
-      "teams": [
-        "lions"
-      ],
-      "topics": [
-        "trade"
-      ],
-      "sources": [
-        {
-          "name": "ベースボールチャンネル（プロ野球）",
-          "sourceId": "baseballchannel-npb",
-          "link": "https://www.baseballchannel.jp/npb/292829/"
-        }
-      ]
-    },
-    {
-      "title": "阪神左腕に“忘れ物”発覚「あれ？」 あるはずのものが…違和感でファン指摘「どこいった？」",
-      "summary": "ヒーローインタビューに登場した阪神・高橋遥人投手の様子に、ファンからツッコミが入った。9月30日のヤクルト戦では16勝目をマークお立ち台に上がったが、手に持っているはずのものがない……。「あれ？」「どうした？」と違和感に気づくファンもいたよ…",
-      "link": "https://full-count.jp/2026/10/01/post2024632/",
-      "pubDate": "2026-10-01T03:50:44.000Z",
-      "source": "Full-Count（プロ野球）",
-      "sourceId": "full-count-npb",
-      "teams": [
-        "tigers"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Full-Count（プロ野球）",
-          "sourceId": "full-count-npb",
-          "link": "https://full-count.jp/2026/10/01/post2024632/"
-        }
-      ]
-    },
-    {
-      "title": "【中日】将来の主軸と期待も…中日の“5年目ドラ1スラッガー”が戦力外 今季わずか5試合",
-      "summary": "中日ドラゴンズは30日、ブライト健太外野手と2027シーズンの選手契約を行わないことを発表した。",
-      "link": "https://www.baseballchannel.jp/npb/292806/",
-      "pubDate": "2026-10-01T03:30:15.000Z",
-      "source": "ベースボールチャンネル（プロ野球）",
-      "sourceId": "baseballchannel-npb",
-      "teams": [
-        "dragons"
-      ],
-      "topics": [
-        "trade"
-      ],
-      "sources": [
-        {
-          "name": "ベースボールチャンネル（プロ野球）",
-          "sourceId": "baseballchannel-npb",
-          "link": "https://www.baseballchannel.jp/npb/292806/"
-        }
-      ]
-    },
-    {
-      "title": "オリックス、ペルドモの帰国を発表 移籍3年目の今季は防御率9.20と精彩を欠く",
-      "summary": "オリックスは1日、ルイス・ペルドモ投手の帰国を発表した。 ペルドモは24年途中にオリックスに加入し、同年28試合に登板して14ホールド防御率0.64の成績を残すと、昨季は50試合に登板して2勝4敗33ホールド、防御率 […]",
-      "link": "https://baseballking.jp/ns/708622/",
-      "pubDate": "2026-10-01T03:08:11.000Z",
-      "source": "BASEBALL KING",
-      "sourceId": "baseballking",
-      "teams": [
-        "buffaloes"
-      ],
-      "topics": [
-        "trade"
-      ],
-      "sources": [
-        {
-          "name": "BASEBALL KING",
-          "sourceId": "baseballking",
-          "link": "https://baseballking.jp/ns/708622/"
-        }
-      ]
-    },
-    {
-      "title": "JCB、野球日本代表侍ジャパンのダイヤモンドパートナーに決定",
-      "summary": "NPBエンタープライズは1日、野球日本代表「侍ジャパン」のダイヤモンドパートナーとして、新たに株式会社ジェーシービーが決定したと発表した。 全ての世代で「世界最強」を目指す侍ジャパンのビジョンのもと、JCBには、侍ジ […]",
-      "link": "https://baseballking.jp/ns/708611/",
-      "pubDate": "2026-10-01T02:21:42.000Z",
-      "source": "BASEBALL KING",
-      "sourceId": "baseballking",
-      "teams": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "BASEBALL KING",
-          "sourceId": "baseballking",
-          "link": "https://baseballking.jp/ns/708611/"
-        }
-      ]
-    },
-    {
-      "title": "突如取材に“乱入”した西武・源田壮亮 ベンチにも届いていた山田陽翔の気迫…まさかの言葉に「胸がいっぱいです」",
-      "summary": "西武山田陽翔が、初先発の冨士大和を救う気迫の投球。試合後の取材に源田壮亮が“乱入”した。「胸がいっぱいですよ」と山田を感激させたベテランの言葉とは。",
-      "link": "https://full-count.jp/2026/10/01/post2024348/",
-      "pubDate": "2026-10-01T01:04:41.000Z",
-      "source": "Full-Count（プロ野球）",
-      "sourceId": "full-count-npb",
-      "teams": [
-        "lions"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Full-Count（プロ野球）",
-          "sourceId": "full-count-npb",
-          "link": "https://full-count.jp/2026/10/01/post2024348/"
-        }
-      ]
-    },
-    {
-      "title": "日本人より勤勉、巨人マルティネス「中日は自分の学校だった」 １０年で大記録…コーチが活躍を確信したある瞬間とは メジャーに行かない理由は「家族愛」(47NEWS)",
-      "summary": "わずか５球。プロ野球巨人のライデル・マルティネス投手にとって、大記録が懸かるセーブすら簡単なものだった。９月１０日の中日戦（東京ドーム）で史上６人目の通算２５０セーブを達成した。母国キューバから来日し",
-      "link": "https://news.yahoo.co.jp/articles/60556a9a93cc3ff67f60f59e59575ae284b7fb47?source=rss",
-      "pubDate": "2026-10-01T01:02:22.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "giants",
-        "dragons"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/60556a9a93cc3ff67f60f59e59575ae284b7fb47?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "ドラ1を超えた！？ 巨人、同期入団を代表する現役選手（5）上位指名がすでに退団…ドラ7がリリーフエースへ(ベースボールチャンネル)",
-      "summary": "プロ野球の世界では、ドラフト1位入団の選手には特に大きな期待が寄せられる。しかし、プロ入り後はドラフトでの評価が逆転し、下位指名の選手が主力選手としてチームに欠かせない戦力に成長することも少なくない。",
-      "link": "https://news.yahoo.co.jp/articles/dc76b74943026b495ca9c0325256ba7a39a76928?source=rss",
-      "pubDate": "2026-10-01T01:01:07.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "giants"
-      ],
-      "topics": [
-        "draft"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/dc76b74943026b495ca9c0325256ba7a39a76928?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "華々しく入団するも…中日・ブライトとDeNA・小園が戦力外、森木・風間・山下は昨季退団。21年ドラ1組の現在地",
-      "summary": "中日は9月30日、ブライト健太外野手と来季の選手契約を結ばないことを通知したと発表した。 ブライトは21年ドラフト1位で中日に入団し、2年目の23年に一軍デビューを飾ると、24年にプロ初本塁打、昨季は83試合に出場し […]",
-      "link": "https://baseballking.jp/ns/708594/",
-      "pubDate": "2026-10-01T00:32:45.000Z",
-      "source": "BASEBALL KING",
-      "sourceId": "baseballking",
-      "teams": [
-        "dragons",
-        "baystars"
-      ],
-      "topics": [
-        "trade",
-        "draft"
-      ],
-      "sources": [
-        {
-          "name": "BASEBALL KING",
-          "sourceId": "baseballking",
-          "link": "https://baseballking.jp/ns/708594/"
         }
       ]
     }
