@@ -1,7 +1,412 @@
 {
-  "generatedAt": "2026-10-30T20:55:02.151Z",
-  "count": 3727,
+  "generatedAt": "2026-10-31T00:12:47.102Z",
+  "count": 3733,
   "items": [
+    {
+      "title": "衝撃の“他球団入り”に…FA人的補償となった大物（2）72登板の剛腕が突然移籍…初登板で悪夢(ベースボールチャンネル)",
+      "summary": "NPBと日本プロ野球選手会は、2027年オフからFA移籍に伴う人的補償を撤廃し、ドラフト指名権か金銭による補償へ移行することで合意した。今オフからは翌年4月1日時点で35歳以上となる選手の補償も不要と",
+      "link": "https://news.yahoo.co.jp/articles/40bbc5a190ed361b569d1f9503ca06eb92c26b75?source=rss",
+      "pubDate": "2026-10-31T00:00:37.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [],
+      "topics": [
+        "trade",
+        "draft"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/40bbc5a190ed361b569d1f9503ca06eb92c26b75?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "阪神が“元巨人コーチ”を異例の招聘！ライバル球団から電撃移籍1軍打撃チーフに就任 「全く想定していなかった」(ベースボールチャンネル)",
+      "summary": "阪神タイガースは30日、矢野謙次氏が2027年シーズンから一軍打撃チーフコーチに就任すると発表した。同日に兵庫県西宮市内で就任会見が行われ、来季への意気込みを語った。【一覧】プロ野球12球団の監督・コ",
+      "link": "https://news.yahoo.co.jp/articles/b96a02f241c49eb91fcd7a2fb0a9a95c76308f09?source=rss",
+      "pubDate": "2026-10-31T00:00:11.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "tigers",
+        "giants"
+      ],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/b96a02f241c49eb91fcd7a2fb0a9a95c76308f09?source=rss"
+        },
+        {
+          "name": "ベースボールチャンネル（プロ野球）",
+          "sourceId": "baseballchannel-npb",
+          "link": "https://www.baseballchannel.jp/npb/299564/"
+        }
+      ]
+    },
+    {
+      "title": "【巨人】ゴジラフィーバー加速！ 松井秀喜監督一目見ようとジャイアンツ球場開場前に「倍増」１００人行列…秋季キャンプ２日目(スポーツ報知)",
+      "summary": "巨人の秋季キャンプが３１日、ジャイアンツ球場で行われ、ファン約１００人が開場３０分前に行列を作った。週末ということもあり初日の約５０人から倍増。２５年ぶりにチームに復帰した松井秀喜新監督への期待がうか",
+      "link": "https://news.yahoo.co.jp/articles/17f4d6eab288d6bbe461ee21c9b4031edaad7cec?source=rss",
+      "pubDate": "2026-10-30T23:48:43.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "giants"
+      ],
+      "topics": [
+        "personnel"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/17f4d6eab288d6bbe461ee21c9b4031edaad7cec?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "松井監督の横で…捉えられた“1枚”に「涙腺崩壊」 夢に見た共演「オーラ凄すぎる」(Full-Count)",
+      "summary": "巨人は30日、川崎市のジャイアンツ球場で秋季キャンプをスタートした。松井秀喜新監督の体制となり、異次元の注目が集まるなか、捉えられた“1枚”に「涙腺崩壊」と巨人ファンの心が震えている。【実際の1枚】「",
+      "link": "https://news.yahoo.co.jp/articles/5a5caa8668c94a6879a2b5de45f1de60e0b8ce32?source=rss",
+      "pubDate": "2026-10-30T23:43:00.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "giants"
+      ],
+      "topics": [
+        "personnel"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/5a5caa8668c94a6879a2b5de45f1de60e0b8ce32?source=rss"
+        },
+        {
+          "name": "Full-Count（プロ野球）",
+          "sourceId": "full-count-npb",
+          "link": "https://full-count.jp/2026/10/31/post2038449/"
+        }
+      ]
+    },
+    {
+      "title": "掛布雅之氏「藤川監督は強い右腕を手にした」２軍監督から配置転換の阪神・平田ヘッドのチームをまとめる手腕に期待 (スポーツ報知)",
+      "summary": "阪神ＯＢ会長の掛布雅之氏が３１日、自身のＹｏｕＴｕｂｅ「憧球チャンネル」を更新。「連覇しているチームなのに、なぜあれだけ（コーチが）辞めていくのか」と藤本総合コーチ、小谷野打撃チーフコーチらが退団した",
+      "link": "https://news.yahoo.co.jp/articles/f23bebfdfc0f5efff6b2e9e1db08e12323b86651?source=rss",
+      "pubDate": "2026-10-30T23:30:03.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "tigers"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/f23bebfdfc0f5efff6b2e9e1db08e12323b86651?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【巨人】担当・岸スカウトがほれ込んだ育成４位・松田陸斗の脚力「プロ野球に入ってもトップクラス」きっかけは今年６月のワンプレー…指名あいさつ(スポーツ報知)",
+      "summary": "巨人から育成ドラフト４位で指名されたマツゲン箕島の松田陸斗内野手（２４）が３０日、和歌山・有田市内で榑松スカウトディレクター、岸スカウトから指名あいさつを受けた。俊足かつ、内外野を起用にこなすユーティ",
+      "link": "https://news.yahoo.co.jp/articles/9f2ee55f4b88b3db158e06cd9004b0964a6ce3f4?source=rss",
+      "pubDate": "2026-10-30T23:13:55.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "giants"
+      ],
+      "topics": [
+        "draft"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/9f2ee55f4b88b3db158e06cd9004b0964a6ce3f4?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "名門ヤ軍が注目するNPB右腕 スカウトは懸念材料を指摘も…“無視”できないNYの内部事情",
+      "summary": "西武の広池浩司球団本部長が30日、平良海馬投手のポスティングシステムを利用したメジャー移籍を容認すると発表した。救援、抑え、先発のすべてでタイトルを獲得した26歳右腕に対し、米紙「ニューヨーク・ポスト」のダン・マーティン記者は、名門ニューヨ…",
+      "link": "https://full-count.jp/2026/10/31/post2038965/",
+      "pubDate": "2026-10-30T23:11:18.000Z",
+      "source": "Full-Count（プロ野球）",
+      "sourceId": "full-count-npb",
+      "teams": [
+        "lions"
+      ],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "Full-Count（プロ野球）",
+          "sourceId": "full-count-npb",
+          "link": "https://full-count.jp/2026/10/31/post2038965/"
+        },
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/b20e7fd950db0ca0d97cb828b4b23359b41c28a5?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "今週のゴジラ松井サイン馬券!?調教ゼッケン「5590」の期待馬をトレセンで発見(日刊スポーツ)",
+      "summary": "ゴジラナンバーを着けて坂を駆け上がった成果を発揮する－。 プロ野球巨人の松井秀喜新監督誕生に沸いた先週、その就任を祝うかのように、菊花賞では“ゴジラ馬券”が飛び出した。現役時代の背番号55にちなむかの",
+      "link": "https://news.yahoo.co.jp/articles/29fd43e6cb5b1afe29e8ccfbd9adf6e5b006ba6f?source=rss",
+      "pubDate": "2026-10-30T23:00:01.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "giants"
+      ],
+      "topics": [
+        "personnel"
+      ],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/29fd43e6cb5b1afe29e8ccfbd9adf6e5b006ba6f?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "巨人・甲斐拓也がトレード移籍 楽天の捕手事情は！？",
+      "summary": "楽天は30日、甲斐拓也を金銭トレードで獲得を発表した。 甲斐はソフトバンク時代にゴールデン・グラブ賞を7度、ベストナインを3度受賞し、東京五輪野球日本代表、WBC日本代表に選出されるなど、“球界を代表”する捕手として […]",
+      "link": "https://baseballking.jp/ns/711503/",
+      "pubDate": "2026-10-30T22:30:00.000Z",
+      "source": "BASEBALL KING",
+      "sourceId": "baseballking",
+      "teams": [
+        "giants",
+        "eagles"
+      ],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "BASEBALL KING",
+          "sourceId": "baseballking",
+          "link": "https://baseballking.jp/ns/711503/"
+        }
+      ]
+    },
+    {
+      "title": "巨人・甲斐が楽天にトレード、西武・平良がポスティングシステムを利用でメジャー挑戦へ〜10月30日のストーブリーグ〜",
+      "summary": "日本シリーズが終了し、にわかに動き出したストーブリーグ。 10月30日は巨人・甲斐拓也が楽天に金銭トレードで移籍すれば、西武・平良海馬がポスティングシステムを利用してメジャー挑戦が決まった。さらに、阪神・岩崎優がFA […]",
+      "link": "https://baseballking.jp/ns/711530/",
+      "pubDate": "2026-10-30T22:20:00.000Z",
+      "source": "BASEBALL KING",
+      "sourceId": "baseballking",
+      "teams": [
+        "giants",
+        "eagles",
+        "lions"
+      ],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "BASEBALL KING",
+          "sourceId": "baseballking",
+          "link": "https://baseballking.jp/ns/711530/"
+        }
+      ]
+    },
+    {
+      "title": "DeNAは構想外の選手なし…第2次期間の戦力外通告・自由契約まとめ",
+      "summary": "球団が選手に来季以降は契約を結ばない旨を通達する、いわゆる「戦力外通告」。第2次期間は全球団共通で、CS全日程終了翌日から10月30日まで。 第2次期間中に発表された各球団の戦力外通告、自由契約となる選手は以下の通り […]",
+      "link": "https://baseballking.jp/ns/709552/",
+      "pubDate": "2026-10-30T22:10:00.000Z",
+      "source": "BASEBALL KING",
+      "sourceId": "baseballking",
+      "teams": [
+        "baystars"
+      ],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "BASEBALL KING",
+          "sourceId": "baseballking",
+          "link": "https://baseballking.jp/ns/709552/"
+        }
+      ]
+    },
+    {
+      "title": "【阪神】岩崎優が危機感感じた「工藤頼み」の極端リレー「その中心に自分がいる必要がある」(日刊スポーツ)",
+      "summary": "阪神岩崎優投手（35）が30日、兵庫県西宮市の球団事務所で残留会見を行った。今季再取得したFA権は行使せず、新たに来季から2年契約。年俸は現状維持の2億円となった。【写真】会見場に入る阪神岩崎優 22",
+      "link": "https://news.yahoo.co.jp/articles/c9c804809ee1b8f71b1a92c57259e6d6fa886860?source=rss",
+      "pubDate": "2026-10-30T22:00:02.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "tigers"
+      ],
+      "topics": [
+        "contract"
+      ],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/c9c804809ee1b8f71b1a92c57259e6d6fa886860?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【阪神】岩貞祐太が独立L監督抜てきの理由「自信を持って送り出せる。球界のためでもある」(日刊スポーツ)",
+      "summary": "日本海リーグ石川の監督就任が決まった阪神岩貞祐太投手（35）が30日、兵庫県西宮市の阪神球団事務所で会見に臨んだ。前任の岡崎太一氏（43）と同様に阪神球団の職員として派遣される。会見には石川の端保聡球",
+      "link": "https://news.yahoo.co.jp/articles/100ec0000ced03c46fae62e1ed1f35536e0d7ff9?source=rss",
+      "pubDate": "2026-10-30T22:00:01.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "tigers"
+      ],
+      "topics": [
+        "personnel"
+      ],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/100ec0000ced03c46fae62e1ed1f35536e0d7ff9?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【プロ野球】2026年「戦力外通告・自由契約」まとめ…",
+      "summary": "球団が選手に来季以降は契約を結ばない旨を通達する、いわゆる「戦力外通告」。 今年も9月28日から各球団でスタートし、第1次期間はクライマックスシリーズが開幕する前日の10月9日まで、ファーストステージ敗退の2球団はC […]",
+      "link": "https://baseballking.jp/ns/711526/",
+      "pubDate": "2026-10-30T22:00:00.000Z",
+      "source": "BASEBALL KING",
+      "sourceId": "baseballking",
+      "teams": [],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "BASEBALL KING",
+          "sourceId": "baseballking",
+          "link": "https://baseballking.jp/ns/711526/"
+        }
+      ]
+    },
+    {
+      "title": "マイルCSで始動のエンブロイダリーは香港マイル、香港カップに予備登録／有力馬情報(日刊スポーツ)",
+      "summary": "5月のヴィクトリアマイルでG1・3勝目を挙げたエンブロイダリー（牝4、森一）は12月13日の香港マイル（G1、芝1600メートル、シャティン）、香港カップ（G1、芝2000メートル、同）に予備登録を行",
+      "link": "https://news.yahoo.co.jp/articles/0b76c38317a0366eaeadb7ab6481928b20cbee86?source=rss",
+      "pubDate": "2026-10-30T21:57:48.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/0b76c38317a0366eaeadb7ab6481928b20cbee86?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "満員のスタンド「初めて見た」 松井新監督で高揚感も…坂本勇人が語った21年目の思い",
+      "summary": "巨人の坂本勇人内野手が30日、川崎市のジャイアンツ球場で行われた秋季キャンプで報道陣の取材に応じ、松井秀喜新監督をはじめ高橋由伸ヘッドコーチ、清水隆行打撃コーチらが揃った新体制への思いを語った。",
+      "link": "https://full-count.jp/2026/10/31/post2038941/",
+      "pubDate": "2026-10-30T21:35:00.000Z",
+      "source": "Full-Count（プロ野球）",
+      "sourceId": "full-count-npb",
+      "teams": [
+        "giants"
+      ],
+      "topics": [
+        "personnel"
+      ],
+      "sources": [
+        {
+          "name": "Full-Count（プロ野球）",
+          "sourceId": "full-count-npb",
+          "link": "https://full-count.jp/2026/10/31/post2038941/"
+        }
+      ]
+    },
+    {
+      "title": "田中将大が継承する“松井流” 胸に刻まれた姿…グラウンド外で貫く流儀「プロとして」",
+      "summary": "巨人の田中将大投手が30日、川崎市のジャイアンツ球場で行われた秋季キャンプの初日に参加した。松井秀喜監督と挨拶を交わし、練習後には取材に応じた。田中将は現役時代の松井監督の“神対応”に影響を受け、自身も踏襲し、ポリシーにしている姿勢があるこ…",
+      "link": "https://full-count.jp/2026/10/31/post2038933/",
+      "pubDate": "2026-10-30T21:15:00.000Z",
+      "source": "Full-Count（プロ野球）",
+      "sourceId": "full-count-npb",
+      "teams": [
+        "giants"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Full-Count（プロ野球）",
+          "sourceId": "full-count-npb",
+          "link": "https://full-count.jp/2026/10/31/post2038933/"
+        }
+      ]
+    },
+    {
+      "title": "【西武】平良海馬のメジャー挑戦容認で「146イニング」白紙に…FA権持つ高橋光成との交渉重要(日刊スポーツ)",
+      "summary": "西武は30日、平良海馬投手（26）のポスティングシステム使用でのメジャー挑戦を受諾したと発表した。22年に最優秀中継ぎ、25年に最多セーブ、今季は最優秀防御率とあらゆるポジションでのタイトルを獲得し、",
+      "link": "https://news.yahoo.co.jp/articles/d01ad8849bcd37927224d0df9380d7e22187db1a?source=rss",
+      "pubDate": "2026-10-30T21:00:01.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "lions"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/d01ad8849bcd37927224d0df9380d7e22187db1a?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【DeNA】ドラ６神里陸、兄和毅と「一緒にプレーすることは夢だった」同世代の捕手とも競争(日刊スポーツ)",
+      "summary": "追いつけ、追い越せ。DeNAドラフト6位のENEOS・神里陸捕手（24）が30日、川崎市内の同社施設で指名あいさつを受けた。9学年上の兄・和毅もDeNAに所属。これまで同じチームでプレーしたことがない",
+      "link": "https://news.yahoo.co.jp/articles/94c6136d5f8fad4abc8970ebbce7e911a8e31f85?source=rss",
+      "pubDate": "2026-10-30T21:00:01.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "baystars"
+      ],
+      "topics": [
+        "draft"
+      ],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/94c6136d5f8fad4abc8970ebbce7e911a8e31f85?source=rss"
+        }
+      ]
+    },
     {
       "title": "佐藤輝明は「最高の打者かも」 “懸念点”指摘も…米放送局が高評価「ムラカミほどでは」",
       "summary": "米放送局「FOXスポーツ」は29日（日本時間30日）、今オフのFAランキングを紹介。5位という高順位に阪神・佐藤輝明内野手が入った。",
@@ -526,6 +931,23 @@
           "name": "日刊スポーツ（Yahoo!ニュース経由）",
           "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/61dd0fb98b1f01007ade368f473cd1053864675b?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "プロ野球12球団の監督・コーチ人事2026｜退団・退任・新任・配置転換一覧",
+      "summary": "プロ野球12球団の2026年監督・コーチ人事を一覧で紹介。退団、退任、契約満了、新任、配置転換、役職変更など、各球団のコーチングスタッフ情報を随時更新します。",
+      "link": "https://www.baseballchannel.jp/npb/294013/",
+      "pubDate": "2026-10-30T12:00:58.000Z",
+      "source": "ベースボールチャンネル（プロ野球）",
+      "sourceId": "baseballchannel-npb",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "ベースボールチャンネル（プロ野球）",
+          "sourceId": "baseballchannel-npb",
+          "link": "https://www.baseballchannel.jp/npb/294013/"
         }
       ]
     },
@@ -1353,23 +1775,6 @@
           "name": "ベースボールチャンネル（プロ野球）",
           "sourceId": "baseballchannel-npb",
           "link": "https://www.baseballchannel.jp/npb/299438/"
-        }
-      ]
-    },
-    {
-      "title": "プロ野球12球団の監督・コーチ人事2026｜退団・退任・新任・配置転換一覧",
-      "summary": "プロ野球12球団の2026年監督・コーチ人事を一覧で紹介。退団、退任、契約満了、新任、配置転換、役職変更など、各球団のコーチングスタッフ情報を随時更新します。",
-      "link": "https://www.baseballchannel.jp/npb/294013/",
-      "pubDate": "2026-10-30T08:00:58.000Z",
-      "source": "ベースボールチャンネル（プロ野球）",
-      "sourceId": "baseballchannel-npb",
-      "teams": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "ベースボールチャンネル（プロ野球）",
-          "sourceId": "baseballchannel-npb",
-          "link": "https://www.baseballchannel.jp/npb/294013/"
         }
       ]
     },
@@ -73754,266 +74159,6 @@
           "name": "BASEBALL KING",
           "sourceId": "baseballking",
           "link": "https://baseballking.jp/ns/708594/"
-        }
-      ]
-    },
-    {
-      "title": "ロッテ、HARUTO選手が活動休止 サブロー監督「今は体調を第一に、治療と療養に専念してもらいたい」",
-      "summary": "ロッテは30日、社会貢献プロジェクト「MARINES LINKS」の活動として、認定NPO法人Being ALIVE Japanが運営する「TEAMMATES（チームメイツ）」事業を通じてチームに加わったHARUTO選 […]",
-      "link": "https://baseballking.jp/ns/708581/",
-      "pubDate": "2026-09-30T23:44:20.000Z",
-      "source": "BASEBALL KING",
-      "sourceId": "baseballking",
-      "teams": [
-        "marines"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "BASEBALL KING",
-          "sourceId": "baseballking",
-          "link": "https://baseballking.jp/ns/708581/"
-        }
-      ]
-    },
-    {
-      "title": "西武、2027年の『埼玉西武ライオンズオリジナルおせち』の予約受付を開始",
-      "summary": "西武は1日、9月30日（水）の11時からオフィシャルECサイトのライオンズストア オンラインで、2027年の『埼玉西武ライオンズオリジナルおせち』の予約受付を開始したと発表した。 バラエティ豊かな和洋中の3段重のおせ […]",
-      "link": "https://baseballking.jp/ns/708575/",
-      "pubDate": "2026-09-30T23:37:17.000Z",
-      "source": "BASEBALL KING",
-      "sourceId": "baseballking",
-      "teams": [
-        "lions"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "BASEBALL KING",
-          "sourceId": "baseballking",
-          "link": "https://baseballking.jp/ns/708575/"
-        }
-      ]
-    },
-    {
-      "title": "“トルネード左腕”が戦力外…巨人、21歳の元U-18日本代表に通告 4年間で支配下届かず",
-      "summary": "読売ジャイアンツは30日、板東湧梧投手ら育成9選手に対し、来季の契約を結ばないことを発表した。その中には、吉村優聖歩投手の名前もあった。",
-      "link": "https://www.baseballchannel.jp/npb/292736/",
-      "pubDate": "2026-09-30T22:30:13.000Z",
-      "source": "ベースボールチャンネル（プロ野球）",
-      "sourceId": "baseballchannel-npb",
-      "teams": [
-        "giants"
-      ],
-      "topics": [
-        "trade"
-      ],
-      "sources": [
-        {
-          "name": "ベースボールチャンネル（プロ野球）",
-          "sourceId": "baseballchannel-npb",
-          "link": "https://www.baseballchannel.jp/npb/292736/"
-        }
-      ]
-    },
-    {
-      "title": "返り咲きならず…巨人の”大卒6年目捕手”が戦力外 1軍通算15試合、昨夏には右膝手術(ベースボールチャンネル)",
-      "summary": "読売ジャイアンツは30日、喜多隆介捕手と2027シーズンの選手契約を行わないことを発表した。【一覧】読売ジャイアンツ 2026年の戦力外通告 現役引退 自由契約 退団選手 喜多は小松大谷高、京都先端科",
-      "link": "https://news.yahoo.co.jp/articles/d379a696288d1675284a4fe0b9d8c1fd2789f6e5?source=rss",
-      "pubDate": "2026-09-30T22:20:17.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "giants"
-      ],
-      "topics": [
-        "trade",
-        "injury",
-        "retirement"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/d379a696288d1675284a4fe0b9d8c1fd2789f6e5?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【ヤフコメで話題】「梅野には出場機会を求めて移籍してほしい」「阪神に残って功労者として終えてほしい」 - 梅野の去就をめぐる意見が分かれる(Yahoo!ニュース オリジナル THE PAGE)",
-      "summary": "「梅野」について、Yahoo!ニュースのコメント欄で話題になっています。コメントでは、阪神での出番が減った梅野選手に対し、残りの現役生活をスタメンで全うできる環境を求めて移籍を勧める声がある一方、残留",
-      "link": "https://news.yahoo.co.jp/articles/ee4a717450001ea889b879931c9bdd560a0eb2c9?source=rss",
-      "pubDate": "2026-09-30T22:17:41.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "tigers"
-      ],
-      "topics": [
-        "trade"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/ee4a717450001ea889b879931c9bdd560a0eb2c9?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【阪神】「イチローやんw」「鳥谷にしか見えん」 髙橋遥人、“芸術的流し打ち”に反響 「ほんまになんなんこのバッティングセンス」(スポーティングニュース日本版)",
-      "summary": "阪神タイガースの髙橋遥人が、自らを援護したバッティングに反響が集まっている。イチローや鳥谷敬氏を彷彿とさせる流し打ちに、「芸術的すぎる」などと称賛の声が寄せられた。【動画】「教科書みたいな流し打ちで笑",
-      "link": "https://news.yahoo.co.jp/articles/519ba69ca4c991e3d5c11f63d96b2912ce980048?source=rss",
-      "pubDate": "2026-09-30T22:17:41.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "tigers"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/519ba69ca4c991e3d5c11f63d96b2912ce980048?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "「補償あり」でも争奪戦か！？ 今オフのFA大物候補（1）FA宣言ならチームに激震！？今年の“目玉候補”(ベースボールチャンネル)",
-      "summary": "プロ野球界で大きな話題となるのが、フリーエージェント（FA）戦線だ。FA権を行使した選手は、移籍元球団の日本人選手内における年俸順位でランク付けされる。補償が必要な選手でも、複数球団による争奪戦に発展",
-      "link": "https://news.yahoo.co.jp/articles/cbe069b1ab290a4de2525cb20c2ff8dc253f6608?source=rss",
-      "pubDate": "2026-09-30T22:01:33.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [],
-      "topics": [
-        "trade",
-        "contract"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/cbe069b1ab290a4de2525cb20c2ff8dc253f6608?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "中日・井上監督退任で「桑田真澄が後任」報道、ファンが注目する“立浪和義らPL組閣”と“巨人との因縁”(週刊女性PRIME)",
-      "summary": "中日の井上一樹監督が今季限りで退任することになり、来季のチーム作りに注目が集まっている。後任候補には球団OBだけでなく意外な名前も浮上。ファンの間では過去の優勝監督に共通する“ある傾向”にも関心が向け",
-      "link": "https://news.yahoo.co.jp/articles/47d96ff31b1d1c138100543cf4093e9bdc8f400f?source=rss",
-      "pubDate": "2026-09-30T22:00:36.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "dragons",
-        "giants"
-      ],
-      "topics": [
-        "personnel"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/47d96ff31b1d1c138100543cf4093e9bdc8f400f?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【楽天】荘司康誠の新たな“引き出し”「遊び心を持って投げられた」新球種も駆使して８回無失点…最多奪三振のタイトル確実(スポーツ報知)",
-      "summary": "◆パ・リーグ 楽天３―０ロッテ（３０日・楽天モバイル最強パーク宮城） 楽天がロッテに競り勝った。先発した荘司が８回４安打無失点で９勝目。８奪三振で最多奪三振のタイトルを手中に収めた。【写真】見えるの？",
-      "link": "https://news.yahoo.co.jp/articles/7c4caae2a83f700a42e3c818a189e1c794fc1471?source=rss",
-      "pubDate": "2026-09-30T22:00:04.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "eagles"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/7c4caae2a83f700a42e3c818a189e1c794fc1471?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "楽天・荘司康誠、最多奪三振のタイトル当確 斎藤氏「途中勝てなくて苦しんだことはあると思うが、1年間やったということが大事」",
-      "summary": "◆ 9勝9敗の成績には指摘「頼りにされるという意味では貯金を何とかしないと」 楽天・荘司康誠が30日、ロッテ戦で先発登板。8回123球・4安打8奪三振1四球無失点で今季9勝目を挙げた。 今季の奪三振数は171個となり […]",
-      "link": "https://baseballking.jp/ns/708542/",
-      "pubDate": "2026-09-30T22:00:00.000Z",
-      "source": "BASEBALL KING",
-      "sourceId": "baseballking",
-      "teams": [
-        "eagles"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "BASEBALL KING",
-          "sourceId": "baseballking",
-          "link": "https://baseballking.jp/ns/708542/"
-        }
-      ]
-    },
-    {
-      "title": "阪神、優勝マジック「3」で巨人との10.1決戦へ 高木氏「巨人は1敗もできない、何割くらい阪神有利か」大矢氏「そういう話は…」",
-      "summary": "◆ 斎藤氏「阪神は3敗できる、巨人はもう勝ち続けるしかない」 セ・リーグ首位の阪神は30日、ヤクルト戦で5－0と勝利した。優勝マジックを「3」に減らして、10月1日の2位・巨人との直接対決を迎えることになった。 阪神 […]",
-      "link": "https://baseballking.jp/ns/708512/",
-      "pubDate": "2026-09-30T21:50:00.000Z",
-      "source": "BASEBALL KING",
-      "sourceId": "baseballking",
-      "teams": [
-        "tigers",
-        "giants"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "BASEBALL KING",
-          "sourceId": "baseballking",
-          "link": "https://baseballking.jp/ns/708512/"
-        }
-      ]
-    },
-    {
-      "title": "阪神・髙橋遥人”最多勝”確定の16勝目、防御率は1位・村上頌樹と0.02差！高木氏「微妙な1点の違いでどうなるか」",
-      "summary": "◆ 高木氏「すごいね、隙なし」大矢氏「球を低く集めて、多彩」 阪神・髙橋遥人が30日、ヤクルト戦に先発登板。8回107球・4安打6奪三振無四球無失点で、球団では井川慶氏以来23年ぶりとなる16勝目を記録した。 セ・リ […]",
-      "link": "https://baseballking.jp/ns/708514/",
-      "pubDate": "2026-09-30T21:40:00.000Z",
-      "source": "BASEBALL KING",
-      "sourceId": "baseballking",
-      "teams": [
-        "tigers"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "BASEBALL KING",
-          "sourceId": "baseballking",
-          "link": "https://baseballking.jp/ns/708514/"
-        }
-      ]
-    },
-    {
-      "title": "【DeNA】大貫晋一ら５選手と来季の支配下契約結ばず いずれも育成での再契約を打診(日刊スポーツ)",
-      "summary": "DeNAは30日、大貫晋一投手（32）ら5選手と来季の支配下契約を結ばないことを発表した。球団はいずれも育成での再契約を打診している。大貫は、神奈川・横須賀市内の球団施設で取材に対応。「今年は何もして",
-      "link": "https://news.yahoo.co.jp/articles/1f53faa073cb99edf9144bfea2f5bbf474ce1dde?source=rss",
-      "pubDate": "2026-09-30T21:00:02.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "baystars"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/1f53faa073cb99edf9144bfea2f5bbf474ce1dde?source=rss"
         }
       ]
     }
