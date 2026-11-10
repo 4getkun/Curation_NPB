@@ -1,7 +1,87 @@
 {
-  "generatedAt": "2026-11-10T11:26:39.703Z",
-  "count": 3533,
+  "generatedAt": "2026-11-10T18:43:54.471Z",
+  "count": 3520,
   "items": [
+    {
+      "title": "【巨人】広島・森下暢仁に４年契約準備…課題の右の先発補強へ １５年ぶり１０人公示ＦＡ争奪戦スタート(スポーツ報知)",
+      "summary": "フリーエージェント（ＦＡ）宣言選手が１０日、コミッショナーから公示され、広島の３選手を含め、１５年ぶり２ケタとなる１０選手が名を連ねた。１１日から全ての球団との接触が可能となる。国内ＦＡ権を行使した広",
+      "link": "https://news.yahoo.co.jp/articles/bc27f39a7813090c06c79a69015eb9d966213cca?source=rss",
+      "pubDate": "2026-11-10T17:00:08.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "giants"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/bc27f39a7813090c06c79a69015eb9d966213cca?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【オリックス】ＦＡ宣言のＤｅＮＡ・戸柱恭孝獲得に乗り出す 経験豊富な３６歳 若月健矢＆森友哉と盤石の捕手陣形成へ(スポーツ報知)",
+      "summary": "オリックスが、ＤｅＮＡから海外ＦＡ権を行使した戸柱恭孝捕手（３６）の獲得に乗り出す方針を固めたことが１０日、分かった。この日、戸柱を含めたＦＡ宣言選手が公示。若月と森友を２枚看板とする捕手陣強化を目指",
+      "link": "https://news.yahoo.co.jp/articles/89e3569d3ecf0a7f24398788036d18c59e27d9d7?source=rss",
+      "pubDate": "2026-11-10T17:00:05.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "buffaloes"
+      ],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/89e3569d3ecf0a7f24398788036d18c59e27d9d7?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【中日】工藤監督、根尾に伝えた『もっといい球』ではなく『いい球をいかに続けるかが大事』 “弱点”も指摘(中日スポーツ)",
+      "summary": "中日・工藤公康新監督（63）が秋季キャンプ第3クールの初日となった10日、ナゴヤ球場では初のキャンプ指導を行った。【実際の写真】パイプ椅子を使って根尾に投球指導する工藤新監督 プロ8年目の根尾昂投手（",
+      "link": "https://news.yahoo.co.jp/articles/73a290c45d9eec9838a5789b75d54cce6571b8fc?source=rss",
+      "pubDate": "2026-11-10T13:57:53.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "dragons"
+      ],
+      "topics": [
+        "personnel"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/73a290c45d9eec9838a5789b75d54cce6571b8fc?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "工藤監督に「見られてた」 “不在”のはずが筒抜け…ベテランの焦り、怖すぎる「今はいいよ、今は」",
+      "summary": "中日は10日午後8時過ぎ、公式YouTubeチャンネルで「【ポール間走に接近】#工藤公康 監督が名古屋組秋季キャンプで初指導」と題した動画を公開した。終盤の「おまけ」では、柳裕也投手が工藤公康監督とのやり取りを紹介。生配信での言動まで把握さ…",
+      "link": "https://full-count.jp/2026/11/10/post2043294/",
+      "pubDate": "2026-11-10T11:37:27.000Z",
+      "source": "Full-Count（プロ野球）",
+      "sourceId": "full-count-npb",
+      "teams": [
+        "dragons"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Full-Count（プロ野球）",
+          "sourceId": "full-count-npb",
+          "link": "https://full-count.jp/2026/11/10/post2043294/"
+        }
+      ]
+    },
     {
       "title": "“規格外”助っ人が緊急来日 4年契約終了→電撃トレード決定…風雲急を告げる10人FA、10日の去就",
       "summary": "ソフトバンクとDeNAは10日、嶺井博希捕手の無償トレードが成立したと発表した。2022年オフに国内フリーエージェント（FA）権を行使してソフトバンクへ移籍した嶺井は、4年ぶりの古巣復帰となり、背番号は99に決まった。4年契約の最終年だった…",
@@ -70236,333 +70316,6 @@
           "name": "Yahoo!ニュース スポーツ",
           "sourceId": "yahoo-sports",
           "link": "https://news.yahoo.co.jp/articles/ed97fee81b25df91929a5a5295d7f2281ea05cc9?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "巨人・橋上秀樹監督代行、退任へ 後任候補に松井秀喜氏、高橋由伸氏、川相コーチら 阿部慎之助前監督は球団復帰へ(サンケイスポーツ)",
-      "summary": "巨人・橋上秀樹監督代行（60）が退任する見通しであることが11日、分かった。阿部慎之助前監督（47）が辞任後の交流戦から指揮を執り、この日のクライマックスシリーズ（CS）ファーストステージ第2戦でDe",
-      "link": "https://news.yahoo.co.jp/articles/8d702bab0e7274ce2dfd7c2576f5f4cc521818c9?source=rss",
-      "pubDate": "2026-10-11T16:33:22.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "giants"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/8d702bab0e7274ce2dfd7c2576f5f4cc521818c9?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "巨人・橋上監督代行退任へ 新監督はOB中心に選定 松井秀喜氏、高橋由伸元監督、川相昌弘コーチら候補(スポニチアネックス)",
-      "summary": "◇セCSファーストS第2戦 巨人1―4DeNA （2026年10月11日 東京D）【写真あり】中川安奈「ひとめぼれ！」巨人のジョーダンユニでヘソ出しコーデ披露 巨人・橋上秀樹監督代行（60）が、指揮官",
-      "link": "https://news.yahoo.co.jp/articles/a73a0d2d2370ddb8b72d0100f5f191ca6fb521c7?source=rss",
-      "pubDate": "2026-10-11T16:05:00.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "giants"
-      ],
-      "topics": [
-        "personnel"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/a73a0d2d2370ddb8b72d0100f5f191ca6fb521c7?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "阿部慎之助前監督 巨人復帰も！辞任から5カ月 復帰求める署名13万筆 フロント含め役職は不明(スポニチアネックス)",
-      "summary": "5月に長女への暴行容疑で逮捕され、不起訴となった巨人・阿部慎之助前監督（47）が球団に復帰する可能性が11日、浮上した。役職はフロント含めて未定。山口寿一オーナー（69）に辞任を申し入れ、涙の謝罪会見",
-      "link": "https://news.yahoo.co.jp/articles/50c4da552df7958841df4e0a108b62a5033c1ab9?source=rss",
-      "pubDate": "2026-10-11T16:04:10.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "giants"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/50c4da552df7958841df4e0a108b62a5033c1ab9?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【巨人】橋上秀樹監督代行の退任濃厚 後任候補にOB高橋由伸氏、松井秀喜氏、川相昌弘コーチら(日刊スポーツ)",
-      "summary": "巨人橋上秀樹監督代行（60）の退任が濃厚であることが11日、分かった。 阿部慎之助前監督（47）のシーズン途中の辞任を受け、オフェンスチーフコーチから昇格し、5月26日から指揮を執ってきた。レギュラー",
-      "link": "https://news.yahoo.co.jp/articles/0fe1d0aa5b44addcc0824eee40c6427449d43166?source=rss",
-      "pubDate": "2026-10-11T16:00:01.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "giants"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/0fe1d0aa5b44addcc0824eee40c6427449d43166?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【巨人】阿部慎之助前監督に球団復帰を要請、編成部門の役職が有力候補 ５月辞任から再出発へ(日刊スポーツ)",
-      "summary": "巨人が阿部慎之助前監督（47）に球団復帰要請を出していることが11日、分かった。編成部門の役職が有力候補で、新たな角度から再び球団を支えていくことになりそうだ。【写真】山口寿一オーナーと話す阿部慎之助",
-      "link": "https://news.yahoo.co.jp/articles/e3c65a4df0469dabbe38220f75c3eae5d0512887?source=rss",
-      "pubDate": "2026-10-11T16:00:01.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "giants"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/e3c65a4df0469dabbe38220f75c3eae5d0512887?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "関大のドラフト上位候補・米沢友翔、今季最長の8イニング1/3投げるも4失点で初黒星 2学年先輩の中日・金丸観戦で気合も悔しい結果に(中日スポーツ)",
-      "summary": "◇11日 関西学生野球秋季リーグ 立命大5―2関大（ほっともっとフィールド神戸） 関大のドラフト上位候補、米沢友翔投手（金沢）は今季最長の8イニング1／3を投げたが、4失点（自責1）で今季初黒星を喫し",
-      "link": "https://news.yahoo.co.jp/articles/124ba12dc7c4229abeae6a47c222f60c3faa09e1?source=rss",
-      "pubDate": "2026-10-11T13:02:56.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "dragons"
-      ],
-      "topics": [
-        "draft"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/124ba12dc7c4229abeae6a47c222f60c3faa09e1?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【オリックス】４コーチが退団 水本勝巳氏、牧野塁氏、平井正史氏、由田慎太郎氏(日刊スポーツ)",
-      "summary": "オリックスは11日、水本勝巳巡回統括コーチ（58）、牧野塁投手コーチ（52）、平井正史投手コーチ（51）、由田慎太郎外野守備・走塁コーチ（45）と、来季の契約を結ばないことを発表した。水本コーチは広島",
-      "link": "https://news.yahoo.co.jp/articles/030ef41f26ae48438ef88c169455e9bd7a1e5d1f?source=rss",
-      "pubDate": "2026-10-11T12:24:04.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "buffaloes"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/030ef41f26ae48438ef88c169455e9bd7a1e5d1f?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【DeNA】石田裕太郎CS初勝利「トバさんがいい配球を」シーズン未勝利の巨人戦で５回１失点(日刊スポーツ)",
-      "summary": "＜セ・CSファーストステージ：巨人1－4DeNA＞◇第2戦◇11日◇東京ドーム DeNA石田裕太郎投手（24）が、シーズンでは未勝利だった巨人を相手に、5回1失点の粘投でCS初勝利を挙げた。毎回走者を",
-      "link": "https://news.yahoo.co.jp/articles/2848ddc5629095fdb039fa8a50f8e3c38929ff2a?source=rss",
-      "pubDate": "2026-10-11T12:10:08.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "baystars"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/2848ddc5629095fdb039fa8a50f8e3c38929ff2a?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【日本ハム】達孝太 自身初のCS勝利 評価を「3勝分ぐらいプラスしてほしいですね」おねだり(日刊スポーツ)",
-      "summary": "＜パ・CSファーストステージ：西武0－1日本ハム＞◇第2戦◇11日◇ベルーナドーム【写真】無失点に抑えグラブをたたく達孝太 日本ハム先発の達孝太投手（22）が、ファイナル進出へ望みをつなぐ1勝を呼び込",
-      "link": "https://news.yahoo.co.jp/articles/c58ed43b951199ecebaa9f1e63f8d0b627a3aa34?source=rss",
-      "pubDate": "2026-10-11T12:08:52.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "fighters"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/c58ed43b951199ecebaa9f1e63f8d0b627a3aa34?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【日本ハム】田宮裕涼「CSで全然打てていなかったので」２安打で貢献「本当に勝てて良かった」(日刊スポーツ)",
-      "summary": "＜パ・CSファーストステージ：西武0－1日本ハム＞◇第2戦◇11日◇ベルーナドーム【写真】二塁打を放ちポーズをとる田宮裕涼 日本ハム田宮裕涼捕手（26）が攻守にわたって活躍した。「7番捕手」で出場し、",
-      "link": "https://news.yahoo.co.jp/articles/264e7120e09fe83e0efdeb9612fe7b9d8069d38b?source=rss",
-      "pubDate": "2026-10-11T12:05:07.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "fighters"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/264e7120e09fe83e0efdeb9612fe7b9d8069d38b?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【日本ハム】奈良間大己 第２戦は好守で貢献 逆王手に「いい流れ、明日も捨て身でいきます」(日刊スポーツ)",
-      "summary": "＜パ・CSファーストステージ：西武0－1日本ハム＞◇第2戦◇11日◇ベルーナドーム【写真】華麗なジャンピングキャッチ 前日10日にCS1号を放った日本ハム奈良間大己内野手（26）が今度は好守で貢献した",
-      "link": "https://news.yahoo.co.jp/articles/0f3a61222a4440dcccbf241dae27a253308d1300?source=rss",
-      "pubDate": "2026-10-11T12:03:45.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "fighters"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/0f3a61222a4440dcccbf241dae27a253308d1300?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【ソフトバンク】上茶谷大河２キロ減量「出力は今年で一番」３軍の練習試合で３回１安打無失点(日刊スポーツ)",
-      "summary": "CSファイナルの先発候補であるソフトバンク上茶谷大河投手（30）が3軍対韓国NCダイノス2軍の練習試合に先発した。【写真】3回を無失点に抑えた上茶谷 3回45球、1安打2四球無失点。カットボールを試し",
-      "link": "https://news.yahoo.co.jp/articles/b7ae104627fb40ff0effdfa63cee3176b24ebab6?source=rss",
-      "pubDate": "2026-10-11T12:01:57.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "hawks"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/b7ae104627fb40ff0effdfa63cee3176b24ebab6?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "「歌手冥利に尽きる」西武ファンの藤あや子、CS第１戦で君が代斉唱「必ず福岡で大暴れ」(日刊スポーツ)",
-      "summary": "演歌歌手の藤あや子（65）が11日、インスタグラムを更新。10日のプロ野球パ・CSファーストステージ西武－日本ハム戦（ベルーナ）での君が代斉唱を報告した。【写真】ユニホーム姿で応援する藤あや子 西武フ",
-      "link": "https://news.yahoo.co.jp/articles/abc4ada83fb7d42d5b5a08fafdadb5afe60bd338?source=rss",
-      "pubDate": "2026-10-11T11:51:29.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "lions"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/abc4ada83fb7d42d5b5a08fafdadb5afe60bd338?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【ドラフト】沼津商・後藤幸樹「沼津商の校名を有名にしたい」8球団から調査書、強肩強打の捕手(日刊スポーツ)",
-      "summary": "今月8日、高校生と大学生が今秋のプロ野球（NPB）ドラフト会議で指名を受けるために必要なプロ志望届の提出期限を迎えた。 静岡県関連では大学生5人、高校生2人が提出。沼津商の後藤幸樹捕手（3年）は「まだ",
-      "link": "https://news.yahoo.co.jp/articles/8f7a72ab3b6b88ad8becc0d14345418a21cdab4c?source=rss",
-      "pubDate": "2026-10-11T11:45:38.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [],
-      "topics": [
-        "draft"
-      ],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/8f7a72ab3b6b88ad8becc0d14345418a21cdab4c?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【巨人】橋上監督代行「緊急事態になった事である意味みんなが団結した」異例のシーズンに幕(日刊スポーツ)",
-      "summary": "＜セ・CSファーストステージ：巨人1－4DeNA＞◇第2戦◇11日◇東京ドーム 異例のシーズンが終わりを迎えた。巨人がDeNAに2連敗を喫し、CSファーストステージでの敗退が決定した。レギュラーシーズ",
-      "link": "https://news.yahoo.co.jp/articles/8de0c50d61c6f3a8f4addd012a497433ada99acc?source=rss",
-      "pubDate": "2026-10-11T11:40:23.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "giants"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/8de0c50d61c6f3a8f4addd012a497433ada99acc?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【DeNA】攻守で貢献の戸柱恭孝 お立ち台で「僕でいいんかなっていう感じなんですけど」(日刊スポーツ)",
-      "summary": "＜セ・CSファーストステージ：巨人1－4DeNA＞◇第2戦◇11日◇東京ドーム DeNA戸柱恭孝捕手（36）が、攻守でチームの勝利に貢献した。1点リードの7回2死三塁では、貴重な適時打。守備では、1点",
-      "link": "https://news.yahoo.co.jp/articles/cf13ac304171bc9a58a657712f073428073a9815?source=rss",
-      "pubDate": "2026-10-11T11:36:43.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "baystars"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/cf13ac304171bc9a58a657712f073428073a9815?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【DeNA】横浜スタジアムも沸いた！入場無料のパブリックビューイング開催(日刊スポーツ)",
-      "summary": "＜セ・CSファーストステージ：巨人1－4DeNA＞◇第2戦◇11日◇東京ドーム DeNAの快勝に東京ドームだけでなく、横浜スタジアムも沸いた。CSファーストステージに合わせ、入場無料のパブリックビュー",
-      "link": "https://news.yahoo.co.jp/articles/fb6901e2df326a6ba89cdee192a9cd0d939b9503?source=rss",
-      "pubDate": "2026-10-11T11:35:13.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "baystars"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/fb6901e2df326a6ba89cdee192a9cd0d939b9503?source=rss"
         }
       ]
     }
