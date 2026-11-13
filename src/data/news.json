@@ -1,7 +1,937 @@
 {
-  "generatedAt": "2026-11-13T10:35:31.732Z",
-  "count": 3603,
+  "generatedAt": "2026-11-13T18:12:10.885Z",
+  "count": 3634,
   "items": [
+    {
+      "title": "【アジアCS】小島大河「自作自演なので」明大先輩の宗山イジるも最後は「すごい」自身も特大弾(日刊スポーツ)",
+      "summary": "＜アジアプロ野球チャンピオンシップ2026：日本9－5韓国＞◇1次リーグ◇13日◇東京ドーム【写真】本塁打の小島はチームメートとタッチ 侍ジャパン小島大河捕手（23＝西武）が、明大の1学年上で起死回生",
+      "link": "https://news.yahoo.co.jp/articles/830d705d1b5aa89720d79a454f77ca7110e33cfd?source=rss",
+      "pubDate": "2026-11-13T15:44:29.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "lions"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/830d705d1b5aa89720d79a454f77ca7110e33cfd?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【アジアCS】井口監督、決勝３ランの宗山塁に「五輪でも遊撃を守ってほしい」日韓戦12連勝(日刊スポーツ)",
+      "summary": "＜アジアプロ野球チャンピオンシップ2026：日本9－5韓国＞◇1次リーグ◇13日◇東京ドーム【写真】井口監督は宗山の勝ち越し3点本塁打にベンチでガッツポーズ 侍ジャパン井口資仁監督（51）がしびれる試",
+      "link": "https://news.yahoo.co.jp/articles/06c771d81b69aa583446a4caac2681e26f7273a4?source=rss",
+      "pubDate": "2026-11-13T15:26:44.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/06c771d81b69aa583446a4caac2681e26f7273a4?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【アジアCS】篠原響が無失点締め「韓国で一番いい打者」金倒永から「三振絶対取ってやろうと」(日刊スポーツ)",
+      "summary": "＜アジアプロ野球チャンピオンシップ2026：日本9－5韓国＞◇1次リーグ◇13日◇東京ドーム【写真】最後を締め小島大河とタッチする篠原響 チーム最年少20歳の侍ジャパン篠原響投手（20＝西武）が最終回",
+      "link": "https://news.yahoo.co.jp/articles/4e9fa78dabb32bd6f563f11e7dcd2d96f929d97a?source=rss",
+      "pubDate": "2026-11-13T15:24:56.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "lions"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/4e9fa78dabb32bd6f563f11e7dcd2d96f929d97a?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【侍ジャパン】楽天・宗山塁 決勝弾含む２打席連発で５打点！ 侍２番の覚悟「打点は必ず必要になってくる」(東スポWEB)",
+      "summary": "侍ジャパンは13日、「ラグザス アジアプロ野球チャンピオンシップ2026」第2戦・韓国戦（東京ドーム）に9―5で逆転勝ち。「2番・遊撃」で先発出場した楽天・宗山塁内野手（23）が2打席連発の大会3号と",
+      "link": "https://news.yahoo.co.jp/articles/3457176cfe1fe17298334df0c54d188c1854d974?source=rss",
+      "pubDate": "2026-11-13T15:15:34.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "eagles"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/3457176cfe1fe17298334df0c54d188c1854d974?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【アジアCS】韓国は終盤に競り負けて2連敗 侍ジャパン12連敗に指揮官「全体的には日本が格上だが…」(スポニチアネックス)",
+      "summary": "◇ラグザスアジアプロ野球チャンピオンシップ2026 韓国5―9日本（2026年11月13日 東京D） 韓国は8回に4点を奪って同点に追い付くも、その裏に宗山に決勝3ランを許すなど4失点。終盤の競り合い",
+      "link": "https://news.yahoo.co.jp/articles/b0db78364adc8d0b847631b54b5212929060591b?source=rss",
+      "pubDate": "2026-11-13T15:04:46.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/b0db78364adc8d0b847631b54b5212929060591b?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【侍ジャパン】4番・山口航輝が2試合目で初打点 8回に適時二塁打 「上がりすぎて…」(スポニチアネックス)",
+      "summary": "◇ラグザスアジアプロ野球チャンピオンシップ2026 日本9―5韓国（2026年11月13日 東京Ｄ） 侍ジャパンの4番を務める山口航輝が、大会2試合目で初打点をマークした。 8回に宗山の3ランで勝ち越",
+      "link": "https://news.yahoo.co.jp/articles/58b1bb32d3565e4c7450b7649221f547309e22d5?source=rss",
+      "pubDate": "2026-11-13T14:54:04.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/58b1bb32d3565e4c7450b7649221f547309e22d5?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【侍ジャパン】9番・庄子雄大が3回にチーム初安打の中越え三塁打 正木の逆転2ラン呼び「本当に心強い」(スポニチアネックス)",
+      "summary": "◇ラグザスアジアプロ野球チャンピオンシップ2026 日本9―5韓国（2026年11月13日 東京Ｄ） 9番・庄子雄大がチーム初安打を放ち、逆転への流れをつくった。 1点を先制された直後の3回、先頭で中",
+      "link": "https://news.yahoo.co.jp/articles/a20c85d516599a8803929d60bf7ad881e63da611?source=rss",
+      "pubDate": "2026-11-13T14:52:17.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/a20c85d516599a8803929d60bf7ad881e63da611?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "「毎回パ・リーグ組が主人公」韓国に劇的勝利 ８回４点差追いつかれる→直後に23歳の侍が決勝３ラン「まじでスターすぎるやろ」【アジアCS】(THE DIGEST)",
+      "summary": "侍ジャパンは11月13日、東京ドームで行なわれた「ラグザス アジアプロ野球チャンピオンシップ2026」第２戦で韓国代表を９対５で撃破。決勝進出に王手をかけた。８回表に４点差を追いつかれたが、その裏に２",
+      "link": "https://news.yahoo.co.jp/articles/c044c08d0b9a66169973f74d3c9307ea73419199?source=rss",
+      "pubDate": "2026-11-13T14:50:00.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/c044c08d0b9a66169973f74d3c9307ea73419199?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "宗山、独壇場の3安打5打点 正木との強力1、2番コンビで韓国撃破 アジアプロ野球CS(産経新聞)",
+      "summary": "アジアプロ野球チャンピオンシップ第2日は13日、東京ドームで1次リーグ2試合が行われ、日本が韓国を9―5で下し、2連勝とした。◇5－5と同点に追い付かれた直後の八回の第5打席。2死一、二塁の好機で2番",
+      "link": "https://news.yahoo.co.jp/articles/fb460557563f57e1acd1977b49cace1903f88b94?source=rss",
+      "pubDate": "2026-11-13T14:49:57.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/fb460557563f57e1acd1977b49cace1903f88b94?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "侍ジャパン・竹丸和幸「しっかりと攻めた投球ができた」(サンケイスポーツ)",
+      "summary": "（ラグザス アジアプロ野球チャンピオンシップ2026、日本9－5韓国、13日、東京D）先発の竹丸和幸投手（24）＝巨人＝は4回5安打1失点で勝ち負けはつかず。三回に4番の韓東熙（ハン・ドンフィ）に先制",
+      "link": "https://news.yahoo.co.jp/articles/4c0bcfd5a28e3aa66c68173dcf1ccf9763d55339?source=rss",
+      "pubDate": "2026-11-13T14:46:33.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "giants"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/4c0bcfd5a28e3aa66c68173dcf1ccf9763d55339?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【アジアCS】石田裕太郎、初の代表で最速151キロ「いつもと違う力感で投げられました」(日刊スポーツ)",
+      "summary": "＜アジアプロ野球チャンピオンシップ2026：日本9－5韓国＞◇1次リーグ◇13日◇東京ドーム【写真】空振り三振を奪い、吠える石田裕太郎 侍ジャパン石田裕太郎投手（24＝DeNA）が堂々の“日の丸デビュ",
+      "link": "https://news.yahoo.co.jp/articles/030fbdf007184f9a58b4942c7ac0cb21979e17fb?source=rss",
+      "pubDate": "2026-11-13T14:41:40.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "baystars"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/030fbdf007184f9a58b4942c7ac0cb21979e17fb?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【アジアCS】韓国崔元豪監督「日本が格上」実力差認め「短期決戦では総力戦で戦えば勝算ある」(日刊スポーツ)",
+      "summary": "＜アジアプロ野球チャンピオンシップ2026：日本9－5韓国＞◇1次リーグ◇13日◇東京ドーム【写真】日本に敗れスタンドにあいさつする韓国ナイン 韓国は8回に一時同点に追いつくなど粘りをみせたが惜敗した",
+      "link": "https://news.yahoo.co.jp/articles/40e2cfb34917c92c23f0a25f5b4c4755b4d9c5f9?source=rss",
+      "pubDate": "2026-11-13T14:40:14.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/40e2cfb34917c92c23f0a25f5b4c4755b4d9c5f9?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【侍ジャパン】石田裕2回無失点の侍デビュー「打たれたらずたぼろに言ってやる」牧秀悟の言葉に発奮(スポニチアネックス)",
+      "summary": "◇ラグザスアジアプロ野球チャンピオンシップ2026 日本9―5韓国（2026年11月13日 東京Ｄ） 侍ジャパンの石田裕太郎が、満点の侍デビューを飾った。 2―1の5回に2番手でマウンドへ。2イニング",
+      "link": "https://news.yahoo.co.jp/articles/984d3466face0661b3e59b8d29f67efa80b7585c?source=rss",
+      "pubDate": "2026-11-13T14:37:28.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/984d3466face0661b3e59b8d29f67efa80b7585c?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "侍ジャパン・石田裕太郎、「初めての日の丸を背負って力が入りました」いい流れ呼び込む２イニング無失点リリーフ(中日スポーツ)",
+      "summary": "◇13日 「ラグザス アジアプロ野球チャンピオンシップ2026」 日本9―5韓国（東京ドーム）【実際の動画】やられたらやり返す！侍ジャパン・ 宗山塁が衝撃2打席連発の勝ち越し3ラン 野球日本代表「侍ジ",
+      "link": "https://news.yahoo.co.jp/articles/bef889d4f5c718572761c9aea0829b929d13bf72?source=rss",
+      "pubDate": "2026-11-13T14:34:52.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/bef889d4f5c718572761c9aea0829b929d13bf72?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "韓国メディアが井口資仁監督を“質問攻め”「韓国の長所と短所は？」「パワーの秘訣は？」…日本戦は１７年から屈辱１２連敗(スポーツ報知)",
+      "summary": "◆ラグザス アジアプロ野球チャンピオンシップ２０２６ 日本９ー５韓国（１３日・東京ドーム）【写真】美女ぞろいの韓国チアも襲来！！ 韓国が侍ジャパンに逆転で敗れ、開幕戦から連敗。３大会連続の決勝進出へ、",
+      "link": "https://news.yahoo.co.jp/articles/4b551af1c48ad85036152bbd6e301b0a4ed7b4c6?source=rss",
+      "pubDate": "2026-11-13T14:33:33.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/4b551af1c48ad85036152bbd6e301b0a4ed7b4c6?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【侍ジャパン】4本塁打の空中戦制して韓国撃破！2戦3発・宗山が決勝3ラン 井口監督も「やっぱりホームランって効果的でいいですね」と笑顔(中日スポーツ)",
+      "summary": "◇13日 「ラグザス アジアプロ野球チャンピオンシップ2026」 日本9―5韓国（東京ドーム）【実際の動画】やられたらやり返す！侍ジャパン・ 宗山塁が衝撃2打席連発の勝ち越し3ラン 井口資仁監督（51",
+      "link": "https://news.yahoo.co.jp/articles/a70dc777901c693b4d73a8ebe39fbc1a226bbc1b?source=rss",
+      "pubDate": "2026-11-13T14:31:53.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/a70dc777901c693b4d73a8ebe39fbc1a226bbc1b?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【アジアCS】韓国監督「日本が格上」差認めつつ短期決戦では「どんな結果が出るか分からない」(日刊スポーツ)",
+      "summary": "＜アジアプロ野球チャンピオンシップ2026：日本9－5韓国＞◇1次リーグ◇13日◇東京ドーム【写真】日本に敗れスタンドにあいさつする韓国ナイン 韓国は8回に一時同点に追いつくなど粘りをみせたが惜敗した",
+      "link": "https://news.yahoo.co.jp/articles/1e133c3ddb98933a1f2922c60cbb9add9c8d8ccf?source=rss",
+      "pubDate": "2026-11-13T14:27:21.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/1e133c3ddb98933a1f2922c60cbb9add9c8d8ccf?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "侍ジャパン・井口監督、「来年、そしてオリンピックとショートを守ってくれたら」２発の宗山塁たたえる【インタビュー】(中日スポーツ)",
+      "summary": "◇13日 「ラグザス アジアプロ野球チャンピオンシップ2026」 日本9―5韓国（東京ドーム）【写真】ボールが挟まり先制点が幻に…抗議する井口監督 野球日本代表「侍ジャパン」が4本塁打を放って宿敵・韓",
+      "link": "https://news.yahoo.co.jp/articles/f77834c69d10f1674f4b38650f45fb5f384fc705?source=rss",
+      "pubDate": "2026-11-13T14:20:52.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/f77834c69d10f1674f4b38650f45fb5f384fc705?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【アジアCS】韓国粘るも…惜敗 崔監督「本塁打を打たれはしたがよく頑張ってくれた」(日刊スポーツ)",
+      "summary": "＜アジアプロ野球チャンピオンシップ2026：日本9－5韓国＞◇1次リーグ◇13日◇東京ドーム【写真】８回、同点３ランを放つ金揮執 終盤まで粘りをみせるも惜敗した韓国の崔元豪監督は試合後の会見で「レベル",
+      "link": "https://news.yahoo.co.jp/articles/18e82c3a7d4fc84a32f7bc98409739671a335132?source=rss",
+      "pubDate": "2026-11-13T14:14:09.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/18e82c3a7d4fc84a32f7bc98409739671a335132?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【データ】侍ジャパンの名刀「正宗」だ！同一コンビの２試合連続本塁打はプロ参加の国際大会で初(日刊スポーツ)",
+      "summary": "＜アジアプロ野球チャンピオンシップ2026：日本9－5韓国＞◇1次リーグ◇13日◇東京ドーム【写真】コンビで２試合連続本塁打の「正宗」 侍ジャパンは「ラグザス アジアプロ野球チャンピオンシップ2026",
+      "link": "https://news.yahoo.co.jp/articles/62d4c8df39b08cf878cfd02432d8f380e40e0a75?source=rss",
+      "pubDate": "2026-11-13T14:08:25.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/62d4c8df39b08cf878cfd02432d8f380e40e0a75?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【アジアCS】井口監督「本塁打は効果的」１発攻勢勝利に笑顔も注文忘れず「コツコツとる野球も」(日刊スポーツ)",
+      "summary": "＜アジアプロ野球チャンピオンシップ2026：日本9－5韓国＞◇1次リーグ◇13日◇東京ドーム【写真】宗山塁の勝ち越し3点本塁打にガッツポーズ 侍ジャパンが1発攻勢で韓国に競り勝った。2連勝で決勝進出に",
+      "link": "https://news.yahoo.co.jp/articles/420504d936d9f1a187e49debf738dbfd717fc13d?source=rss",
+      "pubDate": "2026-11-13T14:01:12.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/420504d936d9f1a187e49debf738dbfd717fc13d?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "侍ジャパン・宗山塁、ミス取り返す決勝3ラン 2打席連発計5打点の大暴れ「日本のショートは僕と言ってもらえるように」",
+      "summary": "「ラグザス アジアプロ野球チャンピオンシップ2026」○ 侍ジャパン 9 － 5 韓国 ●＜11月13日・東京ドーム＞ 野球日本代表・侍ジャパンの宗山塁内野手（楽天＝23）13日、韓国代表との『アジアプロ野球チャンピオ […]",
+      "link": "https://baseballking.jp/ns/712461/",
+      "pubDate": "2026-11-13T13:58:41.000Z",
+      "source": "BASEBALL KING",
+      "sourceId": "baseballking",
+      "teams": [
+        "eagles"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "BASEBALL KING",
+          "sourceId": "baseballking",
+          "link": "https://baseballking.jp/ns/712461/"
+        }
+      ]
+    },
+    {
+      "title": "【アジアCS】２打席連発５打点の宗山塁「日本のショートは僕って言ってもらえるように」(日刊スポーツ)",
+      "summary": "＜アジアプロ野球チャンピオンシップ2026：日本9－5韓国＞◇1次リーグ◇13日◇東京ドーム【写真】井口監督は宗山の勝ち越し3点本塁打にベンチでガッツポーズ この男、止まらない。8回2死一、二塁。4点",
+      "link": "https://news.yahoo.co.jp/articles/eedc188af5f6dbe7bdeb02f2662d69a12708335a?source=rss",
+      "pubDate": "2026-11-13T13:55:37.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/eedc188af5f6dbe7bdeb02f2662d69a12708335a?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【アジアCS】井口監督 1発攻勢で韓国撃破「集中力が素晴らしかった」宗山が2打席連発決勝弾(日刊スポーツ)",
+      "summary": "＜アジアプロ野球チャンピオンシップ2026：日本9－5韓国＞◇1次リーグ◇13日◇東京ドーム【写真】井口監督は宗山の勝ち越し3点本塁打にベンチでガッツポーズ 侍ジャパンが一発攻勢で韓国に競り勝った。2",
+      "link": "https://news.yahoo.co.jp/articles/9f926e6754c00c487ac6d9b2b5e3663e7b36abd5?source=rss",
+      "pubDate": "2026-11-13T13:54:13.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/9f926e6754c00c487ac6d9b2b5e3663e7b36abd5?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【アジアCS】井口監督「宗山君の集中力、素晴らしかった」「本塁打は効果的でいい」／一問一答(日刊スポーツ)",
+      "summary": "＜アジアプロ野球チャンピオンシップ2026：日本9－5韓国＞◇1次リーグ◇13日◇東京ドーム【写真】天を指さす宗山塁 侍ジャパンが一発攻勢で韓国に競り勝った。2連勝で決勝進出に大きく前進した。 初陣か",
+      "link": "https://news.yahoo.co.jp/articles/4e5ba1bf954c9899762e99c11e6e49931ed58a87?source=rss",
+      "pubDate": "2026-11-13T13:51:05.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/4e5ba1bf954c9899762e99c11e6e49931ed58a87?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【アジアCS】正木智也が２試合で３発 ゲームでは佐藤輝明上回り12球団最高のパワー(日刊スポーツ)",
+      "summary": "＜アジアプロ野球チャンピオンシップ2026：日本9－5韓国＞◇1次リーグ◇13日◇東京ドーム【写真】本塁打を放ち、声を上げる正木智也 侍ジャパンは「ラグザス アジアプロ野球チャンピオンシップ2026」",
+      "link": "https://news.yahoo.co.jp/articles/cee76728b012f86f7366fba007ffe8aefc84b347?source=rss",
+      "pubDate": "2026-11-13T13:49:43.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/cee76728b012f86f7366fba007ffe8aefc84b347?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【アジアCS】宗山塁が２試合連続で終盤に本塁打、３安打をマーク ２番として脅威の存在に (日刊スポーツ)",
+      "summary": "＜アジアプロ野球チャンピオンシップ2026：日本－韓国＞◇1次リーグ◇13日◇東京ドーム【写真】２打席連発の３点本塁打 侍ジャパンは「ラグザス アジアプロ野球チャンピオンシップ2026」の第2戦、宿敵",
+      "link": "https://news.yahoo.co.jp/articles/441f185a1c94c892bd8b0db15fba42c8d41d1327?source=rss",
+      "pubDate": "2026-11-13T13:39:40.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/441f185a1c94c892bd8b0db15fba42c8d41d1327?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【緒方耕一】２試合連発の正木智也 左の好打者が多い日本球界で１発ある右打者の存在は大きい (日刊スポーツ)",
+      "summary": "＜アジアプロ野球チャンピオンシップ2026：日本9－5韓国＞◇1次リーグ◇13日◇東京ドーム【写真】正木智也、特大の逆転２ラン！ 驚くような見事なホームランだった。井口監督が率いる侍ジャパンの1番を務",
+      "link": "https://news.yahoo.co.jp/articles/ac742a79ed983dfab3b9895d75b8620b1a6abb72?source=rss",
+      "pubDate": "2026-11-13T13:29:26.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/ac742a79ed983dfab3b9895d75b8620b1a6abb72?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "侍ジャパン、粘る韓国下し2連勝 宗山がミスを取り返す2打席連発となる決勝3ラン！",
+      "summary": "「ラグザス アジアプロ野球チャンピオンシップ2026」○ 侍ジャパン 9 － 5 韓国 ●＜11月13日・東京ドーム＞ 野球日本代表・侍ジャパンは13日、「アジアプロ野球チャンピオンシップ第2戦」で粘る韓国代表を下し、 […]",
+      "link": "https://baseballking.jp/ns/712442/",
+      "pubDate": "2026-11-13T13:28:51.000Z",
+      "source": "BASEBALL KING",
+      "sourceId": "baseballking",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "BASEBALL KING",
+          "sourceId": "baseballking",
+          "link": "https://baseballking.jp/ns/712442/"
+        }
+      ]
+    },
+    {
+      "title": "【アジアCS】正木弾！宗山弾！名刀「正宗」で侍が韓国斬り 井口監督「本塁打は効果的でいい」(日刊スポーツ)",
+      "summary": "＜アジアプロ野球チャンピオンシップ2026：日本9－5韓国＞◇1次リーグ◇13日◇東京ドーム【写真】日本対韓国 8回裏日本2死一、二塁、井口資仁監督は宗山塁の右越え勝ち越し3点本塁打にベンチでガッツポ",
+      "link": "https://news.yahoo.co.jp/articles/c6ca5522bde84e1577fbd2f0133f6f03c9f1b8d2?source=rss",
+      "pubDate": "2026-11-13T13:27:19.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/c6ca5522bde84e1577fbd2f0133f6f03c9f1b8d2?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【アジアCS】宗山塁が確信の勝ち越し３ラン「その前の守備が申し訳無かった。打てて良かった」(日刊スポーツ)",
+      "summary": "＜アジアプロ野球チャンピオンシップ2026：日本－韓国＞◇1次リーグ◇13日◇東京ドーム【写真】２打席連発！勝ち越し３ランを放つ宗山塁 この男、止まらない。8回2死一、二塁。4点リードを追いつかれ、球",
+      "link": "https://news.yahoo.co.jp/articles/5c3e1c84a2c51d1af14fd64525d45e83aa1712f6?source=rss",
+      "pubDate": "2026-11-13T13:23:49.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/5c3e1c84a2c51d1af14fd64525d45e83aa1712f6?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【アジアCS】日本が８回にまさかの同点弾被弾 ４番手中森俊介が乱調で１死も奪えず降板(日刊スポーツ)",
+      "summary": "＜アジアプロ野球チャンピオンシップ2026：日本－韓国＞◇1次リーグ◇13日◇東京ドーム【写真】4番手で登板した中森俊介 4点リードの8回に4番手で登板した侍ジャパン中森俊介投手（24＝ロッテ）が1死",
+      "link": "https://news.yahoo.co.jp/articles/e9642a7443b84053fbb4f490f97172a4e5dfea5f?source=rss",
+      "pubDate": "2026-11-13T13:23:21.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "marines"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/e9642a7443b84053fbb4f490f97172a4e5dfea5f?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【アジアCS】庄子雄大が９番から流れ作る「僕が出れば…」狙い通り役割こなした(日刊スポーツ)",
+      "summary": "＜アジアプロ野球チャンピオンシップ2026：日本－韓国＞◇1次リーグ◇13日◇東京ドーム【写真】庄子雄大の芝刈りポーズ 侍ジャパン庄子雄大内野手（24＝ソフトバンク）が9番から流れを作った。1点を負う",
+      "link": "https://news.yahoo.co.jp/articles/c243d334ab3d9f33a677208484c5fdfc43d69142?source=rss",
+      "pubDate": "2026-11-13T13:22:04.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "hawks"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/c243d334ab3d9f33a677208484c5fdfc43d69142?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【アジアCS】韓国 日本に真っ向“空中戦” ４点を追う８回に金揮執の３ランなどで同点に(日刊スポーツ)",
+      "summary": "＜アジアプロ野球チャンピオンシップ2026：日本－韓国＞◇1次リーグ◇13日◇東京ドーム【写真】韓国は３ランなどで同点に追いつく粘り 韓国が、日本の1発攻勢に真っ向から対抗した。 3回に韓東熙が先制ソ",
+      "link": "https://news.yahoo.co.jp/articles/bb19d4b36975343e910d4bc92e13915f85342a04?source=rss",
+      "pubDate": "2026-11-13T13:14:53.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/bb19d4b36975343e910d4bc92e13915f85342a04?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【アジアCS】うそだろ…森田駿哉が火消し失敗 ８回に同点３ランを献上 悔いの残る１球に(日刊スポーツ)",
+      "summary": "＜アジアプロ野球チャンピオンシップ2026：日本－韓国＞◇1次リーグ◇13日◇東京ドーム【写真】痛恨の３ランを浴びた森田駿哉 侍ジャパン森田駿哉投手（29＝巨人）が、痛恨の本塁打を浴びた。 3点リード",
+      "link": "https://news.yahoo.co.jp/articles/2f07e483b8bcc2cbed40eec1781ce9b52b19bad8?source=rss",
+      "pubDate": "2026-11-13T13:12:34.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "giants"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/2f07e483b8bcc2cbed40eec1781ce9b52b19bad8?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【アジアCS】宗山塁が2戦連発！高津臣吾氏「源田選手の後継者と…」牧秀悟も打球の強さ絶賛(日刊スポーツ)",
+      "summary": "＜アジアプロ野球チャンピオンシップ2026：日本－韓国＞◇1次リーグ◇13日◇東京ドーム【写真】アマゾンプライムで解説を務める高津臣吾氏（左）とDeNA牧秀悟 恐るべし1、2番コンビ。侍ジャパン宗山塁",
+      "link": "https://news.yahoo.co.jp/articles/17d8b367c0921ee927fedd59d0100b7f6781dd92?source=rss",
+      "pubDate": "2026-11-13T13:07:52.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "baystars"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/17d8b367c0921ee927fedd59d0100b7f6781dd92?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【アジアCS】竹丸和幸「しっかりと攻めた投球はできた」慣れ親しんだマウンドで４回１失点粘投(日刊スポーツ)",
+      "summary": "＜アジアプロ野球チャンピオンシップ2026：日本－韓国＞◇1次リーグ◇13日◇東京ドーム【写真】韓東熙に右越えソロ本塁打を浴びる竹丸和幸 侍ジャパン竹丸和幸投手（24＝巨人）が、所属する巨人の本拠地東",
+      "link": "https://news.yahoo.co.jp/articles/d6e8d40a32503a10f6381073b2d0d56b826519a8?source=rss",
+      "pubDate": "2026-11-13T13:07:03.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "giants"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/d6e8d40a32503a10f6381073b2d0d56b826519a8?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【アジアCS】韓国３番手朴示洹が１死も奪えず降板 宗山に特大２ラン被弾、２四球など大乱調(日刊スポーツ)",
+      "summary": "＜アジアプロ野球チャンピオンシップ2026：日本－韓国＞◇1次リーグ◇13日◇東京ドーム【写真】日本対韓国 7回裏日本無死一塁、宗山塁は右越え2点本塁打を放ちベンチを指さす。投手朴示洹 7回から3番手",
+      "link": "https://news.yahoo.co.jp/articles/9596a4a9eaed6cf8d370852d5c689a3e84ff2687?source=rss",
+      "pubDate": "2026-11-13T12:51:53.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/9596a4a9eaed6cf8d370852d5c689a3e84ff2687?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【アジアCS】古田敦也氏「力感がなくて。すごい」スタンド上段へ衝撃弾の宗山塁の打撃たたえる(日刊スポーツ)",
+      "summary": "＜アジアプロ野球チャンピオンシップ2026：日本－韓国＞◇1次リーグ◇13日◇東京ドーム【写真】スタンド上段へ衝撃弾の宗山塁 侍ジャパン宗山塁内野手（23＝楽天）が7回に試合を決める2ランを放った。",
+      "link": "https://news.yahoo.co.jp/articles/a5e3763fe29821d29bddb5423e689934e1191a36?source=rss",
+      "pubDate": "2026-11-13T12:50:04.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "eagles"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/a5e3763fe29821d29bddb5423e689934e1191a36?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【アジアCS】小島大河が確信ソロで追加点 侍初安打が大きな１発 ２試合連続先発起用に応える(日刊スポーツ)",
+      "summary": "＜アジアプロ野球チャンピオンシップ2026：日本－韓国＞◇1次リーグ◇13日◇東京ドーム【写真】侍初安打は確信ソロ 侍ジャパン小島大河捕手（23＝西武）が1号ソロで貴重な追加点を挙げた。 1点リードの",
+      "link": "https://news.yahoo.co.jp/articles/6cde61c863330d42b83d393db975eec19cc16e50?source=rss",
+      "pubDate": "2026-11-13T12:47:17.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "lions"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/6cde61c863330d42b83d393db975eec19cc16e50?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【アジアCS】２番手・石田裕太郎が見事な“日の丸デビュー” ２回ノーヒット (日刊スポーツ)",
+      "summary": "＜アジアプロ野球チャンピオンシップ2026：日本－韓国＞◇1次リーグ◇13日◇東京ドーム【写真】空振り三振を奪い、吠える石田裕太郎 侍ジャパンの石田裕太郎投手（24＝DeNA）が、堂々の“日の丸デビュ",
+      "link": "https://news.yahoo.co.jp/articles/8589a1f14b3c43f156624bd5f53b8ce6e496b2dd?source=rss",
+      "pubDate": "2026-11-13T12:42:52.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "baystars"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/8589a1f14b3c43f156624bd5f53b8ce6e496b2dd?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【アジアCS】解説の古田敦也氏「今日は本当にお父さんモード」スタンドの元チームメートイジる(日刊スポーツ)",
+      "summary": "＜アジアプロ野球チャンピオンシップ2026：日本－韓国＞◇1次リーグ◇13日◇東京ドーム【写真】今日は本当にお父さんモード 試合を生中継したテレビ朝日系で解説を務めた古田敦也氏が、スタメン出場した侍ジ",
+      "link": "https://news.yahoo.co.jp/articles/6115f9407faffddd307fd5dee5279b7a3332f193?source=rss",
+      "pubDate": "2026-11-13T12:30:05.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/6115f9407faffddd307fd5dee5279b7a3332f193?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【アジアCS】松坂大輔氏「この１発は本当に大きい」リード広げた小島大河の１発絶賛(日刊スポーツ)",
+      "summary": "＜アジアプロ野球チャンピオンシップ2026：日本－韓国＞◇1次リーグ◇13日◇東京ドーム【写真】松坂大輔氏も絶賛の1発放つ小島大河 侍ジャパン小島大河捕手（23＝西武）が、リードを広げるソロ本塁打を放",
+      "link": "https://news.yahoo.co.jp/articles/33e2b7836c584023bd20f4aa18e667c4df87980f?source=rss",
+      "pubDate": "2026-11-13T12:29:39.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "lions"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/33e2b7836c584023bd20f4aa18e667c4df87980f?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【アジアCS】里崎智也氏、バックネット裏にまさかの発見「どこで…」西日本限定お菓子に反応(日刊スポーツ)",
+      "summary": "＜アジアプロ野球チャンピオンシップ2026：日本－韓国＞◇1次リーグ◇13日◇東京ドーム【写真】声援を送る日本ファン 配信するアマゾンプライムで中継の解説を務める里崎智也氏（50）が、異様なファンの光",
+      "link": "https://news.yahoo.co.jp/articles/a0a2a8fe64fd4a546da194a122847204f68d4800?source=rss",
+      "pubDate": "2026-11-13T12:28:47.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/a0a2a8fe64fd4a546da194a122847204f68d4800?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【アジアCS】韓国先発の金晋旭が５回２失点で降板 援護受けるも正木に逆転２ラン浴びる(日刊スポーツ)",
+      "summary": "＜アジアプロ野球チャンピオンシップ2026：日本－韓国＞◇1次リーグ◇13日◇東京ドーム【写真】金晋旭は正木智也に左越え逆転２点本塁打を浴びる 韓国の先発左腕、金晋旭が5回2失点で降板した。2番手で6",
+      "link": "https://news.yahoo.co.jp/articles/a2d2096149876bba742b248b2605a514f96a1725?source=rss",
+      "pubDate": "2026-11-13T12:18:29.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/a2d2096149876bba742b248b2605a514f96a1725?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【アジアCS】4番山口航輝に死球…左腕のレガースに直撃 場内ブーイングも主砲は淡々と一塁へ(日刊スポーツ)",
+      "summary": "＜アジアプロ野球チャンピオンシップ2026：日本－韓国＞◇1次リーグ◇13日◇東京ドーム【写真】死球を受ける山口航輝 侍ジャパンの山口航輝外野手（26＝ロッテ）が死球を受けた。 1点リードで迎えた5回",
+      "link": "https://news.yahoo.co.jp/articles/6bedf3ed4e07cc1db695b5c345b05c918727b156?source=rss",
+      "pubDate": "2026-11-13T12:17:25.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "marines"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/6bedf3ed4e07cc1db695b5c345b05c918727b156?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【アジアCS】解説の古田敦也氏 スタンドで元チームメート発見「お父さん」さすがの洞察力発揮(日刊スポーツ)",
+      "summary": "＜アジアプロ野球チャンピオンシップ2026：日本－韓国＞◇1次リーグ◇13日◇東京ドーム【写真】度会隆輝の父 試合を生中継したテレビ朝日系で解説を務めた古田敦也氏が、放送中に映ったスタンドに、試合にス",
+      "link": "https://news.yahoo.co.jp/articles/57d2be19c9cbff865df5f5efd105a81cf2e6e112?source=rss",
+      "pubDate": "2026-11-13T12:07:54.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/57d2be19c9cbff865df5f5efd105a81cf2e6e112?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【アジアCS】先発の竹丸和幸「勝った状態でつなげられて良かった」４回１失点で石田へバトン(日刊スポーツ)",
+      "summary": "＜アジアプロ野球チャンピオンシップ2026：日本－韓国＞◇1次リーグ◇13日◇東京ドーム【写真】２番手で登板した石田裕太郎 先発の侍ジャパン竹丸和幸投手（24＝巨人）が、4回1失点でマウンドを降りた。",
+      "link": "https://news.yahoo.co.jp/articles/b5b96dcc577a14ac6173a4d039f463c6c78b57de?source=rss",
+      "pubDate": "2026-11-13T12:04:28.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "giants"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/b5b96dcc577a14ac6173a4d039f463c6c78b57de?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【アジアCS】古田敦也氏「腕がしっかり振れている」２番手登板DeNA石田裕太郎へ期待込める(日刊スポーツ)",
+      "summary": "＜アジアプロ野球チャンピオンシップ2026：日本－韓国＞◇1次リーグ◇13日◇東京ドーム【写真】２番手で登板した石田裕太郎 先発の竹丸和幸投手（24＝巨人）が、4回1失点でマウンドを降りた。5回からは",
+      "link": "https://news.yahoo.co.jp/articles/536380547459c15ae44ede83f4546d0c149e50eb?source=rss",
+      "pubDate": "2026-11-13T12:01:49.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "baystars"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/536380547459c15ae44ede83f4546d0c149e50eb?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【今日の阪神タイガース】11月13日に発表された契約更改選手一覧",
+      "summary": "阪神タイガースは13日、契約更改を行った選手を以下のとおりで正式発表した。",
+      "link": "https://www.baseballchannel.jp/npb/301645/",
+      "pubDate": "2026-11-13T12:00:49.000Z",
+      "source": "ベースボールチャンネル（プロ野球）",
+      "sourceId": "baseballchannel-npb",
+      "teams": [
+        "tigers"
+      ],
+      "topics": [
+        "contract"
+      ],
+      "sources": [
+        {
+          "name": "ベースボールチャンネル（プロ野球）",
+          "sourceId": "baseballchannel-npb",
+          "link": "https://www.baseballchannel.jp/npb/301645/"
+        }
+      ]
+    },
+    {
+      "title": "阪神の“急成長捕手”が契約更改 育成から支配下、来季は本格ブレイクへ",
+      "summary": "阪神タイガースは13日、嶋村麟士朗捕手が2027年シーズンに向けて契約更改を行ったと発表した。",
+      "link": "https://www.baseballchannel.jp/npb/301619/",
+      "pubDate": "2026-11-13T11:00:04.000Z",
+      "source": "ベースボールチャンネル（プロ野球）",
+      "sourceId": "baseballchannel-npb",
+      "teams": [
+        "tigers"
+      ],
+      "topics": [
+        "contract"
+      ],
+      "sources": [
+        {
+          "name": "ベースボールチャンネル（プロ野球）",
+          "sourceId": "baseballchannel-npb",
+          "link": "https://www.baseballchannel.jp/npb/301619/"
+        }
+      ]
+    },
+    {
+      "title": "「えっ？」午後1時に球団発表…助っ人2人に“悲鳴” わずか1年「いやああああああ」",
+      "summary": "DeNAが13日、オスバルド・ビド投手とクーパー・ヒュンメル外野手のウエイバー公示手続きを行ったと発表した。ともに今季から加入した新助っ人だったが、わずか1年でチームを去ることに。球団からの突然の発表を受け、SNS上ではファンから悲鳴や惜し…",
+      "link": "https://full-count.jp/2026/11/13/post2044734/",
+      "pubDate": "2026-11-13T10:47:43.000Z",
+      "source": "Full-Count（プロ野球）",
+      "sourceId": "full-count-npb",
+      "teams": [
+        "baystars"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Full-Count（プロ野球）",
+          "sourceId": "full-count-npb",
+          "link": "https://full-count.jp/2026/11/13/post2044734/"
+        }
+      ]
+    },
     {
       "title": "【アジアCS】韓国美人チアが日本戦でもホットパンツ姿で大声援 紺ユニ姿でパワフルダンス披露(日刊スポーツ)",
       "summary": "＜アジアプロ野球チャンピオンシップ2026：日本－韓国＞◇1次リーグ◇13日◇東京ドーム【写真】セクシーな生足 韓国の美女チアガール軍団が、連日スタンドを盛り上げた。 前日は白のユニホームだったが、こ",
@@ -292,11 +1222,6 @@
           "name": "ベースボールチャンネル（プロ野球）",
           "sourceId": "baseballchannel-npb",
           "link": "https://www.baseballchannel.jp/npb/301585/"
-        },
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/8395642d64ed2154ebd294e26c8f15dce184df0f?source=rss"
         }
       ]
     },
@@ -354,6 +1279,27 @@
           "name": "ベースボールチャンネル（プロ野球）",
           "sourceId": "baseballchannel-npb",
           "link": "https://www.baseballchannel.jp/npb/301564/"
+        }
+      ]
+    },
+    {
+      "title": "2軍で3年連続2ケタ盗塁…DeNA戦力外の“俊足外野手”がトライアウト挑戦 現ドラ移籍1年目の26歳",
+      "summary": "11月17日にバンテリンドーム ナゴヤで行われる「エイブル トライアウト2026」に、今季限りで横浜DeNAベイスターズを退団した濱将乃介外野手が参加する。日本プロ野球選手会が9日に発表した参加者に名を連ねた。",
+      "link": "https://www.baseballchannel.jp/npb/301591/",
+      "pubDate": "2026-11-13T08:30:59.000Z",
+      "source": "ベースボールチャンネル（プロ野球）",
+      "sourceId": "baseballchannel-npb",
+      "teams": [
+        "baystars"
+      ],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "ベースボールチャンネル（プロ野球）",
+          "sourceId": "baseballchannel-npb",
+          "link": "https://www.baseballchannel.jp/npb/301591/"
         }
       ]
     },
@@ -71606,435 +72552,6 @@
           "name": "Full-Count（プロ野球）",
           "sourceId": "full-count-npb",
           "link": "https://full-count.jp/2026/10/15/post2030821/"
-        }
-      ]
-    },
-    {
-      "title": "横浜・織田翔希、メジャー挑戦が決定的 ＮＰＢ球団との面談終了しきょう会見 ドラフト目玉の高校生では超異例(スポーツ報知)",
-      "summary": "横浜（神奈川）の最速１５７キロ右腕、織田翔希投手（３年）のメジャー挑戦が決定的となったことが１４日、分かった。この日までにＮＰＢ球団との面談を終了。それらを踏まえた上で熟考を重ね、日本球界を経ずに直接",
-      "link": "https://news.yahoo.co.jp/articles/941a580aa1da5951b2ed466d7254663d16b81435?source=rss",
-      "pubDate": "2026-10-14T15:55:03.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "baystars"
-      ],
-      "topics": [
-        "draft"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/941a580aa1da5951b2ed466d7254663d16b81435?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【日本ハム】カストロが母国での「逮捕状」をＳＮＳで報告 ＣＳ初戦は不在(東スポWEB)",
-      "summary": "日本ハムのロドルフォ・カストロ内野手（27）が14日、自身のインスタグラムに動画を投稿し、母国ドミニカ共和国で自身に対する逮捕状が出ていると明かした。現地での自宅建設を巡るトラブルが背景にあると説明し",
-      "link": "https://news.yahoo.co.jp/articles/9797c1e11aa90afe75b32bfaa881ed32f56e1939?source=rss",
-      "pubDate": "2026-10-14T15:45:30.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "fighters"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/9797c1e11aa90afe75b32bfaa881ed32f56e1939?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【ヤクルト】現役引退の石川雅規氏、25年間の渾身の１球は？ 「報道ステーション」生出演(日刊スポーツ)",
-      "summary": "ヤクルトの投手として同球団一筋25年で活躍し、今季限りで現役を引退した石川雅規氏（46）が14日、テレビ朝日系「報道ステーション」（月～金曜午後9時54分）に生出演した。 プロ野球生活25年間での渾身",
-      "link": "https://news.yahoo.co.jp/articles/c1d15e6eab7154291d67dc4e9d363364f943138b?source=rss",
-      "pubDate": "2026-10-14T14:53:39.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "swallows"
-      ],
-      "topics": [
-        "retirement"
-      ],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/c1d15e6eab7154291d67dc4e9d363364f943138b?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【ソフトバンク】野村勇、右肘関節クリーニング術無事終了 競技復帰までは約４カ月の見込み(日刊スポーツ)",
-      "summary": "ソフトバンクは野村勇内野手（29）が佐賀市内の病院で右肘関節クリーニング術を受けたと発表した。【写真】右肘関節クリーニング術を受けた野村勇 手術は無事に終了。競技復帰までは約4カ月の見込み。",
-      "link": "https://news.yahoo.co.jp/articles/740815bc6473febec0f43c4906b23db238dbb934?source=rss",
-      "pubDate": "2026-10-14T14:48:37.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "hawks"
-      ],
-      "topics": [
-        "injury"
-      ],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/740815bc6473febec0f43c4906b23db238dbb934?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【日本ハム】カストロが母国・ドミニカ共和国で逮捕状 インスタで動画投稿 近日中に帰国へ 福岡には姿現さず(スポーツ報知)",
-      "summary": "日本ハムのロドルフォ・カストロ内野手（２７）が１４日、母国のドミニカ共和国で逮捕状が出ていることを明かした。自身のインスタグラムで動画を投稿し、神妙な表情で説明した。母国での自宅建設を巡り、建設会社と",
-      "link": "https://news.yahoo.co.jp/articles/47a26793111fdf2bb4b4a7de6cccc5f633392806?source=rss",
-      "pubDate": "2026-10-14T14:27:28.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "fighters"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/47a26793111fdf2bb4b4a7de6cccc5f633392806?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "「自分の中で手応えのないボールから…」ソフトバンク鈴木豪太、CS初登板で背中を押したウイニングショット(西スポWEB OTTO!)",
-      "summary": "◆パーソル クライマックスシリーズ パ ファイナルステージ 第1戦 ソフトバンク6―4日本ハム（14日、みずほペイペイドーム）■【動画】流れを変えた！ ルーキー侍が頼もしすぎる好リリーフ！ ルーキーは",
-      "link": "https://news.yahoo.co.jp/articles/588189bf1ea35c05b7c657d184555f6fb568b64d?source=rss",
-      "pubDate": "2026-10-14T14:25:34.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "hawks"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/588189bf1ea35c05b7c657d184555f6fb568b64d?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【日本ハム】第２戦の先発は最多勝＆最高勝率の2冠の北山亘基「高い集中力で臨みます」(日刊スポーツ)",
-      "summary": "日本ハムの第2戦先発、北山亘基投手（27）が、巻き返しへの1勝を呼び込む。昨年のソフトバンクとのファイナルステージは、第4戦に先発して7回8安打3失点と粘投し、2連勝に貢献。今季13勝、勝率・813で",
-      "link": "https://news.yahoo.co.jp/articles/df37aad4b4e2f368e7d77c9556bf1071a26f0b8f?source=rss",
-      "pubDate": "2026-10-14T14:21:16.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "fighters"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/df37aad4b4e2f368e7d77c9556bf1071a26f0b8f?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【日本ハム】細野晴希「次は全部抑える」新庄監督がメッセージのやり取り明かす ４回無失点好投(日刊スポーツ)",
-      "summary": "＜パ・CSファイナルステージ：ソフトバンク6－4日本ハム＞◇14日◇みずほペイペイドーム【写真】メンバー表交換を終えポーズをとる新庄監督 日本ハム細野晴希投手（24）が4回2安打無失点と好リリーフした",
-      "link": "https://news.yahoo.co.jp/articles/54a9157340544535a95aa39c1d835602b739b3aa?source=rss",
-      "pubDate": "2026-10-14T14:18:55.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "fighters"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/54a9157340544535a95aa39c1d835602b739b3aa?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【日本ハム】カストロ、母国ドミニカで自宅の建設めぐってトラブルに 近日中に帰国(日刊スポーツ)",
-      "summary": "日本ハムのロドルフォ・カストロ内野手（27）が14日、自身のインスタグラムに動画を投稿し、母国ドミニカ共和国で自宅の建設をめぐってトラブルに巻き込まれていることを明かした。球団は詳しい状況を把握してい",
-      "link": "https://news.yahoo.co.jp/articles/f80e8d63a3021c7230612351a8de089b0c4af36f?source=rss",
-      "pubDate": "2026-10-14T14:13:08.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "fighters"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/f80e8d63a3021c7230612351a8de089b0c4af36f?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【日本ハム】郡司裕也「技術的ミス」落球→汚名返上弾「挽回はできてはいないと思いますけど…」(日刊スポーツ)",
-      "summary": "＜パ・CSファイナルステージ：ソフトバンク6－4日本ハム＞◇14日◇みずほペイペイドーム【写真】郡司裕也、痛恨の落球 日本ハム郡司裕也捕手（28）が汚名返上弾を放った。「3番左翼」でスタメン出場。同点",
-      "link": "https://news.yahoo.co.jp/articles/1bfecaafa4549b8ba1b6d930fe4c071dc6f889c0?source=rss",
-      "pubDate": "2026-10-14T14:09:30.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "fighters"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/1bfecaafa4549b8ba1b6d930fe4c071dc6f889c0?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【ソフトバンク】上沢直之、CSファイナル第２戦で先発へ「自分らしいピッチングができるよう」(日刊スポーツ)",
-      "summary": "ソフトバンク上沢直之投手（32）が15日のCSファイナル第2戦（みずほペイペイドーム）で先発する。相手は古巣の日本ハム。登板前日のこの日は本拠地で最終調整した。今季はカード別で無傷の3勝をマークするも",
-      "link": "https://news.yahoo.co.jp/articles/90f7a58c9764d1e2daffa0eef695fdb1d2657e7a?source=rss",
-      "pubDate": "2026-10-14T14:03:29.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "hawks"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/90f7a58c9764d1e2daffa0eef695fdb1d2657e7a?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【ソフトバンク】見事な火消しの鈴木豪太 ゲーム「栄冠ナイン」で監督の気持ちが少し分かった(日刊スポーツ)",
-      "summary": "＜パ・CSファイナルステージ：ソフトバンク6－4日本ハム＞◇14日◇みずほペイペイドーム【写真】見事な火消しぶりを見せた鈴木豪太 ソフトバンクのドラフト3位鈴木豪太投手（23）が3回途中から登板し1回",
-      "link": "https://news.yahoo.co.jp/articles/980064937ee3162b8dffb0c0fdb65668f26460b3?source=rss",
-      "pubDate": "2026-10-14T14:03:05.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "hawks"
-      ],
-      "topics": [
-        "draft"
-      ],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/980064937ee3162b8dffb0c0fdb65668f26460b3?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【日本ハム】柴田獅子、１安打１打点も悔しい失策「１プレーで一気に流れ変わる…今回のは課題」(日刊スポーツ)",
-      "summary": "＜パ・CSファイナルステージ：ソフトバンク6－4日本ハム＞◇14日◇みずほペイペイドーム【写真】痛恨の悪送球でしゃがみ込む柴田獅子 悔しい1安打1打点になった。日本ハム柴田獅子投手（20）が「7番一塁",
-      "link": "https://news.yahoo.co.jp/articles/1c12fad542cc378242465ea6b6db76644f495dea?source=rss",
-      "pubDate": "2026-10-14T14:00:23.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "fighters"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/1c12fad542cc378242465ea6b6db76644f495dea?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【日本ハム】先発の山崎福也「いろいろ絡んでしまい反省します」味方のミスもあり５失点で降板(日刊スポーツ)",
-      "summary": "＜パ・CSファイナルステージ：ソフトバンク6－4日本ハム＞◇14日◇みずほペイペイドーム【写真】悪送球を謝罪する柴田獅子をなだめる山崎福也 日本ハムの先発山崎福也投手（34）は4回途中5失点での降板と",
-      "link": "https://news.yahoo.co.jp/articles/55333ef5a18fea0583148a841dec9464b8a6307f?source=rss",
-      "pubDate": "2026-10-14T13:59:05.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "fighters"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/55333ef5a18fea0583148a841dec9464b8a6307f?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【ソフトバンク】小久保監督、早めの継投「短期決戦ですから」ドラ３鈴木豪太が逆転劇呼び込む(日刊スポーツ)",
-      "summary": "＜パ・CSファイナルステージ：ソフトバンク6－4日本ハム＞◇14日◇みずほペイペイドーム【写真】CS初登板初勝利をマークした鈴木豪太 ソフトバンク小久保裕紀監督（55）が早めの継投で日本ハムに逆転勝ち",
-      "link": "https://news.yahoo.co.jp/articles/be4f10bd6b208ba8684ef8166d503b722f91b706?source=rss",
-      "pubDate": "2026-10-14T13:49:08.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "hawks"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/be4f10bd6b208ba8684ef8166d503b722f91b706?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【日本ハム】新庄監督「まあまあ、仕方ないです」今季１試合だけの一塁・柴田獅子のミス責めず(日刊スポーツ)",
-      "summary": "＜パ・CSファイナルステージ：ソフトバンク6－4日本ハム＞◇14日◇みずほペイペイドーム【写真】悪送球して失点し、しゃがみ込む柴田獅子 敵地で悔しい逆転負け。日本ハム新庄剛志監督（54）は「モイネロか",
-      "link": "https://news.yahoo.co.jp/articles/8bdfbd7d2094914db5e6c3a76754ce874049d269?source=rss",
-      "pubDate": "2026-10-14T13:45:20.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "fighters"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/8bdfbd7d2094914db5e6c3a76754ce874049d269?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【データ】ソフトバンク鈴木豪太、CSで新人の勝利投手は19年甲斐野以来７年ぶり11人目(日刊スポーツ)",
-      "summary": "＜パ・CSファイナルステージ：ソフトバンク6－4日本ハム＞◇14日◇みずほペイペイドーム【写真】見事な火消しぶりを見せた鈴木豪太 ソフトバンクのドラフト3位鈴木豪太投手（23）が3回途中から登板し1回",
-      "link": "https://news.yahoo.co.jp/articles/8c6d88ff0e401cd2b225be1395729212ddd3d4a0?source=rss",
-      "pubDate": "2026-10-14T13:35:47.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "hawks"
-      ],
-      "topics": [
-        "draft"
-      ],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/8c6d88ff0e401cd2b225be1395729212ddd3d4a0?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【ソフトバンク】チャンスとピンチは表裏一体 選手たちが「必勝」の答え導き逆転勝ち(日刊スポーツ)",
-      "summary": "＜ニッカンスポーツ・コム／プロ野球番記者コラム：CATCH！！＞ ＜パ・CSファイナルステージ：ソフトバンク6－4日本ハム＞◇14日◇みずほペイペイドーム ソフトバンクが逆転勝ちでCSファイナル初戦を",
-      "link": "https://news.yahoo.co.jp/articles/5d28775feabffbb6e63f5d389bea0552c052b94d?source=rss",
-      "pubDate": "2026-10-14T13:34:44.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "hawks"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/5d28775feabffbb6e63f5d389bea0552c052b94d?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【ソフトバンク】庄子雄大、攻守で躍動「人生で一番緊張していた…１プレーを必死にやった結果」(日刊スポーツ)",
-      "summary": "＜パ・CSファイナルステージ：ソフトバンク6－4日本ハム＞◇14日◇みずほペイペイドーム【写真】遊ゴロを好捕し、起き上がりながら送球する庄子雄大 ソフトバンク庄子雄大内野手（24）が大仕事をやってのけ",
-      "link": "https://news.yahoo.co.jp/articles/526bc29f55ece3c19c8192c862208c5a3a2ab321?source=rss",
-      "pubDate": "2026-10-14T13:29:59.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "hawks"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/526bc29f55ece3c19c8192c862208c5a3a2ab321?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【ソフトバンク】牧原大成「１打席目をポイントに…」先制タイムリー 3出塁で逆転勝ちにも貢献(日刊スポーツ)",
-      "summary": "＜パ・CSファイナルステージ：ソフトバンク6－4日本ハム＞◇14日◇みずほペイペイドーム【写真】牧原大成は先制の中前適時打を放つ ソフトバンク牧原大成内野手（33）が先制タイムリーを放った。初回2死一",
-      "link": "https://news.yahoo.co.jp/articles/7dfc4c307eb5bb0b8879a44338fcde58d58d7ac5?source=rss",
-      "pubDate": "2026-10-14T13:11:01.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "hawks"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/7dfc4c307eb5bb0b8879a44338fcde58d58d7ac5?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【里崎智也】日本ハムは先を見据えた新庄戦略の弱い面が露呈 重圧はねのけたソフトバンクの強さ(日刊スポーツ)",
-      "summary": "＜パ・CSファイナルステージ：ソフトバンク6－4日本ハム＞◇14日◇みずほペイペイドーム【写真】郡司裕也、痛恨の落球 言うなれば、日本ハムは新庄監督が明確なメッセージを持ちながら初戦に挑み、受けて立っ",
-      "link": "https://news.yahoo.co.jp/articles/b5db643626556e4ca0661395192e8c7de2c42078?source=rss",
-      "pubDate": "2026-10-14T13:08:36.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "fighters",
-        "hawks"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/b5db643626556e4ca0661395192e8c7de2c42078?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【データ】ソフトバンク、CSファイナル初戦白星 突破率は90％ ３勝０敗から４敗は過去なし(日刊スポーツ)",
-      "summary": "＜パ・CSファイナルステージ：ソフトバンク6－4日本ハム＞◇14日◇みずほペイペイドーム【写真】ソフトバンク対日本ハム 4回裏ソフトバンク1死満塁、正木智也の打球が相手守備の失策を誘い勝ち越しとなる",
-      "link": "https://news.yahoo.co.jp/articles/ce2468266d2025e498112db85eefa0728f0457f5?source=rss",
-      "pubDate": "2026-10-14T13:02:23.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "hawks"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/ce2468266d2025e498112db85eefa0728f0457f5?source=rss"
         }
       ]
     }
