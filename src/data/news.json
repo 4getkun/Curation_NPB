@@ -1,7 +1,517 @@
 {
-  "generatedAt": "2026-11-17T08:37:10.857Z",
-  "count": 3628,
+  "generatedAt": "2026-11-17T17:57:07.786Z",
+  "count": 3641,
   "items": [
+    {
+      "title": "【ロッテ】ＤｅＮＡ戦力外の小園健太獲得へ…松川と市和歌山ドラ１バッテリー再結成(スポーツ報知)",
+      "summary": "ロッテが、今季限りでＤｅＮＡを戦力外となった小園健太投手（２３）の獲得に動いていることが１７日、分かった。【動画】入部希望者殺到！？乃木坂野球部がＺＯＺＯ降臨 小園は市和歌山から２１年ドラフト１位で入",
+      "link": "https://news.yahoo.co.jp/articles/91c6b32e7d6833c1fdbe6c2ed414ee48fd820402?source=rss",
+      "pubDate": "2026-11-17T17:00:07.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "marines"
+      ],
+      "topics": [
+        "trade",
+        "draft"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/91c6b32e7d6833c1fdbe6c2ed414ee48fd820402?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【ヤクルト】オリックス・村上喬一朗、中日２３年ドラ２・津田啓史の獲得調査…ともに育成で戦力外の捕手と内野手(スポーツ報知)",
+      "summary": "ヤクルトがオリックス・村上喬一朗捕手（２５）と中日・津田啓史内野手（２３）の獲得へ向けて調査を進めていることが１７日、分かった。ともに育成選手で今季終了後、戦力外通告を受けていた。 村上は東福岡から法",
+      "link": "https://news.yahoo.co.jp/articles/89b5f328bf77593b15e9fdcdb246f4d4469bf968?source=rss",
+      "pubDate": "2026-11-17T17:00:04.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "swallows"
+      ],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/89b5f328bf77593b15e9fdcdb246f4d4469bf968?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "DeNA ロッテ戦力外の菊地を育成で獲得へ 投手陣に厚みもたせる存在として期待(スポニチアネックス)",
+      "summary": "DeNAが、ロッテを戦力外となった菊地吏玖投手（26）を育成選手で獲得することが17日、分かった。 専大から22年ドラフト1位でロッテに入団。24年から2年連続で救援として20試合以上に登板したが、今",
+      "link": "https://news.yahoo.co.jp/articles/530cc2ef76bad2283fc25f9ed05de5a72b096f9e?source=rss",
+      "pubDate": "2026-11-17T17:00:00.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "baystars"
+      ],
+      "topics": [
+        "trade",
+        "draft"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/530cc2ef76bad2283fc25f9ed05de5a72b096f9e?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【オリックス】ＤｅＮＡ戦力外の藤浪晋太郎を獲得！背番号は２７ 地元・大阪出身 森友哉と「大阪桐蔭」バッテリー再結成！ 楽天から通算１０８Ｈの酒居知史らも積極補強へ(スポーツ報知)",
+      "summary": "オリックスが、ＤｅＮＡを戦力外となった藤浪晋太郎投手（３２）を獲得することが１７日、分かった。先発陣の強化を目指し、１０月から丁寧に調査を進めてきた右腕。この日のトライアウト終了後に正式交渉し、背番号",
+      "link": "https://news.yahoo.co.jp/articles/4e1fa7daa88664e8f754cabace37525b52c4905b?source=rss",
+      "pubDate": "2026-11-17T16:00:08.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "buffaloes"
+      ],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/4e1fa7daa88664e8f754cabace37525b52c4905b?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【阪神】徹底補強！日本ハムから自由契約の福田俊と西武戦力外の糸川亮太を獲得へ 左右の一芸投手で課題の戦力層の底上げ図る(スポーツ報知)",
+      "summary": "阪神が日本ハムから自由契約となった福田俊投手（２９）と西武から戦力外通告を受けた糸川亮太投手（２８）を獲得する方針を固めたことが１７日、分かった。いずれも育成契約の見込み。左右の一芸投手を補強し、虎投",
+      "link": "https://news.yahoo.co.jp/articles/2a69226e92201a455127fd023c92c7521396c9c2?source=rss",
+      "pubDate": "2026-11-17T16:00:05.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "tigers"
+      ],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/2a69226e92201a455127fd023c92c7521396c9c2?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "オリックス 藤浪晋太郎投手を獲得へ 大阪桐蔭で春夏連覇の森友哉とバッテリー再結成も(スポニチアネックス)",
+      "summary": "オリックスが、DeNAから戦力外通告を受けた藤浪晋太郎投手（32）の獲得に動くことが17日、分かった。先発陣の強化へ、160キロ超の直球を武器とする地元・大阪出身の剛腕に白羽の矢を立てた。トライアウト",
+      "link": "https://news.yahoo.co.jp/articles/d7c8a7bccb2410d4bf62614c50ce6bcc5512786f?source=rss",
+      "pubDate": "2026-11-17T16:00:00.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "buffaloes"
+      ],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/d7c8a7bccb2410d4bf62614c50ce6bcc5512786f?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【DeNA】ファンフェスに代わる新イベント２日目を開催「皆さんの熱さを感じました」宮崎敏郎(日刊スポーツ)",
+      "summary": "DeNAは17日、ファンフェスティバルに代わる新イベント「B－SIDE HOLIDAYS 2026 YOKOHAMA DeNA BAYSTARS Supported by 横濱ハーバー」の2日目を開催",
+      "link": "https://news.yahoo.co.jp/articles/c87abf2325ba120ee98c27c27d33956f924a6538?source=rss",
+      "pubDate": "2026-11-17T14:53:11.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "baystars"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/c87abf2325ba120ee98c27c27d33956f924a6538?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【トライアウト】ゾンビたばこ騒動で戦力外の矢野雅哉、田村俊介、前川誠太 現役続行へ強い意思(日刊スポーツ)",
+      "summary": "＜トライアウト＞◇17日◇バンテリンドーム 戦力外通告を受けた選手を対象にした日本プロ野球選手会主催の合同トライアウト「エイブル トライアウト2026」が17日、バンテリンドームで開催された。45人（",
+      "link": "https://news.yahoo.co.jp/articles/f5792926aca38772c9fd2f020cce9331fc826990?source=rss",
+      "pubDate": "2026-11-17T13:38:42.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/f5792926aca38772c9fd2f020cce9331fc826990?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【広島】侍ジャパン佐々木泰、辰見鴻之介がキャンプ地入り「１日１日大事に過ごしたい」(日刊スポーツ)",
+      "summary": "広島は15日まで侍ジャパンの一員としてアジアプロ野球チャンピオンシップに出場していた佐々木泰内野手（23）と辰見鴻之介内野手（25）が、キャンプ地入りした。 18日からの最終クールに参加する。ともに国",
+      "link": "https://news.yahoo.co.jp/articles/7623212d2b59562ab044be22263356b1eb94be16?source=rss",
+      "pubDate": "2026-11-17T13:27:14.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "carp"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/7623212d2b59562ab044be22263356b1eb94be16?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【広島】新井監督が江夏豊さん悼む「豪快に見えて、すごく繊細」「温かい声をかけていただいた」(日刊スポーツ)",
+      "summary": "プロ野球の投手として、阪神、南海、広島、日本ハム、西武で数々の「伝説」と「記録」を積み上げ、「優勝請負人」など多くの称号を得た野球解説者の江夏豊さんが17日未明、都内の病院で死去した。78歳だった。【",
+      "link": "https://news.yahoo.co.jp/articles/960719c6564c089bac39ffb84ecbfdfc48136cb4?source=rss",
+      "pubDate": "2026-11-17T13:25:49.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "carp"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/960719c6564c089bac39ffb84ecbfdfc48136cb4?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【トライアウト】前ロッテ愛斗が参加者唯一の本塁打「後悔ないよう自分のできることをやろうと」(日刊スポーツ)",
+      "summary": "＜トライアウト＞◇17日◇バンテリンドーム 前ロッテの愛斗外野手（29）は3打数1安打で左中間ウイング席へ、参加者唯一の本塁打を放った。【写真】豪快な１発放ち猛アピール 元巨人松井のカーブを完璧に捉え",
+      "link": "https://news.yahoo.co.jp/articles/56f34d49cf4d29f9569c5177b79d91f876dad638?source=rss",
+      "pubDate": "2026-11-17T13:24:36.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "marines"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/56f34d49cf4d29f9569c5177b79d91f876dad638?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "ド軍など国内外スカウト大集結「NPB以外でも…」 広島戦力外の田村、独立＆海外も選択肢か",
+      "summary": "「エイブル トライアウト2026」が17日にバンテリンドームで行われ、広島を戦力外となっていた田村俊介外野手は、トライアウト後の取材で今後について言及。NPB球団以外も選択肢に、国内外問わず新天地を探っていくとした。",
+      "link": "https://full-count.jp/2026/11/17/post2046533/",
+      "pubDate": "2026-11-17T12:11:50.000Z",
+      "source": "Full-Count（プロ野球）",
+      "sourceId": "full-count-npb",
+      "teams": [
+        "carp"
+      ],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "Full-Count（プロ野球）",
+          "sourceId": "full-count-npb",
+          "link": "https://full-count.jp/2026/11/17/post2046533/"
+        }
+      ]
+    },
+    {
+      "title": "“批判は覚悟”矢野雅哉「何で出られるんだって声も…」 トライアウト参加への葛藤「まだ野球を」",
+      "summary": "「エイブル トライアウト2026」が17日にバンテリンドームで行われ、広島を戦力外となっていた矢野雅哉内野手が出場した。今季は「ゾンビたばこ」を巡る一連の騒動もあり、戦力外に。トライアウトに参加するまでの葛藤も明かした。",
+      "link": "https://full-count.jp/2026/11/17/post2046527/",
+      "pubDate": "2026-11-17T11:46:27.000Z",
+      "source": "Full-Count（プロ野球）",
+      "sourceId": "full-count-npb",
+      "teams": [
+        "carp"
+      ],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "Full-Count（プロ野球）",
+          "sourceId": "full-count-npb",
+          "link": "https://full-count.jp/2026/11/17/post2046527/"
+        }
+      ]
+    },
+    {
+      "title": "広島戦力外・田村俊介が心境語る「悔しい思いを散々してきた」 トライアウトは1安打「いい道に進めるように」",
+      "summary": "「エイブル トライアウト2026」が17日にバンテリンドームで行われ、広島を戦力外となっていた田村俊介外野手は4打席に立って1安打だった。",
+      "link": "https://full-count.jp/2026/11/17/post2046510/",
+      "pubDate": "2026-11-17T11:11:44.000Z",
+      "source": "Full-Count（プロ野球）",
+      "sourceId": "full-count-npb",
+      "teams": [
+        "carp"
+      ],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "Full-Count（プロ野球）",
+          "sourceId": "full-count-npb",
+          "link": "https://full-count.jp/2026/11/17/post2046510/"
+        }
+      ]
+    },
+    {
+      "title": "広島戦力外の前川誠太「悔いはある」 トライアウトは無安打…再起目指す23歳",
+      "summary": "「エイブル トライアウト2026」が17日にバンテリンドームで行われ、広島を戦力外となっていた前川誠太内野手は遊直、中飛、遊ゴロ、見逃し三振で快音は聞かれなかった。「自分のアピールポイントであるコンタクト率というのは悔いはあります」と振り返…",
+      "link": "https://full-count.jp/2026/11/17/post2046505/",
+      "pubDate": "2026-11-17T11:06:47.000Z",
+      "source": "Full-Count（プロ野球）",
+      "sourceId": "full-count-npb",
+      "teams": [
+        "carp"
+      ],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "Full-Count（プロ野球）",
+          "sourceId": "full-count-npb",
+          "link": "https://full-count.jp/2026/11/17/post2046505/"
+        }
+      ]
+    },
+    {
+      "title": "トライアウト参加の矢野雅哉が謝罪「本当に申し訳ない」 騒動にも言及「僕はやってない」…抱き続ける思い",
+      "summary": "「エイブル トライアウト2026」が17日にバンテリンドームで行われ、広島を戦力外となっていた矢野雅哉内野手が出場。無安打だったものの、2盗塁でアピールした。",
+      "link": "https://full-count.jp/2026/11/17/post2046257/",
+      "pubDate": "2026-11-17T11:04:56.000Z",
+      "source": "Full-Count（プロ野球）",
+      "sourceId": "full-count-npb",
+      "teams": [
+        "carp"
+      ],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "Full-Count（プロ野球）",
+          "sourceId": "full-count-npb",
+          "link": "https://full-count.jp/2026/11/17/post2046257/"
+        }
+      ]
+    },
+    {
+      "title": "戦力外後に“フォーム激変”「凄い事になってる!!」 トライアウト無双3Kにネット驚き「全然違う」",
+      "summary": "「エイブル トライアウト2026」が17日にバンテリンドームで行われ、元楽天の引地秀一郎投手が参加。NPB時代とはフォームが大きく変化し、3者連続空振り三振でアピールに大成功。「引地3三振凄くね!?」「全然違う投げ方なんだな」とファンから驚…",
+      "link": "https://full-count.jp/2026/11/17/post2046195/",
+      "pubDate": "2026-11-17T10:55:17.000Z",
+      "source": "Full-Count（プロ野球）",
+      "sourceId": "full-count-npb",
+      "teams": [
+        "eagles"
+      ],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "Full-Count（プロ野球）",
+          "sourceId": "full-count-npb",
+          "link": "https://full-count.jp/2026/11/17/post2046195/"
+        }
+      ]
+    },
+    {
+      "title": "トライアウト、シート打撃結果一覧 愛斗が一発！元巨人・保科が3安打、元楽天・引地が3K",
+      "summary": "17日にバンテリンドームナゴヤで『エイブル トライアウト2026～挑め、その先へ～』で開催された。45人の選手が出場し、シート打撃を行った。 ▼ シート打撃結果一覧 1 寿賀弘都（オリックス） 牧原巧汰（ソフトバンク） […]",
+      "link": "https://baseballking.jp/ns/712659/",
+      "pubDate": "2026-11-17T10:47:06.000Z",
+      "source": "BASEBALL KING",
+      "sourceId": "baseballking",
+      "teams": [
+        "giants",
+        "eagles"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "BASEBALL KING",
+          "sourceId": "baseballking",
+          "link": "https://baseballking.jp/ns/712659/"
+        }
+      ]
+    },
+    {
+      "title": "巨人育成に眠る「ポスト岡本」 183cm＆115kgの巨体…“激似フォーム”で覚醒気配",
+      "summary": "台湾で開催中の「2026アジアウインターベースボールリーグ（AWB）」にNPB選抜の一員として参加している竹下徠空内野手が、16日の台湾のCPBL選抜（海）戦で左前安打を放った。ファンが注目したのは快音飛ばしたスイング。「岡本みたい」と話題…",
+      "link": "https://full-count.jp/2026/11/17/post2046244/",
+      "pubDate": "2026-11-17T10:30:20.000Z",
+      "source": "Full-Count（プロ野球）",
+      "sourceId": "full-count-npb",
+      "teams": [
+        "giants"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Full-Count（プロ野球）",
+          "sourceId": "full-count-npb",
+          "link": "https://full-count.jp/2026/11/17/post2046244/"
+        }
+      ]
+    },
+    {
+      "title": "「なんで戦力外に」いきなり弾丸HR…29歳の“実力”に驚きの声「明らかに抜けてる」「欲しい」",
+      "summary": "プロ野球選手会による「エイブル トライアウト2026～挑め、その先へ～」が17日、バンテリンドームで開催され、元ロッテの愛斗外野手が第1打席で左翼テラスへ豪快アーチを叩き込んだ。鋭いスイングにファンからは「なんで戦力外になっちまったんだ………",
+      "link": "https://full-count.jp/2026/11/17/post2046477/",
+      "pubDate": "2026-11-17T10:22:42.000Z",
+      "source": "Full-Count（プロ野球）",
+      "sourceId": "full-count-npb",
+      "teams": [
+        "marines"
+      ],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "Full-Count（プロ野球）",
+          "sourceId": "full-count-npb",
+          "link": "https://full-count.jp/2026/11/17/post2046477/"
+        }
+      ]
+    },
+    {
+      "title": "西武、ドラ3・沢山と入団交渉「夢と希望を届けられる選手になりたい」",
+      "summary": "西武は17日、ドラフト3位で沢山優介投手（ヤマハ）の入団交渉後の記者会見を行ったと発表した。 沢山は球団を通じて「まだプロ野球選手になる実感はあまりありませんが、ドラフト当日から比べると少しずつ湧いてきました。1年目 […]",
+      "link": "https://baseballking.jp/ns/712716/",
+      "pubDate": "2026-11-17T09:48:39.000Z",
+      "source": "BASEBALL KING",
+      "sourceId": "baseballking",
+      "teams": [
+        "lions"
+      ],
+      "topics": [
+        "draft"
+      ],
+      "sources": [
+        {
+          "name": "BASEBALL KING",
+          "sourceId": "baseballking",
+          "link": "https://baseballking.jp/ns/712716/"
+        }
+      ]
+    },
+    {
+      "title": "佐藤輝明に米国記者“戦慄”「規格外」「このスイングで」 物語るヤクルトバッテリーの表情",
+      "summary": "阪神からポスティングシステムでのメジャー移籍を目指す佐藤輝明内野手は、米メディアが発表したオフのFAランキングでも上位に位置づけられる注目株だ。米記者は佐藤が示した“投手を凍り付かせる”驚愕のパワーが忘れられないようだ。映像を公開して絶賛し…",
+      "link": "https://full-count.jp/2026/11/17/post2046326/",
+      "pubDate": "2026-11-17T09:48:36.000Z",
+      "source": "Full-Count（プロ野球）",
+      "sourceId": "full-count-npb",
+      "teams": [
+        "swallows"
+      ],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "Full-Count（プロ野球）",
+          "sourceId": "full-count-npb",
+          "link": "https://full-count.jp/2026/11/17/post2046326/"
+        }
+      ]
+    },
+    {
+      "title": "西武・冨士大和が目指す推しキャラ“コンプリート” プレゼント殺到も「まだ半分」…鍵握る知名度アップ",
+      "summary": "西武・冨士大和が目指す推しキャラコンプリート。1軍デビューでプレゼント殺到も「まだ半分も達成していません」。“大願成就”へ、鍵握る知名度アップ。",
+      "link": "https://full-count.jp/2026/11/17/post2046397/",
+      "pubDate": "2026-11-17T09:39:09.000Z",
+      "source": "Full-Count（プロ野球）",
+      "sourceId": "full-count-npb",
+      "teams": [
+        "lions"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Full-Count（プロ野球）",
+          "sourceId": "full-count-npb",
+          "link": "https://full-count.jp/2026/11/17/post2046397/"
+        }
+      ]
+    },
+    {
+      "title": "鷹の助っ人5人が自由契約…防御率1.48の左腕も【NPB公示】",
+      "summary": "日本野球機構（NPB）は17日、福岡ソフトバンクホークスのカーター・スチュワート・ジュニア投手、ジャクソン・ラトリッジ投手、ダーウィンゾン・ヘルナンデス投手、ルイス・ロドリゲス投手、ジーター・ダウンズ内野手の5選手を自由契約選手として公示し…",
+      "link": "https://www.baseballchannel.jp/npb/301958/",
+      "pubDate": "2026-11-17T08:46:51.000Z",
+      "source": "ベースボールチャンネル（プロ野球）",
+      "sourceId": "baseballchannel-npb",
+      "teams": [
+        "hawks"
+      ],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "ベースボールチャンネル（プロ野球）",
+          "sourceId": "baseballchannel-npb",
+          "link": "https://www.baseballchannel.jp/npb/301958/"
+        }
+      ]
+    },
+    {
+      "title": "中日・工藤監督、江夏豊氏の訃報を受け「尊敬する投手」、「非常に残念です」",
+      "summary": "中日は17日、江夏豊氏の訃報に接し 工藤公康監督のコメントを発表した。 ▼ 工藤公康監督 「江夏さんとは、今年のはじめに対談させていただきました。自分が子どもの頃から江夏さんは目標の投手で、フォームを真似して投げていま […]",
+      "link": "https://baseballking.jp/ns/712692/",
+      "pubDate": "2026-11-17T08:45:12.000Z",
+      "source": "BASEBALL KING",
+      "sourceId": "baseballking",
+      "teams": [
+        "dragons"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "BASEBALL KING",
+          "sourceId": "baseballking",
+          "link": "https://baseballking.jp/ns/712692/"
+        }
+      ]
+    },
     {
       "title": "【トライアウト】広島戦力外の矢野雅哉、二盗、三盗で一気に生還 ３人とも拍手受ける(日刊スポーツ)",
       "summary": "＜トライアウト＞◇17日◇バンテリンドーム プロ野球で戦力外となった選手を対象にした日本プロ野球選手会主催「エイブル トライアウト2026～挑め、その先へ～」が17日、バンテリンドームで開催された。",
@@ -704,11 +1214,6 @@
           "name": "BASEBALL KING",
           "sourceId": "baseballking",
           "link": "https://baseballking.jp/ns/712654/"
-        },
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/b806425a23326afde301bf1fb72f9cc9ad465747?source=rss"
         }
       ]
     },
@@ -1098,6 +1603,25 @@
           "name": "Full-Count（プロ野球）",
           "sourceId": "full-count-npb",
           "link": "https://full-count.jp/2026/11/17/post2045692/"
+        }
+      ]
+    },
+    {
+      "title": "ロッテ、ドキュメンタリー映画のナレーションにピエール瀧さんが決定 2年連続で担当「人が変わり、状況が変わり」",
+      "summary": "千葉ロッテマリーンズは、12月25日(金)に全国32劇場で公開するドキュメンタリー映画「MARINES DOCUMENTARY 2026 PLAY MUST GO ON」のナレーションを俳優のピエール瀧さんが担当することを発表した。",
+      "link": "https://www.baseballchannel.jp/npb/302000/",
+      "pubDate": "2026-11-16T22:30:57.000Z",
+      "source": "ベースボールチャンネル（プロ野球）",
+      "sourceId": "baseballchannel-npb",
+      "teams": [
+        "marines"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "ベースボールチャンネル（プロ野球）",
+          "sourceId": "baseballchannel-npb",
+          "link": "https://www.baseballchannel.jp/npb/302000/"
         }
       ]
     },
@@ -72127,258 +72651,6 @@
           "name": "日刊スポーツ（Yahoo!ニュース経由）",
           "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/66d87f5028fe7ad844d637b6404efe049c617983?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "阪神に激震！島田海吏、豊田寛の外野手2人が戦力外 ともに今季1軍で結果残せず(スポニチアネックス)",
-      "summary": "阪神・島田海吏外野手（30）と、豊田寛外野手（29）が、来季の戦力構想から外れたことが18日、分かった。【写真あり】阪神が4回1死満塁逸機で60回連続適時打なし 22年8月の悪夢に並ぶ 当時は島田海吏",
-      "link": "https://news.yahoo.co.jp/articles/d57e1cb23d0bd54b1a5197d802d33c3e896b5be5?source=rss",
-      "pubDate": "2026-10-18T16:30:00.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "tigers"
-      ],
-      "topics": [
-        "trade"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/d57e1cb23d0bd54b1a5197d802d33c3e896b5be5?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "阪神に激震！藤本敦士総合コーチが今季限りで退団 小谷野打撃チーフコーチに続き中心的存在が…(スポニチアネックス)",
-      "summary": "阪神・藤本敦士総合コーチ（49）が今季限りで退団することが18日、分かった。 藤本コーチは藤川監督の下で2年間、内野守備を中心に作戦面も含めて野手全般を管轄し、球団初のリーグ連覇に貢献した。だが、全日",
-      "link": "https://news.yahoo.co.jp/articles/5e4c9b8de76021a1c195fba68db4ea2aedaba1dc?source=rss",
-      "pubDate": "2026-10-18T16:30:00.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "tigers"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/5e4c9b8de76021a1c195fba68db4ea2aedaba1dc?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "阪神・佐藤輝明 11月中に渡米！球団軟化、ポスティング容認に備え早期に「メジャー移籍準備」(スポニチアネックス)",
-      "summary": "今オフにポスティングシステムを利用してメジャー移籍を目指す阪神・佐藤輝明内野手（27）が11月中に渡米することが18日、分かった。トレーニングが主目的で、早期のメジャー移籍に備えて準備を開始するもよう",
-      "link": "https://news.yahoo.co.jp/articles/ac80d8ec9d61bfbcef36ea64f79d370f687b9fde?source=rss",
-      "pubDate": "2026-10-18T16:30:00.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "tigers"
-      ],
-      "topics": [
-        "trade"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/ac80d8ec9d61bfbcef36ea64f79d370f687b9fde?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "巨人の山口オーナーが母校・早稲田大学で「未来のプロスポーツを考える」をテーマにトークセッション。ローカルからグローバル化へ。エクスパンションの効果と問題点も(TOKYO HEADLINE WEB)",
-      "summary": "プロ野球の読売巨人軍の山口寿一オーナーが10月18日、母校の早稲田大学で行われた「稲門祭」で17日に終了したクライマックスシリーズや現在議論が進められているエクスパンション（球団拡張）について語る場面",
-      "link": "https://news.yahoo.co.jp/articles/7d1dc464ab8e4100ef32bb435177e369a0ac5f0a?source=rss",
-      "pubDate": "2026-10-18T14:40:53.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "giants"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/7d1dc464ab8e4100ef32bb435177e369a0ac5f0a?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "フジ女子アナがびしょ濡れ報告「ビッショビショになっています、最高でした」(日刊スポーツ)",
-      "summary": "フジテレビの吉岡恵麻アナウンサーが18日、自身のインスタグラムを更新し、17日に行われたDeNAのCS祝勝会のビールかけ取材でびしょぬれになったことを報告した。【写真】ビッショビショになる吉岡恵麻アナ",
-      "link": "https://news.yahoo.co.jp/articles/729f6c1b110f78ab04fa7add49ef98dcbac93c02?source=rss",
-      "pubDate": "2026-10-18T11:58:56.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "baystars"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/729f6c1b110f78ab04fa7add49ef98dcbac93c02?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "まだやれる？去就が注目される戦力外通告選手（1）33セーブの実績も…守護神がまさかの戦力外(ベースボールチャンネル)",
-      "summary": "レギュラーシーズンが終了したプロ野球。日本一へ向けてまだまだ激戦が続く一方、すでに多くの選手が戦力外通告を受けた。実績のある選手も非情な通告を受けており、「まだやれるのでは」という声も少なくない。今回",
-      "link": "https://news.yahoo.co.jp/articles/c02b0bbee0b10e3a85753bee152131a88a88f487?source=rss",
-      "pubDate": "2026-10-18T11:30:50.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [],
-      "topics": [
-        "trade"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/c02b0bbee0b10e3a85753bee152131a88a88f487?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "野村弘樹氏が見たDeNA先発陣「開幕前にこのメンバーを誰が予想したか」(ニッポン放送)",
-      "summary": "18日に放送された『ショウアップナイタースペシャル プロ野球に60n！』に野村弘樹氏が電話出演し、DeNAの先発陣について言及した。野村氏は「ピッチャーのコックスもダメでしたし、デュプランティエもいな",
-      "link": "https://news.yahoo.co.jp/articles/e10359822c7ce46317a58add67135c2fc9787bbc?source=rss",
-      "pubDate": "2026-10-18T11:20:12.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "baystars"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/e10359822c7ce46317a58add67135c2fc9787bbc?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "野村弘樹氏が語ったDeNAが日本シリーズ進出へ勝敗を分けた場面とは…(ニッポン放送)",
-      "summary": "18日に放送された『ショウアップナイタースペシャル プロ野球に60n！』に野村弘樹氏が電話出演し、日本シリーズ進出を決めたセ・リーグ3位のDeNAについて言及した。DeNAは巨人とのファーストステージ",
-      "link": "https://news.yahoo.co.jp/articles/860b6236907c4d2a37190b575e45913da98e9066?source=rss",
-      "pubDate": "2026-10-18T11:16:00.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "baystars"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/860b6236907c4d2a37190b575e45913da98e9066?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "福岡ソフトバンクはなぜ強いのか？3年連続リーグ優勝を果たしたチームの強さを分析(スポーティングニュース日本版)",
-      "summary": "福岡ソフトバンクホークスは2026年、3年連続22度目のパ・リーグ優勝を達成。CSファイナルステージで北海道日本ハムファイターズを破り、3年連続の日本シリーズ進出を決めた。横浜DeNAベイスターズの人",
-      "link": "https://news.yahoo.co.jp/articles/5cbf8afd7cffa7a33a7c82c9bbd28da04ba636a5?source=rss",
-      "pubDate": "2026-10-18T11:13:34.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "hawks"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/5cbf8afd7cffa7a33a7c82c9bbd28da04ba636a5?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "ホリプロタレントスカウトキャラバンGPは元プロ野球選手・田淵幸一氏の孫、田淵結真さん(日刊スポーツ)",
-      "summary": "深田恭子、綾瀬はるか、石原さとみらを輩出した「第48回ホリプロタレントスカウトキャラバン」決戦大会が18日、都内で行われ、兵庫県出身の中学1年生、田淵結真（たぶち・ゆま）さん（12）がグランプリに輝い",
-      "link": "https://news.yahoo.co.jp/articles/b98bb98f970da8e17bd183612f8cf1ea889cde82?source=rss",
-      "pubDate": "2026-10-18T11:00:04.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/b98bb98f970da8e17bd183612f8cf1ea889cde82?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【ソフトバンク】前監督が挙げる日本シリーズのキーマンは…「頑張れ」とDeNA選手にもエール(日刊スポーツ)",
-      "summary": "ソフトバンク前監督の藤本博史氏（62）が、ソフトバンクとDeNAの対戦となった日本シリーズのキーマンを挙げた。【写真】日本シリーズのキーマンは… ソフトバンクは、正木智也外野手（26）、リバン・モイネ",
-      "link": "https://news.yahoo.co.jp/articles/f37c94c61b5923212693a5b09b4a7951e0ad7d4b?source=rss",
-      "pubDate": "2026-10-18T10:39:36.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "hawks",
-        "baystars"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/f37c94c61b5923212693a5b09b4a7951e0ad7d4b?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "DeNAナインが驚いた100万円の“行方”「ええええ」「エグイ」も…絆感じる微笑ましい光景",
-      "summary": "DeNAは17日、阪神とのクライマックスシリーズ（CS）ファイナルステージ第4戦に勝利し、日本シリーズ進出を決めた。ファンの投票によりCSで最も活躍した選手に贈られる賞金100万円の『「灯セ、みんなで。」JERA賞』を度会隆輝外野手が受賞し…",
-      "link": "https://full-count.jp/2026/10/18/post2032833/",
-      "pubDate": "2026-10-18T10:17:03.000Z",
-      "source": "Full-Count（プロ野球）",
-      "sourceId": "full-count-npb",
-      "teams": [
-        "baystars"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Full-Count（プロ野球）",
-          "sourceId": "full-count-npb",
-          "link": "https://full-count.jp/2026/10/18/post2032833/"
-        }
-      ]
-    },
-    {
-      "title": "【オリックス】台湾出身の育成契約２選手が入団会見 許宸緯は右腕、張乙安は二刀流封印で野手(日刊スポーツ)",
-      "summary": "オリックスは17日、育成契約で獲得した台湾出身の許宸緯投手（シュウ・チェンウェイ＝18）と張乙安内野手（ジャン・イーアン＝18）の入団会見を大阪・舞洲で行った。2人は会見前に秋季練習にも参加。背番号は",
-      "link": "https://news.yahoo.co.jp/articles/f044ffb928dc271d2d3f0359594dcbc00bf433ec?source=rss",
-      "pubDate": "2026-10-18T09:00:01.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "buffaloes"
-      ],
-      "topics": [
-        "draft"
-      ],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/f044ffb928dc271d2d3f0359594dcbc00bf433ec?source=rss"
         }
       ]
     }

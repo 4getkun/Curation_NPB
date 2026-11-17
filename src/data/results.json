@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T08:37:11.951Z",
+  "generatedAt": "2026-11-17T17:57:08.845Z",
   "teams": {
     "giants": [
       {
@@ -938,7 +938,7 @@
         "ownScore": 1,
         "opponentScore": 2,
         "result": "loss",
-        "winningPitcher": "",
+        "winningPitcher": "横山（3-4-34）",
         "losingPitcher": "松本裕（4-5-4）",
         "savePitcher": "",
         "venue": "ZOZOマリン",
@@ -954,7 +954,7 @@
         "opponentScore": 3,
         "result": "win",
         "winningPitcher": "鈴木豪（4-1）",
-        "losingPitcher": "",
+        "losingPitcher": "横山（2-4-34）",
         "savePitcher": "杉山（1-2-35）",
         "venue": "ZOZOマリン",
         "record": "91-47-3"
@@ -1076,7 +1076,7 @@
         "opponentScore": 0,
         "result": "win",
         "winningPitcher": "豆田（3-0-2）",
-        "losingPitcher": "",
+        "losingPitcher": "ルケーシー（1-3）",
         "savePitcher": "佐藤爽（2-1-1）",
         "venue": "ZOZOマリン",
         "record": "79-60-4"
@@ -1091,7 +1091,7 @@
         "opponentScore": 1,
         "result": "win",
         "winningPitcher": "篠原（3-3-1）",
-        "losingPitcher": "",
+        "losingPitcher": "益田（1-1-2）",
         "savePitcher": "",
         "venue": "ZOZOマリン",
         "record": "78-60-4"
@@ -1394,9 +1394,9 @@
         "ownScore": 2,
         "opponentScore": 3,
         "result": "loss",
-        "winningPitcher": "",
+        "winningPitcher": "小島（6-9）",
         "losingPitcher": "早川（7-10）",
-        "savePitcher": "",
+        "savePitcher": "横山（3-4-35）",
         "venue": "ZOZOマリン",
         "record": "57-84-1"
       },
@@ -1440,7 +1440,7 @@
         "opponentScore": 0,
         "result": "win",
         "winningPitcher": "荘司（9-9）",
-        "losingPitcher": "",
+        "losingPitcher": "ルケーシー（1-2）",
         "savePitcher": "藤平（0-2-29）",
         "venue": "楽天モバイル",
         "record": "56-82-1"
@@ -1454,9 +1454,9 @@
         "ownScore": 3,
         "opponentScore": 6,
         "result": "loss",
-        "winningPitcher": "",
+        "winningPitcher": "吉川（1-2）",
         "losingPitcher": "伊藤樹（2-1）",
-        "savePitcher": "",
+        "savePitcher": "横山（2-3-34）",
         "venue": "楽天モバイル",
         "record": "55-82-1"
       },
@@ -1684,7 +1684,7 @@
         "opponentScore": 1,
         "result": "win",
         "winningPitcher": "北山（13-3）",
-        "losingPitcher": "",
+        "losingPitcher": "ロング（1-7）",
         "savePitcher": "柳川（4-1-30）",
         "venue": "ZOZOマリン",
         "record": "78-62-3"
@@ -1699,7 +1699,7 @@
         "opponentScore": 3,
         "result": "win",
         "winningPitcher": "福島（6-4-1）",
-        "losingPitcher": "",
+        "losingPitcher": "ジャクソン（9-9）",
         "savePitcher": "",
         "venue": "ZOZOマリン",
         "record": "77-62-3"
@@ -1713,7 +1713,7 @@
         "ownScore": 1,
         "opponentScore": 6,
         "result": "loss",
-        "winningPitcher": "",
+        "winningPitcher": "高野脩（4-4）",
         "losingPitcher": "有原（7-9）",
         "savePitcher": "",
         "venue": "ZOZOマリン",
