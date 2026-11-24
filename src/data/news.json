@@ -1,7 +1,642 @@
 {
-  "generatedAt": "2026-11-24T05:38:31.266Z",
-  "count": 3297,
+  "generatedAt": "2026-11-24T16:35:09.290Z",
+  "count": 3220,
   "items": [
+    {
+      "title": "【巨人】船迫大雅3000万増の年俸1億2000万円 ご褒美に「おいしいモノを食べたい」(日刊スポーツ)",
+      "summary": "巨人船迫大雅投手（30）が大台に到達した。3000万増の年俸1億2000万円でサイン。【一覧】巨人の契約更改状況 大台を突破したご褒美に「おいしいモノを食べたい。サイゼリヤとすき家が好きなので」と人気",
+      "link": "https://news.yahoo.co.jp/articles/7699cd6703fd9103a28d19235dab912a3399d73d?source=rss",
+      "pubDate": "2026-11-24T12:37:47.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "giants"
+      ],
+      "topics": [
+        "contract"
+      ],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/7699cd6703fd9103a28d19235dab912a3399d73d?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【巨人】リチャード「松井監督のもとで取るべき、勝手ながら使命感も」来季「長嶋茂雄賞目標に」(日刊スポーツ)",
+      "summary": "ミスターの名を冠した賞を巨人から－。リチャード（27）が24日、都内の球団事務所で契約更改交渉に臨み400万円減の2200万円でサイン。来季へ「長嶋茂雄賞を目標にしたので」と決意した。【一覧】巨人の契",
+      "link": "https://news.yahoo.co.jp/articles/c48d6741615ae22fbb07a3b1759c1178eae36af5?source=rss",
+      "pubDate": "2026-11-24T12:27:12.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "giants"
+      ],
+      "topics": [
+        "contract"
+      ],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/c48d6741615ae22fbb07a3b1759c1178eae36af5?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【巨人】戸郷翔征が開幕投手へ意欲 松井新監督の初陣に「名を連ねたい」と３度目の大役目指す(日刊スポーツ)",
+      "summary": "巨人戸郷翔征投手（26）が開幕投手へ意欲を示した。契約更改に臨み、4000万円減の2億円でサイン。不調とけがで登板は14試合にとどまった。（金額は推定）【一覧】巨人の契約更改状況 秋季キャンプ初日には",
+      "link": "https://news.yahoo.co.jp/articles/7b043569d0e6e1c971453f55036dee24a0a01cc8?source=rss",
+      "pubDate": "2026-11-24T12:26:53.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "giants"
+      ],
+      "topics": [
+        "contract",
+        "personnel"
+      ],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/7b043569d0e6e1c971453f55036dee24a0a01cc8?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【巨人】契約更改34人、現状の年俸アップ率1位は育成出身選手の197・6％増で約3倍／一覧(日刊スポーツ)",
+      "summary": "巨人は24日までに34選手が契約更改を終えた。アップが10人、現状維持が8人、ダウンが16人。増額幅では泉口、船迫がともに3000万円アップでトップに並んだが、増額率では今季、育成から支配下登録を勝ち",
+      "link": "https://news.yahoo.co.jp/articles/96dc7b77a73d6e4c85753f88be1e825d124b670e?source=rss",
+      "pubDate": "2026-11-24T12:04:49.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "giants"
+      ],
+      "topics": [
+        "roster",
+        "contract"
+      ],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/96dc7b77a73d6e4c85753f88be1e825d124b670e?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【今日の読売ジャイアンツ】11月24日に発表された契約更改選手一覧",
+      "summary": "読売ジャイアンツは24日、契約更改を行った選手を以下のとおりで正式発表した。",
+      "link": "https://www.baseballchannel.jp/npb/303046/",
+      "pubDate": "2026-11-24T12:00:50.000Z",
+      "source": "ベースボールチャンネル（プロ野球）",
+      "sourceId": "baseballchannel-npb",
+      "teams": [
+        "giants"
+      ],
+      "topics": [
+        "contract"
+      ],
+      "sources": [
+        {
+          "name": "ベースボールチャンネル（プロ野球）",
+          "sourceId": "baseballchannel-npb",
+          "link": "https://www.baseballchannel.jp/npb/303046/"
+        }
+      ]
+    },
+    {
+      "title": "【巨人】契約更改ここまで“厳冬”？ 丸、坂本、山崎、戸郷、田中将で2.3億円減／一覧(日刊スポーツ)",
+      "summary": "巨人は24日までに34選手が契約更改を終えた。アップが10人、現状維持が8人、ダウンが16人。増額分の総額は9750万円、減額分は2億5230万円で、差し引き1億5480万円減となっている。【一覧】巨",
+      "link": "https://news.yahoo.co.jp/articles/536578ef72d19bae5ced47e92e3f636172b8a9ac?source=rss",
+      "pubDate": "2026-11-24T11:59:24.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "giants"
+      ],
+      "topics": [
+        "contract"
+      ],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/536578ef72d19bae5ced47e92e3f636172b8a9ac?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "3年連続50登板！ 巨人の“新人王リリーバー”が契約更改 今季18ホールド＆防御率2.29",
+      "summary": "読売ジャイアンツは24日、船迫大雅投手が2027年シーズンに向けて契約更改を行ったと発表した。",
+      "link": "https://www.baseballchannel.jp/npb/303081/",
+      "pubDate": "2026-11-24T11:30:39.000Z",
+      "source": "ベースボールチャンネル（プロ野球）",
+      "sourceId": "baseballchannel-npb",
+      "teams": [
+        "giants"
+      ],
+      "topics": [
+        "contract"
+      ],
+      "sources": [
+        {
+          "name": "ベースボールチャンネル（プロ野球）",
+          "sourceId": "baseballchannel-npb",
+          "link": "https://www.baseballchannel.jp/npb/303081/"
+        }
+      ]
+    },
+    {
+      "title": "昨季は打率.293＆8本塁打…巨人の“主将捕手”が契約更改 今季58試合で2軍落ちも",
+      "summary": "読売ジャイアンツは24日、岸田行倫捕手が2027年シーズンに向けて契約更改を行ったと発表した。",
+      "link": "https://www.baseballchannel.jp/npb/303059/",
+      "pubDate": "2026-11-24T11:30:15.000Z",
+      "source": "ベースボールチャンネル（プロ野球）",
+      "sourceId": "baseballchannel-npb",
+      "teams": [
+        "giants"
+      ],
+      "topics": [
+        "contract"
+      ],
+      "sources": [
+        {
+          "name": "ベースボールチャンネル（プロ野球）",
+          "sourceId": "baseballchannel-npb",
+          "link": "https://www.baseballchannel.jp/npb/303059/"
+        }
+      ]
+    },
+    {
+      "title": "FA移籍に大量卒業…3連休後も慌ただしい球界 DeNAが“大型補強”、24日の去就",
+      "summary": "3連休が終わった24日、プロ野球では様々な去就が動いた。セ・リーグ王者の阪神は中日からFA権を行使した上林誠知外野手を獲得。また、戦力外通告を経て、再出発する選手にも動きがあった。",
+      "link": "https://full-count.jp/2026/11/24/post2049908/",
+      "pubDate": "2026-11-24T11:24:54.000Z",
+      "source": "Full-Count（プロ野球）",
+      "sourceId": "full-count-npb",
+      "teams": [
+        "baystars"
+      ],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "Full-Count（プロ野球）",
+          "sourceId": "full-count-npb",
+          "link": "https://full-count.jp/2026/11/24/post2049908/"
+        }
+      ]
+    },
+    {
+      "title": "【ソフトバンク】孫正義オーナー2年連続日本一にご満悦「戦いはやっぱり勝たなきゃいけない」(日刊スポーツ)",
+      "summary": "ソフトバンクは福岡市内のホテルでスポンサーパーティーを開催した。王球団会長、小久保監督、柳田、周東らナインも出席した。孫正義オーナー（69）はビデオメッセージで登場した。リーグ3連覇、2年連続日本一に",
+      "link": "https://news.yahoo.co.jp/articles/738a251513c00e2377556bdf15d81d4954114eec?source=rss",
+      "pubDate": "2026-11-24T11:20:46.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "hawks"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/738a251513c00e2377556bdf15d81d4954114eec?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【巨人】松本剛、移籍加入２年連続GG賞に照準 母校訪問「測定不能」小６時代の逸話明かす(日刊スポーツ)",
+      "summary": "巨人松本剛外野手（33）が球団初の移籍加入からの2年連続ゴールデングラブ賞に挑む。母校の川口市立青木北小を訪問。プロ15年目で初受賞した守備タイトルに「連続は来年しか取れない」と照準を合わせた。【写真",
+      "link": "https://news.yahoo.co.jp/articles/4d7e4bf0481809832a0f398cd756f1bc75d25106?source=rss",
+      "pubDate": "2026-11-24T11:20:09.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "giants"
+      ],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/4d7e4bf0481809832a0f398cd756f1bc75d25106?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "FANTASTICS、ツリー点灯式参加 八木勇征の謎コメントでメンバー大混乱＆一斉ツッコミ(日刊スポーツ)",
+      "summary": "FANTASTICSが24日、東京ドリームパーク3階アトリウムに設置された「ファンタスティックPARKツリー」の点灯式を行った。世界（35）、佐藤大樹（31）、澤本夏輝（32）、瀬口黎弥（30）、堀夏",
+      "link": "https://news.yahoo.co.jp/articles/f3be4baeff638a8ac8014d5da6e912b006a3875e?source=rss",
+      "pubDate": "2026-11-24T11:18:38.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/f3be4baeff638a8ac8014d5da6e912b006a3875e?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "他球団も垂涎！？パ・リーグ、2026年の現役ドラフト注目投手6人",
+      "summary": "2026年12月9日（水）に開催される今年の現役ドラフト。これまでを振り返ると、移籍翌年に戦力外通告を受けるケースもあったが、細川成也や大竹耕太郎など移籍によって開花した選手もいた。そこで今回は、現役ドラフトで注目されるパ・リーグの投手を取…",
+      "link": "https://www.baseballchannel.jp/npb/302988/",
+      "pubDate": "2026-11-24T11:15:59.000Z",
+      "source": "ベースボールチャンネル（プロ野球）",
+      "sourceId": "baseballchannel-npb",
+      "teams": [],
+      "topics": [
+        "trade",
+        "draft"
+      ],
+      "sources": [
+        {
+          "name": "ベースボールチャンネル（プロ野球）",
+          "sourceId": "baseballchannel-npb",
+          "link": "https://www.baseballchannel.jp/npb/302988/"
+        }
+      ]
+    },
+    {
+      "title": "退団から7年…OB右腕が「現役と変わらない」 “モデルオーラ”にうっとり「目の保養」",
+      "summary": "日本ハムは22日、エスコンフィールドで「FIGHTERS LEGENDS GAME supported by KITAGAS」を開催した。2006年と2016年の日本一に関わった球団レジェンドたちが彩ったOB戦。端正なマスクとモデル体型のピ…",
+      "link": "https://full-count.jp/2026/11/24/post2049879/",
+      "pubDate": "2026-11-24T10:42:41.000Z",
+      "source": "Full-Count（プロ野球）",
+      "sourceId": "full-count-npb",
+      "teams": [
+        "fighters"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Full-Count（プロ野球）",
+          "sourceId": "full-count-npb",
+          "link": "https://full-count.jp/2026/11/24/post2049879/"
+        }
+      ]
+    },
+    {
+      "title": "【西武】来季開幕投手は隅田知一郎 西口監督がシャンパン片手に公表「好投を期待しまして乾杯」(日刊スポーツ)",
+      "summary": "西武の来季開幕投手が隅田知一郎投手（27）に決定した。 24日夜、都内ホテルで「2026 埼玉西武ライオンズ 感謝の集い」の乾杯のあいさつで、西口文也監督（54）が壇上に立った。【写真】シャンパン片手",
+      "link": "https://news.yahoo.co.jp/articles/4275b0fe079cce90cc2012a499166ee772a07b06?source=rss",
+      "pubDate": "2026-11-24T10:35:13.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "lions"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/4275b0fe079cce90cc2012a499166ee772a07b06?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "2年間で1億円…巨人エースはダウン更改 主将も減額＆リチャードは手術、“火消し男”が大台に",
+      "summary": "巨人では24日、戸郷翔征投手や船迫大雅投手らが東京都内の球団事務所で契約更改交渉に臨んだ。戸郷は4000万円減の年俸2億円でサインし、2年連続の減俸。一方、船迫は3000万円増の1億2000万円で初めて大台を超えた。主将の岸田行倫捕手やリチ…",
+      "link": "https://full-count.jp/2026/11/24/post2049888/",
+      "pubDate": "2026-11-24T10:15:55.000Z",
+      "source": "Full-Count（プロ野球）",
+      "sourceId": "full-count-npb",
+      "teams": [
+        "giants"
+      ],
+      "topics": [
+        "injury",
+        "contract"
+      ],
+      "sources": [
+        {
+          "name": "Full-Count（プロ野球）",
+          "sourceId": "full-count-npb",
+          "link": "https://full-count.jp/2026/11/24/post2049888/"
+        }
+      ]
+    },
+    {
+      "title": "「元エース」とは言わせない…！巨人の“最多奪三振右腕”が契約更改 今季は5勝3敗、防御率2.48",
+      "summary": "読売ジャイアンツは24日、戸郷翔征投手が2027年シーズンに向けて契約更改を行ったと発表した。",
+      "link": "https://www.baseballchannel.jp/npb/303054/",
+      "pubDate": "2026-11-24T10:15:04.000Z",
+      "source": "ベースボールチャンネル（プロ野球）",
+      "sourceId": "baseballchannel-npb",
+      "teams": [
+        "giants"
+      ],
+      "topics": [
+        "contract"
+      ],
+      "sources": [
+        {
+          "name": "ベースボールチャンネル（プロ野球）",
+          "sourceId": "baseballchannel-npb",
+          "link": "https://www.baseballchannel.jp/npb/303054/"
+        }
+      ]
+    },
+    {
+      "title": "読売ジャイアンツ（巨人） 2026年契約更改選手一覧",
+      "summary": "【巨人の2026年契約更改選手一覧】オフシーズンに突入したプロ野球。好成績を残し高額年俸を勝ち取る選手もいれば、成績が振るわず年俸がダウンしてしまう選手もいる。ここでは、読売ジャイアンツが発表した今季の契約更改選手の一覧をまとめている。",
+      "link": "https://www.baseballchannel.jp/npb/giants/300313/",
+      "pubDate": "2026-11-24T10:00:47.000Z",
+      "source": "ベースボールチャンネル（プロ野球）",
+      "sourceId": "baseballchannel-npb",
+      "teams": [
+        "giants"
+      ],
+      "topics": [
+        "contract"
+      ],
+      "sources": [
+        {
+          "name": "ベースボールチャンネル（プロ野球）",
+          "sourceId": "baseballchannel-npb",
+          "link": "https://www.baseballchannel.jp/npb/giants/300313/"
+        }
+      ]
+    },
+    {
+      "title": "西武、2027年の開幕投手が決定 西口監督が隅田知一郎を指名…今季はリーグ最多4完投",
+      "summary": "西武の2027年シーズンの開幕投手が、隅田知一郎投手に決まった。24日に東京都内のホテルで行われた「埼玉西武ライオンズ感謝の集い」に出席した西口文也監督が、乾杯の挨拶で明言した。",
+      "link": "https://full-count.jp/2026/11/24/post2049855/",
+      "pubDate": "2026-11-24T09:46:09.000Z",
+      "source": "Full-Count（プロ野球）",
+      "sourceId": "full-count-npb",
+      "teams": [
+        "lions"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Full-Count（プロ野球）",
+          "sourceId": "full-count-npb",
+          "link": "https://full-count.jp/2026/11/24/post2049855/"
+        }
+      ]
+    },
+    {
+      "title": "佐藤輝明、200億円超の契約可能性 元GM明かす争奪戦…米幹部から漏れる“村上＆岡本逃し”",
+      "summary": "阪神からメジャー移籍を目指す佐藤輝明内野手に、元GMが高い評価を示した。米スポーツ専門メディア「ジ・アスレチック」は23日（日本時間24日）、今オフのFA市場で佐藤が最も価値ある存在になるとする記事を掲載。執筆したジム・ボウデン氏は、予想さ…",
+      "link": "https://full-count.jp/2026/11/24/post2049775/",
+      "pubDate": "2026-11-24T09:42:04.000Z",
+      "source": "Full-Count（プロ野球）",
+      "sourceId": "full-count-npb",
+      "teams": [
+        "tigers"
+      ],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "Full-Count（プロ野球）",
+          "sourceId": "full-count-npb",
+          "link": "https://full-count.jp/2026/11/24/post2049775/"
+        }
+      ]
+    },
+    {
+      "title": "現役引退の栗山巧氏、球団本部付特別補佐に就任「幅広くチームに還元」 今後も西武で“全う”",
+      "summary": "今季限りで現役を引退した栗山巧氏が24日、東京都内のホテルで行われた「埼玉西武ライオンズ感謝の集い」に出席。来季から球団本部付特別補佐に就任することを自らの口で発表した。",
+      "link": "https://full-count.jp/2026/11/24/post2049802/",
+      "pubDate": "2026-11-24T09:31:54.000Z",
+      "source": "Full-Count（プロ野球）",
+      "sourceId": "full-count-npb",
+      "teams": [
+        "lions"
+      ],
+      "topics": [
+        "retirement"
+      ],
+      "sources": [
+        {
+          "name": "Full-Count（プロ野球）",
+          "sourceId": "full-count-npb",
+          "link": "https://full-count.jp/2026/11/24/post2049802/"
+        }
+      ]
+    },
+    {
+      "title": "日本一鷹、今オフ初の保留者…昨年は異例の4人 打率.178の山川は4.5億円で現状維持",
+      "summary": "ソフトバンクの山川穂高内野手、津森宥紀投手、大竹風雅投手が24日、みずほPayPayドーム内の球団事務所で契約更改交渉に臨んだ。山川は現状維持の年俸4億5000万円でサイン。大竹も昇給を勝ち取った一方、津森は今オフのチームで初めて保留した。…",
+      "link": "https://full-count.jp/2026/11/24/post2049843/",
+      "pubDate": "2026-11-24T09:27:24.000Z",
+      "source": "Full-Count（プロ野球）",
+      "sourceId": "full-count-npb",
+      "teams": [
+        "hawks"
+      ],
+      "topics": [
+        "contract"
+      ],
+      "sources": [
+        {
+          "name": "Full-Count（プロ野球）",
+          "sourceId": "full-count-npb",
+          "link": "https://full-count.jp/2026/11/24/post2049843/"
+        }
+      ]
+    },
+    {
+      "title": "今オフの選手獲得 補強 入団 移籍先情報一覧【プロ野球最新情報】",
+      "summary": "選手獲得 補強 入団 移籍先情報の12球団一覧をまとめている。（※は育成選手。発表され次第更新）",
+      "link": "https://www.baseballchannel.jp/npb/302127/",
+      "pubDate": "2026-11-24T09:00:28.000Z",
+      "source": "ベースボールチャンネル（プロ野球）",
+      "sourceId": "baseballchannel-npb",
+      "teams": [],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "ベースボールチャンネル（プロ野球）",
+          "sourceId": "baseballchannel-npb",
+          "link": "https://www.baseballchannel.jp/npb/302127/"
+        }
+      ]
+    },
+    {
+      "title": "大学で18勝、秋季ベストナインの実績も…阪神が“最速149キロ左腕”と仮契約 明石商出身の実力派",
+      "summary": "阪神タイガースは24日、2026年ドラフト3位で指名した大阪経済大の常深颯大投手と入団交渉を行い、仮契約を結んだと発表した。",
+      "link": "https://www.baseballchannel.jp/npb/303035/",
+      "pubDate": "2026-11-24T09:00:14.000Z",
+      "source": "ベースボールチャンネル（プロ野球）",
+      "sourceId": "baseballchannel-npb",
+      "teams": [
+        "tigers"
+      ],
+      "topics": [
+        "draft"
+      ],
+      "sources": [
+        {
+          "name": "ベースボールチャンネル（プロ野球）",
+          "sourceId": "baseballchannel-npb",
+          "link": "https://www.baseballchannel.jp/npb/303035/"
+        }
+      ]
+    },
+    {
+      "title": "【DeNA】横浜に根付かせた「漢気」と「共闘」の精神。オリックスへ移籍する戸柱恭孝がベイスターズ捕手陣に遺した財産",
+      "summary": "海外FA権を行使し、オリックスへの移籍が決まった戸柱恭孝。その大きな背中が横浜のホームベース後方で投手陣を鼓舞する姿が見られなくなるのは、ファンにとってあまりに寂しい現実となった。 彼が11年の在籍期間でチームに遺し […]",
+      "link": "https://baseballking.jp/ns/713516/",
+      "pubDate": "2026-11-24T08:30:00.000Z",
+      "source": "BASEBALL KING",
+      "sourceId": "baseballking",
+      "teams": [
+        "baystars"
+      ],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "BASEBALL KING",
+          "sourceId": "baseballking",
+          "link": "https://baseballking.jp/ns/713516/"
+        }
+      ]
+    },
+    {
+      "title": "阪神が8年ぶりFA補強！ 昨季17本塁打＆27盗塁の“中日外野手”獲得を正式発表",
+      "summary": "阪神タイガースは24日、中日ドラゴンズから国内フリーエージェント（FA）権を行使した上林誠知外野手と、2027年シーズンの選手契約に合意したと発表した。",
+      "link": "https://www.baseballchannel.jp/npb/303033/",
+      "pubDate": "2026-11-24T08:15:04.000Z",
+      "source": "ベースボールチャンネル（プロ野球）",
+      "sourceId": "baseballchannel-npb",
+      "teams": [
+        "tigers",
+        "dragons"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "ベースボールチャンネル（プロ野球）",
+          "sourceId": "baseballchannel-npb",
+          "link": "https://www.baseballchannel.jp/npb/303033/"
+        }
+      ]
+    },
+    {
+      "title": "阪神、中日からFA宣言の上林誠知の獲得を発表 25年にはキャリアハイの27盗塁",
+      "summary": "阪神は24日、中日からFA宣言した上林誠知の獲得を発表した。 上林はソフトバンク時代の17年に134試合、翌18年には全143試合に出場し、打率.270、22本塁打、62打点、13盗塁の活躍を見せた。このままソフトバ […]",
+      "link": "https://baseballking.jp/ns/713419/",
+      "pubDate": "2026-11-24T08:10:26.000Z",
+      "source": "BASEBALL KING",
+      "sourceId": "baseballking",
+      "teams": [
+        "tigers",
+        "dragons"
+      ],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "BASEBALL KING",
+          "sourceId": "baseballking",
+          "link": "https://baseballking.jp/ns/713419/"
+        }
+      ]
+    },
+    {
+      "title": "ソフトバンク・山川穂高、背番号を『81』に変更 過去には秋山監督、工藤監督、藤本監督が着けた番号",
+      "summary": "ソフトバンクは24日、山川穂高内野手の背番号が『5』から『81』に変更すると発表した。 山川はソフトバンク加入1年目の24年が『25』、25年から2年間『5』を背負った。来季から背負う『81』は移籍後2度目の背番号変 […]",
+      "link": "https://baseballking.jp/ns/713517/",
+      "pubDate": "2026-11-24T07:33:51.000Z",
+      "source": "BASEBALL KING",
+      "sourceId": "baseballking",
+      "teams": [
+        "hawks"
+      ],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "BASEBALL KING",
+          "sourceId": "baseballking",
+          "link": "https://baseballking.jp/ns/713517/"
+        }
+      ]
+    },
+    {
+      "title": "巨人、石井琢朗コーチの役職名を『巡回野手総合』に変更",
+      "summary": "巨人は24日、石井琢朗コーチの役職名を巡回コーチから巡回野手総合に変更すると発表した。また、監督・コーチの来季の背番号も決まった。 ▼ 一軍 監督：松井秀喜 『90』 ヘッドコーチ：高橋由伸 『88』 打撃チーフコーチ […]",
+      "link": "https://baseballking.jp/ns/713514/",
+      "pubDate": "2026-11-24T07:02:56.000Z",
+      "source": "BASEBALL KING",
+      "sourceId": "baseballking",
+      "teams": [
+        "giants"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "BASEBALL KING",
+          "sourceId": "baseballking",
+          "link": "https://baseballking.jp/ns/713514/"
+        }
+      ]
+    },
+    {
+      "title": "巨人が新首脳陣27人の背番号発表！ “元監督”ヘッドは「88」、新たな役職変更も",
+      "summary": "読売ジャイアンツは24日、2027年シーズンの監督・コーチ陣27人の背番号を発表した。松井秀喜新監督は「90」、高橋由伸ヘッドコーチは「88」に決まった。",
+      "link": "https://www.baseballchannel.jp/npb/303024/",
+      "pubDate": "2026-11-24T06:15:33.000Z",
+      "source": "ベースボールチャンネル（プロ野球）",
+      "sourceId": "baseballchannel-npb",
+      "teams": [
+        "giants"
+      ],
+      "topics": [
+        "personnel"
+      ],
+      "sources": [
+        {
+          "name": "ベースボールチャンネル（プロ野球）",
+          "sourceId": "baseballchannel-npb",
+          "link": "https://www.baseballchannel.jp/npb/303024/"
+        }
+      ]
+    },
+    {
+      "title": "広島・秋山翔吾、地元の横須賀で初のトークショー開催！来場者全員に限定タオルをプレゼント",
+      "summary": "広島東洋カープの秋山翔吾外野手が12月28日、地元の神奈川県横須賀市で「秋山翔吾トークショー2026 in 横須賀」を開催する。",
+      "link": "https://www.baseballchannel.jp/npb/303017/",
+      "pubDate": "2026-11-24T05:52:45.000Z",
+      "source": "ベースボールチャンネル（プロ野球）",
+      "sourceId": "baseballchannel-npb",
+      "teams": [
+        "carp"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "ベースボールチャンネル（プロ野球）",
+          "sourceId": "baseballchannel-npb",
+          "link": "https://www.baseballchannel.jp/npb/303017/"
+        }
+      ]
+    },
     {
       "title": "カープ、育成・河野 佳と支配下契約を締結。2026シーズンはファーム西地区で投手三冠に輝く(アスリートマガジンWEB)",
       "summary": "カープは11月24日、育成選手の投手・河野 佳と支配下契約を締結したと発表した。【写真】2027シーズン、二軍内野守備・走塁コーチに就任することが発表された田中広輔氏 河野は2022年ドラフト5位でカ",
@@ -2456,25 +3091,6 @@
           "name": "BASEBALL KING",
           "sourceId": "baseballking",
           "link": "https://baseballking.jp/ns/713303/"
-        }
-      ]
-    },
-    {
-      "title": "今オフの選手獲得 補強 入団 移籍先情報一覧【プロ野球最新情報】",
-      "summary": "選手獲得 補強 入団 移籍先情報の12球団一覧をまとめている。（※は育成選手。発表され次第更新）",
-      "link": "https://www.baseballchannel.jp/npb/302127/",
-      "pubDate": "2026-11-23T07:00:28.000Z",
-      "source": "ベースボールチャンネル（プロ野球）",
-      "sourceId": "baseballchannel-npb",
-      "teams": [],
-      "topics": [
-        "trade"
-      ],
-      "sources": [
-        {
-          "name": "ベースボールチャンネル（プロ野球）",
-          "sourceId": "baseballchannel-npb",
-          "link": "https://www.baseballchannel.jp/npb/302127/"
         }
       ]
     },
@@ -63435,2127 +64051,6 @@
           "name": "Full-Count（プロ野球）",
           "sourceId": "full-count-npb",
           "link": "https://full-count.jp/2026/10/26/post2036385/"
-        }
-      ]
-    },
-    {
-      "title": "【阪神】平田勝男２軍監督→ヘッド、和田豊ヘッド→２軍監督 ともに３年ぶり配置転換 ４人退団で組閣急ピッチで再考 野村克則２軍バッテリーＣは１軍作戦Ｃに(スポーツ報知)",
-      "summary": "リーグ３連覇を目指す藤川阪神の来季の組閣の大枠が固まったことが２５日、分かった。藤本敦士総合コーチ（４９）ら野手部門から４人が退団し、当初のプランから大幅な変更となった。【写真】今季限りで退団が決まっ",
-      "link": "https://news.yahoo.co.jp/articles/3dbea9a2b35ac266fdd2c63540b6964c8d600ca6?source=rss",
-      "pubDate": "2026-10-25T16:30:03.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "tigers"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/3dbea9a2b35ac266fdd2c63540b6964c8d600ca6?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【阪神】超異例の仰天人事！矢野謙次氏を巨人からダイレクト移籍で１軍打撃コーチに招聘 ＯＢで前ヤクルトの坪井智哉コーチらも入閣へ(スポーツ報知)",
-      "summary": "阪神が前巨人巡回打撃コーチの矢野謙次氏（４６）を１軍打撃コーチで招へいすることが２５日、分かった。今季まで宿敵にいた指導者にタテジマのコーチを託す仰天人事。過去に山内一弘氏（７４年巨人、７５年阪神いず",
-      "link": "https://news.yahoo.co.jp/articles/aa71596e49606c5b466f5df655530ca4ba65e985?source=rss",
-      "pubDate": "2026-10-25T16:00:03.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "tigers"
-      ],
-      "topics": [
-        "trade"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/aa71596e49606c5b466f5df655530ca4ba65e985?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "阪神が巨人退団の矢野謙次氏を1軍打撃コーチとして招聘 平田勝男2軍監督はヘッドコーチに配置転換(スポニチアネックス)",
-      "summary": "阪神が、今季まで巨人で巡回打撃コーチを務めていた矢野謙次氏（46）を1軍打撃コーチとして招聘（しょうへい）することが25日、分かった。【写真あり】阪神“異例事態” 藤川監督支えた1軍野手担当3コーチと",
-      "link": "https://news.yahoo.co.jp/articles/691cb630112931dcfa1c2e04982b5e68bdb47d83?source=rss",
-      "pubDate": "2026-10-25T16:00:00.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "tigers",
-        "giants"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/691cb630112931dcfa1c2e04982b5e68bdb47d83?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "高橋由伸さん、巨人打率トップの松本剛に「もっと残せる」 ・２７４から来季アップを期待…来季「松井巨人」ヘッド格有力(スポーツ報知)",
-      "summary": "巨人ＯＢで元監督の高橋由伸さん（５１）が２５日、日テレ系「Ｇｏｉｎｇ！Ｓｐｏｒｔｓ＆Ｎｅｗｓ」に２日連続で出演。この日はゲストで巨人の松本剛外野手も出演した。【写真】新監督の松井秀喜さん 日本屈指の美",
-      "link": "https://news.yahoo.co.jp/articles/965ac4f31c4b42997ec2221e5fb8439c4d7d6749?source=rss",
-      "pubDate": "2026-10-25T15:37:20.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "giants"
-      ],
-      "topics": [
-        "personnel"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/965ac4f31c4b42997ec2221e5fb8439c4d7d6749?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "高橋由伸さん、ヘッドコーチは「常に助けてくれる存在」自身の監督１年目振り返り「本当に助かった」…「松井巨人」でヘッド格有力(スポーツ報知)",
-      "summary": "巨人ＯＢで元監督の高橋由伸さん（５１）が２５日、日テレ系「Ｇｏｉｎｇ！Ｓｐｏｒｔｓ＆Ｎｅｗｓ」に連日の出演。【動画】待ってた２５年ぶり巨人ユニの松井新監督！これが見たかった！ 松井新監督が就任した巨人",
-      "link": "https://news.yahoo.co.jp/articles/71cdbc125c93a6b9db13f20511839bf8c81173e2?source=rss",
-      "pubDate": "2026-10-25T15:32:34.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "giants"
-      ],
-      "topics": [
-        "personnel"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/71cdbc125c93a6b9db13f20511839bf8c81173e2?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "侍ジャパン・井口資仁監督、同学年の巨人・松井新監督の強みを力説 １年目Ｖを予想「胴上げされて手を広げているイメージしか浮かばない」(スポーツ報知)",
-      "summary": "侍ジャパン・井口資仁監督が、日テレ系「Ｇｏｉｎｇ！Ｓｐｏｒｔｓ＆Ｎｅｗｓ」内で同学年の巨人・松井秀喜新監督の印象を語った。【動画】待ってた２５年ぶり巨人ユニの松井新監督！これが見たかった！ 高校時代、",
-      "link": "https://news.yahoo.co.jp/articles/62785d987db7e0f4aba5c0bcafb9a81dc6514ff0?source=rss",
-      "pubDate": "2026-10-25T15:22:29.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "giants"
-      ],
-      "topics": [
-        "personnel"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/62785d987db7e0f4aba5c0bcafb9a81dc6514ff0?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "「負けてしまったら意味がない」DeNA、筒香の逆転3ラン〝空砲〟に また救援陣粘れず(産経新聞)",
-      "summary": "プロ野球のSMBC日本シリーズ2026は25日、横浜スタジアムで第2戦が行われ、2年ぶりの頂点を狙うDeNAは、2年連続の日本一を目指すソフトバンクに3－4で敗れ、2連敗となった。◇大歓声は、すぐに悲",
-      "link": "https://news.yahoo.co.jp/articles/853d6e6de1237c0ce7df8929b67328c39b97e440?source=rss",
-      "pubDate": "2026-10-25T15:18:25.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "baystars"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/853d6e6de1237c0ce7df8929b67328c39b97e440?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "侍ジャパン・井口資仁監督、「松井巨人」ヘッドコーチを暴露！？「Ｇｏｉｎｇ！にいるじゃないですか」「史上最強のタッグになる」…高橋由伸さんは苦笑い(スポーツ報知)",
-      "summary": "巨人ＯＢで元監督の高橋由伸さん（５１）が２５日、日テレ系「Ｇｏｉｎｇ！Ｓｐｏｒｔｓ＆Ｎｅｗｓ」に連日の出演。番組の取材を受けた侍ジャパンの井口資仁監督が、松井秀喜新監督が就任した巨人のヘッドコーチにつ",
-      "link": "https://news.yahoo.co.jp/articles/8d0f185a5723fd1678ba3feb0666fbfd2f428a30?source=rss",
-      "pubDate": "2026-10-25T15:12:42.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "giants"
-      ],
-      "topics": [
-        "personnel"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/8d0f185a5723fd1678ba3feb0666fbfd2f428a30?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "DeNA・尾形崇斗は古巣相手に五回途中2失点「今日の勝負は本当に楽しかった。ただ…」(サンケイスポーツ)",
-      "summary": "（SMBC日本シリーズ2026、DeNA3－4ソフトバンク＝延長十回、第2戦、ソフトバンク2勝、25日、横浜）DeNA・尾形崇斗投手（27）は古巣相手に先発し、五回途中2失点だった。「今日の勝負は本当",
-      "link": "https://news.yahoo.co.jp/articles/649aafff6770a5354e978ce8a62b05b90caa7048?source=rss",
-      "pubDate": "2026-10-25T14:54:29.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "baystars",
-        "hawks"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/649aafff6770a5354e978ce8a62b05b90caa7048?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【ＤｅＮＡ】岩田将貴、前夜のリベンジ成功 ５回のピンチ抑えてほえる(カナロコ by 神奈川新聞)",
-      "summary": "◆横浜ＤｅＮＡ３－４ソフトバンク（横浜スタジアム） 前日２４日の第１戦で敗戦投手となっていたＤｅＮＡの岩田がリベンジした。 これ以上、離されたくない０－２の五回１死三塁。左打者が続く場面でマウンドへ上",
-      "link": "https://news.yahoo.co.jp/articles/3fbc59fcf836701626a6040d485a508c58fc08a0?source=rss",
-      "pubDate": "2026-10-25T14:47:02.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "baystars"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/3fbc59fcf836701626a6040d485a508c58fc08a0?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【ＤｅＮＡ】２夜連続の延長戦黒星 相川監督は救援陣かばう「どう責めろって言うんですか」(東スポWEB)",
-      "summary": "DeNAは25日、ソフトバンクとの「SMBC日本シリーズ 2026」第2戦（横浜スタジアム）に延長10回、3―4で競り負け2連敗を喫した。 先発・尾形は古巣・鷹打線を相手に6奪三振、無四死球。5回途中",
-      "link": "https://news.yahoo.co.jp/articles/78e4879e6601f190186816548f11fafdb4d96019?source=rss",
-      "pubDate": "2026-10-25T14:35:22.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "baystars"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/78e4879e6601f190186816548f11fafdb4d96019?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "連夜の延長戦制したソフトバンク「あと2つ勝つ」 切り札と伏兵の一発で層の厚さ見せつけ(産経新聞)",
-      "summary": "ソフトバンク4－3DeNA（日本シリーズ第２戦＝25日、横浜）ソフトバンクが層の厚さを見せつける逆転劇で、連夜の延長戦を制した。試合を決めたのは伏兵の川村。十回に勝ち越しソロをバックスクリーンにたたき",
-      "link": "https://news.yahoo.co.jp/articles/4efa2711b33b158e6a7409f79ed65354aa7fe977?source=rss",
-      "pubDate": "2026-10-25T14:30:19.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "hawks"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/4efa2711b33b158e6a7409f79ed65354aa7fe977?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "「あんな笑顔初めて見ました」ソフトバンク小久保監督、手塩にかけた元〝育成三銃士〟の大仕事に破顔 打率・095の伏兵が決勝弾(西スポWEB OTTO!)",
-      "summary": "◆SMBC日本シリーズ2026 第2戦 DeNA3―4ソフトバンク（25日、横浜） ソフトバンクが2試合連続の延長戦を制し、2連勝を飾った。■【動画】1年ぶり！ 会心の場外同点弾→〝どすこい〟にベンチ",
-      "link": "https://news.yahoo.co.jp/articles/69d69a956e4e80fc1bcb290c9009be41c57a6972?source=rss",
-      "pubDate": "2026-10-25T14:26:45.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "hawks"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/69d69a956e4e80fc1bcb290c9009be41c57a6972?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【日本シリーズ】どすこい本格解禁へ！土壇場で同点ソロの山川穂高「スタンドも、やってくれてましたもんね」ファン大盛り上がりのパフォーマンスが復活(スポーツ報知)",
-      "summary": "◆ＳＭＢＣ日本シリーズ２０２６第２戦 ＤｅＮＡ３―４ソフトバンク＝延長１０回＝（２５日・横浜）【写真】切れ味イマイチの山川「どすこい！」今季初なので… ソフトバンクが２連勝で２年連続の日本一まで、あと",
-      "link": "https://news.yahoo.co.jp/articles/0505211f64ae01ae6a2ce98e604d0b3e39e10bd6?source=rss",
-      "pubDate": "2026-10-25T14:23:33.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "hawks"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/0505211f64ae01ae6a2ce98e604d0b3e39e10bd6?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【DeNA】伊勢大夢が決勝本塁打被弾「いい感じで投げられていた分、悔いが残る１球」(日刊スポーツ)",
-      "summary": "＜日本シリーズ：DeNA3－4ソフトバンク＞◇第2戦◇25日◇横浜 DeNA伊勢大夢投手（28）が延長10回、ソフトバンク川村に痛恨の決勝本塁打をバックスクリーンに放り込まれた。【写真】川村友斗にソロ",
-      "link": "https://news.yahoo.co.jp/articles/bc707c6025d53ded2020625f15546f0db025adaf?source=rss",
-      "pubDate": "2026-10-25T14:23:21.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "baystars"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/bc707c6025d53ded2020625f15546f0db025adaf?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【日本シリーズ】尾形崇斗が５回途中２失点で黒星も マウンドで感じた充実感「今日の勝負は本当に楽しかったし、敵味方を越えての勝負だった」(スポーツ報知)",
-      "summary": "◆ＳＭＢＣ日本シリーズ２０２６第２戦 ＤｅＮＡ３―４ソフトバンク（２５日・横浜）＝延長１０回＝【写真】吠えまくり！尾形崇斗が古巣ソフトバンクに真っ向勝負！！ ＤｅＮＡ・尾形崇斗投手が５回途中５安打２失",
-      "link": "https://news.yahoo.co.jp/articles/213588ed91e68f26e937f31c3a7c847b5ad62099?source=rss",
-      "pubDate": "2026-10-25T14:21:03.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "hawks",
-        "baystars"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/213588ed91e68f26e937f31c3a7c847b5ad62099?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【DeNA】尾形崇斗「本当に楽しかった」かつての仲間と大舞台で対戦 ５月にトレードで加入(日刊スポーツ)",
-      "summary": "＜日本シリーズ：DeNA3－4ソフトバンク＞◇第2戦◇25日◇横浜 日本シリーズ初先発のDeNA尾形崇斗投手（27）は5回途中2失点で降板した。3回に正木に先制ソロを許し、4回には2死から山本祐に左前",
-      "link": "https://news.yahoo.co.jp/articles/b2888499a94a95e32062871caf8f487544160a99?source=rss",
-      "pubDate": "2026-10-25T14:17:45.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "baystars"
-      ],
-      "topics": [
-        "trade"
-      ],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/b2888499a94a95e32062871caf8f487544160a99?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "決勝弾のソフトバンク川村友斗 日本シリーズ初打席アーチは球団初＆史上17人目の快挙 かつては西武屈指のスラッガーも(西スポWEB OTTO!)",
-      "summary": "◆SMBC日本シリーズ2026 第2戦 DeNA3―4ソフトバンク（25日、横浜） ソフトバンクの川村友斗が延長10回に勝ち越しソロを放った。■【動画】マジすか!? 川村本人も驚きの決勝弾!! 8回か",
-      "link": "https://news.yahoo.co.jp/articles/33ce05cb43b682204aa2da8467290a508771ab7a?source=rss",
-      "pubDate": "2026-10-25T14:14:05.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "hawks",
-        "lions"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/33ce05cb43b682204aa2da8467290a508771ab7a?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【日本シリーズ】ＤｅＮＡ筒香嘉智 ２連敗も２４年の下克上再現へ闘志「短期決戦、負けてしまったら意味がない」球団最多タイの自身シリーズ３発目は空砲(スポーツ報知)",
-      "summary": "◆ＳＭＢＣ日本シリーズ２０２６第２戦 ＤｅＮＡ３―４ソフトバンク＝延長１０回＝（２５日・横浜）【写真】これぞ４番だ筒香！一時逆転の３ランを放ってガッツ！！ ＤｅＮＡ・筒香嘉智内野手が一時逆転の３ランを",
-      "link": "https://news.yahoo.co.jp/articles/a9eb40ee8c5893c350d05ca36a1f11b30051fe93?source=rss",
-      "pubDate": "2026-10-25T14:13:36.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "baystars"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/a9eb40ee8c5893c350d05ca36a1f11b30051fe93?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【ソフトバンク】松本裕樹がまさかの２試合連続被弾 小久保監督「１回投手コーチと話をして…」(日刊スポーツ)",
-      "summary": "＜日本シリーズ：DeNA3－4ソフトバンク＞◇第2戦◇25日◇横浜 ソフトバンクの8回の男松本裕樹投手（30）が2試合続けて被弾した。【写真】ベンチで表情を曇らせる松本裕樹 2点リードの8回に登板も安",
-      "link": "https://news.yahoo.co.jp/articles/6134a5a5620f83abbf5a8789a31bdfe5e2536edc?source=rss",
-      "pubDate": "2026-10-25T14:10:55.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "hawks"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/6134a5a5620f83abbf5a8789a31bdfe5e2536edc?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "ソフトバンク・王貞治球団会長「野球は球場に来て見なきゃダメだね。テレビで見るより、球場だよ」4発が飛び交う空中戦に大満足(サンケイスポーツ)",
-      "summary": "（SMBC日本シリーズ2026、DeNA3－4ソフトバンク＝延長十回、第2戦、ソフトバンク2勝、25日、横浜）ホームランで試合が何度もひっくり返る展開に、世界のホームラン王が一番興奮していた。1番正木",
-      "link": "https://news.yahoo.co.jp/articles/0666c739d90b8e59db8980dbc48fb4a3fb7e206c?source=rss",
-      "pubDate": "2026-10-25T14:10:34.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "hawks"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/0666c739d90b8e59db8980dbc48fb4a3fb7e206c?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "「VIVANT」開始33分後に判明の事実にX「やっぱり…」「のんきに」「別班和田が悲しい」(日刊スポーツ)",
-      "summary": "TBS系日曜劇場「VIVANT」第22話（第2シーズン12話）が25日、放送された。プロ野球「SMBC日本シリーズ2026」横浜DeNAベイスターズ対福岡ソフトバンクホークスの第2戦（横浜スタジアム）",
-      "link": "https://news.yahoo.co.jp/articles/f9f8753777667da0b8f1f4c4551154f6949b136a?source=rss",
-      "pubDate": "2026-10-25T14:09:09.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "hawks",
-        "baystars"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/f9f8753777667da0b8f1f4c4551154f6949b136a?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "DeNA2連敗も「4つ勝つかどうかの戦い」 相川監督は切り替え強調「勝てるチャンス掴まないと」",
-      "summary": "DeNAは25日、横浜スタジアムで行われたソフトバンクとの「SMBC日本シリーズ2026」第2戦に3-4で敗れ、対戦成績は0勝2敗となった。連夜の延長戦で競り負けたが、相川亮二監督は「2つ負けましたけど、4つ勝つかどうかの戦いなので。諦めず…",
-      "link": "https://full-count.jp/2026/10/25/post2036541/",
-      "pubDate": "2026-10-25T14:07:47.000Z",
-      "source": "Full-Count（プロ野球）",
-      "sourceId": "full-count-npb",
-      "teams": [
-        "baystars"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Full-Count（プロ野球）",
-          "sourceId": "full-count-npb",
-          "link": "https://full-count.jp/2026/10/25/post2036541/"
-        }
-      ]
-    },
-    {
-      "title": "【日本シリーズ】DeNA 変則サイド左腕・岩田がピンチを断つ 近藤、栗原を抑え「自信につながる」(スポニチアネックス)",
-      "summary": "◇SMBC日本シリーズ2026 第2戦 DeNA3―4ソフトバンク（2026年10月25日 横浜） DeNAの変則左腕・岩田将貴が好投でピンチを断った。 0―2の5回1死三塁でマウンドへ。絶対に失点し",
-      "link": "https://news.yahoo.co.jp/articles/748064cbca408214caf4df9d7ea257b3e5d52764?source=rss",
-      "pubDate": "2026-10-25T14:07:44.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "baystars"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/748064cbca408214caf4df9d7ea257b3e5d52764?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "「みんな同じ気持ちだと思う」ソフトバンク山川穂高、起死回生の代打アーチでうなだれたセットアッパー救う「絶対に油断はしない」(西スポWEB OTTO!)",
-      "summary": "◆SMBC日本シリーズ2026 第2戦 DeNA3―4ソフトバンク（25日、横浜） ソフトバンクの山川穂高が土壇場で起死回生の同点ソロを放った。■【写真】1年ぶり！ 会心の場外同点弾→〝どすこい〟にベ",
-      "link": "https://news.yahoo.co.jp/articles/b4f88e54b8e984d02f35be880d3e593507fa5061?source=rss",
-      "pubDate": "2026-10-25T14:04:59.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "hawks"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/b4f88e54b8e984d02f35be880d3e593507fa5061?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【DeNA】相川監督、痛恨連敗も「僕らが勝てるチャンスっていうのは当然あった…最後に勝つ」(日刊スポーツ)",
-      "summary": "＜日本シリーズ：DeNA3－4ソフトバンク＞◇第2戦◇25日◇横浜 DeNAが本拠地・横浜スタジアムで痛恨の連敗を喫した。2点ビハインドの8回1死一、二塁。4番筒香嘉智内野手（34）が左翼ポール際への",
-      "link": "https://news.yahoo.co.jp/articles/55bdd237f021e39d8c70810af28e3bb5d53a177d?source=rss",
-      "pubDate": "2026-10-25T14:00:06.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "baystars"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/55bdd237f021e39d8c70810af28e3bb5d53a177d?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【DeNA】尾形崇斗「２点目は余計な失点だったので、そこは反省点です」５回途中２失点で降板(日刊スポーツ)",
-      "summary": "＜日本シリーズ：DeNA3－4ソフトバンク＞◇第2戦◇25日◇横浜 DeNA尾形崇斗投手（27）が、日本シリーズ初先発で5回途中5安打2失点で降板した。【写真】正木に先制ソロ本塁打を浴びる尾形 3回1",
-      "link": "https://news.yahoo.co.jp/articles/db9cfe1703ea3eb872f354de07dfd050ce174869?source=rss",
-      "pubDate": "2026-10-25T13:47:38.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "baystars"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/db9cfe1703ea3eb872f354de07dfd050ce174869?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【ソフトバンク】正木智也、元同僚・尾形との対戦「いいボール。楽しかった」同学年対決で先制弾(日刊スポーツ)",
-      "summary": "＜日本シリーズ：DeNA3－4ソフトバンク＞◇第2戦◇25日◇横浜 ソフトバンク正木智也外野手（26）が自身初の日本シリーズ初アーチを決めた。【写真】正木に先制ソロ本塁打を浴びる尾形 0－0で迎えた3",
-      "link": "https://news.yahoo.co.jp/articles/18e62dff64c814a3d8d09ca975f76da6a46a9fb6?source=rss",
-      "pubDate": "2026-10-25T13:46:49.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "hawks"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/18e62dff64c814a3d8d09ca975f76da6a46a9fb6?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【データ】今季０発のソフトバンク川村友斗 シリーズ初打席Ｖアーチは90年以来、２人目(日刊スポーツ)",
-      "summary": "＜日本シリーズ：DeNA3－4ソフトバンク＞◇第2戦◇25日◇横浜 ソフトバンクがDeNAに2連勝発進。2年連続の日本一へ、あと2勝とした。延長10回1死に途中出場の川村友斗外野手（27）が値千金の勝",
-      "link": "https://news.yahoo.co.jp/articles/78bc6023ff087fd8421296c30b7b1ae90a058bf2?source=rss",
-      "pubDate": "2026-10-25T13:42:50.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "hawks",
-        "baystars"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/78bc6023ff087fd8421296c30b7b1ae90a058bf2?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "まさか「VIVANT」ドラム救った“漢字４文字”に「耐えれると判断？」「多い！」X拍手喝采(日刊スポーツ)",
-      "summary": "TBS系日曜劇場「VIVANT」第22話（第2シーズン12話）が25日、放送された。プロ野球「SMBC日本シリーズ2026」横浜DeNAベイスターズ対福岡ソフトバンクホークスの第2戦（横浜スタジアム）",
-      "link": "https://news.yahoo.co.jp/articles/09e6764cb9b354e4f23502c3162895df3c471e96?source=rss",
-      "pubDate": "2026-10-25T13:37:31.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "hawks",
-        "baystars"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/09e6764cb9b354e4f23502c3162895df3c471e96?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【データ】今季３安打以上が１度もないDeNA成瀬脩人がシリーズで初猛打賞 CSでは初本塁打(日刊スポーツ)",
-      "summary": "＜日本シリーズ：DeNA3－4ソフトバンク＞◇第2戦◇25日◇横浜 DeNAのルーキー成瀬脩人内野手（25）が3安打。シリーズで新人の猛打賞は23年＜7＞戦森下（阪神）以来8人目で、DeNAでは初にな",
-      "link": "https://news.yahoo.co.jp/articles/a21ec0a5dcb51843c2c3b93dafba86d71cfd7118?source=rss",
-      "pubDate": "2026-10-25T13:37:03.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "baystars"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/a21ec0a5dcb51843c2c3b93dafba86d71cfd7118?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【ソフトバンク】ルーキー鈴木豪太、嫌な流れ断ち切る好リリーフ 日本Ｓ初登板で山川弾呼びこむ(日刊スポーツ)",
-      "summary": "＜日本シリーズ：DeNA3－4ソフトバンク＞◇第2戦◇25日◇横浜 ソフトバンクのルーキー鈴木豪太投手（23）が、嫌な流れを断ち切った。松本裕が逆転3ランを浴び、さらに四球を出した場面でシリーズ初登板",
-      "link": "https://news.yahoo.co.jp/articles/dd58cc79bb79b9ad665541f5b2c3bc6bb83530fe?source=rss",
-      "pubDate": "2026-10-25T13:36:14.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "hawks"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/dd58cc79bb79b9ad665541f5b2c3bc6bb83530fe?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【ソフトバンク】前日死球の山本祐大がフル出場 トレード相手尾形から安打、６投手を巧みリード(日刊スポーツ)",
-      "summary": "＜日本シリーズ：DeNA3－4ソフトバンク＞◇第2戦◇25日◇横浜 ソフトバンク山本祐大捕手（28）が、ど根性の強行出場で意地を見せた。第1戦の延長11回、左手手首付近に死球を受け、三塁まで進んだとこ",
-      "link": "https://news.yahoo.co.jp/articles/627f2834ba038b8c6ae7b33b554db3476dccf924?source=rss",
-      "pubDate": "2026-10-25T13:35:34.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "hawks"
-      ],
-      "topics": [
-        "trade"
-      ],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/627f2834ba038b8c6ae7b33b554db3476dccf924?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "巨人、浅野翔吾ら6選手と来季の支配下契約結ばず 今季支配下昇格の期待の若手も",
-      "summary": "読売ジャイアンツは25日、浅野翔吾外野手、北浦竜次投手、鈴木大和外野手、知念大成外野手、三塚琉生外野手、宇都宮葵星内野手の6選手に対し、自由契約とすることを通知したと発表した。また、湯浅大内野手には来季の契約を結ばないことを伝えた。",
-      "link": "https://www.baseballchannel.jp/npb/298156/",
-      "pubDate": "2026-10-25T13:30:37.000Z",
-      "source": "ベースボールチャンネル（プロ野球）",
-      "sourceId": "baseballchannel-npb",
-      "teams": [
-        "giants"
-      ],
-      "topics": [
-        "trade"
-      ],
-      "sources": [
-        {
-          "name": "ベースボールチャンネル（プロ野球）",
-          "sourceId": "baseballchannel-npb",
-          "link": "https://www.baseballchannel.jp/npb/298156/"
-        }
-      ]
-    },
-    {
-      "title": "【DeNA】筒香嘉智に待望の１発 CS無安打から復調兆し 逆襲へ２年前日本一も連敗スタート(日刊スポーツ)",
-      "summary": "＜日本シリーズ：DeNA3－4ソフトバンク＞◇第2戦◇25日◇横浜 待望の1発だったが、空砲に終わった。2点を追う8回1死一、二塁。DeNA筒香嘉智内野手（34）が松本裕の初球153キロ直球を捉えた。",
-      "link": "https://news.yahoo.co.jp/articles/40dcc13146e3e1fd3df2015ddf7656d231fc2967?source=rss",
-      "pubDate": "2026-10-25T13:24:41.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "baystars"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/40dcc13146e3e1fd3df2015ddf7656d231fc2967?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【ソフトバンク】山川穂高「復活させますか」“どすこいポーズ”復活明言 ９回に起死回生アーチ(日刊スポーツ)",
-      "summary": "＜日本シリーズ：DeNA3－4ソフトバンク＞◇第2戦◇25日◇横浜 ソフトバンクの山川穂高内野手（34）がホームランパフォーマンス“どすこいポーズ”の復活を明言した。【写真】柳田悠岐にポーズをねだられ",
-      "link": "https://news.yahoo.co.jp/articles/7806675a24c83375f7ae3102df5b2b2eda83d001?source=rss",
-      "pubDate": "2026-10-25T13:23:39.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "hawks"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/7806675a24c83375f7ae3102df5b2b2eda83d001?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【ソフトバンク】川村友斗が決勝ソロ「最高の形になってよかった」日本シリーズ初打席で初本塁打(日刊スポーツ)",
-      "summary": "＜日本シリーズ：DeNA3－4ソフトバンク＞◇第2戦◇25日◇横浜 ソフトバンクがDeNAに2連勝発進。2年連続の日本一へ、あと2勝とした。延長10回1死に途中出場の川村友斗外野手（27）が値千金の勝",
-      "link": "https://news.yahoo.co.jp/articles/272e34814372b036c8d3eb91af87e7797012aea9?source=rss",
-      "pubDate": "2026-10-25T13:23:07.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "hawks"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/272e34814372b036c8d3eb91af87e7797012aea9?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【データ】２戦連続で延長戦に勝利したソフトバンク １分けを挟み６連勝となりシリーズ新記録(日刊スポーツ)",
-      "summary": "＜日本シリーズ：DeNA3－4ソフトバンク＞◇第2戦◇25日◇横浜 ソフトバンクがDeNAに2連勝発進。2年連続の日本一へ、あと2勝とした。【一覧】ソフトバンクの日本シリーズ成績 ◇ ◇ ◇ ◇ ▼ソ",
-      "link": "https://news.yahoo.co.jp/articles/4047b3a4a0d2cbce676b007e81699450ed5ff986?source=rss",
-      "pubDate": "2026-10-25T13:20:33.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "hawks",
-        "baystars"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/4047b3a4a0d2cbce676b007e81699450ed5ff986?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "「VIVANT」45分遅れ開始に「まだ許せる」「しんどい」日本シリーズ巡るX反応は様々(日刊スポーツ)",
-      "summary": "TBS系日曜劇場「VIVANT」の25日放送の第22話（第2シーズン12話）が、定刻の午後9時に開始されず繰り下げとなった。プロ野球「SMBC日本シリーズ2026」横浜DeNAベイスターズ対福岡ソフト",
-      "link": "https://news.yahoo.co.jp/articles/4388b4a940060de958b31bf5f24612ee7cacffac?source=rss",
-      "pubDate": "2026-10-25T13:13:17.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "baystars"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/4388b4a940060de958b31bf5f24612ee7cacffac?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【ソフトバンク】小久保監督、山川同点弾「ここで打ってくれ」川村Ｖ弾「ベンチも『まさか』」(日刊スポーツ)",
-      "summary": "＜日本シリーズ：DeNA3－4ソフトバンク＞◇第2戦◇25日◇横浜 ソフトバンクが2戦連続で延長戦を制し、2年連続の日本一へあと2勝とした。【写真】勝ち越し本塁打を放つ川村 1点ビハインドで迎えた9回",
-      "link": "https://news.yahoo.co.jp/articles/6895336c3fb893f5f2710df1335ca15a8230177f?source=rss",
-      "pubDate": "2026-10-25T13:12:03.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "hawks"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/6895336c3fb893f5f2710df1335ca15a8230177f?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【DeNA】伊勢大夢、同点の延長10回に伏兵の川村友斗に痛恨の決勝弾浴びる(日刊スポーツ)",
-      "summary": "＜日本シリーズ：DeNA3－4ソフトバンク＞◇第2戦◇25日◇横浜 DeNA伊勢大夢投手（28）が、1球に泣き、日本シリーズ第1戦から連敗を喫した。同点の延長10回1死、ソフトバンク川村友斗外野手（2",
-      "link": "https://news.yahoo.co.jp/articles/f00db7a2395a02a8b727f8507c39358a1a85129d?source=rss",
-      "pubDate": "2026-10-25T13:09:26.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "baystars"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/f00db7a2395a02a8b727f8507c39358a1a85129d?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【ソフトバンク】モイネロ、大乱調CSとは別人の好投「勝ちにつながる投球ができた」７回無失点(日刊スポーツ)",
-      "summary": "＜日本シリーズ：DeNA3－4ソフトバンク＞◇第2戦◇25日◇横浜 ソフトバンクの先発リバン・モイネロ投手（30）が、大乱調だったCSとは別人のような好投を見せた。【写真】打球を好捕した近藤健介をねぎ",
-      "link": "https://news.yahoo.co.jp/articles/b5541f24297b86d0da80758089cb63849cd5d5c3?source=rss",
-      "pubDate": "2026-10-25T13:08:40.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "hawks"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/b5541f24297b86d0da80758089cb63849cd5d5c3?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【ソフトバンク】山川穂高「集中して自分のスイングを」王球団会長の助言に応えた「復活」場外弾(日刊スポーツ)",
-      "summary": "＜日本シリーズ：DeNA3－4ソフトバンク＞◇第2戦◇25日◇横浜 「どすこい」とともに帰ってきた！ ソフトバンク山川穂高内野手（34）が「SMBC日本シリーズ2026」第2戦で場外本塁打を放った。1",
-      "link": "https://news.yahoo.co.jp/articles/127a0db5d85dc411f4f5ff5d0c2c84a52dbf1c3c?source=rss",
-      "pubDate": "2026-10-25T13:04:52.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "hawks"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/127a0db5d85dc411f4f5ff5d0c2c84a52dbf1c3c?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【DeNA】度会隆輝が日本Ｓ初安打、一時逆転の流れつくる 松本裕樹の151キロ速球を右前へ(日刊スポーツ)",
-      "summary": "＜日本シリーズ：DeNA3－4ソフトバンク＞◇第2戦◇25日◇横浜 DeNA度会隆輝外野手（24）が、日本シリーズ初安打を放ち、一時逆転の流れをつくった。【写真】一時逆転の3点本塁打を放つ筒香嘉智 2",
-      "link": "https://news.yahoo.co.jp/articles/f11c86fa9201f4aa8fb1c837034c3b30711899d5?source=rss",
-      "pubDate": "2026-10-25T13:03:49.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "baystars"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/f11c86fa9201f4aa8fb1c837034c3b30711899d5?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【上原浩治】ソフトバンクの層の厚さにあぜん…守備固めの川村がＶ弾 短期決戦には長打力不可欠(日刊スポーツ)",
-      "summary": "＜日本シリーズ：DeNA3－4ソフトバンク＞◇第2戦◇25日◇横浜 パ・リーグを圧倒的な強さで勝ち抜いたソフトバンクと、セ・リーグのペナントでは3位ながら勢いを付けて勝ち上がってきたDeNA。両リーグ",
-      "link": "https://news.yahoo.co.jp/articles/ff3823e9e134774f6abf560d328c0de0db1a8d87?source=rss",
-      "pubDate": "2026-10-25T12:59:24.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "hawks",
-        "baystars"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/ff3823e9e134774f6abf560d328c0de0db1a8d87?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【DeNA】日本シリーズが２戦連続で延長戦 ２戦連続延長は11年のソフトバンク－中日戦以来(日刊スポーツ)",
-      "summary": "＜日本シリーズ：DeNA3－4ソフトバンク＞◇第2戦◇25日◇横浜 DeNA－ソフトバンクの日本シリーズ第2戦は、2試合連続で延長戦にもつれ込んだ。【写真】どすこいポーズする山川穂高 2点を追いかける",
-      "link": "https://news.yahoo.co.jp/articles/880f249f151723c43e80bb5092f7de8508de3ef6?source=rss",
-      "pubDate": "2026-10-25T12:53:09.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "baystars"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/880f249f151723c43e80bb5092f7de8508de3ef6?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【ソフトバンク】川村友斗が延長10回決勝アーチ、DeNAに２連勝 日本一連覇へあと２勝(日刊スポーツ)",
-      "summary": "＜日本シリーズ：DeNA3－4ソフトバンク＞◇第2戦◇25日◇横浜 やっぱり強いわ。ソフトバンクがDeNAに2連勝発進。2年連続の日本一へ、あと2勝とした。【写真】場外弾の山川穂高 3回だった。1死か",
-      "link": "https://news.yahoo.co.jp/articles/1b08ff976a88d9d7f6367562353e16c1be4a30a9?source=rss",
-      "pubDate": "2026-10-25T12:48:42.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "hawks"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/1b08ff976a88d9d7f6367562353e16c1be4a30a9?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【ソフトバンク】川村友斗、日本Ｓ初打席で勝ち越し弾！今季０本塁打の伏兵が延長10回に大仕事(日刊スポーツ)",
-      "summary": "＜日本シリーズ：DeNA3－4ソフトバンク＞◇第2戦◇25日◇横浜 ソフトバンク川村友斗外野手（27）が値千金の勝ち越しソロを放った。【写真】川村にソロ本塁打を浴びる伊勢 同点の延長10回、DeNA伊",
-      "link": "https://news.yahoo.co.jp/articles/5f634d8a6a37126986d903196f72b0f58993a78a?source=rss",
-      "pubDate": "2026-10-25T12:43:51.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "hawks"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/5f634d8a6a37126986d903196f72b0f58993a78a?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "「VIVANT」放送開始は45分遅れ「日本シリーズ」中継2戦目も延長でずれ込む(日刊スポーツ)",
-      "summary": "TBS系日曜劇場「VIVANT」の25日放送の第22話（第2シーズン12話）が、定刻の午後9時に開始されず繰り下げとなった。プロ野球「SMBC日本シリーズ2026」横浜DeNAベイスターズ対福岡ソフト",
-      "link": "https://news.yahoo.co.jp/articles/a3d1ebb9bedef32650cadb3260c7c941e85158ce?source=rss",
-      "pubDate": "2026-10-25T12:41:15.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "baystars"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/a3d1ebb9bedef32650cadb3260c7c941e85158ce?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【日本シリーズ試合速報】DeNA 対 ソフトバンク 第2戦 スコア結果・テキスト速報｜SMBC日本シリーズ2026",
-      "summary": "日本シリーズ2026 試合速報・結果一覧｜DeNA対ソフトバンク 10月24日（土）に開幕する「SMBC日本シリーズ2026」。横浜DeNAベイスターズと福岡ソフトバンクホークスが日本一を懸けて激突する。本記事では、全試合の日程・結果、シリ…",
-      "link": "https://www.baseballchannel.jp/npb/298162/",
-      "pubDate": "2026-10-25T12:40:21.000Z",
-      "source": "ベースボールチャンネル（プロ野球）",
-      "sourceId": "baseballchannel-npb",
-      "teams": [
-        "baystars",
-        "hawks"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "ベースボールチャンネル（プロ野球）",
-          "sourceId": "baseballchannel-npb",
-          "link": "https://www.baseballchannel.jp/npb/298162/"
-        }
-      ]
-    },
-    {
-      "title": "【DeNA】悪夢の本拠地２連敗…筒香嘉智逆転３ランも守護神が被弾 延長10回に決勝弾浴びる(日刊スポーツ)",
-      "summary": "＜日本シリーズ：DeNA3－4ソフトバンク＞◇第2戦◇25日◇横浜 DeNAが本拠地・横浜スタジアムで痛恨の連敗を喫した。2点ビハインドの8回1死一、二塁。4番筒香嘉智内野手（34）が左翼ポール際への",
-      "link": "https://news.yahoo.co.jp/articles/2bb6c9be681a1dcf8d5d482a699160d1fc9ceb9d?source=rss",
-      "pubDate": "2026-10-25T12:39:26.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "baystars"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/2bb6c9be681a1dcf8d5d482a699160d1fc9ceb9d?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "ソフトバンクが日本シリーズ2連勝 一発攻勢で…あと2人から同点弾→延長10回に勝ち越し弾",
-      "summary": "25日に横浜スタジアムで行われた「SMBC日本シリーズ2026」の第2戦はソフトバンクが4-3で制し、DeNA相手に連勝を飾った。正木智也外野手のソロで先制すると、庄子雄大内野手が2戦連続の適時打をマーク。先発のリバン・モイネロ投手は7回5…",
-      "link": "https://full-count.jp/2026/10/25/post2036467/",
-      "pubDate": "2026-10-25T12:39:24.000Z",
-      "source": "Full-Count（プロ野球）",
-      "sourceId": "full-count-npb",
-      "teams": [
-        "hawks"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Full-Count（プロ野球）",
-          "sourceId": "full-count-npb",
-          "link": "https://full-count.jp/2026/10/25/post2036467/"
-        }
-      ]
-    },
-    {
-      "title": "【日本シリーズ】代打・山川穂高が9回に劇的同点弾！ 敗戦まであと2アウト…特大アーチで試合振り出し",
-      "summary": "福岡ソフトバンクホークスの山川穂高内野手が25日、横浜スタジアムで行われた横浜DeNAベイスターズとの「SMBC日本シリーズ2026」第2戦で、9回に代打で登場し、劇的な同点本塁打を放った。",
-      "link": "https://www.baseballchannel.jp/npb/298229/",
-      "pubDate": "2026-10-25T12:21:58.000Z",
-      "source": "ベースボールチャンネル（プロ野球）",
-      "sourceId": "baseballchannel-npb",
-      "teams": [
-        "hawks",
-        "baystars"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "ベースボールチャンネル（プロ野球）",
-          "sourceId": "baseballchannel-npb",
-          "link": "https://www.baseballchannel.jp/npb/298229/"
-        }
-      ]
-    },
-    {
-      "title": "午後8時56分…日本中から悲鳴「野球延長まじか」 まさかの表示に「別班が動くかも」",
-      "summary": "横浜スタジアムで行われている「SMBC日本シリーズ2026」第2戦、DeNA対ソフトバンクの熱戦が思わぬ波紋を広げている。試合展開に伴う中継の放送時間延長が発表されると、後続の人気ドラマ『VIVANT』の放送を待っていたファンからSNS上で…",
-      "link": "https://full-count.jp/2026/10/25/post2036563/",
-      "pubDate": "2026-10-25T12:08:21.000Z",
-      "source": "Full-Count（プロ野球）",
-      "sourceId": "full-count-npb",
-      "teams": [
-        "baystars"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Full-Count（プロ野球）",
-          "sourceId": "full-count-npb",
-          "link": "https://full-count.jp/2026/10/25/post2036563/"
-        }
-      ]
-    },
-    {
-      "title": "【ソフトバンク】豪快先制弾の正木智也「最高の結果」日本Ｓ過去２年無安打も第１戦に続き存在感(日刊スポーツ)",
-      "summary": "＜日本シリーズ：DeNA－ソフトバンク＞◇第2戦◇25日◇横浜 横浜スタジアムの左翼上段へ豪快にたたき込んだ。ソフトバンク正木智也外野手（26）が3回に先制ソロ。フルカウントからDeNA尾形の150キ",
-      "link": "https://news.yahoo.co.jp/articles/53f4b95f350aa1d5fff20ed9eb0e7b90a436a142?source=rss",
-      "pubDate": "2026-10-25T11:47:45.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "hawks"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/53f4b95f350aa1d5fff20ed9eb0e7b90a436a142?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "ソフトバンク松本裕樹に悪夢… 2夜連続で被弾しリード守れず DeNA筒香嘉智に逆転3ラン 前夜は牧秀悟に同点ソロ(西スポWEB OTTO!)",
-      "summary": "◆SMBC日本シリーズ2026 第2戦 DeNA―ソフトバンク（25日、横浜） ソフトバンクの松本裕樹が2試合続けて被弾し、リードを守り切れなかった。■【一覧】ソフトバンク第2戦ベンチ入り26人は…？",
-      "link": "https://news.yahoo.co.jp/articles/264b355f4fa89e8616e49baf705a3d33fd2fef46?source=rss",
-      "pubDate": "2026-10-25T11:46:38.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "hawks",
-        "baystars"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/264b355f4fa89e8616e49baf705a3d33fd2fef46?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【ソフトバンク】痛恨バント併殺…DeNA松尾の頭脳プレーで無死一、二塁の好機逃す(日刊スポーツ)",
-      "summary": "＜日本シリーズ：DeNA－ソフトバンク＞◇第2戦◇25日◇横浜 ソフトバンクが痛恨の併殺で追加点のチャンスを逃した。【写真】牧原大成のバントフライをワンバウンドで捕球し… 2点リードの8回無死一、二塁",
-      "link": "https://news.yahoo.co.jp/articles/01d2213e2e36b2a2f456ad2deba612419ba2ec6a?source=rss",
-      "pubDate": "2026-10-25T11:44:17.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "hawks"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/01d2213e2e36b2a2f456ad2deba612419ba2ec6a?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "日本Sでも「残念そこは周東」ソフトバンク周東佑京が驚異の快足で右中間の当たり捕球 DeNAファンから思わずため息(西スポWEB OTTO!)",
-      "summary": "◆SMBC日本シリーズ2026 第2戦 DeNA―ソフトバンク（25日、横浜） ソフトバンクの周東佑京が俊足を生かした守備で先発モイネロを助けた。■【一覧】ソフトバンク第2戦ベンチ入り26人は…？ 7",
-      "link": "https://news.yahoo.co.jp/articles/2e458e80d65a1051606e8e5ffca78300e85e1c94?source=rss",
-      "pubDate": "2026-10-25T11:43:55.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "hawks",
-        "baystars"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/2e458e80d65a1051606e8e5ffca78300e85e1c94?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【DeNA】松尾汐恩が頭脳プレーで８回ピンチに併殺奪う ノーバウンド捕球ではなくあえて…(日刊スポーツ)",
-      "summary": "＜日本シリーズ：DeNA－ソフトバンク＞◇第2戦◇25日◇横浜 DeNA松尾汐恩捕手（22）が頭脳プレーでさらなる失点を予防した。【写真】あえて落とす”頭脳プレー” 2点リードされた8回表の守備、5番",
-      "link": "https://news.yahoo.co.jp/articles/1699683e2f80678d9f996f807f3459f26926cce8?source=rss",
-      "pubDate": "2026-10-25T11:43:41.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "baystars"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/1699683e2f80678d9f996f807f3459f26926cce8?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【日本シリーズ】DeNA・筒香が大仕事！ 8回、起死回生逆転3ラン 0―2からの一発にハマスタ沸騰(スポニチアネックス)",
-      "summary": "◇SMBC日本シリーズ2026 第2戦 DeNA―ソフトバンク（2026年10月25日 横浜） DeNAの筒香嘉智が起死回生の逆転3ランを放った。0―2の8回1死一、二塁。ソフトバンク・松本裕から左翼",
-      "link": "https://news.yahoo.co.jp/articles/d1e59ea5995c7c6c959d56f89756972a1b83a87d?source=rss",
-      "pubDate": "2026-10-25T11:43:19.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "baystars"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/d1e59ea5995c7c6c959d56f89756972a1b83a87d?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【巨人】戦力外の湯浅大が現役続行を希望 二塁、三塁、遊撃、外野を守れるユーティリティープレーヤー(スポーツ報知)",
-      "summary": "巨人の湯浅大内野手（２６）が２５日、球団から来季の契約を結ばない旨を通知された。現役続行を希望している。 １７年ドラフト８位で入団したスピードと堅実な守備を武器とする内野手。二塁、三塁、遊撃をこなせる",
-      "link": "https://news.yahoo.co.jp/articles/f0ccb7645ccb596d01bee883c9379bc59eaeef1e?source=rss",
-      "pubDate": "2026-10-25T11:42:46.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "giants"
-      ],
-      "topics": [
-        "trade",
-        "draft"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/f0ccb7645ccb596d01bee883c9379bc59eaeef1e?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【日本シリーズ】ソフトバンクのリバン・モイネロが７回無失点の好投 ８奪三振とＤｅＮＡ打線寄せ付けず(スポーツ報知)",
-      "summary": "◆ＳＭＢＣ日本シリーズ２０２６ 第２戦 ＤｅＮＡ―ソフトバンク（２５日・横浜） ソフトバンクの先発、リバン・モイネロ投手が７回無失点で降板した。【写真】国家独唱の龍玄とし「大好きだ―！！」 カットボー",
-      "link": "https://news.yahoo.co.jp/articles/0e20368d95e4ad0bc2821829d10bb621b11f9ca2?source=rss",
-      "pubDate": "2026-10-25T11:40:33.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "hawks",
-        "baystars"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/0e20368d95e4ad0bc2821829d10bb621b11f9ca2?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "ソフトバンク牧原大成、痛恨のバント失敗で併殺プレー DeNA松尾汐恩の好判断でチャンスフイに(西スポWEB OTTO!)",
-      "summary": "◆SMBC日本シリーズ2026 第2戦 DeNA―ソフトバンク（25日、横浜） ソフトバンクの牧原大成が痛恨のバント失敗を犯した。■【一覧】ソフトバンク第2戦ベンチ入り26人は…？ 2点リードの8回無",
-      "link": "https://news.yahoo.co.jp/articles/19aae407d85a49703007c4e020790530707bd57b?source=rss",
-      "pubDate": "2026-10-25T11:39:27.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "hawks",
-        "baystars"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/19aae407d85a49703007c4e020790530707bd57b?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "「これは野球IQ高え」DeNA松尾汐恩、とっさの好判断で絶体絶命ピンチに併殺奪う ネット「ナイス判断すぎる」ベンチの小久保監督は険しい顔(中日スポーツ)",
-      "summary": "◇25日 SMBC日本シリーズ第2戦 DeNA―ソフトバンク（横浜） DeNAの松尾汐恩捕手が「5番・捕手」で先発出場。8回のピンチの守備で、とっさの好判断で併殺を完成させた。◆「芸能人並みにカワイイ",
-      "link": "https://news.yahoo.co.jp/articles/57de9d8a874739e6db52a6ce04157d6db6951beb?source=rss",
-      "pubDate": "2026-10-25T11:38:17.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "baystars"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/57de9d8a874739e6db52a6ce04157d6db6951beb?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "日本シリーズ舞台裏 DeNAは雨天中止が吉兆データだが…天気予報が悪い中でもハマスタ2試合開催(サンケイスポーツ)",
-      "summary": "（SMBC日本シリーズ2026、DeNA－ソフトバンク、第2戦、25日、横浜）台風30号の影響が心配された第2戦。何とか開催されたが、この日も雨は降り続き、DeNA練習中の午後2時50分には照明が点灯",
-      "link": "https://news.yahoo.co.jp/articles/fcd571330e4d208551afc6574e8746664dfe165e?source=rss",
-      "pubDate": "2026-10-25T11:37:28.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "baystars"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/fcd571330e4d208551afc6574e8746664dfe165e?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "「全国のVIVANTファンが応援してて草」ソフトバンク・モイネロの圧巻投球に番組ファン歓喜「9時から始まるかも」「モイネロ早く見たすぎて快投続けてる説好き」【日本シリーズ】(中日スポーツ)",
-      "summary": "◇25日 SMBC日本シリーズ第2戦 DeNA―ソフトバンク（横浜） ソフトバンク先発左腕リバン・モイネロ投手が、7回まで5安打無失点と好投。テンポの速い”サクサク投球”に、ネットではドラマ視聴者から",
-      "link": "https://news.yahoo.co.jp/articles/573a8f614eb4d1b9679f748ed7b59249673f9610?source=rss",
-      "pubDate": "2026-10-25T11:35:25.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "hawks"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/573a8f614eb4d1b9679f748ed7b59249673f9610?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【DeNA】「６番右翼」井上朋也 脱力打法で難敵モイネロを攻略 古巣相手に２打席連続二塁打(日刊スポーツ)",
-      "summary": "＜日本シリーズ：DeNA－ソフトバンク＞◇第2戦◇25日◇横浜 古巣相手に成長した姿を見せた。DeNA井上朋也内野手（23）が「6番右翼」でスタメン出場。2回の第1打席で左翼線への二塁打を放つと、4回",
-      "link": "https://news.yahoo.co.jp/articles/d4c53fdc5e3b47044d671bbe9db36d43e173543b?source=rss",
-      "pubDate": "2026-10-25T11:32:33.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "baystars"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/d4c53fdc5e3b47044d671bbe9db36d43e173543b?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【日本シリーズ】ソフトバンク 先発モイネロは圧巻の7回無失点 先頭打者を1度も出さず8奪三振(スポニチアネックス)",
-      "summary": "◇SMBC日本シリーズ2026 第2戦 ソフトバンク―DeNA（2026年10月25日 横浜） ソフトバンク先発・モイネロは盤石の投球。1度も先頭打者の出塁を許さず、7回を5安打8奪三振で無失点に抑え",
-      "link": "https://news.yahoo.co.jp/articles/e3137d5850e7869f5710c407f5fe63c80bd6318e?source=rss",
-      "pubDate": "2026-10-25T11:32:25.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "hawks"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/e3137d5850e7869f5710c407f5fe63c80bd6318e?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "工藤新監督で浮上なるか？ 中日、就任1年目に順位を上げた監督（5）新人エースが衝撃の35勝…首位とは1ゲーム差(ベースボールチャンネル)",
-      "summary": "2027年から工藤公康新監督が指揮を執る中日ドラゴンズ。最下位に終わった今季からの巻き返しが期待される中、新体制の1年目にどこまで順位を上げられるかが注目される。球団の歴史を振り返ると、就任直後にチー",
-      "link": "https://news.yahoo.co.jp/articles/09bad678d7bfcc61570ec403710627a6cee3f20c?source=rss",
-      "pubDate": "2026-10-25T11:30:49.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "dragons"
-      ],
-      "topics": [
-        "personnel"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/09bad678d7bfcc61570ec403710627a6cee3f20c?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【ソフトバンク】モイネロ、CSとは別人のような投球 変化球自在「コントロール修正してきた」(日刊スポーツ)",
-      "summary": "ソフトバンクの先発リバン・モイネロ投手（30）が、大乱調だったCSとは別人のような好投を見せた。【写真】好捕の近藤健介をねぎらうモイネロ 最速150キロの真っすぐを見せ球にカットボール、カーブ、チェン",
-      "link": "https://news.yahoo.co.jp/articles/a976e9eae740b579b5f0e53e7d24034905154931?source=rss",
-      "pubDate": "2026-10-25T11:29:22.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "hawks"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/a976e9eae740b579b5f0e53e7d24034905154931?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "ソフトバンク・モイネロが7回無失点！乱調だったCSファイナルSから見事修正(サンケイスポーツ)",
-      "summary": "（SMBC日本シリーズ2026、DeNAーソフトバンク、第2戦、25日、横浜）ソフトバンクの先発、リバン・モイネロ投手（30）が7回を5安打無失点と好投した。二回に1死から連打で二、三塁とピンチを迎え",
-      "link": "https://news.yahoo.co.jp/articles/25705fd5ed523cb66a88ee3dd72cf39bb8258ec8?source=rss",
-      "pubDate": "2026-10-25T11:29:22.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "hawks"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/25705fd5ed523cb66a88ee3dd72cf39bb8258ec8?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "「VIVANT」22話放送は「日本シリーズ終了後」公式であらためて告知 中継とコラボも(日刊スポーツ)",
-      "summary": "TBS系日曜劇場「VIVANT」（午後9時）公式Xが25日、更新され、第22話（第2シーズン12話）が、プロ野球「SMBC日本シリーズ2026」横浜DeNAベイスターズ対福岡ソフトバンクホークスの第2",
-      "link": "https://news.yahoo.co.jp/articles/c12bdb48dbdd9f9edebd7187c6a9dd17e398b4ba?source=rss",
-      "pubDate": "2026-10-25T11:24:24.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "hawks"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/c12bdb48dbdd9f9edebd7187c6a9dd17e398b4ba?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【中日】ドラフト3日後に非情宣告…”ベテラン勝負師”が戦力外、幻の本塁打も",
-      "summary": "中日ドラゴンズは25日、川越誠司外野手と2027シーズンの選手契約を結ばないことを通告した。",
-      "link": "https://www.baseballchannel.jp/npb/298180/",
-      "pubDate": "2026-10-25T11:10:43.000Z",
-      "source": "ベースボールチャンネル（プロ野球）",
-      "sourceId": "baseballchannel-npb",
-      "teams": [
-        "dragons"
-      ],
-      "topics": [
-        "trade",
-        "draft"
-      ],
-      "sources": [
-        {
-          "name": "ベースボールチャンネル（プロ野球）",
-          "sourceId": "baseballchannel-npb",
-          "link": "https://www.baseballchannel.jp/npb/298180/"
-        }
-      ]
-    },
-    {
-      "title": "【DeNA】尾形崇斗、トレード相手の山本祐大の左前打をきっかけに追加点を献上(日刊スポーツ)",
-      "summary": "＜日本シリーズ：DeNA－ソフトバンク＞◇第2戦◇25日◇横浜 DeNA尾形崇斗投手（27）が、トレードの交換相手だったソフトバンク山本祐大捕手（28）の左前打をきっかけに追加点を許した。【写真】トレ",
-      "link": "https://news.yahoo.co.jp/articles/43724bbc64b1c3520c09c7f99c67c3366194b57a?source=rss",
-      "pubDate": "2026-10-25T11:05:28.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "baystars"
-      ],
-      "topics": [
-        "trade"
-      ],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/43724bbc64b1c3520c09c7f99c67c3366194b57a?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【DeNA】１点遠く…モイネロのゾーン勝負も５回まで３安打のみ 左打者は９打席無安打(日刊スポーツ)",
-      "summary": "＜日本シリーズ：DeNA－ソフトバンク＞◇第2戦◇25日◇横浜 DeNAは5回を終え、ソフトバンクに2点のリードを許している。【写真】見逃し三振に倒れる筒香 ソフトバンク・モイネロに対し、5番から8番",
-      "link": "https://news.yahoo.co.jp/articles/6ecd63744b604413724a349d15715a5d257c97fa?source=rss",
-      "pubDate": "2026-10-25T11:03:25.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "baystars"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/6ecd63744b604413724a349d15715a5d257c97fa?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【ソフトバンク】ハマっ子の庄子雄大が連夜の適時打 第２戦も４回に右中間突破の適時二塁打(日刊スポーツ)",
-      "summary": "＜日本シリーズ：DeNA－ソフトバンク＞◇第2戦◇25日◇横浜 横浜生まれのハマっ子、ソフトバンク庄子雄大内野手（24）が地元で連夜の活躍を見せた。【写真】DeNAのマスコットとたわむれるソフトバンク",
-      "link": "https://news.yahoo.co.jp/articles/3cdc0f321decd58e86d262f0b3e1a4509e7bf732?source=rss",
-      "pubDate": "2026-10-25T10:51:38.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "hawks"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/3cdc0f321decd58e86d262f0b3e1a4509e7bf732?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "日曜日なのに…大量10選手が戦力外＆自由契約 まさかの超大物ドラ1も、25日の去就",
-      "summary": "プロ野球界は25日、日曜日にもかかわらず来季に向けた戦力再編の動きが活発化した。巨人、ロッテ、中日の3球団が来季構想から外れた選手を発表し、計10選手が戦力外または自由契約となった。",
-      "link": "https://full-count.jp/2026/10/25/post2036532/",
-      "pubDate": "2026-10-25T10:51:21.000Z",
-      "source": "Full-Count（プロ野球）",
-      "sourceId": "full-count-npb",
-      "teams": [
-        "giants",
-        "marines",
-        "dragons"
-      ],
-      "topics": [
-        "trade"
-      ],
-      "sources": [
-        {
-          "name": "Full-Count（プロ野球）",
-          "sourceId": "full-count-npb",
-          "link": "https://full-count.jp/2026/10/25/post2036532/"
-        }
-      ]
-    },
-    {
-      "title": "【DeNA】尾形崇斗５回途中２失点で降板「投球自体は悪くなかった」２番手の岩田将貴が好救援(日刊スポーツ)",
-      "summary": "＜日本シリーズ：DeNA－ソフトバンク＞◇第2戦◇25日◇横浜 DeNA先発の尾形崇斗投手（27）が5回途中5安打2失点で降板した。【写真】ベンチへ戻る岩田将貴を迎える尾形崇斗 5月にソフトバンクから",
-      "link": "https://news.yahoo.co.jp/articles/f1b2692704a2a22191fceda7c2a525519a745b3c?source=rss",
-      "pubDate": "2026-10-25T10:40:54.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "baystars"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/f1b2692704a2a22191fceda7c2a525519a745b3c?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【DeNA】度会隆輝が落球 無死三塁のピンチも２番手の岩田将貴がしのぐ(日刊スポーツ)",
-      "summary": "＜日本シリーズ：DeNA－ソフトバンク＞◇第2戦◇25日◇横浜 DeNAがピンチをしのいだ。【写真】正木智也の打球を落球する度会隆輝 先頭打者ソフトバンク正木の左翼フェンス際へ高く上がった打球を度会隆",
-      "link": "https://news.yahoo.co.jp/articles/d0765e2b7c1306d0742b59ac97f4ed42944bf412?source=rss",
-      "pubDate": "2026-10-25T10:40:16.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "baystars"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/d0765e2b7c1306d0742b59ac97f4ed42944bf412?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【ソフトバンク】山本祐大、ド根性打！追加点を呼ぶ左前打 前日は死球で途中交代(日刊スポーツ)",
-      "summary": "＜日本シリーズ：DeNA－ソフトバンク＞◇第2戦◇25日◇横浜 ソフトバンクの山本祐大捕手（28）がド根性の一打を放った。【写真】気迫の生還 1－0で迎えた4回2死の第2打席。DeNA尾形から左前打を",
-      "link": "https://news.yahoo.co.jp/articles/77011e4cf17e8b26e913f28b28e8169c401ff2fd?source=rss",
-      "pubDate": "2026-10-25T10:32:17.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "hawks"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/77011e4cf17e8b26e913f28b28e8169c401ff2fd?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【西武】ファン感は11月28日「圧倒的エンタメベースボール」が１時間拡大、新人お披露目会も(日刊スポーツ)",
-      "summary": "西武は11月28日に本拠地ネルーナドームで行うファン感謝イベント「LIONS THANKS FESTA 2026 supported by Olive」の概要を、25日までに発表した。【写真】昨年の「",
-      "link": "https://news.yahoo.co.jp/articles/12e3c541fd21f04aae836b054776c142feca9c9f?source=rss",
-      "pubDate": "2026-10-25T10:23:31.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "lions"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/12e3c541fd21f04aae836b054776c142feca9c9f?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "「嘘だろ？」午後6時半に発表…戦力外通告を受けた2人 SNS悲鳴「あの誤審がなければ」",
-      "summary": "中日は25日、宇佐見真吾捕手と川越誠司外野手に対し、来季の契約を結ばないことを通告したと発表した。2023年シーズン途中にトレードで加入し、パンチ力ある打撃でファンを沸かせた左打者2人への非情通告。SNS上でファンからは、「まさかの日曜に」…",
-      "link": "https://full-count.jp/2026/10/25/post2036354/",
-      "pubDate": "2026-10-25T10:23:17.000Z",
-      "source": "Full-Count（プロ野球）",
-      "sourceId": "full-count-npb",
-      "teams": [
-        "dragons"
-      ],
-      "topics": [
-        "trade"
-      ],
-      "sources": [
-        {
-          "name": "Full-Count（プロ野球）",
-          "sourceId": "full-count-npb",
-          "link": "https://full-count.jp/2026/10/25/post2036354/"
-        }
-      ]
-    },
-    {
-      "title": "【ソフトバンク】庄子雄大がまた打った！２戦連続適時二塁打でハマっ子の存在感(日刊スポーツ)",
-      "summary": "＜日本シリーズ：DeNA－ソフトバンク＞◇第2戦◇25日◇横浜 ハマっ子が連日バットで魅せた。ソフトバンク庄子雄大内野手（24）が2試合連続の適時打を放った。【写真】庄子雄大の適時二塁打で生還する山本",
-      "link": "https://news.yahoo.co.jp/articles/e1bd758ea48de3054f1590d13afce867b162cf26?source=rss",
-      "pubDate": "2026-10-25T10:23:03.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "hawks"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/e1bd758ea48de3054f1590d13afce867b162cf26?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【ソフトバンク】どこまで飛んでいくのか…正木智也が確信のシリーズ初アーチで先制「最高の形」(日刊スポーツ)",
-      "summary": "＜日本シリーズ：DeNA－ソフトバンク＞◇第2戦◇25日◇横浜 ソフトバンク正木智也外野手（26）が自身初の日本シリーズ初アーチを決めた。【写真】左翼スタンド最上段に着弾 0－0で迎えた3回1死の第2",
-      "link": "https://news.yahoo.co.jp/articles/90006165278944b714315411407d9e58a5e0aad1?source=rss",
-      "pubDate": "2026-10-25T10:08:27.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "hawks"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/90006165278944b714315411407d9e58a5e0aad1?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【DeNA】尾形崇斗がソフトバンク正木智也に先制ソロを被弾 先制の好機逃し、直後に先制許す(日刊スポーツ)",
-      "summary": "＜日本シリーズ：DeNA－ソフトバンク＞◇第2戦◇25日◇横浜 DeNA尾形崇斗投手（27）が、ソフトバンク正木智也外野手（26）に先制のソロを浴びた。【写真】あと一打出ず…空振り三振に倒れる尾形 0",
-      "link": "https://news.yahoo.co.jp/articles/c220eb3e14311805b17e5796b2627f364e999571?source=rss",
-      "pubDate": "2026-10-25T10:07:42.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "baystars"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/c220eb3e14311805b17e5796b2627f364e999571?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【中日】月間3度のサヨナラ打も…”元巨人捕手”が戦力外、今季1軍出場ゼロ",
-      "summary": "中日ドラゴンズは25日、宇佐見真吾捕手に2027シーズンの選手契約を結ばないことを通告した。",
-      "link": "https://www.baseballchannel.jp/npb/298175/",
-      "pubDate": "2026-10-25T10:00:36.000Z",
-      "source": "ベースボールチャンネル（プロ野球）",
-      "sourceId": "baseballchannel-npb",
-      "teams": [
-        "dragons",
-        "giants"
-      ],
-      "topics": [
-        "trade"
-      ],
-      "sources": [
-        {
-          "name": "ベースボールチャンネル（プロ野球）",
-          "sourceId": "baseballchannel-npb",
-          "link": "https://www.baseballchannel.jp/npb/298175/"
-        }
-      ]
-    },
-    {
-      "title": "【ヤクルト】来季コーチ陣発表 川端コーチ１軍に 古城茂幸氏がコーチ就任 巡回コーチが新設(日刊スポーツ)",
-      "summary": "ヤクルトは25日、池山隆寛監督（60）の2年目となる来季コーチ陣を発表した。 川端慎吾打撃コーチ（39）が2軍から1軍に配置転換。今季はハヤテでヘッドコーチ兼野手総合コーチを務めた古城茂幸氏（50）が",
-      "link": "https://news.yahoo.co.jp/articles/0418f3b363bff2189323a67ef714e24f736037f1?source=rss",
-      "pubDate": "2026-10-25T10:00:01.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "swallows"
-      ],
-      "topics": [
-        "personnel"
-      ],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/0418f3b363bff2189323a67ef714e24f736037f1?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【DeNA】２回裏１死二、三塁で先制のチャンスも…モイネロの前にあと一打が出ず(日刊スポーツ)",
-      "summary": "＜日本シリーズ：DeNA－ソフトバンク＞◇第2戦◇25日◇横浜 DeNAは先制のチャンスもあと一打が出なかった。【写真】あと一打出ず…空振り三振に倒れる尾形 2回1死から松尾汐恩捕手（22）の左前打、",
-      "link": "https://news.yahoo.co.jp/articles/9f58e0963b733604917a9cf88a08e4116d45b8a8?source=rss",
-      "pubDate": "2026-10-25T09:57:28.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "baystars"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/9f58e0963b733604917a9cf88a08e4116d45b8a8?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "中日、33歳のベテラン2人に戦力外通告…通算450試合出場の元巨人捕手も",
-      "summary": "中日ドラゴンズは25日、川越誠司外野手と宇佐見真吾捕手の2選手に対し、2027年シーズンの契約を結ばないことを通告した。",
-      "link": "https://www.baseballchannel.jp/npb/298154/",
-      "pubDate": "2026-10-25T09:50:00.000Z",
-      "source": "ベースボールチャンネル（プロ野球）",
-      "sourceId": "baseballchannel-npb",
-      "teams": [
-        "dragons",
-        "giants"
-      ],
-      "topics": [
-        "trade"
-      ],
-      "sources": [
-        {
-          "name": "ベースボールチャンネル（プロ野球）",
-          "sourceId": "baseballchannel-npb",
-          "link": "https://www.baseballchannel.jp/npb/298154/"
-        }
-      ]
-    },
-    {
-      "title": "中日、支配下2人に戦力外通告 ともにトレード獲得の左打者…日本ハムと西武から加入",
-      "summary": "中日は25日、宇佐見真吾捕手、川越誠司外野手に対し、来季の契約を結ばないことを通告したと発表した。",
-      "link": "https://full-count.jp/2026/10/25/post2036349/",
-      "pubDate": "2026-10-25T09:40:55.000Z",
-      "source": "Full-Count（プロ野球）",
-      "sourceId": "full-count-npb",
-      "teams": [
-        "dragons",
-        "fighters",
-        "lions"
-      ],
-      "topics": [
-        "trade"
-      ],
-      "sources": [
-        {
-          "name": "Full-Count（プロ野球）",
-          "sourceId": "full-count-npb",
-          "link": "https://full-count.jp/2026/10/25/post2036349/"
-        }
-      ]
-    },
-    {
-      "title": "FA移籍1年で戦力外…「何も力になれませんでした」 37歳の心境、伝えた「今後」",
-      "summary": "楽天から来季の選手契約を結ばない旨を通告された伊藤光捕手が25日、自身のインスタグラムを更新。FA移籍1年目で直面した無念の戦力外通告から5日、応援し続けてくれたファンやチームメートへの感謝、そして率直な胸中と今後についての思いを言葉にした…",
-      "link": "https://full-count.jp/2026/10/25/post2036387/",
-      "pubDate": "2026-10-25T08:34:21.000Z",
-      "source": "Full-Count（プロ野球）",
-      "sourceId": "full-count-npb",
-      "teams": [
-        "eagles"
-      ],
-      "topics": [
-        "trade"
-      ],
-      "sources": [
-        {
-          "name": "Full-Count（プロ野球）",
-          "sourceId": "full-count-npb",
-          "link": "https://full-count.jp/2026/10/25/post2036387/"
-        }
-      ]
-    },
-    {
-      "title": "松井新監督の裏で…巨人の気になる「58」 織田の動向も影響、浅野の自由契約で急速進行",
-      "summary": "松井秀喜新監督を迎える巨人が、来季に向けた編成を進めている。25日には浅野翔吾外野手ら6選手に自由契約を通知し、湯浅大内野手には来季の契約を結ばない旨を通達した。9月30日から、育成を含めて計22人が戦力外や自由契約の通知を受けた。そのうち…",
-      "link": "https://full-count.jp/2026/10/25/post2036450/",
-      "pubDate": "2026-10-25T08:05:34.000Z",
-      "source": "Full-Count（プロ野球）",
-      "sourceId": "full-count-npb",
-      "teams": [
-        "giants"
-      ],
-      "topics": [
-        "trade",
-        "personnel"
-      ],
-      "sources": [
-        {
-          "name": "Full-Count（プロ野球）",
-          "sourceId": "full-count-npb",
-          "link": "https://full-count.jp/2026/10/25/post2036450/"
-        }
-      ]
-    },
-    {
-      "title": "【ロッテ】プロ初の満塁弾も…ロッテの”現ドラ加入外野手”が戦力外、今季2軍では打率.355",
-      "summary": "千葉ロッテマリーンズは25日、愛斗外野手と2027シーズンの選手契約を行わないことを発表した。",
-      "link": "https://www.baseballchannel.jp/npb/298167/",
-      "pubDate": "2026-10-25T07:50:34.000Z",
-      "source": "ベースボールチャンネル（プロ野球）",
-      "sourceId": "baseballchannel-npb",
-      "teams": [
-        "marines"
-      ],
-      "topics": [
-        "trade"
-      ],
-      "sources": [
-        {
-          "name": "ベースボールチャンネル（プロ野球）",
-          "sourceId": "baseballchannel-npb",
-          "link": "https://www.baseballchannel.jp/npb/298167/"
-        }
-      ]
-    },
-    {
-      "title": "本塁憤死でも「雰囲気最高すぎる」 ベンチで発見…周東の“ド直球イジリ”に「めっちゃ笑う」",
-      "summary": "ソフトバンクは24日に行われた「SMBC日本シリーズ2026」第1戦（横浜スタジアム）で、延長11回の激闘の末にDeNAを3-1で下した。球団公式YouTubeが公開した舞台裏映像では、決勝打を放った殊勲のヒーローに対し、球界屈指の俊足を誇…",
-      "link": "https://full-count.jp/2026/10/25/post2036382/",
-      "pubDate": "2026-10-25T07:17:12.000Z",
-      "source": "Full-Count（プロ野球）",
-      "sourceId": "full-count-npb",
-      "teams": [
-        "hawks",
-        "baystars"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Full-Count（プロ野球）",
-          "sourceId": "full-count-npb",
-          "link": "https://full-count.jp/2026/10/25/post2036382/"
-        }
-      ]
-    },
-    {
-      "title": "失意の鷹右腕に寄り添った人物「マジで泣ける」 日本シリーズでも貫く“人格者”の振る舞い",
-      "summary": "「SMBC日本シリーズ2026」第1戦が24日、横浜スタジアムで行われ、ソフトバンクが延長11回の末に3-1で勝利した。先制したものの、8回に松本裕樹投手が同点弾を献上。失意を隠せぬ右腕に対し、寄り添った人物が「マジで泣ける」「スーパースタ…",
-      "link": "https://full-count.jp/2026/10/25/post2036357/",
-      "pubDate": "2026-10-25T06:53:44.000Z",
-      "source": "Full-Count（プロ野球）",
-      "sourceId": "full-count-npb",
-      "teams": [
-        "baystars",
-        "hawks"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Full-Count（プロ野球）",
-          "sourceId": "full-count-npb",
-          "link": "https://full-count.jp/2026/10/25/post2036357/"
-        }
-      ]
-    },
-    {
-      "title": "捕手転向から1年、西武・野村大樹の“通信簿” 「大丈夫か!?」が「ひょっとしたら」に…コーチも認める2つの武器",
-      "summary": "捕手転向から1年、西武・野村大樹の通信簿。「大丈夫か!?」から一転、「ひょっとしたら」と野田コーチも驚く成長。“2つの武器”を高く評価する。",
-      "link": "https://full-count.jp/2026/10/25/post2036418/",
-      "pubDate": "2026-10-25T06:47:34.000Z",
-      "source": "Full-Count（プロ野球）",
-      "sourceId": "full-count-npb",
-      "teams": [
-        "lions"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Full-Count（プロ野球）",
-          "sourceId": "full-count-npb",
-          "link": "https://full-count.jp/2026/10/25/post2036418/"
-        }
-      ]
-    },
-    {
-      "title": "週末の日曜…「あ？ あ、、、、、」「嘘だろ」 突如の発表に困惑と落胆、ドラフトから3日",
-      "summary": "ロッテは25日、愛斗外野手に対し来季の契約を結ばない旨を通知したと発表した。2023年12月に現役ドラフトで西武から加入して3年目。ドラフト会議からわずか3日後に届いた一報に対し、野球ファンから大きな困惑と落胆の声が上がっている。",
-      "link": "https://full-count.jp/2026/10/25/post2036422/",
-      "pubDate": "2026-10-25T06:27:05.000Z",
-      "source": "Full-Count（プロ野球）",
-      "sourceId": "full-count-npb",
-      "teams": [
-        "marines",
-        "lions"
-      ],
-      "topics": [
-        "draft"
-      ],
-      "sources": [
-        {
-          "name": "Full-Count（プロ野球）",
-          "sourceId": "full-count-npb",
-          "link": "https://full-count.jp/2026/10/25/post2036422/"
-        }
-      ]
-    },
-    {
-      "title": "競合から4年…大物ドラ1が自由契約「マジで？」 球界に走った衝撃「ショックやわ」",
-      "summary": "巨人は25日、浅野翔吾外野手ら6選手を自由契約とし、湯浅大内野手に戦力外通告を行ったと発表した。2022年のドラフト1位スラッガーを含めた大幅な血の入れ替えに、ファンからは「マジで？」「これもまた衝撃だな」などと驚きの声が上がっている。",
-      "link": "https://full-count.jp/2026/10/25/post2036398/",
-      "pubDate": "2026-10-25T06:14:27.000Z",
-      "source": "Full-Count（プロ野球）",
-      "sourceId": "full-count-npb",
-      "teams": [
-        "giants"
-      ],
-      "topics": [
-        "trade",
-        "draft"
-      ],
-      "sources": [
-        {
-          "name": "Full-Count（プロ野球）",
-          "sourceId": "full-count-npb",
-          "link": "https://full-count.jp/2026/10/25/post2036398/"
-        }
-      ]
-    },
-    {
-      "title": "【日本シリーズ】きょう第2戦は18時開始！DeNA―ソフトバンクのテレビ中継・ネット配信予定(まるスポ)",
-      "summary": "「SMBC日本シリーズ2026」第2戦のDeNA―ソフトバンクが、きょう10月25日、横浜スタジアムで行われる。試合開始は18時。テレビではTBS系列とNHK BS、インターネットではTVerとU-N",
-      "link": "https://news.yahoo.co.jp/articles/470b35ff9104e8dd3046bac67f8e1bc05fd5a2b2?source=rss",
-      "pubDate": "2026-10-25T06:13:37.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "baystars"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/470b35ff9104e8dd3046bac67f8e1bc05fd5a2b2?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "DeNA・相川監督が宮崎について「コンディションを日々、確認しながらという状態」 前夜は代打出場(スポニチアネックス)",
-      "summary": "DeNAの相川亮二監督（50）が日本シリーズ第2戦の試合前に取材に応じ、宮崎敏郎内野手（37）がコンディション面に不安がある状態だと明かした。 24日の第1戦はベンチスタート。2点を追う延長11回に2",
-      "link": "https://news.yahoo.co.jp/articles/ec0d1a8763d80cf672360d139681d76a5a251aa2?source=rss",
-      "pubDate": "2026-10-25T06:12:50.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "baystars"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/ec0d1a8763d80cf672360d139681d76a5a251aa2?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【巨人】韓国秋季リーグ派遣中のヤングＧが躍動！中田歩夢は打率３割超え＆吹田志道は３試合でいまだ防御率０・００(スポーツ報知)",
-      "summary": "◆ＫＢＯフォールリーグ２０２６（１５日～３１日・韓国） 韓国若手育成のための秋季教育リーグ「ＫＢＯフォールリーグ２０２６」に球団史上初めて派遣されている巨人の中田歩夢内野手と吹田志道投手が、異国の地で",
-      "link": "https://news.yahoo.co.jp/articles/8d192bbe559d6ba31e544c8fb27d7973e60f1699?source=rss",
-      "pubDate": "2026-10-25T06:08:32.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "giants"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/8d192bbe559d6ba31e544c8fb27d7973e60f1699?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【競輪】坂上樹大、石川の英雄・松井秀喜新監督誕生を祝う「うれしくてたまりません。また巨人を応援します」～小田原Ｆ１(スポーツ報知)",
-      "summary": "◆万葉の湯杯争奪戦（Ｆ１、前検日・２５日、小田原競輪場） 小田原競輪のＦ１開催が２６日、開幕する。前検日の２５日、坂上樹大（さかがみ・たつひろ、４８）＝石川・８０期＝が小田原入り。 初日は６Ｒ「Ｓ級予",
-      "link": "https://news.yahoo.co.jp/articles/f5eb88b228c13e8b0c926b561598aa38852626a9?source=rss",
-      "pubDate": "2026-10-25T06:06:45.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "giants"
-      ],
-      "topics": [
-        "personnel"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/f5eb88b228c13e8b0c926b561598aa38852626a9?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "ソフトバンク・山本祐大 前日死球で途中交代も大事に至らず 小久保監督「行けると報告が来ている」(スポニチアネックス)",
-      "summary": "ソフトバンクの小久保監督が25日、前日の初戦で左前腕部に死球を受けた山本祐大捕手（28）の状態について説明した。 三塁まで進塁した後に途中交代となり、試合後の時点では「明日の状態を見てから」と話してい",
-      "link": "https://news.yahoo.co.jp/articles/70b957be45f40d8e0c36706a7d0dadf2b7703e6a?source=rss",
-      "pubDate": "2026-10-25T06:02:26.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "hawks"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/70b957be45f40d8e0c36706a7d0dadf2b7703e6a?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "ロッテ愛斗が戦力外 現ドラ加入も3年間で1HR、6月に長女誕生…連日続く人員整理(Full-Count)",
-      "summary": "ロッテは25日、愛斗外野手に来季契約を結ばない旨を通知したと発表した。前日24日には森遼大朗投手と早坂響投手の2人を戦力外としており、連日の人員整理となっている。【一覧】「え？」「マジ!?」構想外も…",
-      "link": "https://news.yahoo.co.jp/articles/0213a0bca5f3aaa823d90db5c2898a89336786ce?source=rss",
-      "pubDate": "2026-10-25T06:02:14.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "marines"
-      ],
-      "topics": [
-        "trade"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/0213a0bca5f3aaa823d90db5c2898a89336786ce?source=rss"
-        },
-        {
-          "name": "Full-Count（プロ野球）",
-          "sourceId": "full-count-npb",
-          "link": "https://full-count.jp/2026/10/25/post2036401/"
-        }
-      ]
-    },
-    {
-      "title": "ソフトバンク小久保監督 前夜死球で途中交代の山本祐大について説明 一夜明け、チームとともに球場入り【日本シリーズ】(西スポWEB OTTO!)",
-      "summary": "◆SMBC日本シリーズ2026 第2戦 DeNA―ソフトバンク（25日、横浜） ソフトバンクの山本祐大は第2戦もスタメン出場する見込みとなった。■【写真】これは痛そう…！ 古巣から死球受け悶絶する山本",
-      "link": "https://news.yahoo.co.jp/articles/cc1577883a9e097918cfe711d2c35e6c60faff06?source=rss",
-      "pubDate": "2026-10-25T05:58:18.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "hawks"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/cc1577883a9e097918cfe711d2c35e6c60faff06?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "巨人・松井新政権はどうなる…？ 初年度にBクラスを味わったスター監督（2）衝撃の首位と“40ゲーム差”(ベースボールチャンネル)",
-      "summary": "読売ジャイアンツの新監督に就任する松井秀喜氏。日米で数々の実績を残したスラッガーが、指揮官としてどのようなチームをつくるのか期待が高まる。歴代のスター監督たちも、試行錯誤を重ねながらチームを率いてきた",
-      "link": "https://news.yahoo.co.jp/articles/0beb2ae0cb8d27137a82d1b53867827dcd7de16e?source=rss",
-      "pubDate": "2026-10-25T05:50:23.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "giants"
-      ],
-      "topics": [
-        "personnel"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/0beb2ae0cb8d27137a82d1b53867827dcd7de16e?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【巨人】浅野翔吾に自由契約、育成契約を打診か 22年ドラ１、４年目の今季はプロ最少９試合(日刊スポーツ)",
-      "summary": "巨人は25日、浅野翔吾外野手（21）に自由契約を通知したことを発表した。 浅野は22年ドラフト1位で入団。プロ1年目から1軍で本塁打をマークするなど、24試合に出場した。4年目の今季はプロ入り後最少の",
-      "link": "https://news.yahoo.co.jp/articles/fd536e446a7a6da1503a077eb9cb9ef245325d61?source=rss",
-      "pubDate": "2026-10-25T05:50:08.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "giants"
-      ],
-      "topics": [
-        "trade",
-        "draft"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/fd536e446a7a6da1503a077eb9cb9ef245325d61?source=rss"
         }
       ]
     }
